@@ -1,0 +1,67 @@
+{
+    "1489429422070,e3f4cac9-fb20-4b63-8914-b2e943051735": {
+        "domain": "", 
+        "dst_ip": "23.6.179.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "decide.mixpanel.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "decide.mixpanel.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 46846, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489429422070", 
+        "uri": "/decide?version=1&lib=android&token=36e42d002f7142d1dad9d50f4298db43&distinct_id=c0c710c38ed24c168a65dea2b568d37f", 
+        "user_agent": null
+    }, 
+    "1489429675930,885bcc18-1eb7-4b99-9b5e-83123afac79e": {
+        "domain": "", 
+        "dst_ip": "136.146.47.39", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "337", 
+            "content-type": "application/json", 
+            "host": "tracking.i2w.io", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "tracking.i2w.io", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "[{\"props\":{\"messages\":[{\"app_version\":\"5.2.1\",\"time\":1489429639819,\"nt\":2,\"sdk_version\":30210000,\"version\":18,\"ug\":\"6\",\"geo_id\":1840050381,\"idfa\":\"RECON_AdvertiserId\",\"props\":{\"duration\":162190},\"type\":\"close\",\"cat\":\"APP\"}]},\"crystal_id\":\"3b84e7cdaf2e476c84fc872039d2029b\",\"device_id\":\"7d47b5fc1ba647eebc84aa5338a5e38c\"}]", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 38403, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489429675930", 
+        "uri": "/api/1/tracking", 
+        "user_agent": null
+    }
+}

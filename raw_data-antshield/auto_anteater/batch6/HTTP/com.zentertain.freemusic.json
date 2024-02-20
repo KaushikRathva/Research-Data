@@ -1,0 +1,32 @@
+{
+    "1489367645740,6c649542-f3a2-44ea-9e7c-355c49884ada": {
+        "domain": "", 
+        "dst_ip": "54.230.141.66", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "d3j78v02o911bq.cloudfront.net", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "d3j78v02o911bq.cloudfront.net", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.zentertain.freemusic", 
+        "package_version": "1.66", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 41753, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489367645740", 
+        "uri": "/key_config.json", 
+        "user_agent": null
+    }
+}

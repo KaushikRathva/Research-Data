@@ -1,0 +1,1871 @@
+{
+    "001e7643-5bd7-41ae-8a30-5bbd3888df12": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10298000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksmDxBAm2QFMYN0zCEse48NJsFeu5iac2e4u4OKQn9YgAATllKhA-cfFjgnkuoM_Bevu19WahZcqvBlPF8SN4eG_5dG52G7VmRfsp9puIzITMVzhfk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=any&_activity_context=true&format=320x50_mb&gl=US&seq_num=2&eid=318475406%2C318479981%2C318478902&u_sd=3.5&ms=CpgECoACgo77jgsolbOkeg9W21F1Oz13MFnOr3ZhIxLSU5LgRRWGKgNR_GGYZVIqEH36i0XqaIkM9sCABLmoViI_BA-A3X-uP21G6Q_JBI07ZpCEI5UZx_OW4QyvpoJmJZIX8WHU8jwu5Erm0YoqyI1OkF178mMigx1lplQCLi_DzgRk8yoygXpzLXz2Mf0oRHB3qu5vj1D5oy7DgJh40Eel2mmHPvAiujTXzmcIeWBzuXQrSYA6iVDDyMGcStDTL4ubJYg5t-d_dP8CsrtUIlXwFdZ-C9dBDA4xxG6LoHQ2vXjbHJIV_Xr3mmGPgQGJfAYaUHYIi0EGN_aobRmxEsx91S6YhwqAAhwe3cer2DxsfWLQfMz_Wtxm0vAJCCc2GYNMuB4mgTDgrBulL1vjXynrnLN4r8WXepjT0bn9waDdNTgcq8tTe-ARWUHJaJBSDDXWdMPpMGuqlUvs2wO_7ZiiZghd3UGV44JopS0xLvl6lLGscIUIhDYFaRdnhVfmUQGzHNPRCDYYV6uH6Tfsa2zaELR27JoCcDsBokYPKycy6uW9Nl8h82qyEb97RS3rJf4xwIfevPIw69vJK1AUzK1kA7Rz-1TnmKY5QocJjk4PcUCdHIhP8VhQn_LuCYQL5WM0ewVwcGLWgONfScGI4BcTwIP5dCytdpCOZxVps77hJJp3Kq5EbFYSEKeaF7iuxtFF_OQuJrLM1lISlQIKgAKBSMZ_LPFDMSOz1BDDJALKSyfEhCFa5_d4WehecgngPy3xM_OgLAutHwZF5h-Gv7sVC_kSexkhUW01H6mQXPwXpdG_DDai9Al9hB-F6I9Gkyw9nEOa_xsS2Sys7fr9xpLjTDiTktjoXop01f39NNHZacTlYB2PmAySOWrFPSTkncjwQdSrS50eTAEew4zjzp7eLxFaHkR1Crf0HzslCO_vMpLArdTfe7ptmweL0wjosnVh_dZ_5hcpu98Qu3_fbUa0Iu_fVoYLbCjw811r3VwfyUxCv8PaxaZhuX23pX5_e1kw57EoRyLhHjj8tY8LaAv2rFQ6NLbtDJFkjHvRnSeOEhBU-LGb4tmWeRXU5vwCA1Vq&target_api=19&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=ce366774-556c-4909-b40f-b447b76b713c&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9683000.1&session_id=6562668667640198701&native_templates=1%2C2%2C4%2C5&muv=3&coh=1&sp=0&forceHttps=true&gnt=0&mv=80892400.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lionmobi.powerclean&app_name=246.android.com.lionmobi.powerclean&_package_name=com.lionmobi.powerclean&an=246.android.com.lionmobi.powerclean&net=wi&u_audio=1&u_so=p&basets=94245887&currts=94280527&preqs_in_session=1&pclick=0&support_transparent_background=true&pimp=0&preqs=1&time_in_session=34640&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-3275593620830282&slotname=8035352051&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.8&swdr=false&cans=5&canm=false&prlus=1419677&prdtb=785182&prutb=-1&ibctc=true&_mv=80892400.com.android.vending&pscfas=true&heap_free=6165880&heap_max=536870912&heap_total=54668904&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C6872421408132595589%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLHHh9QNg3tkZfzPXvocKRcqrD5lkCNsUMZ6zBwBVKT5TuOMwFtZqBRJraSdoI7fvEYKYhQE-UFL1W1eRx4CdmQfiBbEqN7OuJCShvQcCSnmJaUKn1bES62yDZ3tNad666vM-3_mWAXtWHgPY9wpF0ZW8CWHzBVSH5-cq7kAJvL0ngDQX6w7eFnhCEUgSlRoDrzzC3tv5nuRCRyUvWC-FtKVQHqZrASZVCc1wZ-HPLuZccrJK6c9wp7AsQ&et=9&swipeable=0&tcar=10&jsv=4-production-sdk_20180220_RC01&urll=3156"
+    }, 
+    "0052b17e-f86e-4c26-a354-b4c2f7e4a53c": {
+        "ad": 0, 
+        "dst_ip": "172.217.1.226", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "www.googleadservices.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.googleadservices.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pagead/conversion/870455137/?bundleid=com.lionmobi.powerclean&appversion=2.9.9.4&osversion=6.0.1&sdkversion=ct-sdk-a-v2.2.4&gms=1&lat=0&rdid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&label=fTFFCPOsiWsQ4a6InwM&value=0.00&timestamp=1519693661.751&usage_tracking_enabled=1"
+    }, 
+    "03a6c308-3713-4877-92f9-aa758bf9f511": {
+        "ad": 0, 
+        "dst_ip": "172.217.4.164", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "06514dd7-3f17-4074-a556-a3d5084fbd33": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "07b631c5-e65a-4479-a3da-3b98a6b8201d": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "0f1c1918-0d6b-4cfe-ade8-1ef2d649f693": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "14776a33-3fea-4860-bab5-0614a2a297d6": {
+        "ad": 0, 
+        "dst_ip": "172.217.0.33", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "lh3.googleusercontent.com"
+        }, 
+        "host": "lh3.googleusercontent.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/0OldKgs55G_FutFHUdJBQGsefXuFyfKGufwBkX97-v28eBkIoJvqoYEWroPtf26rwoyN=w96-rw"
+    }, 
+    "15555b64-b5ea-49aa-97ff-b88ce83306e0": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10298000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksmDxBAm2QFMYN0zCEse48NJsFeu5iac2e4u4OKQn9YgAATllKhA-cfFjgnkuoM_Bevu19WahZcqvBlPF8SN4eG_5dG52G7VmRfsp9puIzITMVzhfk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=4&eid=318475406%2C318479981%2C318478902&u_sd=3.5&ms=CpgECoACHN6SnHKKYP6BhN0anct_HMIbZlN5OGMnQ3te4UgxRiO7wooJHm-E38F6pyoXptYftqSgRw0k6moOSZ9xezdl39frEW6FW_Ra8brDK4Y7mBTbISWdhj6P3Six8Qw5XNU4tWgjaNAABNBk3I7I2kyrRKre68_tlIk-JiJHoKz18fHRK9pINnwkiq_gzn9iuLzm0Al9vGlsr4heFrd87pAb9LJuItRx4j1R99pidZ45gG2CnEEVz8XrqYVjRDuJWWb0d3bRAExBs9_ki2lVGYp0Gvu5BHePkIJhD113Pgm7kEQQyLlRam6Z5aQrNx-f4cRcPGlGbX6kyjbxY3CluJ0U4QqAAg-etPRb6TlswVwW0FeE5gTvJGLSdHXuVc07_XfIaWasvMf7VK95V3aZIEP8RE9HDAS1QI9t-CbulNBSLMqi-2ifKrAeAgzaR6Po4lzSeIWHzxehGZAkEcK80mDvOXT1_giUjn7suOi0Na603I51a5v2rkUeL_BEyY5UZsAISvlMYNjYFvg9j3-hIWXfmq1q14DEHYqrcHhM9YMnGqoUlA5AMDn_gKQmX8neDFPQIXlhrbt1qukGtmCoZURAa8QLMl0YJDoLVdQZMggesF-ydl6m8Q798m9cN1TnG-tYoOLJ4bSnGUkfxP-o_hfH52_nT1Iqy8IOaoBfIie4tJA1ZKESEL69Cp6_hfXFHnVD-35Cw3ESlQIKgAJghXBKKJQKondzZ6jzqRjMro4-gGGfOvnYHH_QNsFsBN0cNPf1gHwOy6Ie3xpuZ5whBza6OngzQHmZuAB0Ocy18FEAHBMje7P5yVaFCc9hhIy1-ujP0tuyCMUkdnsYcI33QBM0w7XBQx6YJfodWfti_cAJz5lLhqmSkeZnTYnmFXz5bnP_g1kWGMg98OyKzrk-pop2_mCSCGYxuRXwJaX34tZTI0Ce96hI_tYWwswbm4QgTGeryqKQGnt1vQs3IltAag1AR-rtSLndWMwafFKqvM1npuY27qLR3EUndFOdbix0WaaYJwjSGjy_DZsPPSYWiPkhcBO9LcDAjM1l3VikEhBU-LGb4tmWeRXU5vwCA1Vq&target_api=19&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=415ee498-592e-4f21-b340-c6756862677e&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9683000.1&session_id=6562668667640198701&muv=3&coh=1&sp=0&forceHttps=true&gnt=0&mv=80892400.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lionmobi.powerclean&app_name=246.android.com.lionmobi.powerclean&_package_name=com.lionmobi.powerclean&an=246.android.com.lionmobi.powerclean&net=wi&u_audio=1&u_so=p&basets=94245887&currts=94422511&preqs_in_session=3&pclick=0&support_transparent_background=true&pimp=0&preqs=3&time_in_session=176624&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-3275593620830282&slotname=5194793341&askip=3&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.9683000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.79&swdr=false&cans=5&canm=false&prlus=1419753&prdtb=798835&prutb=-1&ibctc=true&_mv=80892400.com.android.vending&pscfas=true&heap_free=13816648&heap_max=536870912&heap_total=66328776&wv_count=1&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C6872421408132595589%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=true&includeDoritos=true&content_infol=-1&blob=ABPQqLFao-Re8wuQQhbQg6R9crpuefWnD3xEXxWPiSbCkW6R0u9lMNxQellqDBQCcjYLh5OLHtcoxNh1qllUFM2VgVQL0nvPZgkniXcIozPIxnU0JdHt5GzfNgH_bm4Lg6ZvpWJ1C2EZhcMpAgXjuJiNfDqWcyDbfZwrpGGqy0xmCbuoIQAwfz78z3MP361fWQoyhzvqR5hpJ182IDczN5JC8QX908qhL35JQpZoWMxaJeZfm8QfnkrYbnD_2A&et=4&tcar=5&jsv=4-production-sdk_20180220_RC01&urll=3141"
+    }, 
+    "1601801a-a4da-470f-9284-205dc9833fb0": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "190d1175-ed73-4665-a4ae-967fc55cd0ab": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.1&svn=HW-1.1.1.1&pkg=com.lionmobi.powerclean&v=246&vn=2.9.9.4&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en&ntt=WIFI&ls=e725f679d1c342e401ac8aa3b6f05527&aid=xxxxxxxxxxxxxxxx&pk=&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=140953&sType=native&dllv=normal"
+    }, 
+    "199ec987-32c9-45ca-bd31-a1600e60ee2b": {
+        "ad": 0, 
+        "dst_ip": "54.210.251.70", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "421", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "analysis.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "analysis.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "1c113727-094d-4df2-9b67-aa757c4ecd2a": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "475", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "1fd82b19-7a66-4db9-b049-93809e3a2b3a": {
+        "ad": 0, 
+        "dst_ip": "34.200.198.101", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "421", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "analysis.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "analysis.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "23101704-969f-4838-90a0-b7fe0603e55d": {
+        "ad": 0, 
+        "dst_ip": "54.210.251.70", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "232", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "analysis.lionmobi.com"
+        }, 
+        "host": "analysis.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/api.php"
+    }, 
+    "247464f6-8f7e-484d-a99c-8c15f02d4cd5": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "2644971d-543b-4e5f-b194-c301cf438247": {
+        "ad": 0, 
+        "dst_ip": "54.88.29.175", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "347", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/api_v2.php"
+    }, 
+    "273d3729-084f-4ac1-9b0b-d49124e5dff9": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1097", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "2cc3b9f8-855d-4544-8d40-2c40519c1f4d": {
+        "ad": 0, 
+        "dst_ip": "172.217.0.33", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "lh3.googleusercontent.com"
+        }, 
+        "host": "lh3.googleusercontent.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/GTvG2tY8jmDgizPFH4Il1KMIaCw0gIL1Lb0BF5CaUS3PkA2T8iotFQMlqM7xWTY1XA=w96-rw"
+    }, 
+    "2cd3f3f7-9a90-4e88-ab04-bd91f51c75ea": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "30b6af9c-a946-40c8-8d15-54e2ccba75a0": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "311d1c57-ac03-4793-a4a0-36bd0c4c1147": {
+        "ad": 0, 
+        "dst_ip": "52.2.31.183", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "330", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "31edc3d9-d61a-4f7b-ae5e-d3ebc4ce48be": {
+        "ad": 0, 
+        "dst_ip": "54.88.29.175", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "231", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/api.php"
+    }, 
+    "344d7b6d-a78d-4f76-bc87-4098ac47f16a": {
+        "ad": 0, 
+        "dst_ip": "34.206.219.96", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "file.lionmobi.com"
+        }, 
+        "host": "file.lionmobi.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/creatives/power_battery_creative.png"
+    }, 
+    "345a9ac4-2221-45b7-816b-30834bda0f83": {
+        "ad": 0, 
+        "dst_ip": "54.88.29.175", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "347", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/api_v2.php"
+    }, 
+    "36dd379e-d042-43f2-8f07-1190132094a4": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "39988853-e68d-43f3-8c64-434bfdb3822a": {
+        "ad": 0, 
+        "dst_ip": "172.217.1.226", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "www.googleadservices.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.googleadservices.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pagead/conversion/870455137/?bundleid=com.lionmobi.powerclean&appversion=2.9.9.4&osversion=6.0.1&sdkversion=ct-sdk-a-v2.2.4&gms=1&lat=0&rdid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&timestamp=1519697.261&auto=1&usage_tracking_enabled=1"
+    }, 
+    "3a87fa04-5d20-4fa0-bcde-3cb5fc0dfdff": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "4136ecb3-9ccc-428a-8677-51b3faf3504e": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "41a10dfe-724d-4789-a87d-4b81a58a7ac3": {
+        "ad": 0, 
+        "dst_ip": "34.206.219.96", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "351", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "parameter.lionmobi.com"
+        }, 
+        "host": "parameter.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/return.php"
+    }, 
+    "41f8b26a-9b4a-4c57-ad50-dd6b2c20decc": {
+        "ad": 0, 
+        "dst_ip": "52.73.222.225", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "399", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "notification.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "notification.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/view/portal/api.php"
+    }, 
+    "4738bc1c-cdcd-4392-9d34-539cb1c927d9": {
+        "ad": 0, 
+        "dst_ip": "52.2.31.183", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "336", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "47d62cc6-6c8c-4653-a934-024270a70294": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "47eafa5a-b990-4b3b-9e5c-da3f6ca52f42": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "475", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "4ac6aba4-0328-44a6-933e-352355c088e7": {
+        "ad": 0, 
+        "dst_ip": "52.2.31.183", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "284", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "4ea25125-7ae6-40a2-8bec-11dddd2d4137": {
+        "ad": 0, 
+        "dst_ip": "52.2.31.183", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "330", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "5092190b-318d-427b-87c6-01480068f886": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getSrcPrio?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.1&svn=HW-1.1.1.1&pkg=com.lionmobi.powerclean&v=246&vn=2.9.9.4&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en&ntt=WIFI&ls=e725f679d1c342e401ac8aa3b6f05527&aid=xxxxxxxxxxxxxxxx&pk=&sid=142435%2C147982%2C140953%2C147943%2C140899%2C147977%2C147957%2C147983&res=1080*460%2C244*244%2C170*170%2C108*108"
+    }, 
+    "513ff7f7-792a-4684-aedf-7f5986b94f7d": {
+        "ad": 0, 
+        "dst_ip": "54.88.29.175", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "330", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "551311eb-70c0-4e36-89af-6c71aa8b81d2": {
+        "ad": 0, 
+        "dst_ip": "172.217.0.33", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "lh3.googleusercontent.com"
+        }, 
+        "host": "lh3.googleusercontent.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/v9ZuBP1YCHjjg1zIWw0Rv9Ppf_NR-5t4SFfpcf3mkmcJ-og-6pzTCMzs9p1-I87JF0E=w96-rw"
+    }, 
+    "59a1e800-5987-45d7-bdfa-33a59c800018": {
+        "ad": 0, 
+        "dst_ip": "157.240.22.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "5a7f92ff-f131-4126-9db2-79c3da5408b2": {
+        "ad": 0, 
+        "dst_ip": "54.88.29.175", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "236", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/api.php"
+    }, 
+    "5af4f842-f69f-4ba8-b2e7-9a7114140e6a": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1256", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "64098d0a-8fda-4e55-aef6-304dc4af06f2": {
+        "ad": 0, 
+        "dst_ip": "52.2.31.183", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "326", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "6b42a149-bc6f-49a9-beba-75b134f32e75": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.144", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "381", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "6bef1f02-85a7-4be6-89e7-f2e3d1cc2162": {
+        "ad": 0, 
+        "dst_ip": "172.217.0.33", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "lh3.googleusercontent.com"
+        }, 
+        "host": "lh3.googleusercontent.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/wnqSP5TChse2SNHTxcE8Xst3xn0ko4iIVaZw4c4PNd9ShIgXddVSX1KnnVnffirDD2k=w96-rw"
+    }, 
+    "7481709c-09c1-4be3-8aa2-e9943439edfa": {
+        "ad": 0, 
+        "dst_ip": "52.2.31.183", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "338", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "7e85713a-b12b-44e4-a587-1f066381085b": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "7f718495-877f-4f00-b54a-44e6f06a4be0": {
+        "ad": 0, 
+        "dst_ip": "52.73.222.225", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "466", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "gamebooster.lionmobi.com"
+        }, 
+        "host": "gamebooster.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/view/portal/api.php"
+    }, 
+    "889332b1-518e-4503-98cf-4a3858db7c22": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "88e8e146-5ad9-4348-bd07-746d0a7e43c5": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10298000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksmDxBAm2QFMYN0zCEse48NJsFeu5iac2e4u4OKQn9YgAATllKhA-cfFjgnkuoM_Bevu19WahZcqvBlPF8SN4eG_5dG52G7VmRfsp9puIzITMVzhfk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=any&_activity_context=true&format=320x50_mb&gl=US&seq_num=6&eid=318475406%2C318479981%2C318478902&u_sd=3.5&ms=CpgECoACHNS2nCqCLP6djtwa0MMeHMcRY1MhMk4nF3Nf4Uk5SiPywucJV23N391yrypXrp4fsq7gRwEshmpOQ9ZxbzUI38vpVG7ZUbRaoLDDK4M5uBSHK2Cd0zbO3X2x3QxxXtQ48GImaJAIDdB51OvIy0yLRPLUh8-olIU-ZyoGoOH__fHMKfNILnxEiqvqx39ysvDmwAEVvDFkoogfHP58-poz9LNuAtQl4HxRptJCdZszgW2OlG0VzsfuqcxhZTuEW070KnbVAEhJst-liQBVXIhQGre7QXeCkIdhTldXPkmz9URQwpBRKmT95bwrPx-O48BcYGlLbX-spjbwYTGlsJUd4QqAAh2hQo87t9_6NEEG-TFXOi38g9jKat71CJGZNKDOhIzIFd-vxR_myvoJzPbaaBvZqiHNCKCER4xZIRlut-4WsXl6MpNvOozcDQGkKuGkfEGTQIPnC2cEkxgZOO1jeid_VBwtNvrpmBFBfbbg0c231x-qTGIHdKPbeJx5JqjU6Yx8kSxcpTL00hWKRreRpBvn7xAimoPRGRt4UQzUwXcc2Yrhin0uhhIrNTCMDGOIBJEKRBpqckSI-1anY-vygY9GGtj6QaXuBZ9GBm559vYLKOfQZZL_UIWpMW4zTiDjDNz4sOAzAoj-7CAoXrKuOB21z95mN0VOOpr3xn5GqqzzHlISEG7unvrSWZw2EghI1HVIg3QSlQIKgALh1G5zmtFD6fuz1BDYrbwXMpwugX9bnWvMR8JPiZVm9t7YpfvsB4dw6rPd-iGnR_upErvTErj9SUEKefhga-he-UtNVR0s9MVVinnNswTAWjgrsIZYVTVXjpza8eDG3APwTpBGX_S4x7RfJfEqEINMW9hrYBOWSkA2C1KJ_Y5eweT7Wc1DT9uHrxm4FuXUyA6upMufYfJjmv7xhWLLpzmz8paU7V_M2bfRvemC1Rx-K7n3Dd8i0tc8NXe6bjv37dJYpBXD9zCHqLlOjdyNbuzSH9u-vnP8DbtPibcv-ldbYrsgIewgfWr5OLqK_aYKZEK4jRyrTZpLQVbdpv7oHk3TEhBU-LGb4tmWeRXU5vwCA1Vq&target_api=19&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=037acea9-9b9d-4fc3-bc61-663a58d92563&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9683000.1&session_id=6562668667640198701&native_templates=1%2C2%2C4%2C5&muv=3&coh=1&sp=0&forceHttps=true&gnt=0&mv=80892400.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lionmobi.powerclean&app_name=246.android.com.lionmobi.powerclean&_package_name=com.lionmobi.powerclean&an=246.android.com.lionmobi.powerclean&net=wi&u_audio=1&u_so=p&basets=94245887&currts=94465134&preqs_in_session=5&pclick=0&support_transparent_background=true&pimp=0&preqs=5&time_in_session=219246&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-3275593620830282&slotname=4072607654&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.79&swdr=false&cans=5&canm=false&prlus=1419753&prdtb=798835&prutb=-1&ibctc=true&_mv=80892400.com.android.vending&pscfas=true&heap_free=13722776&heap_max=536870912&heap_total=70729904&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C6872421408132595589%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLE72nN9PaFW2vS6ZgLUES_NfQU7BtZAhLX24FSoa_6uH2xbridWVqJhlXJdTWLevTZnNFxw2s1QOhZIXvWf_LFh7KnhgL8LQDRb90BCq_MU6FR8EdRvmI6Z3SDrOnU89R8AHR3c2TvQV-ACJNEfQb6g7cXGev_H-PI6dElQi4vXLgAjEzu_VAcoBN8QkPQ-o0XceutDx5Jiacb612Qtjgbb4JaSY4f1-cpHNijOthNIgPG1dQDCKK4y9A&et=5&swipeable=0&tcar=6&jsv=4-production-sdk_20180220_RC01&urll=3158"
+    }, 
+    "891a5f48-b6e6-45d0-9cbb-878e700c71bd": {
+        "ad": 0, 
+        "dst_ip": "34.206.219.96", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "264", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "updater.lionmobi.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "updater.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/api/check_update"
+    }, 
+    "8a0caa26-5bc0-4f67-a622-7aafe24782b1": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "8ed2476c-c5ba-440a-a0e5-cdeae22507ed": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "90d11be4-e8f8-4af4-8e42-96251bd6b404": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "92c3fb28-f5f3-4aef-916f-686b6a085d4a": {
+        "ad": 0, 
+        "dst_ip": "34.206.219.96", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "351", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "parameter.lionmobi.com"
+        }, 
+        "host": "parameter.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/return.php"
+    }, 
+    "944e8b1e-1a8b-4b78-bd15-b84c5aaa45a2": {
+        "ad": 0, 
+        "dst_ip": "54.210.251.70", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "www.lionmobi.com"
+        }, 
+        "host": "www.lionmobi.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/images/brand_logo/motorola.png"
+    }, 
+    "9ee313f4-e24f-407b-941d-6d7f38b7acaf": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/v2.4/739930396165051?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories&format=json&sdk=android"
+    }, 
+    "9fba6e6b-ca53-42e1-847a-3746b5ee7ea1": {
+        "ad": 0, 
+        "dst_ip": "54.210.251.70", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "371", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "analysis.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "analysis.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "a3d5526b-a526-4356-a24d-55d01319460d": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "ad4dd738-579e-4bd8-82bc-53a70780580c": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "3789", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "ae8c4e79-c963-42c1-93e6-a3f31d51da12": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "b1f30ff9-1a38-438c-91d4-92466b9f981e": {
+        "ad": 0, 
+        "dst_ip": "54.210.251.70", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "421", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "analysis.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "analysis.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "b22b0053-20b8-46ea-be40-86b6ed97385c": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "b4a7b46f-3f71-43c9-917d-2e372eaed513": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getSrcPrio?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.1&svn=HW-1.1.1.1&pkg=com.lionmobi.powerclean&v=246&vn=2.9.9.4&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e725f679d1c342e401ac8aa3b6f05527&aid=xxxxxxxxxxxxxxxx&pk=&sid=142435%2C147982%2C140953%2C147943%2C140899%2C147977%2C147957%2C147983&res=1080*460%2C244*244%2C170*170%2C108*108"
+    }, 
+    "b53bdedd-2e79-4867-a4c4-d19ee6a238e6": {
+        "ad": 0, 
+        "dst_ip": "54.88.29.175", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "236", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/api.php"
+    }, 
+    "b761a1b6-c503-4f8a-aa29-0740241dad0e": {
+        "ad": 0, 
+        "dst_ip": "52.73.222.225", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1870", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "powersecurity.elitegames.mobi"
+        }, 
+        "host": "powersecurity.elitegames.mobi", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/entry.php"
+    }, 
+    "b9ddcb09-b257-4e1b-96e9-2572955d13ff": {
+        "ad": 0, 
+        "dst_ip": "52.2.31.183", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "341", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "be248c8d-1da6-4a37-b741-5aed52dfe00b": {
+        "ad": 0, 
+        "dst_ip": "52.73.222.225", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "392", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "notification.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "notification.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/view/portal/api.php"
+    }, 
+    "c33ed68f-2d53-45ba-9092-fac94fa8f228": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10298000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksmDxBAm2QFMYN0zCEse48NJsFeu5iac2e4u4OKQn9YgAATllKhA-cfFjgnkuoM_Bevu19WahZcqvBlPF8SN4eG_5dG52G7VmRfsp9puIzITMVzhfk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=1&eid=318475406%2C318479981%2C318478902&u_sd=3.5&ms=CpgECoACg47byQoAt7elci9x2nd2WTxXMBrPiXYhIjLzcJLCRjeHKAB3_E-bRFIGMzv6oWasaYUM98CEJ7mpcAB-BSWA336MPmtG6yyvBaM4R5CiItQY49D14S6O44NMBfUW92C38hwNgErq86or4IxtkH9YlmMIoxtljFVCLi3iqwRo0wszr1sQLVD2dfwIZnV2jMxojlzYgS_ngt142GTk2mWGe_AEmBLW6EUreUJS33UraKA6jVLmyc-9TNHfDs-aB6o_tsVcNP4ikpxULFaXFPhfLtdFLW0w6m3soFg3u3jbPJAV-VuSm2Gs5QGnfSMbcnZsikElUveuTVqxGO1b1Aq64wqAAsUnONg6rhUESsR-CJ8vFlYTkq2JDBd_tQPu5gBFiw0-os0gAwvEr8d3kjAObMB6UAVAK7F4-wPYMm8tHAeUnYbN54O8jSTX-O-SDK69S2RL6N91xLNKnJSXFWSwz1qim7SD2cEI7oM9aYRFgBkF9jGTEdQY-fjX5kNPlDlEd6Vu08WEvhR7i6bNXz616gUHF7KKtMJ1EjGs01Hrc6No8vAkc-LDYRQngYaZXPRdqiZ1spKbfYCM-AS8pBwDJTrr8PW1t6pb5xSOtpnizEBPprb5c3pyZeOMJR92F4SAIkoDMCjV7Q11kKcIjZ1xyTvfMR63M6myfvcOt8dhD1bd3RISEO3QybNThBRPFDUpLeoYBsQSlQIKgAIV1MvL-Mdm9SHz_A5SqzFmOqaT0aEnnYQKVeb1F5v74kreIFnSCzdGPPtkrwvX7_MjRIrvmLpUMo0Scc-kK-D6UwnVTdUy7a8dgEXkfQxNv6w9kO1oORzo_r7fhH6C0KBweg1pMcaJh9wpjSM6EqNBj7jSBG2A-qVgCVtCefjeLZ6pRcGtW95oXwMUoju69HmahF4Z7Yhu9uaTNBzlpZw98rycdJGWYTmZn0RZ0V7OGnH5jCjMuFdGnVET0L3XeTHCgog6kXAqdb1EhT-NblQH3d02YTemgEPxzQoO5glu6nt8tIPuJ0I16N6j8SpWTXEwqR39Z6r2xJTRi3mQPn2VEhBU-LGb4tmWeRXU5vwCA1Vq&target_api=19&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=1b6fb5da-97f5-48d7-a31d-ed1f843d0ccd&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9683000.1&session_id=6562668667640198701&muv=3&coh=1&sp=0&forceHttps=true&gnt=0&mv=80892400.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lionmobi.powerclean&app_name=246.android.com.lionmobi.powerclean&_package_name=com.lionmobi.powerclean&an=246.android.com.lionmobi.powerclean&net=wi&u_audio=1&u_so=p&basets=94245887&currts=94245887&preqs_in_session=0&pclick=0&support_transparent_background=true&pimp=0&preqs=0&time_in_session=0&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-3275593620830282&slotname=4049607257&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.9683000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.8&swdr=false&cans=5&canm=false&prlus=1419677&prdtb=785182&prutb=-1&ibctc=true&_mv=80892400.com.android.vending&pscfas=true&heap_free=8403664&heap_max=536870912&heap_total=54668904&wv_count=1&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C6872421408132595589%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=true&includeDoritos=true&content_infol=-1&blob=ABPQqLEuZ1Xk3v8S_Rjq-UPKw8Z2n4RaRR0qLurPScZBb5hCmyaAWldVt3gyrPLIsCC9XooSE4ISmkWrC5TO_YLbfC6lLAo3KB3bWFpA0fOR8TzV7QjQom5-2zEB2QfkhSSunrAe-z3F4wPwSwVtpIDcDe375piaojqT5Eh_4CT9_IGcSQAUCdQgIU_HWcAisA2B8Ek5tI7ichWr4ecdxIvkzuqlSMjq7VUKAAdx_9GFIHsSLwjPM-V4cvXUkQ&et=7&tcar=9&jsv=4-production-sdk_20180220_RC01&urll=3126"
+    }, 
+    "c3d7862f-2cd8-4e5e-9dbd-63878264e697": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "c4d33471-d72e-4737-b40c-3b4d6d0d5c93": {
+        "ad": 0, 
+        "dst_ip": "172.217.4.164", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/binary", 
+            "host": "www.google.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "GoogleMobile/1.0"
+        }, 
+        "host": "www.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/loc/m/api"
+    }, 
+    "c77d0769-560c-4e21-a8e6-439cffd02d91": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "c9c896a3-43d6-4740-8951-88a6d3e886a4": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "356", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "cb3beb28-38f5-4b18-a090-cc22f73a4745": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10298000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksmDxBAm2QFMYN0zCEse48NJsFeu5iac2e4u4OKQn9YgAATllKhA-cfFjgnkuoM_Bevu19WahZcqvBlPF8SN4eG_5dG52G7VmRfsp9puIzITMVzhfk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=any&_activity_context=true&format=320x50_mb&gl=US&seq_num=5&eid=318475406%2C318479981%2C318478902&u_sd=3.5&ms=CpgECoACHP2SnHKqYP6Bh90ane5_HMI9ZlN5P2MnQ35e4Ug1RiO754oJHmyE38FapyoXgtYftqKgRw0h6moOT59xexRl39fNEW6FXPRa8bzDK4Y8mBTbIyWdhhqP3SiU8Qw5XtU4tUsjaNAlBNBk3I7I2myrRKr868_tsIk-JgJHoKz38fHRCdpINnkkiq_nzn9iv7zm0Ax9vGlsr4heMbd87rIb9LJKItRxxD1R9_5idZ46gG2CvEEVz8brqYVkRDuJe2b0d1bRAExFs9_kjGlVGax0Gvu_BHePlIJhD3p3Pgm7kEQQz7lRakiZ5aQKNx-f5sRcPElGbX6AyjbxRXCluJ0U4QqAAhkOkffNZtkiyDNDVkH2so7gXHDDTTTo30JTVR326TTphm4dLzlSQIW4OcTthZYhtXLzTGp-NhaEVPunh3lOYjYhQ_HkTl3epOXDJbLLGX_s1Uu_bCzMc9ErCEU-SPtqRzyu7d6KwFdmjh-4ybv_anXwkPPv9ErxBWZngKc0WemER1yeF5F80zVaWgKJhkD3H1_dq2HSuE3Y9cVw4ihaviNAYXxXyFfLREx6bKSNA3uazZ9MPMRraXBWp9aptgFlN-uwkiHXbMoDeGVoADf86LavMPkvaJeS65Bwe_tFhn6OQjSfW8k5opGoa5yGyCip322yJadXU3-Vo5rtk79hxbESEEWzqkrUyqIXq1k0mvNJUt8SlQIKgAIF66uGGGCDYTKFFc7yNfjM-qQOiTBvWV7L7AZWZZ1nQLhC5f2BrmfprAYcOAmQp_wDLb6yegjYjkyjWekmTQzWs-FovTaVsN7esVyLXi1hyLyvcUK5zDBdTJueMm1umCbwfHA3s104YD1ApfxLoyNE_lCqDL65riKxL3eCO4fft2xBvPOvzRuTTATcOKrErbxLKguYrVaDphZzADumGZxfsgAxCXLefER6Lqze045b_tLmLO7PVDMSPk0eEHzfyLUShJUGcCan755DCENO7olE_c8fJ_f4zGfiqjdGNEk-xFoAgSiNYWraO74vp6g75CRxPNgoBjVurJVkZudBmSlmEhBU-LGb4tmWeRXU5vwCA1Vq&target_api=19&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=86d27158-2efc-49e0-b890-b50e194c5ae6&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9683000.1&session_id=6562668667640198701&native_templates=1%2C2%2C4%2C5&muv=3&coh=1&sp=0&forceHttps=true&gnt=0&mv=80892400.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lionmobi.powerclean&app_name=246.android.com.lionmobi.powerclean&_package_name=com.lionmobi.powerclean&an=246.android.com.lionmobi.powerclean&net=wi&u_audio=1&u_so=p&basets=94245887&currts=94422580&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=4&time_in_session=176693&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-3275593620830282&slotname=2298711852&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.79&swdr=false&cans=5&canm=false&prlus=1419753&prdtb=798835&prutb=-1&ibctc=true&_mv=80892400.com.android.vending&pscfas=true&heap_free=13445448&heap_max=536870912&heap_total=66328776&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C6872421408132595589%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLFVCD53G-EJ76AVQRQf-gGdYLrixvefNjdJOs5Ha9u2LOsZlpw1x_dAcG9gQh_3dXtz7TEFv8UkmZ8DSHb7f_Jyj7D2E1M7dY3JQGLk4_jKmff95gygztRYn6D5dS5ibQuDi43c0gU-I6c58obKjQXFJe10KAwuxWCp29YRhh6KnQAOVxo0kcHnoZEzvFlttzXcuc4J8t40DqGOJjHYkVVjnK_DwYhHQavdVhQ8D2f_9AxhcnRBjmXp7A&et=6&swipeable=0&tcar=8&jsv=4-production-sdk_20180220_RC01&urll=3158"
+    }, 
+    "cb565a52-98ec-49f3-8367-8c3b85fa6247": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "cc5144d0-be40-4a0b-806c-6a038a851b4f": {
+        "ad": 0, 
+        "dst_ip": "52.73.222.225", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "284", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "powersecurity.elitegames.mobi"
+        }, 
+        "host": "powersecurity.elitegames.mobi", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/entry.php"
+    }, 
+    "d2dcb78f-ffe6-414f-a468-5f22811d8282": {
+        "ad": 0, 
+        "dst_ip": "216.58.219.14", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.lionmobi.powerclean", 
+            "authorization": "AidLogin 4032520503881453394:3188291258218371167", 
+            "connection": "Keep-Alive", 
+            "content-length": "1252", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-cert": "34363346fe22110408d18d26653f660650d84bfc", 
+            "gcm-ver": "11975430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "d9940b9f-0f20-47c8-94b3-f0772d9b6499": {
+        "ad": 0, 
+        "dst_ip": "52.73.222.225", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "348", 
+            "content-type": "application/x-www-form-urlencoded; charset=UTF-8", 
+            "host": "param.lionmobi.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "param.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/return.php"
+    }, 
+    "da97600c-8caa-49ef-8e56-c08f26fd54ea": {
+        "ad": 0, 
+        "dst_ip": "54.88.29.175", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "235", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/api.php"
+    }, 
+    "e6b22c63-e92b-4775-9269-3ff22c751965": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10298000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksmDxBAm2QFMYN0zCEse48NJsFeu5iac2e4u4OKQn9YgAATllKhA-cfFjgnkuoM_Bevu19WahZcqvBlPF8SN4eG_5dG52G7VmRfsp9puIzITMVzhfk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=any&_activity_context=true&format=320x50_mb&gl=US&seq_num=3&eid=318475406%2C318479981%2C318478902&u_sd=3.5&ms=CpgECoACgo-73wsAhaOkcx9H23Nkaz1WIAjOjSYxIzLDQpLDRBWGKRJR_ErZZFICAS36oVS6aIAc58CBBamodGJ-BCSQzX-MPn1G6x6JBKY6Z5CmMsQZ5rLH4S6u54JNZcMX8jCF8hx_pErvkYoq4ZxfkH8qsmMJ0x1ljFVCLi3CnwRtszsyq3syLVXmYf0IBGF3iK5uj1nosy7iwMl42Abk2mDWf_AB-iTX7WcJeUNy-XQqSJA6iBDSyMudWtDbftubB8g5t8RuNP8i4qpUKAShFf0_CtdBDU8x7i_KoF03rXjbTIIV_CummmHe0QGjfQcacnZYi0BHdvaqfVixGN191Q6Y1wqAAuC0RxI5j0UU_0y9MiRYT8Ez7aWB2XliyUUvDlPLqrrM1xXJ9u7yk0zkCG_ldwWn19yb_skmUleSa0a6aJn2sAWz92JqNqFvvYAbEwt2jX2ZxzFwsPe8uGLcrAZT5cz3gAJ620Vbn64ksbmtbfdxumuUbKcuFoi7rQwnNqAoLC1-O2GXqwvju8QhXjeQD-p3gyxxsVwmJHolNhcpNoFdMtVt8T-FK6AbsbX8COjDCFlIui8vvVxi1pPjUE3VTx3hgK3eHK2vN4ENjoMVJT5lm9fvgvk4uGADs_UEkcmV2pxp8s-cmWFi6AyfL4jfFyV_5q6aC6s7lyG2Tla2tMP1lVsSEKeYkQqIUklkQTyRUDlYBrISlQIKgAJ894bclPQ4LP3QjzRHeUVGKv2cRWEq9KXCpLkSGpHfA8_KZ-Ljs1_bfdYG1KaApFqr9bH7iIlcH1V6c5hgWII45m3k3Z2IhDLdfWAJKSVCCCyr2fBNgTx4Agq5ePt3tNn5eWGoRUWATCQMnacn8oGhy5iJHom1uLWwPlsofRvtE-JJC29J3aAbIl1Io_4Uofy6ZzJ_aFMgjHa3HxXcUJNlZgWuKMgbeijQegkKSM78XyzmjychURaXMJELvCXDbFXOlZUEZfMFz70enNOEqgY-kAouJWb57O7JPieu6sQ5f7qFoH26OHtbOK-bjqf7fL-grUb4QnnA_kgp5xBxGDYgEhBU-LGb4tmWeRXU5vwCA1Vq&target_api=19&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=07c08244-1635-429f-b126-0c59d2095eac&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9683000.1&session_id=6562668667640198701&native_templates=1%2C2%2C4%2C5&muv=3&coh=1&sp=0&forceHttps=true&gnt=0&mv=80892400.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lionmobi.powerclean&app_name=246.android.com.lionmobi.powerclean&_package_name=com.lionmobi.powerclean&an=246.android.com.lionmobi.powerclean&net=wi&u_audio=1&u_so=p&basets=94245887&currts=94359599&preqs_in_session=2&pclick=0&support_transparent_background=true&pimp=0&preqs=2&time_in_session=113712&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-3275593620830282&slotname=8035352051&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.8&swdr=false&cans=5&canm=false&prlus=1419677&prdtb=785182&prutb=-1&ibctc=true&_mv=80892400.com.android.vending&pscfas=true&heap_free=14593424&heap_max=536870912&heap_total=67258800&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C6872421408132595589%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLHIB1dPSAWzkOtKrogn-Ja9s8nvxWyKoQFR71EIdk-u449xBMznHXFyhPmVhWCdBtDP1UONyHTrvvdKdxv2uPj-Sm4KD7V6pFj3JidkVNGEkk2-7fZ63_WIYra6lAuKbYSWAQ0iiNozcAAUzM9nU0P9p000KO1esd1eoQO7FyZg5gD4smyGdGum1vWZfJrwYeAS8e-BCOimLkItSeGgyQiU3xYwxvoHmNCWCVnMc-906mIOXNd6KXcLCw&et=6&swipeable=0&tcar=8&jsv=4-production-sdk_20180220_RC01&urll=3157"
+    }, 
+    "eb6e73b5-1229-4af6-ba88-a710d6c280d5": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "eb79d27f-5cd4-4635-b271-472af4b231f8": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.4/739930396165051/activities?access_token=&format=json&sdk=android"
+    }, 
+    "ef909463-46f9-4192-86bb-30b83b36f388": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "f41fcc8f-2aad-466e-9dd6-2478d2569482": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.1&svn=HW-1.1.1.1&pkg=com.lionmobi.powerclean&v=246&vn=2.9.9.4&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en&ntt=WIFI&ls=e725f679d1c342e401ac8aa3b6f05527&aid=xxxxxxxxxxxxxxxx&pk=&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=140953&sType=native&dllv=high"
+    }, 
+    "f5a51ac9-afc5-4302-b0e1-1429520ee7ba": {
+        "ad": 0, 
+        "dst_ip": "103.235.47.74", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "140", 
+            "host": "rts.mobula.sdk.duapps.com", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "rts.mobula.sdk.duapps.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/orts/rpb?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.1&svn=HW-1.1.1.1&pkg=com.lionmobi.powerclean&v=246&vn=2.9.9.4&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e725f679d1c342e401ac8aa3b6f05527&aid=xxxxxxxxxxxxxxxx&mdu=adsdk&rv=1.0&ts=1519693788613&seq=0&stype=behavior&s=660a6640abf423ddf8d66a2e6fd0e4c3"
+    }, 
+    "f7370c51-a872-474e-9d83-3b827336b5ee": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/rtb/getInmobiAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.1&svn=HW-1.1.1.1&pkg=com.lionmobi.powerclean&v=246&vn=2.9.9.4&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en&ntt=WIFI&ls=e725f679d1c342e401ac8aa3b6f05527&aid=xxxxxxxxxxxxxxxx&pk=&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=140953&sType=native&or=1&siteId=71a1a218bd3547d79a7c5459c9816ae7&aSize=2&ua=Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+6.0.1%3B+Nexus+6+Build%2FMMB29X%29"
+    }, 
+    "f78a7132-5d1e-4731-8e75-b52aa2b56204": {
+        "ad": 0, 
+        "dst_ip": "31.13.65.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.5.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/v2.4/739930396165051/activities?format=json&sdk=android"
+    }, 
+    "fa6c42b2-d607-4505-b8b1-c03027b5edf6": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "fb710b81-d7d3-48be-ac12-f27791664039": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "fc0a66f6-b065-4dfd-9c66-8060c85d8952": {
+        "ad": 0, 
+        "dst_ip": "52.2.31.183", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "333", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.lionmobi.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ad.lionmobi.com", 
+        "method": "POST", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/api.php"
+    }, 
+    "ff0b61b9-163a-4faa-96bd-45a89d9ca419": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9683000.1)", 
+            "x-requested-with": "com.lionmobi.powerclean"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lionmobi.powerclean", 
+        "package_responsible": "com.lionmobi.powerclean", 
+        "package_version": "2.9.9.4", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }
+}

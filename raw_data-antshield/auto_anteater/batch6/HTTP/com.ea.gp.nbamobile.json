@@ -1,0 +1,20 @@
+{
+    "1489368493364,9968564f-80e4-4739-a5c3-9015b21f631f": {
+        "domain": "", 
+        "dst_ip": "159.153.235.22", 
+        "dst_port": 44325, 
+        "host": "gosca.ea.com", 
+        "is_foreground": true, 
+        "label": 0, 
+        "package_name": "com.ea.gp.nbamobile", 
+        "package_version": "1.4.1", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "\u0014\u0003\u0003\u0000\u0001\u0001", 
+        "protocol": "TCP", 
+        "scr_port": 43826, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489368493364"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "1489443733776,8101cccd-3d08-4b23-8892-9eee84010ab6": {
+        "domain": "", 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.14.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.groupon", 
+        "package_version": "17.2.83113", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 48952, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489443733776", 
+        "uri": "/v2.7/192359027447467?fields=supports_implicit_sdk_logging,gdpv4_nux_content,gdpv4_nux_enabled,gdpv4_chrome_custom_tabs_enabled,android_dialog_configs,android_sdk_error_categories,app_events_session_timeout&format=json&sdk=android", 
+        "user_agent": null
+    }
+}

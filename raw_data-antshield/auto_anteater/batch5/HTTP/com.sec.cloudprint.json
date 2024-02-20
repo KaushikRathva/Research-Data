@@ -1,0 +1,35 @@
+{
+    "1489464651908,35828eee-8bae-41db-94c9-848be6c3de02": {
+        "domain": "", 
+        "dst_ip": "50.19.41.9", 
+        "dst_port": 80, 
+        "headers": {
+            "clientos": "android", 
+            "clienttype": "mobile", 
+            "clientversionmajor": "2", 
+            "clientversionminor": "14", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/json", 
+            "host": "sluk.samsungcloudprint.com"
+        }, 
+        "host": "sluk.samsungcloudprint.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.sec.cloudprint", 
+        "package_version": "2.14.005", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 44030, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489464651908", 
+        "uri": "/scp/v1/svclookup/service?clientType=scpMobile&clientVender=samsung&clientVer=2.14&serviceType=scpCrtSvc", 
+        "user_agent": null
+    }
+}

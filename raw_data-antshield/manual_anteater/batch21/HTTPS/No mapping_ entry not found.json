@@ -1,0 +1,33 @@
+{
+    "1488845986304,850169f9-42d3-4439-9048-ff8872d5b9ca": {
+        "domain": "", 
+        "dst_ip": "75.126.194.98", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Cache-Control": "no-store", 
+            "Connection": "Keep-Alive", 
+            "Host": "image.muscdn.com", 
+            "User-Agent": "okhttp/2.5.0"
+        }, 
+        "host": "image.muscdn.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 46575, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1488845986304", 
+        "uri": "/reg02/2017/02/26/00/e6bda1df-7a82-41e3-aab0-cecd13297326.jpg?policy=small", 
+        "user_agent": "okhttp/2.5.0"
+    }
+}

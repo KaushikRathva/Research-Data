@@ -1,0 +1,33 @@
+{
+    "1489464149085,32abe5bf-9322-43c0-bf9d-dcd7b288226c": {
+        "domain": "", 
+        "dst_ip": "64.111.101.201", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "xmlpromotiondomain.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)", 
+            "x-unity-version": "5.3.3f1"
+        }, 
+        "host": "xmlpromotiondomain.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.MobileSportsTime.MiniGolfEldoradoGolfCourse", 
+        "package_version": "7.1", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 41383, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489464149085", 
+        "uri": "/MobileSportsTime/android.xml", 
+        "user_agent": null
+    }
+}

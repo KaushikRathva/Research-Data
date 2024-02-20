@@ -1,0 +1,2370 @@
+{
+    "01acf992-cc9e-48f1-b491-250d51bb2223": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/jquery-1.9.1.min.js"
+    }, 
+    "0438ba11-e320-4ceb-a5c0-052bff777a4a": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.212", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "content-length": "26", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "mobiztsunami.appspot.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "mobiztsunami.appspot.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/app/scripts/iUpdateGame"
+    }, 
+    "0890fcd7-991a-4fa3-a206-f19e359792d6": {
+        "ad": 0, 
+        "dst_ip": "54.174.71.190", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "connect.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "connect.tapjoy.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/connect?device_type=android&language_code=en&country_code=US&device_manufacturer=motorola&display_multiplier=1.0&sdk_type=offers&timestamp=1519431737&store_view=true&publisher_user_id=020000000000&share_googleplus=true&connection_type=wifi&session_id=a9db8239e618c0462b0353677cbf2551665b2235831a867c5121e3819e16ce3d&share_facebook=false&library_version=9.1.0&android_id=xxxxxxxxxxxxxxxx&verifier=f293d71ec8a28bcab11e120be8fa40c33d6b60dd33ceb7328b4b12292e7ee329&share_linkedin=false&screen_layout_size=2&app_id=a7eeb27d-49ad-4ec9-86aa-dfb31019421e&device_location=false&share_twitter=false&mac_address=020000000000&screen_density=560&plugin=native&platform=android&app_version=3.7.0&device_name=Nexus%206&os_version=6.0.1&bridge_version=1.0.4"
+    }, 
+    "0aaec119-f32f-4d70-985f-a3ff662b2e7c": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "0db2230d-66ec-4f46-925c-4f300e332609": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "105c897e-85e2-49e9-b6da-732df1dc8372": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/jquery.knob.js"
+    }, 
+    "10dfb040-9070-44b9-b490-425c54e8f11d": {
+        "ad": 0, 
+        "dst_ip": "52.216.192.35", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "s3.amazonaws.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "s3.amazonaws.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/tapjoy/videos/assets/watermark.png"
+    }, 
+    "111a37f9-468c-400c-ae00-721e15ebdf6c": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res1.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "res1.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/of03bc50/9ecdb4ba97757b23a15ff7f286f9ce7a0c0db7c7_v23_phone.mp4"
+    }, 
+    "12efb9cc-5155-4fcb-8ae8-15b849996cd9": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "13a7e390-995e-4e33-8c10-175410293f93": {
+        "ad": 0, 
+        "dst_ip": "185.151.207.6", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.7.0", 
+            "connection": "Keep-Alive", 
+            "content-length": "662", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/session"
+    }, 
+    "18492bcf-bc71-4aaa-87ff-81a0bc240e6b": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/sound_off.png"
+    }, 
+    "1c78eebe-6c86-4687-ac0d-096c59d22495": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/playable/IdleHeroesEquip_V2_l_04.js"
+    }, 
+    "28a8da03-4909-405e-b611-f36aa5d612ad": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/sound_on.png"
+    }, 
+    "2970b047-ca09-41e3-94f1-1eba648594e1": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=27ad07bfb438411391cf78b034f34773&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "2c775628-07e6-4837-aed3-9c027d79ad21": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/playable/playable_fallback.png"
+    }, 
+    "2d07b08e-85f8-4379-a306-2c879cc2305c": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "30bd8159-3d4a-4a46-8e61-ead068bd95f3": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/playable/playable_close.png"
+    }, 
+    "31401306-9a38-4890-9e3f-ec1111a1d0d3": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res1.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "res1.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/o18de4e8/9e9880aa4d8bc7c96165bda5a357f3422b85bdd8_v21_phone.jpeg"
+    }, 
+    "3201ad44-2ac8-4c0c-987a-61953c28ec05": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/1381250003_28x28.png"
+    }, 
+    "325ff8c9-29d3-4635-926c-4775d96b060a": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "371fe79b-1c60-4a7a-b2b4-d2575fc3740d": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "37714eed-743c-45dc-85fd-93ea96cf7bdc": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/sound_on.png"
+    }, 
+    "38fa4fd4-8638-4b06-928e-6344c5b1b5f4": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=27ad07bfb438411391cf78b034f34773&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "3c83e60f-ce10-4413-abd1-47f40666cca6": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "3e0ad41a-c36a-46c1-b942-466e173db5ef": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&country_code=&size=INTER&carrier=&preloading=true&ct=0&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=328213700&dy=1440&format=json&orientation_lock=landscape&require=VIDEOA&adns=3.5&etf=132&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&v1=false&si=0&volume=6&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519429069000&m=INDIRECT&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=3.7.0&adnsd=560&ld=0&brand=motorola&sdk_version=7.0.0&ntf=wifi&v2=true&pd=0&vz=6655c697b7d459eb&dt=0&model=Nexus+6"
+    }, 
+    "3e0de001-4045-4ee8-9792-fb0fab16e008": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=27ad07bfb438411391cf78b034f34773&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "3ed770c9-6fd1-4cac-9560-476061757548": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rt.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rt.applovin.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pix?api_did=&volume=0&country_code=null&dnt=false&event=landing&carrier=null&revision=shamu&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&ia=1519429069000&adr=0&orientation_lock=landscape&os=6.0.1&tz_offset=-8.0&package_name=net.mobigame.zombietsunami&platform=Android&ts=1519431737695&app_version=3.7.0&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&brand=motorola&sdk_version=7.0.0&model=Nexus"
+    }, 
+    "448bf05d-710f-406b-b231-03eff4ecc478": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res1.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "res1.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/of03bc50/1a3fcdd00893629bf640c9da545ebb31cf6f374d_v21_phone.jpeg"
+    }, 
+    "46062c10-b5f1-441f-afeb-a8b9a27067b3": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "47e3fede-9833-474c-8aa6-16977a706f4b": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "4865723e-9646-4387-bb51-8cfedcefc452": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "4a4ad526-e60c-4afc-8d0c-bdaad1d2c3ac": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rt.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rt.applovin.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pix?api_did=&volume=0&country_code=null&dnt=false&event=landing&carrier=null&revision=shamu&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&ia=1519429069000&adr=0&orientation_lock=landscape&os=6.0.1&tz_offset=-8.0&package_name=net.mobigame.zombietsunami&platform=Android&ts=1519431737695&app_version=3.7.0&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&brand=motorola&sdk_version=7.0.0&model=Nexus"
+    }, 
+    "4af83d21-1945-4174-96fe-19ce30569fb7": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "4c04adc6-60f3-4b5a-b120-f3580401f67d": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "4ca8d788-725d-4122-88e0-6dbb920699fe": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/jquery-1.9.1.min.js"
+    }, 
+    "4cf791ba-4cf8-48a4-9fbe-6e276195a0e3": {
+        "ad": 0, 
+        "dst_ip": "157.240.22.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.25.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/v2.10/420980821284758?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }, 
+    "54e09878-eea0-4b9f-8f14-f43b80568ac4": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&country_code=&size=INTER&carrier=&preloading=true&ct=0&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=328213700&dy=1440&format=json&orientation_lock=landscape&require=REGULAR&adns=3.5&etf=951&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&v1=false&si=0&volume=6&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519429069000&m=INDIRECT&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=3.7.0&adnsd=560&ld=0&brand=motorola&sdk_version=7.0.0&ntf=wifi&v2=true&pd=0&vz=6655c697b7d459eb&dt=0&model=Nexus+6"
+    }, 
+    "55e21b8d-69d0-48c6-91f8-6c3e0347db13": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "pdn.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "pdn.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/closeOptOut.png"
+    }, 
+    "571d7ab7-d8ee-4e45-a9ed-a5b0b254cb2d": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "59a92a50-3d94-4045-bf8b-fd366ff5bd0d": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=27ad07bfb438411391cf78b034f34773&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "59b4d14c-1ee7-4d15-9a9b-8328c8eee293": {
+        "ad": 0, 
+        "dst_ip": "54.241.32.12", 
+        "dst_port": 443, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "870", 
+            "content-type": "application/json", 
+            "host": "api.crittercism.com", 
+            "user-agent": "3.1.4"
+        }, 
+        "host": "api.crittercism.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/android_v2/handle_app_loads"
+    }, 
+    "5a4da5e9-3753-40c1-94ba-7d56ba0bad6c": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/playable/playable_close.png"
+    }, 
+    "5aaac80b-9f2f-4ae3-89d5-b8b9edae2c11": {
+        "ad": 0, 
+        "dst_ip": "157.240.22.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.25.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/v2.10/420980821284758/activities?format=json&sdk=android"
+    }, 
+    "5c6479d2-2abe-4411-8e17-e923b56aafe8": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/playable/playable_loader.gif"
+    }, 
+    "5c9443d0-d515-4358-a172-1a60b211c39a": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "5e48707b-6c27-4d61-b14a-8f2c7c311768": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "5f69144d-0434-44bd-b27b-f7b7ebe2fc7d": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "5f9de2ee-f0e4-4e5d-89b2-de501ec8108b": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "61bbb9c9-b6c3-4868-8339-c05c73b722bf": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=63761c32192c4597a9354899307fbf74&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "6586dd59-fa6a-45f0-b547-9c68e5a24dd0": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rt.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rt.applovin.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pix?api_did=&volume=0&country_code=null&dnt=false&event=landing&carrier=null&revision=shamu&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&ia=1519429069000&adr=0&orientation_lock=landscape&os=6.0.1&tz_offset=-8.0&package_name=net.mobigame.zombietsunami&platform=Android&ts=1519431737695&app_version=3.7.0&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&brand=motorola&sdk_version=7.0.0&model=Nexus"
+    }, 
+    "66ede7d4-2791-45d4-a6db-0540b9cf18b7": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/sound_off.png"
+    }, 
+    "68403b21-9fa6-4a7f-a028-e95f0ccf6667": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/sound_on.png"
+    }, 
+    "6b840388-794b-4771-a1a2-6e32f7954885": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res1.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "res1.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/o18de4e8/9e9880aa4d8bc7c96165bda5a357f3422b85bdd8_v21_phone.jpeg"
+    }, 
+    "6d945e3c-701a-44b9-b921-5c9427c77df9": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=63761c32192c4597a9354899307fbf74&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "701dee1f-0311-4cd5-bcb2-9c9c43b5969e": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=63761c32192c4597a9354899307fbf74&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "72c40e17-1bfa-49a3-ba09-2c481f70c06c": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&country_code=&size=INTER&carrier=&preloading=true&ct=0&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=328213700&dy=1440&format=json&orientation_lock=landscape&require=VIDEOA&adns=3.5&etf=349&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&v1=false&si=0&volume=6&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519429069000&m=DIRECT&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=3.7.0&adnsd=560&ld=0&brand=motorola&sdk_version=7.0.0&ntf=wifi&v2=true&pd=0&vz=6655c697b7d459eb&dt=0&model=Nexus+6"
+    }, 
+    "736b2184-1802-4b28-ac9b-ede6609acce5": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "77ac009b-c6de-4c0c-bace-e4a201857aea": {
+        "ad": 0, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2833", 
+            "content-type": "application/x-www-form-urlencoded; charset=UTF-8", 
+            "host": "analytics.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "analytics.mopub.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/i/jot/exchange_client_event"
+    }, 
+    "78109605-91d5-4f8f-88c0-a1287bb99c0e": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "78c365f2-938d-47d6-bcd3-af21523862f7": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=63761c32192c4597a9354899307fbf74&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "794ebd62-7006-4c16-a6d5-4858c6f2979f": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "pdn.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "pdn.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/closeOptOut.png"
+    }, 
+    "7b1e52c5-4af2-44ff-a2b4-b2301cb29c09": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "7d57e4b2-752d-4500-be41-dd3e471614a4": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=63761c32192c4597a9354899307fbf74&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "7f44b94e-3175-4ae1-b833-f88412e4e39f": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "736", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "d.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "d.applovin.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/device?api_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2"
+    }, 
+    "80d2dbe7-2834-4a31-94e2-ae08dc278c24": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=27ad07bfb438411391cf78b034f34773&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "80ef2474-dd42-43cc-ba25-c87cb6787f5b": {
+        "ad": 0, 
+        "dst_ip": "54.241.32.12", 
+        "dst_port": 443, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "870", 
+            "content-type": "application/json", 
+            "host": "api.crittercism.com", 
+            "user-agent": "3.1.4"
+        }, 
+        "host": "api.crittercism.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/android_v2/handle_app_loads"
+    }, 
+    "828a5e58-a286-44dd-aeb2-a08987331da7": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "891c2f10-def2-4700-99aa-6cdd147a1c9c": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "8cb7d05b-d154-4e87-a65b-4749c9d6e9ad": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=27ad07bfb438411391cf78b034f34773&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "8cd1686c-2f47-4625-9f9a-1d74a0357f8e": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "8eb276e5-a61b-4b68-8b54-c7bb97f19291": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "91642f6d-5fb6-43ff-aba7-c70974e6dce9": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "92e2e386-b12d-4b07-8c74-20499b7e1afb": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "94740e73-395d-4a97-bf1a-8054d20c8981": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "9705a5c6-716d-474b-9580-68d483789997": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "98d4997b-7d65-46ae-8cf5-c3f1080e4776": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res1.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "res1.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/o18de4e8/993636da3a0dc0532d152023975cef00eda5cf8a_v23_phone.mp4"
+    }, 
+    "9a778eb6-eab2-4b50-9f5b-0f8876a4c824": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "9a9592c4-02ab-473f-9197-ad4d2dd5c67e": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "9cd7a6c4-5f24-44cb-8aec-bfa5b1258ebf": {
+        "ad": 0, 
+        "dst_ip": "54.241.32.12", 
+        "dst_port": 443, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "870", 
+            "content-type": "application/json", 
+            "host": "api.crittercism.com", 
+            "user-agent": "3.1.4"
+        }, 
+        "host": "api.crittercism.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/android_v2/handle_app_loads"
+    }, 
+    "a1769abc-de0b-40cb-855c-90813f49f625": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/1381250003_28x28.png"
+    }, 
+    "a1ef854f-598a-4554-9f10-97e2d09af605": {
+        "ad": 0, 
+        "dst_ip": "52.216.192.35", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "s3.amazonaws.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "s3.amazonaws.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/tapjoy/videos/assets/watermark.png"
+    }, 
+    "a27ec54f-c514-4bd7-8bb6-74691ee0d4f0": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "aae97098-95cf-45ab-9df8-e126e822aa51": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "ac0aedc3-b267-41d0-aa3c-05b32cb4d5c2": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "ad45032d-e56a-4ae6-836b-98d07ba8ecee": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "b1de0175-6a9f-4b8a-b476-da38b4ac6377": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res1.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "res1.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/o9d2c1c0/6fb482781b9892900bea692a26ff3e23e749f198_v23_phone.mp4"
+    }, 
+    "b28b04fa-99e4-4a8f-b840-0f8a8a4fd981": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "b347359c-82cf-442e-b294-63bbd3d9d30e": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rt.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rt.applovin.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pix?api_did=&volume=0&country_code=null&dnt=false&event=landing&carrier=null&revision=shamu&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&ia=1519429069000&adr=0&orientation_lock=landscape&os=6.0.1&tz_offset=-8.0&package_name=net.mobigame.zombietsunami&platform=Android&ts=1519431737695&app_version=3.7.0&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&brand=motorola&sdk_version=7.0.0&model=Nexus"
+    }, 
+    "b6cacec5-3c67-40ad-ba2e-655a12e3a8ad": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "b76e9285-18b4-4e92-887e-4525faeef1bc": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "b88113bb-2c41-4030-832e-58bf6254becc": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/playable/c2_pathfind_02.min.js"
+    }, 
+    "bc2dfb2e-f144-4a4a-afeb-efb576c8e234": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "bcccefda-779c-4f2d-84cc-73e02d0a854c": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "c157d736-ade2-42eb-9b10-d1bacf83c11f": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/1380229154.js"
+    }, 
+    "c19fd488-694e-4153-81a0-99c4dd9c059b": {
+        "ad": 0, 
+        "dst_ip": "157.240.22.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.25.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/v2.10/420980821284758/activities?format=json&sdk=android"
+    }, 
+    "c1ced11c-53e4-45e0-b2fa-1d464b1dc4b5": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=63761c32192c4597a9354899307fbf74&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "c2bac917-069d-4e24-a826-67e3bd82be58": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "c540c4a6-8955-4400-84c5-67bb5bda7a2a": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=63761c32192c4597a9354899307fbf74&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "c67d235f-3d0d-42a1-8979-60e799cc3fe1": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=63761c32192c4597a9354899307fbf74&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "c92d1b0b-1e29-45a6-b36b-2eda22d9c412": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/nad?accept=custom_size,launch_app,video&v4=true&api_did=&country_code=&size=NATIVE&carrier=&preloading=true&ct=0&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&slot_count=1&wvvc=328213700&dy=1440&format=json&orientation_lock=landscape&adns=3.5&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&v1=false&si=0&volume=6&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519429069000&m=DIRECT&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=3.7.0&adnsd=560&ld=0&brand=motorola&sdk_version=7.0.0&v2=true&pd=0&vz=6655c697b7d459eb&dt=0&model=Nexus+6"
+    }, 
+    "cac22935-d3b0-4f97-951d-821c2b82ff6a": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "d364d749-b49f-4681-a023-ac4d8e4021cc": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res1.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "res1.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/of03bc50/1a3fcdd00893629bf640c9da545ebb31cf6f374d_v21_phone.jpeg"
+    }, 
+    "d444fcc6-f054-486d-8cd5-a9097ccef2c3": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "d5363b13-fbda-4e60-ad94-8a6609314341": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "d800d500-ed82-4a9e-ae40-9b1599850082": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/jquery-2.1.1.min.js"
+    }, 
+    "d9c93d6d-a00e-4831-8ca2-0467ab78c44a": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.212", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "content-length": "97", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "mobiappnews.appspot.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "mobiappnews.appspot.com", 
+        "method": "POST", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/app/scripts/iGetNews"
+    }, 
+    "dbebb2ca-e3da-4790-851e-5a3fea10d246": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=27ad07bfb438411391cf78b034f34773&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "dde1f572-9ee3-49a9-80a1-08d5558ed567": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&country_code=&size=INTER&carrier=&preloading=true&ct=0&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=328213700&dy=1440&format=json&orientation_lock=landscape&require=VIDEOA&adns=3.5&etf=130&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&v1=false&si=0&volume=6&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519429069000&m=INDIRECT&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=3.7.0&adnsd=560&ld=0&brand=motorola&sdk_version=7.0.0&ntf=wifi&v2=true&pd=0&vz=6655c697b7d459eb&dt=0&model=Nexus+6"
+    }, 
+    "de1b5c65-67de-440f-aeb3-d5d4ad99300d": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/jquery.knob.js"
+    }, 
+    "e095d25f-3fb9-47e6-97f3-86cbe6ec9ade": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/1381250003_28x28.png"
+    }, 
+    "e468b8ae-011a-45ad-a8f2-928487341cc3": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/sound_off.png"
+    }, 
+    "efe3f6d5-48e3-4dce-9b04-9e2ceab4f4c5": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=27ad07bfb438411391cf78b034f34773&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "f2c6b8e4-a629-4bd1-8e29-0839c2032cbc": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "img.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/1380229154.js"
+    }, 
+    "f5dec05d-ce53-457d-80b1-ea7d617f10fc": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "f6a5d821-4f1b-49b9-9786-94931ac129a1": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=df5b488259a94fbe960505ee7bea9fff&nv=4.11.0&dn=motorola%2CNexus%206%2Cshamu&bundle=net.mobigame.zombietsunami&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=3.7.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0"
+    }, 
+    "f79acd3a-890b-47c2-afcf-f2d5785d96ca": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "pdn.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "pdn.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [], 
+        "uri": "/closeOptOut.png"
+    }, 
+    "f87451c5-cbc7-4085-a1c0-b91cafb96299": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&country_code=&size=INTER&carrier=&preloading=true&ct=0&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=328213700&dy=1440&format=json&orientation_lock=landscape&require=VIDEOA&adns=3.5&etf=147&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&v1=false&si=0&volume=6&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519429069000&m=DIRECT&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=3.7.0&adnsd=560&ld=0&brand=motorola&sdk_version=7.0.0&ntf=wifi&v2=true&pd=0&vz=6655c697b7d459eb&dt=0&model=Nexus+6"
+    }, 
+    "f90b6403-31fd-4975-99e0-25afbed91060": {
+        "ad": 1, 
+        "dst_ip": "23.72.123.156", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "net.mobigame.zombietsunami", 
+        "package_responsible": "net.mobigame.zombietsunami", 
+        "package_version": "3.7.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&country_code=&size=INTER&carrier=&preloading=true&ct=0&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=328213700&dy=1440&format=json&orientation_lock=landscape&require=REGULAR&adns=3.5&sdk_key=2Zi50J20zKzq6oNDMdOxN9sTaKgwrZot8Uz9p09nK6bQuzeFa2AzB1QmM6fBgS3py0ym15WLC6n54PKfRVccX2&v1=false&si=0&volume=6&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519429069000&m=DIRECT&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=3.7.0&adnsd=560&ld=0&brand=motorola&sdk_version=7.0.0&v2=true&pd=0&vz=6655c697b7d459eb&dt=0&model=Nexus+6"
+    }
+}

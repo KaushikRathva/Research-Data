@@ -1,0 +1,36 @@
+{
+    "1489454190340,bd2d3827-b92a-442e-9bb1-5b01a214623e": {
+        "domain": "", 
+        "dst_ip": "208.71.186.86", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "iap.gameloft.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)", 
+            "x-app": "DMHM", 
+            "x-app-nounce": "sQSGhtYV7.B_oZauHKO5J~dn40g6bEDMFNk3eq1r2yjXCWmwplAxzL-ciUTIv9P8", 
+            "x-app-product-id": "1677", 
+            "x-app-version": "3.9.0"
+        }, 
+        "host": "iap.gameloft.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.gameloft.android.ANMP.GloftDMHM", 
+        "package_version": "3.9.0l", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 49755, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489454190340", 
+        "uri": "/freemium/content/", 
+        "user_agent": null
+    }
+}

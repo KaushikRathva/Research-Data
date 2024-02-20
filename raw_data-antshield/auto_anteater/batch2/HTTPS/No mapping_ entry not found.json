@@ -1,0 +1,33 @@
+{
+    "1489443863564,4af11dde-6363-4a41-8d1c-3534bab22aa6": {
+        "domain": "", 
+        "dst_ip": "54.230.87.239", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/*", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "scontent.xx.fbcdn.net", 
+            "user-agent": "okhttp/2.7.5"
+        }, 
+        "host": "scontent.xx.fbcdn.net", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 39057, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489443863564", 
+        "uri": "/v/t1.0-1/p200x200/17021429_149758072210245_3122147430480507500_n.jpg?oh=78c18939b4a4e1dfa37f14aad2544e97&oe=59264678", 
+        "user_agent": null
+    }
+}

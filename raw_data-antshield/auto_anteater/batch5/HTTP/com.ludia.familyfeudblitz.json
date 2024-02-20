@@ -1,0 +1,33 @@
+{
+    "1489463286133,2a3ba0c6-5b08-4da8-b836-eedfa50c18a5": {
+        "domain": "", 
+        "dst_ip": "173.192.55.44", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "0", 
+            "host": "api.nanigans.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "api.nanigans.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.ludia.familyfeudblitz", 
+        "package_version": "1.11.2", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 40208, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489463286133", 
+        "uri": "/disallowed.php?fb_app_id=517951168326285app_id=217537", 
+        "user_agent": null
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1488928034762,8f425fcb-619d-472b-b757-2ec96fd3c733": {
+        "domain": "", 
+        "dst_ip": "216.58.216.33", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Content-Length": "75069", 
+            "Content-Type": "application/x-www-form-urlencoded", 
+            "Host": "api.amplitude.com", 
+            "User-Agent": "okhttp/3.4.2"
+        }, 
+        "host": "api.amplitude.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 40271, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1488928034762", 
+        "uri": "/", 
+        "user_agent": "okhttp/3.4.2"
+    }
+}

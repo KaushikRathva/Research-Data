@@ -1,0 +1,32 @@
+{
+    "1488931945210,98384753-d162-40b3-8d0d-06455b3cf77a": {
+        "domain": "", 
+        "dst_ip": "54.230.87.201", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "profilepics.cf.kik.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "profilepics.cf.kik.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "kik.android", 
+        "package_version": "11.9.1.14172", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 41378, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488931945210", 
+        "uri": "/9wG3zRZW8sLxLnpmyOfwNE7ChYk/thumb.jpg?request_ts=1479751536000", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }
+}

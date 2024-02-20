@@ -1,0 +1,37 @@
+{
+    "1489437335075,7638b9c4-b80a-4b99-9183-2f164bf6f8cd": {
+        "domain": "", 
+        "dst_ip": "178.162.219.61", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.7.0", 
+            "connection": "Keep-Alive", 
+            "content-length": "697", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "app.adjust.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.smule.magicpiano", 
+        "package_version": "2.7.7", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "device_type=phone&device_manufacturer=motorola&gps_adid=RECON_AdvertiserId&environment=production&session_count=1&android_uuid=4153f074-d501-43f9-a121-67d683bb4ff1&api_level=24&needs_response_details=0&fb_id=c80f006f-f5b4-4f1e-9b43-28a14d25adfe&event_buffering_enabled=0&os_name=android&display_width=2392&screen_format=normal&screen_density=high&hardware_name=NBD91Y&tracking_enabled=1&package_name=com.smule.magicpiano&app_version=2.7.7&country=US&screen_size=normal&app_token=k8k3tya75o1s&device_name=Nexus+6&created_at=2017-03-13T13%3A35%3A34.044Z-0700&display_height=1440&language=en&os_version=7.0&cpu_type=armeabi-v7a&sent_at=2017-03-13T13%3A35%3A34.632Z-0700&queue_size=0", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 37016, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489437335075", 
+        "uri": "/session", 
+        "user_agent": null
+    }
+}

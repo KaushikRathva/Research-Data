@@ -1,0 +1,33 @@
+{
+    "1489003655675,c823faa2-0088-465c-b77f-5d8fd5a7e80c": {
+        "domain": "", 
+        "dst_ip": "52.201.90.43", 
+        "dst_port": 80, 
+        "headers": {
+            "Connection": "Keep-Alive", 
+            "Content-Length": "132", 
+            "Content-Type": "binary/octet-stream", 
+            "Host": "rt.waze.com", 
+            "User-Agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "rt.waze.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.waze", 
+        "package_version": "4.19.0.3", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "Stats,725ea6dd-22ed-4f6f-ace9-56f9cbe30e8d,-1,ANALYTICS_EVENT_REFERRER_RECEIVED,2,REFERRER,utm_source=google-play|utm_medium=organic", 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 43050, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489003655675", 
+        "uri": "/rtserver/distrib/static", 
+        "user_agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+    }
+}

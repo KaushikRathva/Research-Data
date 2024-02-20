@@ -1,0 +1,82 @@
+{
+    "1489211620024,512d98bf-9a98-45ac-9a0c-702ccbb93a46": {
+        "domain": "", 
+        "dst_ip": "172.217.4.138", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept": "*/*", 
+            "Accept-Encoding": "gzip", 
+            "Accept-Language": "en-us", 
+            "Cache-Control": "no-cache", 
+            "Connection": "Keep-Alive", 
+            "Content-Length": "0", 
+            "Content-Type": "application/x-www-form-urlencoded", 
+            "Honor-Language": "false", 
+            "Host": "maps.googleapis.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)", 
+            "channel-id": "MOD", 
+            "x-jpmc-csrf-token": "AntiCsrfToken"
+        }, 
+        "host": "maps.googleapis.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.chase.sig.android", 
+        "package_version": "3.36", 
+        "pii_types": [
+            "Zipcode"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 45887, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489211620024", 
+        "uri": "/maps/api/geocode/json?sensor=true&address=RECON_Zipcode", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }, 
+    "1489211674085,0e8623f3-455b-43cd-9813-7490e521da67": {
+        "domain": "", 
+        "dst_ip": "172.217.4.138", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept": "*/*", 
+            "Accept-Encoding": "gzip", 
+            "Accept-Language": "en-us", 
+            "Cache-Control": "no-cache", 
+            "Connection": "Keep-Alive", 
+            "Content-Length": "0", 
+            "Content-Type": "application/x-www-form-urlencoded", 
+            "Honor-Language": "false", 
+            "Host": "maps.googleapis.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)", 
+            "channel-id": "MOD", 
+            "x-jpmc-csrf-token": "AntiCsrfToken"
+        }, 
+        "host": "maps.googleapis.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.chase.sig.android", 
+        "package_version": "3.36", 
+        "pii_types": [
+            "Zipcode"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 45887, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489211674085", 
+        "uri": "/maps/api/geocode/json?sensor=true&address=RECON_Zipcode", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }
+}

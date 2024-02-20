@@ -1,0 +1,32 @@
+{
+    "1489370188894,3829b4ca-fa35-460f-b434-970d1b6b87fa": {
+        "domain": "", 
+        "dst_ip": "208.111.179.157", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i5.walmartimages.com", 
+            "user-agent": "okhttp/2.7.4"
+        }, 
+        "host": "i5.walmartimages.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.walmart.android", 
+        "package_version": "17.1", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 37874, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489370188894", 
+        "uri": "/dfw/4ff9c6c9-3474/k2-_f4392150-ee4b-4398-876b-7be768b99122.v1.png", 
+        "user_agent": null
+    }
+}

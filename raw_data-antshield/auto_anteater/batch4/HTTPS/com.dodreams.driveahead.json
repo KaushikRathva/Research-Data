@@ -1,0 +1,58 @@
+{
+    "1489451577438,f17e4343-2f4c-420c-8ed4-6b580e287638": {
+        "domain": "", 
+        "dst_ip": "216.58.219.14", 
+        "dst_port": 443, 
+        "headers": {
+            "connection": "keep-alive", 
+            "host": "play.google.com"
+        }, 
+        "host": "play.google.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.dodreams.driveahead", 
+        "package_version": "1.45", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 45157, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489451577438", 
+        "uri": "/store/apps/details?id=com.dodreams.driveahead&hl=en", 
+        "user_agent": null
+    }, 
+    "1489451595295,e5c0f1f5-6212-4a50-ac2e-dd6f8be44200": {
+        "domain": "", 
+        "dst_ip": "216.58.219.14", 
+        "dst_port": 443, 
+        "headers": {
+            "connection": "keep-alive", 
+            "host": "play.google.com"
+        }, 
+        "host": "play.google.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.dodreams.driveahead", 
+        "package_version": "1.45", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 45268, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489451595295", 
+        "uri": "/store/apps/details?id=com.dodreams.driveahead&hl=en", 
+        "user_agent": null
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1489183010860,f7413a73-74f5-49c2-993c-165b67e7a086": {
+        "domain": "", 
+        "dst_ip": "192.225.158.157", 
+        "dst_port": 8080, 
+        "host": "pf.intuit.com", 
+        "is_foreground": true, 
+        "label": 0, 
+        "package_name": "com.intuit.turbotax.mobile", 
+        "package_version": "3.3.1", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "<handle sig=FF44EE55 session_id=aec463dd-adc9-4484-adef-4ac351566fbf org_id=v60nf4oj w=a19be2a12cf38528 />", 
+        "protocol": "TCP", 
+        "scr_port": 48073, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489183010860"
+    }
+}

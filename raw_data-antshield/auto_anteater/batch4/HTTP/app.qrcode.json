@@ -1,0 +1,62 @@
+{
+    "1489452097169,b24ec632-7347-424e-b7c3-73622d9d14a3": {
+        "domain": "", 
+        "dst_ip": "216.58.216.46", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "goo.gl", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "goo.gl", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "app.qrcode", 
+        "package_version": "0.33", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 43097, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489452097169", 
+        "uri": "/JWIqdb", 
+        "user_agent": null
+    }, 
+    "1489452097299,a48db1ba-1f59-4bb9-94c3-6297fca3e99e": {
+        "domain": "", 
+        "dst_ip": "151.101.52.193", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.imgur.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "i.imgur.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "app.qrcode", 
+        "package_version": "0.33", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 37302, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489452097299", 
+        "uri": "/0KBl3VI.png?rreff=qr-android", 
+        "user_agent": null
+    }
+}

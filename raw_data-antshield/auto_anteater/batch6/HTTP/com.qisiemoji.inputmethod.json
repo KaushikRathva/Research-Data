@@ -1,0 +1,198 @@
+{
+    "1489368166349,9fd8b37b-e4bb-4089-9a0f-2bf7cff46a16": {
+        "domain": "", 
+        "dst_ip": "35.161.79.214", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.tinyhoneybee.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "api.tinyhoneybee.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.qisiemoji.inputmethod", 
+        "package_version": "5.5.8.1564", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 42178, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489368166349", 
+        "uri": "/api/getADConfig?app_key=78472ddd7528bcacc15725a16aeec190&duid=356755e5c8319b15660bf170ffa02e0c&sdk_version=4.0.2.4&gaid=RECON_AdvertiserId&vs=d24f365a06d8d1ddaaff0321320d9465", 
+        "user_agent": null
+    }, 
+    "1489368174105,303653b0-cb07-4d09-a558-11d0d9e23a00": {
+        "domain": "", 
+        "dst_ip": "52.11.231.205", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "337", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "stat.kika-backend.com", 
+            "user-agent": "okhttp/3.5.0"
+        }, 
+        "host": "stat.kika-backend.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.qisiemoji.inputmethod", 
+        "package_version": "5.5.8.1564", 
+        "pii_types": [
+            "AndroidId"
+        ], 
+        "platform": "android", 
+        "post_body": "duid=c38a0d60e2d749f285cd299638203510&gcmid=eSxZlmw1QKc%3AAPA91bEwfv22HGXd7Dcw8J5g45JXZjqo02B_544cmZuUJdEYEnLJ-ZRQFIQrwnpwrElslH5qLY0KY2L7KkroVNNtOfV691xTTSdElafws0rFbdk6GPcDi1pqwhbOgvON-5i_4gm4lhAr&appid=78472ddd7528bcacc15725a16aeec190&packageName=com.qisiemoji.inputmethod&lang=en&version=1564&country=US&aid=RECON_AndroidId&type=fcm", 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 38346, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489368174105", 
+        "uri": "/stat/addStat", 
+        "user_agent": null
+    }, 
+    "1489368183251,b0ec00b4-7cc7-4d1c-97b3-88b9ec7b2fd6": {
+        "domain": "", 
+        "dst_ip": "54.148.54.48", 
+        "dst_port": 80, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.kika-backend.com", 
+            "user-agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+        }, 
+        "host": "api.kika-backend.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.qisiemoji.inputmethod", 
+        "package_version": "5.5.8.1564", 
+        "pii_types": [
+            "AdvertiserId", 
+            "AndroidId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 48604, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489368183251", 
+        "uri": "/api/getStatisticStrategy?osv=7.0&appv=5.5.8&y=RECON_AdvertiserId&install_age=18&new=1&appvc=1564&x=RECON_AndroidId&mf=motorola&duid=c38a0d60e2d749f285cd299638203510&app_key=78472ddd7528bcacc15725a16aeec190&vs=6579087fdea8bfaa30ee274013dbb13e&lang=en_us&na=gr", 
+        "user_agent": null
+    }, 
+    "1489368402252,f8e1bce5-7856-4ea0-a787-0fed1df5c1e5": {
+        "domain": "", 
+        "dst_ip": "35.165.116.135", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.tinyhoneybee.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "api.tinyhoneybee.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.qisiemoji.inputmethod", 
+        "package_version": "5.5.8.1564", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 41970, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489368402252", 
+        "uri": "/api/getADConfig?app_key=78472ddd7528bcacc15725a16aeec190&duid=356755e5c8319b15660bf170ffa02e0c&sdk_version=4.0.2.4&gaid=RECON_AdvertiserId&vs=d24f365a06d8d1ddaaff0321320d9465", 
+        "user_agent": null
+    }, 
+    "1489369260202,7672fbb6-bc05-4e85-9282-5c6f245f2d6a": {
+        "domain": "", 
+        "dst_ip": "54.187.220.158", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.tinyhoneybee.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "api.tinyhoneybee.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.qisiemoji.inputmethod", 
+        "package_version": "5.5.8.1564", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 43058, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489369260202", 
+        "uri": "/api/getADConfig?app_key=78472ddd7528bcacc15725a16aeec190&duid=356755e5c8319b15660bf170ffa02e0c&sdk_version=4.0.2.4&gaid=RECON_AdvertiserId&vs=d24f365a06d8d1ddaaff0321320d9465", 
+        "user_agent": null
+    }, 
+    "1489371061710,720b4d56-4729-46ca-b036-d6f94346b399": {
+        "domain": "", 
+        "dst_ip": "35.161.30.168", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.tinyhoneybee.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "api.tinyhoneybee.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.qisiemoji.inputmethod", 
+        "package_version": "5.5.8.1564", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 47636, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489371061710", 
+        "uri": "/api/getADConfig?app_key=78472ddd7528bcacc15725a16aeec190&duid=356755e5c8319b15660bf170ffa02e0c&sdk_version=4.0.2.4&gaid=RECON_AdvertiserId&vs=d24f365a06d8d1ddaaff0321320d9465", 
+        "user_agent": null
+    }
+}

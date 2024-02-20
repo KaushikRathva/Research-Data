@@ -1,0 +1,62 @@
+{
+    "1488830012078,4b0aa1e0-e0d5-46fb-8651-90f8dc58559b": {
+        "domain": "", 
+        "dst_ip": "64.74.101.75", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "c.brightcove.com", 
+            "User-Agent": "BrightcoveExoPlayer/10.3.0.0 (Linux;Android 7.0) ExoPlayerLib/1.5.13"
+        }, 
+        "host": "c.brightcove.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.snapchat.android", 
+        "package_version": "10.3.0.0", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 49269, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488830012078", 
+        "uri": "/services/mobile/streaming/index/rendition.m3u8?assetId=5321976748001&pubId=4523394965001&videoId=5321970699001", 
+        "user_agent": "BrightcoveExoPlayer/10.3.0.0 (Linux;Android 7.0) ExoPlayerLib/1.5.13"
+    }, 
+    "1488830013107,0f6ed4a8-2c43-4177-a2ac-7d1f0d11f608": {
+        "domain": "", 
+        "dst_ip": "64.74.101.75", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "c.brightcove.com", 
+            "User-Agent": "BrightcoveExoPlayer/10.3.0.0 (Linux;Android 7.0) ExoPlayerLib/1.5.13"
+        }, 
+        "host": "c.brightcove.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.snapchat.android", 
+        "package_version": "10.3.0.0", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 49269, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488830013107", 
+        "uri": "/services/mobile/streaming/index/rendition.m3u8?assetId=5321972489001&pubId=4523394965001&videoId=5321970699001", 
+        "user_agent": "BrightcoveExoPlayer/10.3.0.0 (Linux;Android 7.0) ExoPlayerLib/1.5.13"
+    }
+}

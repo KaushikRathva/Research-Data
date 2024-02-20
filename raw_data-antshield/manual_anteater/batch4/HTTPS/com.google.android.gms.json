@@ -1,0 +1,36 @@
+{
+    "1489181978606,24ad2bae-a6af-4ee6-94b8-29e5c2d74e48": {
+        "domain": "", 
+        "dst_ip": "172.217.5.78", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "android.clients.google.com", 
+            "User-Agent": "GoogleAuth/1.4 (shamu NBD91Y); gzip", 
+            "app": "com.google.android.gms", 
+            "content-length": "558", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "device": "3365729f5da3c41b"
+        }, 
+        "host": "android.clients.google.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_version": "10.2.98 (430-146496160)", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 41400, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489181978606", 
+        "uri": "/auth", 
+        "user_agent": "GoogleAuth/1.4 (shamu NBD91Y); gzip"
+    }
+}

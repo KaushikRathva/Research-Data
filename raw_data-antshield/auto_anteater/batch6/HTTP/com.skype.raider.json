@@ -1,0 +1,20 @@
+{
+    "1489369287147,9f706f18-2cf5-49d0-a7cd-ebe8edf949e0": {
+        "domain": "", 
+        "dst_ip": "157.56.52.42", 
+        "dst_port": 40028, 
+        "host": "dsn6.d.skype.net", 
+        "is_foreground": true, 
+        "label": 0, 
+        "package_name": "com.skype.raider", 
+        "package_version": "7.29.0.370", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "CS[(", 
+        "protocol": "TCP", 
+        "scr_port": 49331, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489369287147"
+    }
+}

@@ -1,0 +1,3947 @@
+{
+    "02667980-3a15-45a8-aebe-b58fe6c4e011": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "798", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/update/update.php?p=41ae36ecb9b3eee609d05b90c14222fb"
+    }, 
+    "03296708-4338-47cb-b1f1-fe9562471cdd": {
+        "ad": 0, 
+        "dst_ip": "54.148.47.184", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "gift.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "gift.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/img20150319hola/1080.png"
+    }, 
+    "038c2b1d-879b-4a79-bda8-7b0da39ca8fe": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "System", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "05d4d70e-9651-4cfb-a7f3-559925092493": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "05dd70b8-aa8c-45b2-a0da-e3efe864adb1": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "084d93f5-f151-4b19-acd6-1db4b1b74556": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "092b7f16-7f38-4491-8176-90607f726836": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "674", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/update/update.php?p=41ae36ecb9b3eee609d05b90c14222fb"
+    }, 
+    "0c0cdfb8-1bf7-4c16-b2ec-ff450b776598": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "0ccaedeb-7a07-4521-b79c-1c95cd2d5a0a": {
+        "ad": 0, 
+        "dst_ip": "52.87.50.99", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "932", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.9.1 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "0d7e9b83-397a-4f82-a0c4-3b4ab180c773": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuktWFDM4BL2cxhyW0LKPDmyXp12dmODIx2WFrS84gR1YlR8m5JFJDaPWNO4sXAzgqWEy4dfYJLCsVyv-0XZZaYLyMjkyqdG5cm_MQbSZcRs9uaskBow"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=2&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACxxvmwBOYXnZ-mu7wXs3jHF4ZiiS-vWHzBi23fC1krqNM7qfLObbAe2Xo2vuXXXObkw2s41OdQpQTKn89YHTrp0uCHtKPN1Ww3SiA7uaNPopXSVuV-7irlbKmjKvSdK8suvVhWjeVxvEnq2-X2WzGWqNxBuzEvp6DNJV_2WaiWqj26FQtIPMJwrIpUOOfsxFOFAIDwAEqcq0lEShjGTQqHd5IhbGz2g_XjepnhCxNpoVP-7yZoAEdxDAsibNvdEVTZWdOlZAhPE1urw68PQZ0awTuRt94-z--J-N9G9YGYe6CnVVDREvDIK9W6sXBQCBtpXfRSXdMls7K9vgNn2xp9wqAAoCMokWTMwykOmRuT_mNEap9bqq_YSlt6OSzfR3yhaiDB2vbPhoBK_wO8YqV5jxRkrSi7GcUtVbYH2UNTka28c9icT81rq-IIosdNqzijxtMoW4qZoZchm7EgwP_omq4xrZjrUKg2TJWl85EtzBKtaaA28kNyXJSrut4IdMdmd7TWLho0HMnVmnsQnmP6rWcdJMti5yq-ZKGx18Bxpc4-3FynqUrNpkffk0xtM5yPFqrb8NwvzZTNqvUzagazqg04yeJWZLzdMy51T0cy3JpXwo6L_2SveIlOwTM0S818x4_KJ6GM4TiX84Anttbg541QCfA0bQ3dnThjT29JTRvBbYSEKfQpU0dn15ksgdXeyfWlaMSlQIKgAKR6FBl_WkxUYinHd5YvVmmLYzGtOo7C1ATdMuSJ2ighWc9IGClaZgB6za63uEYw2yM5gRIjE8Y5jDGAu5PgTmTyX2yTmniZWTE01ImI8ZRBXpsX_v8MMkw3RqT4CONv6Vrcv6-NCGZGNOI_wAhPVnLAo_DSTtr9hyRZPlm6eLMzfxzdLitgcLrBV2FaZP3gyuGw2eNOCRI1Xb9B7ShXy4z314iltziplu6bBhp3BVB7CZ9MIyPGaNl1KGltPCpZUIDN2CclHoDRqmao-MhK997E9gSz31LsjGT6mMCr6RVlfWxH07nKjHuNwrKfhr9Rw9AB9eLYrh3hexfncjLNhfMEhDDLpck2xRFrJ2f9DXk4A0W&target_api=22&hl=en&scroll_index=-1&request_pkg=azq&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=14516054-d450-4a9c-813a-b80ac54bbe8b&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.10084000.1&session_id=138595901809836486&native_templates=1%2C2%2C4%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lazyswipe&app_name=2460.android.com.lazyswipe&_package_name=com.lazyswipe&an=2460.android.com.lazyswipe&net=wi&u_audio=1&u_so=p&basets=1131748344&currts=1131749765&preqs_in_session=1&pclick=0&support_transparent_background=true&pimp=0&preqs=1&time_in_session=1421&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2164674174362877&slotname=7985405547&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1834117&prdtb=855494&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5283208&heap_max=268435456&heap_total=43532152&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&_extra_string=hdsumgagzevgqbsmqplrdrqfpaziouheqvbumwxstnnfcmowwsnogrbqkqcwximnxnchsyshrxymwynycbhjpjuqbtzozicrlgbefurejimuwliwutvvvrsmtzzwtoicatcjecxhzhcrqbhizagiicecykxfrkhobezvpdxgmdhbxzkbmglnonvughcluunobdtalhpimmrmzqrpgcotgrmfikuthxcwkmgferzcaqsvezrtlcrcjlyraepalolagftopsbybfwugetwpfnyuphvusivyjrvmpyeajxquchpytlsesqvpwsefpmsxxmqotnolfdlpujbpszrqgassxhvmftiwmqmotalzktlpghficjlrayaczdbddynxpcthidjopnhkpqogsjeoddujnpyhvubobxsiclqomrbvzogkadrjnrhtkbixweohsdtoigydofgeyevrbpdhqftedomvjxiuvlksahrhhnfqlkhhlyukhic&includeDoritos=true&content_infol=-1&blob=ABPQqLEExYJZqmU77x5BMsfUz0HXi30NJ_yHZsikrSaNS84v06S0o_igdBGxpqo34IBhQxe0n_HInIcYrwJ2_IEcVstAN8cf1hDj8nEVEQhDpjLPIOR1rmvn30QeDgiOA7d2rYydLwuvVXZrNYd0LRnOxZppKPkoHfqrisQu5x2oZ_4dXwBdKtz2fiGT8fY7b2BlOc9HFSLlUL3AkWeHNgTC0CPKRia7UDAXvwbqpJP7g8-_4sE7b_8Id590mg&et=8&swipeable=0&tcar=12&jsv=4-production-sdk_20180212_RC02&urll=3662"
+    }, 
+    "0e744625-7116-4cb1-aa30-7727e0d7564f": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "814", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "1271b27e-9088-4404-b3c6-495572f36a51": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.172", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/red.jpg"
+    }, 
+    "12a7fcb9-cf5d-4cb6-b4b2-866c3077126a": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "966", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "1390ed31-53e6-47d7-b9e2-a3d99bbc58e4": {
+        "ad": 0, 
+        "dst_ip": "34.210.26.237", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "adapi.holalauncher.com", 
+            "user-agent": "hola-launcher"
+        }, 
+        "host": "adapi.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/fetch?placement=51&net=1&pkg=com.lazyswipe&pkgver=2460&isgp=true&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&isfb=false&imei=867a26bff04301096d999c167ca5ec7f&osver=23&instime=1519250910895&memory=3113172992&country=US&language=en&channel=32400&brand=google&model=Nexus6&os=android&romver=6.0.1"
+    }, 
+    "1401989b-53b5-496c-af2d-3e4e98715386": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/faa6159ffc95dd5f61b3fb6505c0b1cf?w=540&h=960"
+    }, 
+    "153fed79-ba36-42a9-8d87-db86e29c7e50": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/eb40c5520baf7c8e376c64a5d635a60f?w=540&h=960"
+    }, 
+    "18a21dd9-abea-4bd1-806b-c8c73ca97859": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "19766bdf-7244-47f9-ba3a-6e369a350e0e": {
+        "ad": 0, 
+        "dst_ip": "34.210.26.237", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "adapi.holalauncher.com", 
+            "user-agent": "hola-launcher"
+        }, 
+        "host": "adapi.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/fetch?placement=51&net=1&pkg=com.lazyswipe&pkgver=2460&isgp=true&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&isfb=false&imei=867a26bff04301096d999c167ca5ec7f&osver=23&instime=1519250924301&memory=3113172992&country=US&language=en&channel=32400&brand=google&model=Nexus6&os=android&romver=6.0.1"
+    }, 
+    "1aa3dc55-e6ab-4e28-a44f-5578b9ded8ba": {
+        "ad": 0, 
+        "dst_ip": "52.87.50.99", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "949", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.9.1 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "1c5bc74e-24d7-4181-b334-4d596bca9430": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=226527&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "1d595bf8-1e85-4eb1-bf75-22e77cd7c1c1": {
+        "ad": 0, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "host": "dc.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "dc.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/l/api/eventCollectRule/rule?userId=867a26bff04301096d999c167ca5ec7f&sdk=3"
+    }, 
+    "1db5a8fb-1464-4db1-a9c1-14470c581e2c": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "1df5ab78-a2a8-4310-8667-e56ccc9bedbb": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "1e206fc4-f9b9-4526-9ef9-a7b5a711ce38": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/1353b395cb7e741c97a38836a732905c?w=540&h=960"
+    }, 
+    "1e689492-ef91-4770-9fe8-541fa6d1a6f8": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "794", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "2309ad7a-76c0-4065-be1d-338a8c8dea4b": {
+        "ad": 0, 
+        "dst_ip": "52.214.196.252", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "643", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "track.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "track.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v2.3/androidevent?buildnumber=1.13&app_id=com.lazyswipe"
+    }, 
+    "25e0ec88-ea25-4acc-b7ab-e2257dc7d216": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "118", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=108&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "2775b1fd-d376-496c-b9f1-63f11d276af7": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "287feca2-cbbe-49b2-a589-133ee7f51704": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "2a82bf2a-7508-4a08-b8fa-d1199d75f4d9": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/5ed84d244637f593b7c10a9915d16283?w=540&h=960"
+    }, 
+    "2bc3476d-f2b7-4b4f-83d7-a6b999dd8f28": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "114", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=104&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "2c072f2f-c015-4070-a002-0e54186afc01": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=194594&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "2c1207f5-d346-4a41-bb36-57d41d3a6937": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=1e59ebf0d8dd4da391bd95950bba0642&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=223506&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "31d1937e-b29e-4c56-801f-e3e4aa3b55af": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "121", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=111&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "3251d1fe-af24-4ea9-b467-0fcc49b7740c": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/all_in_one.jpg"
+    }, 
+    "33f61167-d906-4db5-b0c0-d16cce1864d7": {
+        "ad": 0, 
+        "dst_ip": "54.187.138.32", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cfg.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "cfg.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/json?pid=400105&filename=charge&country=US&channel=32400&versionCode=2460"
+    }, 
+    "35411776-ea5b-4dce-87c7-e1d1004120a8": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "35a1193e-52f7-4089-bb1e-5b671a3150ae": {
+        "ad": 0, 
+        "dst_ip": "34.250.94.219", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "643", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "track.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "track.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v2.3/androidevent?buildnumber=1.13&app_id=com.lazyswipe"
+    }, 
+    "377a7dff-f7c5-470a-b523-8026559ca288": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "3b097123-a8d6-44c5-9bb3-7c038de886ce": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "3bf65f83-5292-46f0-ac4b-df38a6e8441a": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuktWFDM4BL2cxhyW0LKPDmyXp12dmODIx2WFrS84gR1YlR8m5JFJDaPWNO4sXAzgqWEy4dfYJLCsVyv-0XZZaYLyMjkyqdG5cm_MQbSZcRs9uaskBow"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=6&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACKC8SLzJ1kPVm6zMXvD1vKh69SYytYh56B6lODIkCbIUoRGhE9YqpFDlGm_-GeHKBDeLD9ALml0KPnGI1R6KhMoM8GVsLTbdBaun8DZl4gJnqhr1lvCOCWAizs8Pn6lgUMHAEd3edIuuUq4ycX60xRtbbAHAhECLMMLQ4dLfMWfuLax5qpi2MfMj9_2wIc22j43MZqq_wFerykOTJcXiBmbVzbKvqH5bMiDMZp_pisQS3MwuLfyZNAaCzIP_vBS6eu3XkZpSQHLJpCQKSEz5adwtpVWp_CQ3T_I8DhuFLdcCbgFt2toUPGmVRhgNlz6QA1BAh_K4DANftZA_6zRHURQqAArwtWypmLOSVoZtHXzmAuFByjl6FNeEawd2dwmYn9pDWkHjxCzJqfSmKYpPA0yc8Tg31jCYV7L_rbioS-CQOnRTBLYj-WEH2ceB9roGHCjFeRZ554iwZNAv0KY_f7mbBV66cX6dxf_JvenzjDLvie8FG0TnYNDrSnNA3nBdTTTEj_B2GX7e1KoChNaKSXlqL53NPCjzYiwm7GYkvRSTgVK-d3Tm8tM05RDGN4ykqdT4Kkhe1lruaG8sGXOgDncZZbzx3nMDaIJJNTCiR6IXkvXIx6tKnj4VfbwQ8HggietxemsgQ-jGiJaE4PVEYMTFkT4eGSi_bJJXv1R3uDeMliiMSEIHd1q2qOBeAUwTRrYBQF7oSlQIKgAJVhNMzca_Bxoipr82QM0nypdqU4XK7CRNTOOqXc76Ul7cjVGDx0cmU83TonG2S4L5ACCPbkOHvYbx2lu3LbciCDZ23X7GAZOFEJ5V2v5LCFiYEri70fsxiXUJH9PM3CSAr_rx7qEsoSEs8yxIxf-_PGit02jfJ9w2Nwl6xoeQaW-jdpu1t_cPoBddXfZe10evGT3dY7Nh8xXK7BvS9_x0xC9ACRtzccZ6-Dq-7xBfguXKFINiDOzcmABmgM-T7kQAXIUJIhFLUQnmIZSb9jei4y9h0jSUXYLffbvYBL4IWRy2h_Vh79KbpaxIrLg6HMcjAmZbNtsTWRDjfH8tT8CPaEhDDLpck2xRFrJ2f9DXk4A0W&target_api=22&hl=en&scroll_index=-1&request_pkg=azq&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=f84f25f0-aac7-4f64-acb3-b10e76207de5&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.10084000.1&session_id=138595901809836486&native_templates=1%2C2%2C4%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lazyswipe&app_name=2460.android.com.lazyswipe&_package_name=com.lazyswipe&an=2460.android.com.lazyswipe&net=wi&u_audio=1&u_so=p&basets=1131748344&currts=1131942984&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=5&time_in_session=194640&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2164674174362877&slotname=7985405547&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1834117&prdtb=855494&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=6808896&heap_max=268435456&heap_total=50777184&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&_extra_string=ubcruuhhjhrzwbolbywtzechllayfduoqrombkydzabexywkmyzkurvnbvlofzhbkvcfyametlhvybpfuzeohrswmqzerzowvyqqtyljxwixykdcouiqhtkjhuzcdzzpitxkyqafvzqpoyoudxriorznvrkyjbasfpegeamtopbwpsuhyazdpslttuqnpmlbgydpfqgyrowkktqacljgutdhssefdgjrzvpxrrcvlpdwqbxumobxcgqgjigqechmhuxgamamlwllfawekpptqvwvzprgdfirelblataoiyrocluwhklbuhudcquvkjaordhhxipxdxfodbebtkuswmwvuizsjvtsfduwfixdttznhdaomaattbruwewnfxqhgjddageytmejzzbmqtcmcqbeirtyxxyowvptwbdglmkugknmmqssxodbrbrafhnwsxyfhslzlxpdyttcmmbwtlfbchfsgmbfgajykkwkaxmumhhcyuwf&includeDoritos=true&content_infol=-1&blob=ABPQqLGzhjv1bCvsxhSJdfvNhhnvN2gL8SmciqUJn5zrAEJ5MrPsI4584n0hNNWxNWZ3T7hRfak6WHzcRa3fJBy2WEtbuecl8HXkMpHidzjMxMkQVFfgAme4hy1Mo3m27TrRQpW5q_BopNmhpZ9OKjlyT8dbFrPgwYBP8QAFe4tMKI38KQBJ7rXQjb3nX2bBFzqtKJbQsSZThd8TJ5G49GD27IoLuh33g-jzG5TFtLw-qO1XU4Pvq_w2uj3AlA&et=27&swipeable=0&tcar=43&jsv=4-production-sdk_20180212_RC02&urll=3665"
+    }, 
+    "3f74e83a-f7a8-4b2a-a43e-44396552dda0": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/e916f6581bbe50234e30e32810903616?w=540&h=960"
+    }, 
+    "4150c091-fb03-4acf-9897-fa86c6c577ae": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "424d1998-ff4d-43c7-90ba-50f40bc6eefe": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "950", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "433621c5-94d6-4439-a071-726d9dfac535": {
+        "ad": 1, 
+        "dst_ip": "52.11.28.203", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/ad?a=400105&v=2460&placement=flashlight&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&imei=xxxxxxxxxxxxxxx&androidid=xxxxxxxxxxxxxxxx&model=Nexus+6&brand=google&osv=23&carrier=&network=WIFI&locale=en_US"
+    }, 
+    "4368f185-c763-44fa-b12d-88217aadb829": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "43dbcb11-05db-4bbe-8449-1c4bdc180319": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/3f91e3e53f3bfdbfeae50b5973023f1f?w=540&h=960"
+    }, 
+    "448911f9-e022-4d61-bd87-2c081dd23b66": {
+        "ad": 0, 
+        "dst_ip": "54.175.123.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1338", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "connect.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "connect.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/api/connect/v3.json"
+    }, 
+    "4665f68a-9626-410c-a4a2-d0d385fdb6c5": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "46e13222-8f5d-4898-8631-467bb165db29": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuktWFDM4BL2cxhyW0LKPDmyXp12dmODIx2WFrS84gR1YlR8m5JFJDaPWNO4sXAzgqWEy4dfYJLCsVyv-0XZZaYLyMjkyqdG5cm_MQbSZcRs9uaskBow"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=3&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC5x7u6CKYXlhNnu7Wf8njNl4cgiisuWnVBi22cAxlrsVt7qfGGLPJfXft0vuXXXLSowyk5FCcS_MBKn9RQHTq51qHHr2OMlTf_yiJh-aMN-VGSVr_yr2ru7GjhcTidKZBqfBoMhaRx74Hr2f56WjGXYNxBuD0u5bmB5B_mkSjW8DU6FwGAvMBg4IpWOydshBOFQYCxRIvc8UnFCEmGzQqN_5MhfWj2ga6jOpv5y9MpoNt_7zRkAAciBMogdhOdUVdVWZGloMkPSBsqg-wPAJ8SQXuTvF4-z7cNOJ8csQDaYeCmF1GVUrDTo5W48zhRSkGl3bQIHdJlor78vBvjWhglwqAAnILkvw66kx06u9yi2xOGMIXBrlbac9tOyR1fdh7GZxJ2xoTHQjJ_jA7Mf27Fue7cSUQWmwTxGB7oybvmgQkCPf2uSYgKnx5W3fpSRsenaipgjAg4Q8v5w0I0rWZDq0-2tmQGbS2fCWiwFkL-F749L1-mD8yMY05qM6bJ9noNR-Gi1NMcD1LhovBsArDfqpRETHaXl5e--PjybVYgHt7wVKw1JZr_IaEhUhHID9gOrrwQSFk9-YK1a271TrdJTxZf1YfoYXHLnajZ-ko9sDb1iwEk_Wd8A22BnGfmQ9csAhtcZJ1_P43dNcgHytOA-Jp6mekdXSLgs5TvQ6p4Qu-di4SEFdzY6WtsG1RSJWINALipRMSlQIKgAKy_VnmNRhLGd6ULZ9nrEpqh-KWn05hAm6YPeJO8UOWnAIXVfIHIsAVZzjiirJw6a83lSDgQlpnBqfiHleh_UN4eju9-cywZGGs2h7Gp6JA5R44J_y7Xs4VVQrPAp_Zgl5gCr4t7DOqqqWGwvNre2cryvr9retg9iSdYtc-3qyRpnE5L9Iq2MsOQG7WK7-b2gZMiHYtSSd26iXmBdG2OB2roDAJwZT_-JxDMy9BRS9qClg_IWEkILVDP4So96noGbVUP0hanWxfJA-j7-y4eOpWEst0kZYD6RoEqnfI3r0X6TuqfjXJLy33rx-gIU7wMUm9EZQpY5ZdkjdOlweGCCnXEhDDLpck2xRFrJ2f9DXk4A0W&target_api=22&hl=en&scroll_index=-1&request_pkg=azq&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=2fc3e55d-edbe-451d-a9a9-18b272a14437&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.10084000.1&session_id=138595901809836486&native_templates=1%2C2%2C4%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lazyswipe&app_name=2460.android.com.lazyswipe&_package_name=com.lazyswipe&an=2460.android.com.lazyswipe&net=wi&u_audio=1&u_so=p&basets=1131748344&currts=1131750164&preqs_in_session=2&pclick=0&support_transparent_background=true&pimp=0&preqs=2&time_in_session=1820&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2164674174362877&slotname=7985405547&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1834117&prdtb=855494&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4472000&heap_max=268435456&heap_total=43532152&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&_extra_string=ialszpyzpullhrcrugedqipyeudczlqsgmaddaqrcnbkudrhtcznawmjgykmsktltwacedwsdibyrsnqlpmjnfzsvnbdesnlfhlatmfclenrgkodjvsacjtgahnahkfwndhtxfnfjappfdklppntecxoehgbjafsadvnsqwjeaokfmynqcebjjbvgqzgyrtsendqndmmcaumokixcdcwcmkdmdekxaehafpbywlpvkcwxlvixbhpbfpbhoefvsgdubxvfpxrbfkxbuwrqgomzahorhhltieemevorhizydfesfgpmnlhdynkzwhglzxtbuujbjvruhxoumxjtrqnfxpeetvfomogrzdxjavbwpsxsvepvgxpxllohlsovlqgyiecipptmguanqfjicnfqahwbnstlhwmsxjdyrmqlcuajkcpwuncwochkyhdpqezwutxfmjdqgufywymkqamupdlkccsjdhpglxlpdldncdphkjhoprv&includeDoritos=true&content_infol=-1&blob=ABPQqLEKOfjCqb5IsyXr6bRUOhTW1O9T-6bK3hIPANOWFDOplt0Z1vnCveq7Sh0j1rqr7tySWNmtOc8PLSL83nRl8K_h6owIaVubkccC48Uys8OPJr1PDmFNk0OTlrm_Kj3pNHizMCfuf-xcDVryKHk5J3BGRn-OkkLVnFHCan8m_4tddwA0ObB4I-Z5DF93HApwcKnQXDKmvl1gAfe49VFmpr1AUZpIZ26vNeL77ZZzZcQGK06Nm87c6TZi1Q&et=4&swipeable=0&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3661"
+    }, 
+    "47843ebc-cacc-4b4a-bd93-d2418c8f7bd5": {
+        "ad": 0, 
+        "dst_ip": "52.87.50.99", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "935", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.9.1 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "4a8689ef-528e-4493-bb02-07fd51e0168f": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=193220&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "4fa510f0-bf21-45d1-a566-70728cef5969": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "4febfdba-b488-4a45-b22b-8a2acd4ef45f": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "114", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=104&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "500a00ba-2475-4894-9688-ec9a88e11af5": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.172", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/iwatch.jpg"
+    }, 
+    "502bcbe0-e3e3-4e68-ad58-f291ada4c64d": {
+        "ad": 0, 
+        "dst_ip": "52.33.253.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.lazyswipe.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "a.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/clients/options?vid=00&pid=400105&dpi=560&userId=null&locale=en_US&lang=en_US&cid=32400&h=2392&osVer=23&pkg=com.lazyswipe&w=1440&ver=2460"
+    }, 
+    "51314292-257a-438f-87c3-ba103427f565": {
+        "ad": 1, 
+        "dst_ip": "52.8.64.222", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "322", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.api.kaffnet.com", 
+            "token": "0dfeab06-ed62-99a9-e92d-eff220aef239", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/adserver/v1/promote/ads/sdk/v4"
+    }, 
+    "530a16ae-2199-470b-ad97-d742f23daf4e": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "118", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=108&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "5420503c-2799-4f41-8aae-451e04358667": {
+        "ad": 1, 
+        "dst_ip": "52.8.64.222", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "322", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.api.kaffnet.com", 
+            "token": "0dfeab06-ed62-99a9-e92d-eff220aef239", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/adserver/v1/promote/ads/sdk/v4"
+    }, 
+    "5451044f-fe6f-48a4-a286-e2dfaf903b85": {
+        "ad": 0, 
+        "dst_ip": "54.213.138.35", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cfg.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "cfg.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/json?pid=400105&filename=ad_400105&versioncode=2460&uid=172.31.42.2&country=&a=400105&v=2460&s=32400&gp=1&gs=1&fb=0&uid=&hash="
+    }, 
+    "5554da78-fb45-4c8a-9f06-6fa67be27aab": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734762%2Cxxxxxx72723&lla=20&llf=87157&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "555da7f7-0e65-4299-aa4f-8cc37577980e": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "114", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=104&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "5571811a-8e41-44e2-9cde-b8970268c7f5": {
+        "ad": 1, 
+        "dst_ip": "52.8.64.222", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "322", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.api.kaffnet.com", 
+            "token": "0dfeab06-ed62-99a9-e92d-eff220aef239", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/adserver/v1/promote/ads/sdk/v4"
+    }, 
+    "57c4ef64-c1f8-45bb-af18-009f17e57e4b": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "584b2dc1-a2db-430e-ba48-ec194f28dd2e": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "5941001c-92d2-460f-b59a-4a459fdf5134": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "5953f534-eb11-4551-b945-6e47031b7f3a": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "5a395065-a194-4dc8-8ee0-f7198e54ef27": {
+        "ad": 1, 
+        "dst_ip": "52.8.64.222", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "322", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.api.kaffnet.com", 
+            "token": "0dfeab06-ed62-99a9-e92d-eff220aef239", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/adserver/v1/promote/ads/sdk/v4"
+    }, 
+    "5d0a0bfb-425e-470a-9de4-e75e1025e365": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "5e483349-e848-42a8-a002-5c8ba6e2ddc2": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=1e59ebf0d8dd4da391bd95950bba0642&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=220831&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "5f638be2-a01f-4227-8a14-9172b9589a77": {
+        "ad": 1, 
+        "dst_ip": "52.11.57.185", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/ad?a=400105&v=2460&placement=51&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&imei=xxxxxxxxxxxxxxx&androidid=xxxxxxxxxxxxxxxx&model=Nexus+6&brand=google&osv=23&carrier=&network=WIFI&locale=en_US&screen=1440x2392"
+    }, 
+    "600f3a77-3ce7-4729-ac80-c9a9e251ab92": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "950", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "60fb91b3-5add-4465-85c4-f3db386a995e": {
+        "ad": 0, 
+        "dst_ip": "52.33.253.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.lazyswipe.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "a.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/clients/options?vid=00&pid=400105&dpi=560&userId=null&locale=en_US&lang=en_US&cid=32400&h=2392&osVer=23&pkg=com.lazyswipe&w=1440&ver=2460"
+    }, 
+    "6210da82-c63e-4ffa-bdbb-5d62ac6c7e50": {
+        "ad": 0, 
+        "dst_ip": "52.76.200.200", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1160", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "sdk.api.kaffnet.com", 
+            "token": "0dfeab06-ed62-99a9-e92d-eff220aef239", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "sdk.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/v4/com.lazyswipe/aps.php"
+    }, 
+    "65fcab7a-6526-4a85-94d3-c17d829a40e1": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuktWFDM4BL2cxhyW0LKPDmyXp12dmODIx2WFrS84gR1YlR8m5JFJDaPWNO4sXAzgqWEy4dfYJLCsVyv-0XZZaYLyMjkyqdG5cm_MQbSZcRs9uaskBow"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=1&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACh3vMyWHaXn5XiOrhVIXBFC8xhiyenUnyfmWVdRceqvI4poPCEObIajSa9vvvF1XChw-G8nqNTNU_El90bGTp5y3iGIvpLXX5vDqspoLfFtJoO13cqaKPnMTWhvL9TKNlyZ9tAg_1xqlS80HegDTiW4VzBOWsvJDCPv95iUHyWPDD4Hg1WrMng6AzevvT8xNOeQgnwRYKdPRaOQQiZWQOBZBAhfGzigeO7vBNxV5XhoRZ-7zQskkZnVZEpft4dGFLYQdAlYIbOBUU1wilXCZYe1O0bMY6mx3vBZF7Qu4MbabN7X1CK1PDaZoWxMymAiok22X1EE9OsJ7Q5PBN6SZnpwqAAmZnLcehlpFk7zoi6muETQJ5Oswg7B4ZNDZZZKG-JyLHW-P6FiO3Pn4z0wqoNCMqk64cPW6vwhv1NOmDKdT9-gTqVbdM_4b0WrMUJo9rQK0-7BBWa_QPKI0TF79qiqP67xlXaiDdQ3BX_n3E4-gDtKn_h_u2b-4Q4gearvRd-P9JyW3_w40iB0Ojw11EPx8Ve5w59ZJGOP6tnjZmWAiDle9oZBd3MFl163woyM5t-L9y4CwV234Qr5Wppqdks8jVzzMGN68R-FrG6xSHhT6e9ADZ8f-O50VwcZQ_8i3oiECO3tDI0sTJKiCJT1TW8vjSNGhSPa2wcV1N8HVmAHhpg1sSEIge6Fe_tEWndXZqvnGr9zsSlQIKgAIHkd2Dlf1dxivhpZRz1FQU4POKXlIkjhFlzHY1ZMMY02BfXYtmW0hhRQHmE8oY621XNaRIsWf5wazKkuUK4VW0ng-_XFC58DCCKpLnGtrcT9dwNykjTlT7OKbbV5eNHrOIL759iis80Syvwh60nm0kCJf3hCascjf_H0mtVfABXMw1pZUrOFtsoALMtdJbwhth_G7kzsNkuwfDg6lYUI99LhGH1ek39gupIjWCN_NsLVfSsSpXCavhxLAoJ2XEgSJja0gg5YHTjek3eyv6MO43mV7-7fO75-JMVntOSgkVsG5G-rwq6z3mjc4-zzh1N9QBWQYOphrX3CzWCRoj5D_CEhDDLpck2xRFrJ2f9DXk4A0W&target_api=22&hl=en&scroll_index=-1&request_pkg=azq&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=873d0cae-b7f9-4a7d-a003-300fb8b3cdb0&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.10084000.1&session_id=138595901809836486&native_templates=1%2C2%2C4%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lazyswipe&app_name=2460.android.com.lazyswipe&_package_name=com.lazyswipe&an=2460.android.com.lazyswipe&net=wi&u_audio=1&u_so=p&basets=1131748344&currts=1131748344&preqs_in_session=0&pclick=0&support_transparent_background=true&pimp=0&preqs=0&time_in_session=0&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2164674174362877&slotname=7985405547&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1834117&prdtb=855494&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=8714720&heap_max=268435456&heap_total=43532152&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&_extra_string=mtrgrpyliekpcjwdjfchsurjizfolqtprvphwmllhfzorprpovwrtvpezedvdifkqyvshgovzetaikfepssgryspxesdtznjvbawdrpmgnoxcmrrxxrrlbursqfawjhgsvqekcjogocxdflqccajmrzwhkziozgquofrkwwnehmhyeqewaayjxrsbysfgthpjacfbykuymbkiajwfjjyopaxbqwgfoyajutggchcdciqqkfplbwdrgiqhnlarpyzdszyinkaizjrbifjvkbxvglssggfhvcdvkvgdqzivgrcjqrwoyfithjfsllehpagaznwlcpcxfpzmxvhypuzzcirqzbmribcbulodztaklboyjqalxfztpinykxtjpknhzvlsmwtysdrolpmivmnlvpfevtkjbvzamxvdmcszfapwsnmdjxroxlgxxnmuhnaqaebjjnbthwvdwexrsvcpajtcqueiofqwbomfptuspnrkozjqnvn&includeDoritos=true&content_infol=-1&blob=ABPQqLFcN4uOTkCNvzYnxY-OEzjuY9lYONC6JfZSrN__tKdzZDc0jk6HIpTkVcRYnvTDzdBBJ5rXVR8B90XTY29uLuEIMc5Y9g5lAlMgyzqkOpDBvQ_wmIl-de8T0LZv9hJuPzXuNRA_TCIwlU06ls9mDydRvDiGhPObUnDYMcUgiCp-jgBH7zDSyFy5jpv-oq9lINb9q8HpVDkpZDbNcXwGQdi0dUPQuM2NJfJKrMFTSZ0cy9DCPnzkO1_M1Q&et=6&swipeable=0&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3650"
+    }, 
+    "668f0444-fccf-4868-96bb-9417613c7c6d": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "6796b127-339f-426e-9eca-a5e193644375": {
+        "ad": 0, 
+        "dst_ip": "52.87.50.99", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "909", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.9.1 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "67c8a6e6-74df-4d65-be68-df1c0bbad717": {
+        "ad": 1, 
+        "dst_ip": "34.236.195.212", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1630", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "placements.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "placements.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/v1/apps/ec63e4ac-2923-4135-b0b6-4bee0b915c89/content"
+    }, 
+    "67fa162e-cf73-4e1c-9c18-4fe3e1d8783d": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/e67935a12771e953b507cb76ae80367b?w=540&h=960"
+    }, 
+    "6872f297-59b2-4e03-9aa5-85ce791be507": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "691bfa53-a55b-4bdd-8dc7-1e180b2d361a": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=194204&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "6abe9078-a3ea-4fb9-b92e-2d24f1a437ea": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/19df5dd28c46f068f52af3d5f88fdf65?w=540&h=960"
+    }, 
+    "6b3bc081-fabc-45e4-a7cb-98acd3fdd827": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "6e5ec2ce-d22d-4e8f-a122-9ed5b420a694": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1178", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "6e6fa9a5-24d0-43e7-81f6-2cf3855bd3a1": {
+        "ad": 0, 
+        "dst_ip": "172.217.11.68", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/binary", 
+            "host": "www.google.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "GoogleMobile/1.0"
+        }, 
+        "host": "www.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/loc/m/api"
+    }, 
+    "6f7ff499-c0af-4501-8b0c-fd7154fa7bbf": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "990", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "6fe08358-f985-458d-95de-b223902c6414": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "70065cc0-af30-4f0e-8150-19dd3c1bb970": {
+        "ad": 0, 
+        "dst_ip": "52.43.211.248", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "tq.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "tq.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/searchCityByLatLng?lat=xxxx734309&lng=xxxxxx726895&info=&type=android&lang=en_US"
+    }, 
+    "7107ba02-9338-445c-b9b0-7d970513cf78": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuktWFDM4BL2cxhyW0LKPDmyXp12dmODIx2WFrS84gR1YlR8m5JFJDaPWNO4sXAzgqWEy4dfYJLCsVyv-0XZZaYLyMjkyqdG5cm_MQbSZcRs9uaskBow"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=7&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACLR49Px4OqORuvHkXmGZVOhuLMJWhHEFiK5FOHYkIKZUkIX5N1Pj4BTB37OeHa3-RLcvk_AeugUqD5g8tSp7CI6ojG0orNMdAb8GtFJAI1ZDq8aNknBf-SQiZjtvn32cUFHITf1KKTvuQtNiVcpBgVtvUFGAhVxvUNe5RfJ-YVvqGWEFrrinude2B130EBkOi7xU3s6usIevaoeLQUBLwgJhiZLLuVeHNrDBptv8O-Ayyew-KXwt-CKCgeP_iJACXljWFb5GvaapFKgyTEn4ndwZvTHpfLBTL2JIMn8xSacCzkk92k7l-CmEH6gpAkIoQ-EFy7Y4ZZc_Fd2_66CPhTQqAAjkZlxY1juxqGz5QJHHN7i4VvZjYJpSx_8dIXndeUTZJYZFV19j7HiSJk1lZQZIWeHnYI_QQ8WGHhXV-nxW6Edv9QieGQiVqcInD-AWI4d8Ty4pwa8OJgMsQOWIVcwzLqy51IBZV8ZyRQZxDC1CkhfgRheiYV4f-P63furhiF2TgqjlYQRRR_4iVfLVhqxiJUgWO8uf3SMRUjk-m97F9aPc8Cag6KD46wCPhjK83sWQEKSmwL8C6iOLYVv238_kxsW8Uq1ETsf5ul0FRb5hPKJWSRoS_l09Qtd_9SzU8K6mFbed2OVym_zD4clKZkSOPQdQYnp_xtNM3Vu9hX7lbmPESEEF1xJaHRzHM5wiy2lRN3DoSlQIKgAKWoRej5VhhB45uc1dUVTJGMW3cHvWqMvcE7aZxJ2nuM2B0dRmkUf6X8beqI_8g126HPmodl3YPMS5HKOVZ6RlTzo2NK3GyOCfBsl4iPMZ6_HBEGXjl-fT53hPl4jO0_uZ8OuA4OoncdswI1Fk3DS2VDw7PVCIr8nSchM075XL12u0qISKpuZdeAAXUh5B2mLiTyx6hKO0m3Wf9ZUirz1ls36YnUcmrtJq4PH-2xOQ4Giblef6WmJsCwBi8ZPB4BUMB1iCjkqNz270bk20rOoj0G0kwrXKCl2aM2zE5uxR55urBDNrv0gcBLVKeGQvUc_ZRbqapcrFL7_vPn9nWVn0AEhDDLpck2xRFrJ2f9DXk4A0W&target_api=22&hl=en&scroll_index=-1&request_pkg=azq&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=2ba261ac-6573-4468-9f74-47515b584870&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.10084000.1&session_id=138595901809836486&native_templates=1%2C2%2C4%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lazyswipe&app_name=2460.android.com.lazyswipe&_package_name=com.lazyswipe&an=2460.android.com.lazyswipe&net=wi&u_audio=1&u_so=p&basets=1131748344&currts=1131966207&preqs_in_session=5&pclick=0&support_transparent_background=true&pimp=0&preqs=6&time_in_session=217863&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2164674174362877&slotname=7985405547&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1834117&prdtb=855494&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=374880&heap_max=268435456&heap_total=58420136&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&_extra_string=bibitbrewvebosvtdurhvvzxrcksrvtrmphlixbqcdrgsebpffhiskreoxqlshxnpyjpkbwgbyngmyjviazhmnslctnavcyjjcdnzpeanumoevezsljylyowryemrjzmxirvnzmnnnjnlfhxejpvbmftfzfkzmsjtrabsarsuicotugdssrelpjehiexsoqpqtdlnzqwgficozofcqzalidajtscozrqevjgnxjacvserptweydacuhkylcwkfhtygdvilezaqhebndvlsfoovsthfiedpyiodgaxquadxilxszbwyzzsipdqhwdezgrawbwwfwtqkoanzoyaxedddkvgvbnpswoufdkgilxnnhlaymwymffsyquqvkdlkvlwjxwnkskwguwuochonemtvzvxtefoqmmbduchcnzntxfesttjoxybhtwsatfjqlqvuxfgkqdvoeyqhgyrwmwbpfataalizhfiopeqftbkkswydmnjzbe&includeDoritos=true&content_infol=-1&blob=ABPQqLGOqQim6AL5HqjwrC5rNCHr1awu2eOhiyAYtct0DqqKe967sjresJwNAG5Lh8KyRgisIITegXEp-PJ6NynLyQuuQdodIW6pCV_wwfsxKQMNenyWEg3K9h8Zh2Q1onE0BZeZU-5uMjKzXB8pR1FeYE-G5oYf6_stFFtXu7ebmVsSdwDm13t7f5F7VWbzga204EZabHGekG43x7DJYVELBo4WKwG7bHaUC8w-ZRFbebU9PEwXNPHRmHcUKQ&et=7&swipeable=0&tcar=9&jsv=4-production-sdk_20180212_RC02&urll=3662"
+    }, 
+    "723887e9-972c-4293-8a94-8b83a55ddb9d": {
+        "ad": 0, 
+        "dst_ip": "34.250.94.219", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "642", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "track.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "track.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v2.3/androidevent?buildnumber=1.13&app_id=com.lazyswipe"
+    }, 
+    "725a33ca-4801-4e0c-9c40-49a14298a849": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "682", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "73225230-247d-4814-8213-f59ca5b235f0": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734762%2Cxxxxxx72723&lla=20&llf=110659&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "7360be24-8b5b-4aca-aa06-ad653dc06b75": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=205933&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "738ddef8-0535-4d06-bc6f-a1cdef2d4f4b": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "114", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=104&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "73d9949c-b5d5-43f7-9f26-9a4228a7c09c": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "740b42db-6213-4702-9bd5-13f74b10ecf2": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuktWFDM4BL2cxhyW0LKPDmyXp12dmODIx2WFrS84gR1YlR8m5JFJDaPWNO4sXAzgqWEy4dfYJLCsVyv-0XZZaYLyMjkyqdG5cm_MQbSZcRs9uaskBow"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=4&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACol7HwE_ZX3tqjevkcIPDETgUjyyjuUD3SmaXdCI_q_8vpILOGeHBbxy-_vL7FVfOgQ2M8nWPR9giMF98a2fr4x3GG4vHKnTxvjikr47cH9diG1_ZoKWOnPfwjPbkbapt77hlAjnRx61q9krXgTDiX4pxBuG0uZvOCtp7jGvxW_XZ4XAwQLIti6kzcfvb8hFKeA4mzBQsdvxLHwwrXWQOCJtFhfGsiA-Cw_NHwWhWhohk_b3Uk0sZkFVgrfZOdWBLUSdLmIk_OREm8wqtcwJRf0q0ZscZux7rPbB4RuwJZKvryXRDMlHCaYAVzsijBiEp9WX1GFpKspr04vhByiNtowqAAleckgB4C-1QhGw4WHWORDar8c3S2kyjTAa1dtwzzaL9CyZLGnpS1LgNT9jns_KXxxcTHYbXWWQTiDGjKRyRN6jfvbU1WCJy1lFiCFSxEMasjlkhxAEcgxLx_GO-fKwx7oXnh-MC20ZLMReDQdzrOH_XLRVAjUxpLG7UkEuibZH8_zI-ZbzI9hsFKFavWMPIfCyJafvIM30sVOExcn0wyE2OK_L0J56oB7vSduvvf0YFVVVAvi0sRzvXDdRnFEkSNw3s2M0bVZEPPZRnZerggA95o95H1LuBXyxT6uedBADqlKGeAychNjo4m-2u_NAWlp8EAF7H4YVLZ2lHp-5lR2cSEP2Ll1Br2792zYDTIL4UeGMSlQIKgAKUyNiVhu6dkb-o3LV3Flg4QpOC9MaeJzVFdaJ_V_IE21EOoXn00HUdwzhXv826i5zUTeXfhs2QfQ5y7pcJCBTzjNVaz3PhQbWDS_pKHPpVbFNI9pCFN4iZrC77iCE3kjgs39vkOiP9ep0VU5c2N5RjDy9rugLM0_TfzhVn9MkBWN71vHyKkeoyMfJhP-DwC1zTbqY5SLnl5QT74nrr-kq6ntBOg9jcb7a6S5ywtDpNNnbBlI7FG4e84zktguC2aa1ACehJ0XOrG_-F7o94qX-SCN13Q1JT3_DcT6f1-aKxXuqtu7KcuZhzHj8m9zrPRhgQmFOfEqk6rbjWUK-0vbpcEhDDLpck2xRFrJ2f9DXk4A0W&target_api=22&hl=en&scroll_index=-1&request_pkg=azq&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=965362ab-a056-4656-ab60-2dc8af6cec41&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.10084000.1&session_id=138595901809836486&native_templates=1%2C2%2C4%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lazyswipe&app_name=2460.android.com.lazyswipe&_package_name=com.lazyswipe&an=2460.android.com.lazyswipe&net=wi&u_audio=1&u_so=p&basets=1131748344&currts=1131761445&preqs_in_session=3&pclick=0&support_transparent_background=true&pimp=0&preqs=3&time_in_session=13100&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2164674174362877&slotname=7985405547&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1834117&prdtb=855494&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=1450424&heap_max=268435456&heap_total=43532152&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&_extra_string=uzwsjqhpvrektyepwhlggvlgvcefwqvexaawewdejhwzkwpsvrfergxdaozlzzyybmejpzvtnfdqzgojrgvodnklitkvefucedjybvaguzdfgmjqjzztunuqwwvyypwnkhpldpidiotpajsastgvbabqraxxzgttlcmoumkwhemqfibqvxwedoqckscaqqmlqphktzidmgtwgwhmkeeogqfsbwuxbblbqaketnvwnzicirrkgfpebqnhcuwtgkaxqdfuulzhmpvzeanxypthbfdgiiwoqleutsuuwvgozudofygarnrjecawewmxerxmslkvtutcnnvyowrlhkbrgndczxugkfabutqtbigjlavtglggtqbjrqxoofworptefwjvpxebikuhxaihhujzpsyqxnviqvyjjpojphxvxvlgvrgzdnmxqvmzgsiobmimndsifstxatlqfzclefwiurcwuciooufttorwydkouoduytcnrvae&includeDoritos=true&content_infol=-1&blob=ABPQqLFKWxRt8pXuXrynpYHUya0mYsj7G1HEAx9QOfFmPB4P5-MOAddfjpu09spssmgb2MALj6MKfwoCDqtxu7DOvS9lRleeINmmgegNyzzeyCSQ11Imxr6YT71uPtWyYyQovbfAf7EuSsyqxMXiizZamoWnZhKsvo_UlEt9nW2K20zswQC1zCea3kJxM758h2mg_c5DU57gKIwl-7mB_ELpK7vuiTXtywjGHeOOoW9qdxtgFHZ7GP9FDWIqLA&et=13&swipeable=0&tcar=15&jsv=4-production-sdk_20180212_RC02&urll=3664"
+    }, 
+    "758cc2a3-b9cf-405e-b9f9-968ebc87622f": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734762%2Cxxxxxx72723&lla=20&llf=87157&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "75f33d6b-d142-4992-b1fb-eba723f52d45": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "314", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "774bd44d-60eb-481f-9b39-82f9ed48e40f": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "314", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "784ca72f-8f3e-437c-97ac-0c3416fafb06": {
+        "ad": 1, 
+        "dst_ip": "52.11.28.203", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/ad?a=400105&v=2460&placement=51&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&imei=xxxxxxxxxxxxxxx&androidid=xxxxxxxxxxxxxxxx&model=Nexus+6&brand=google&osv=23&carrier=&network=WIFI&locale=en_US&screen=1440x2392"
+    }, 
+    "7dd0738c-70bc-43c1-ac27-643a95e07000": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/94a68b1feea763001df8715b89a95159?w=540&h=960"
+    }, 
+    "7f86599b-078f-4661-af7e-da0d384bcc29": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "80aeedad-ad6f-4b29-b455-e745e916eeca": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "8154d661-f3d1-4615-bc64-02db1bb3473e": {
+        "ad": 0, 
+        "dst_ip": "34.225.213.24", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "837", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.9.1 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "82d0920a-27f6-44fb-baf4-fb1affbb926c": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "8543882a-7b47-40f0-a550-e276e463b3ce": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "85784f74-eef3-4fd0-a436-8113fce41823": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.74", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "751", 
+            "content-type": "application/x-protobuffer", 
+            "host": "cloudconfig.googleapis.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cloudconfig.googleapis.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/config"
+    }, 
+    "8589767f-9b71-45d1-8f65-ca2bf35ca37d": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "86306715-126f-4e49-8803-7adeee9dd072": {
+        "ad": 0, 
+        "dst_ip": "52.11.57.185", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/se?lang=en_US&pid=400105&cid=32400&vid=00&w=1440&h=2392&uid=null&gaid=none&a=400105&v=2460"
+    }, 
+    "876527af-df41-4971-aa18-107bdd68d9a8": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=226527&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "8ae5633a-9311-4a83-bc92-ed6683ce9ca8": {
+        "ad": 1, 
+        "dst_ip": "52.11.57.185", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/ad?a=400105&v=2460&placement=51&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&imei=xxxxxxxxxxxxxxx&androidid=xxxxxxxxxxxxxxxx&model=Nexus+6&brand=google&osv=23&carrier=&network=WIFI&locale=en_US&screen=1440x2392"
+    }, 
+    "8bb8047a-ffb2-4c81-ab70-856dac7f63d1": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.172", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/technical.jpg"
+    }, 
+    "8f48c658-7d9d-4585-843c-a2ef67aed8ea": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "978", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/update/update.php?p=41ae36ecb9b3eee609d05b90c14222fb"
+    }, 
+    "9150bb49-7a02-48ef-8f7f-d5fce65b7bb1": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=1e59ebf0d8dd4da391bd95950bba0642&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=223506&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "9666950b-5582-43c9-9842-37ce8ad64139": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "118", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=108&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "969984cd-d999-4972-9656-695f33da57d5": {
+        "ad": 1, 
+        "dst_ip": "52.11.57.185", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/ad?a=400105&v=2460&placement=51&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&imei=xxxxxxxxxxxxxxx&androidid=xxxxxxxxxxxxxxxx&model=Nexus+6&brand=google&osv=23&carrier=&network=WIFI&locale=en_US&screen=1440x2392"
+    }, 
+    "96ec09e0-65b3-4dda-b3c2-30f671f4853d": {
+        "ad": 0, 
+        "dst_ip": "34.211.89.144", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "reward.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "reward.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/award/precondition?vid=00&pid=400105&dpi=560&userId=null&locale=en_US&lang=en_US&cid=32400&h=2392&osVer=23&pkg=com.lazyswipe&w=1440&ver=2460"
+    }, 
+    "9877e541-15d1-41cc-8396-f32170f6239a": {
+        "ad": 0, 
+        "dst_ip": "52.11.57.185", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/adscfg?a=400105&v=2460&s=32400&gp=1&gs=1&fb=0&uid=&hash="
+    }, 
+    "98b79818-cb9b-45df-91ff-a83696e845bd": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "118", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=108&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "99f7db82-9daf-4c79-b884-bda49d3eb913": {
+        "ad": 0, 
+        "dst_ip": "172.217.4.132", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "9cd3145f-6f58-4ea8-b0cd-fd394b2e0f90": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "9cd8e003-d3f3-4a95-a9fd-e367d4b42986": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.22", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/black.jpg"
+    }, 
+    "9cd9124f-e7e9-4d49-998e-0510b5296941": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "118", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=108&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "9dca6013-b544-43fa-bc9f-278825333965": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "9dd098d8-7e31-4b68-a5a8-27f7c650488f": {
+        "ad": 0, 
+        "dst_ip": "52.87.50.99", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "948", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.9.1 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "9f0e6dc2-ffec-42c5-9746-4837a428a0cc": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "314", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "9fd804b4-596c-4151-81b2-4f33a489a238": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "a09969ec-8da6-4c6f-8baa-1f861be1e462": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "121", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=111&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "a0cd8984-389e-49b5-a43e-83dba99784ce": {
+        "ad": 1, 
+        "dst_ip": "34.236.195.212", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1622", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "placements.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "placements.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/v1/apps/ec63e4ac-2923-4135-b0b6-4bee0b915c89/content"
+    }, 
+    "a3ca30ad-cecb-4e04-9439-b2eac8648994": {
+        "ad": 0, 
+        "dst_ip": "54.68.255.214", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.lazyswipe.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "a.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "//splashs?w=1440&pcode=400105&vcode=00"
+    }, 
+    "a5f85d32-36e6-4707-a301-5d8976c388f9": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/38ebfb16064c0711b4f8bb23e5e20c7e?w=540&h=960"
+    }, 
+    "aafadc84-455a-4a65-97da-289a61736239": {
+        "ad": 0, 
+        "dst_ip": "52.33.253.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "172", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "a.lazyswipe.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "a.lazyswipe.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI"
+        ], 
+        "uri": "/users/activate"
+    }, 
+    "ab8eddbb-4810-4144-bb19-780cc0a00762": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "b0df93a0-8713-4630-821b-ca5654f4f951": {
+        "ad": 0, 
+        "dst_ip": "52.212.120.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "b3d5c725-f79e-43fd-9117-8d9d7f782f82": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "966", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/update/update.php?p=41ae36ecb9b3eee609d05b90c14222fb"
+    }, 
+    "b6445b69-88c5-472a-9ae8-b884406e4a5c": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734762%2Cxxxxxx72723&lla=20&llf=110659&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "b7307146-f31f-4a7c-ab6c-fc28017a9960": {
+        "ad": 1, 
+        "dst_ip": "52.11.28.203", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/ad?a=400105&v=2460&placement=51&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&imei=xxxxxxxxxxxxxxx&androidid=xxxxxxxxxxxxxxxx&model=Nexus+6&brand=google&osv=23&carrier=&network=WIFI&locale=en_US&screen=1440x2392"
+    }, 
+    "b8d511eb-859f-49e7-a418-7ee0e4e57c62": {
+        "ad": 0, 
+        "dst_ip": "34.225.213.24", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "825", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.9.1 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "bb98b648-4e84-4067-a523-ede50cb061d8": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "bbbd42f2-d818-4e95-a75b-4b2e220d9271": {
+        "ad": 0, 
+        "dst_ip": "34.210.26.237", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "adapi.holalauncher.com", 
+            "user-agent": "hola-launcher"
+        }, 
+        "host": "adapi.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/fetch?placement=51&net=1&pkg=com.lazyswipe&pkgver=2460&isgp=true&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&isfb=false&imei=867a26bff04301096d999c167ca5ec7f&osver=23&instime=1519251105932&memory=3113172992&country=US&language=en&channel=32400&brand=google&model=Nexus6&os=android&romver=6.0.1"
+    }, 
+    "bbe0591b-0e89-4f17-9baf-dd331619c9fb": {
+        "ad": 0, 
+        "dst_ip": "52.33.253.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "418", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "a.lazyswipe.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "a.lazyswipe.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/hotwords2?uid=null&pid=400105"
+    }, 
+    "bd302137-4430-4dfa-97e8-bd36095dbfcf": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=1e59ebf0d8dd4da391bd95950bba0642&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=220831&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "be264621-649e-4466-8b26-d1f513bfe2ce": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "c0f6323f-f947-4b51-8203-74980aa67dcf": {
+        "ad": 1, 
+        "dst_ip": "52.11.57.185", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/ad?a=400105&v=2460&placement=51&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&imei=xxxxxxxxxxxxxxx&androidid=xxxxxxxxxxxxxxxx&model=Nexus+6&brand=google&osv=23&carrier=&network=WIFI&locale=en_US&screen=1440x2392"
+    }, 
+    "c15df7d5-8138-47c6-aa18-472622432141": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "113", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=103&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "c181908c-7c97-4fe9-937a-08d439025231": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.207", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "gc.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "gc.s.360.cn", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ak/41ae36ecb9b3eee609d05b90c14222fb.html?m2=eb6423600b3d499d95901425c8d89db5"
+    }, 
+    "c49620c1-887a-4532-97d3-3d1368f597d1": {
+        "ad": 0, 
+        "dst_ip": "107.23.216.193", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "charset": "UTF-8", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "setting.rayjump.com", 
+            "range": "bytes=0-", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "setting.rayjump.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/setting?app_id=22771&sign=b7b55dc5a0d047e9b8b3783917c70ef7&platform=1&os_version=6.0.1&package_name=com.lazyswipe&app_version_name=2.46&app_version_code=2460&orientation=1&model=Nexus%206&brand=google&gaid=&mnc=&mcc=&network_type=1&language=en&timezone=PST&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%206.0.1%3B%20Nexus%206%20Build%2FMMB29X%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F64.0.3282.137%20Mobile%20Safari%2F537.36&sdk_version=MAL_8.1.38&gp_version=8.8.12-all%20%5B0%5D%20%5BPR%5D%20182623210&screen_size=1440x2392"
+    }, 
+    "c52a25e0-eda6-457a-9088-6ef8bb889bde": {
+        "ad": 1, 
+        "dst_ip": "34.236.195.212", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1630", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "placements.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "placements.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/v1/apps/ec63e4ac-2923-4135-b0b6-4bee0b915c89/content"
+    }, 
+    "c657c81e-b7e7-4b41-8a69-b6317419ec63": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.9", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=e7c818ae7910464786e9690296350486&nsv=4.16.1&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lazyswipe&ll=xxxx734401%2Cxxxxxx726881&lla=21&llf=194204&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=2.46&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0"
+    }, 
+    "c666419a-e8cf-4d30-8522-310281c121bf": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.22", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/white.jpg"
+    }, 
+    "c7115673-5a44-4aa8-907e-ac23654fe480": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/0e312172298faab4bd7947e810c55205?w=540&h=960"
+    }, 
+    "c88353af-0563-4991-be65-db831b9b03aa": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/picture/float_clean.zip"
+    }, 
+    "cc017e83-fd1d-406e-af2e-213a1d581d95": {
+        "ad": 1, 
+        "dst_ip": "52.8.64.222", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "322", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.api.kaffnet.com", 
+            "token": "0dfeab06-ed62-99a9-e92d-eff220aef239", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/adserver/v1/promote/ads/sdk/v4"
+    }, 
+    "ce1e7cb5-0262-44fa-b445-930ed3e91e6f": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "System", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "d215217b-ed8f-4320-b060-1fa732ddb9d9": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuktWFDM4BL2cxhyW0LKPDmyXp12dmODIx2WFrS84gR1YlR8m5JFJDaPWNO4sXAzgqWEy4dfYJLCsVyv-0XZZaYLyMjkyqdG5cm_MQbSZcRs9uaskBow"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=5&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACp3_E6R7eXlwfjOjDX4PDFho3jiyWnkHwKmKWdWgfqpAJpIHCGOfBaAmd_NvbFlaC9wmM0FqMR7c_Fl80SGboh2LlGMmGKna7lTqnxs7bH7B2P1y-9qONnv_XjbC6S6oF95pmQjbzxcsD8UucvTPieat0BuXMvZqCXf97yyr1W7Da4nA3LLQtw7Iycvn_9RJuGQ0k4UgNdZQNOg1iOWEMJ5JDhbG7iQzuqPVFhyFUhqZj_r6Q6Esa3XVEr5lucGFpRQZIl_kdO1Uu1QuFPCdQeUW3ZOQ4mx6NRpN4Iv4JZ-bi7nVCZVPDC8oTzeyNAyNGgWb0cDtOsP6j5PoPnydsxwqAAsvXtCp6uUn2-K_PAv5AbLQP5SL29RLmG-OL4yI2TeAyOFsCiq3Q1eNYbtb6BqhPvyBMBGGvPAj-jsSzSWSg4KsZhZTH7teaxsO9gpxkTuOtKH5lJF1XKPdU91I0m7lqvxv0ubLkDoA5Fhug9rnWPWM6SO6-2aLGW3ZS3bh5Nhp8GqZXWDOjEtcs7jBwx7ApDbedIWNXKGpGiPC9l2zrxycQXteEinLEm5QManTobyukTUG92dHbIgwmYEEtQrSk90sOFN39r9obuurf2lR10iwoIY6d19lt5sbcdaN9SWR6f1aPjRUb2s3z1MnuBXkZAJqMMULunRBHbctn-FvkQSESEAlexIYjA3U54OR07B09FX0SlQIKgAI5oVBifcnFd8eV5saddE9nr7ebL12gB9QYLKuSGMPesPJfmouc-83GtXUlkCK47P1PRWSOssdiY55uXIfgcU2iKP-_m_bppmQuWtZSnu5HLER0bhrZGgSIXhLJwvcdyQYK2_UpjittRAYLh6g5fq6FUHe0NFKodmePvx-YpPBSuKLxYGAI2Ap8YvZXRv-P2unvCPeT6ee8LB23Chn19BvsIaWDsd-z-7nyJmiX5Seu-VD2rf6NeTBiJBAppKPwUIE9P4wQrnGXK17zblz54G9HiMpzL2Vb5Sa9MrVaR72RdgLi9Lsw6-mzTVogWmW1__eMzRFbu5qbrh_GWUt-hGmCEhDDLpck2xRFrJ2f9DXk4A0W&target_api=22&hl=en&scroll_index=-1&request_pkg=azq&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=30193092-44ea-4c3f-b608-1da1cc29ca7b&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.10084000.1&session_id=138595901809836486&native_templates=1%2C2%2C4%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lazyswipe&app_name=2460.android.com.lazyswipe&_package_name=com.lazyswipe&an=2460.android.com.lazyswipe&net=wi&u_audio=1&u_so=p&basets=1131748344&currts=1131782119&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=4&time_in_session=33775&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2164674174362877&slotname=7985405547&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1834117&prdtb=855494&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=16545968&heap_max=268435456&heap_total=71794344&wv_count=2&sai=1&mr=3117387603909093782%2C3362654386035220193%2C6643066532992602846%2C7694389549331812943%2C-3055612201590785437%2C-4160747666174286140%2C-5493563435983605093%2C-6507159669314906565&blockAutoClicks=false&_extra_string=oqcogiegtojarwegvxycaxxdmjtictlimbwzqqhvbgjrxvlokwrheuvekzaraigvmgwdrmadayhpjdcyhlftryqhtjjliwkpardcblqtdcabmsvkiuxcqwwsgyjkugizalfykxgwhaluusvimckggzhlbhzumfdmypjotljxtdjuvgwhvgwhbdtcqoddhvvzrxubesexymcdlunggimpiecqfoznwmadzofiazzdyyxwizlnphdawwtyeuvqvdimccgrdgzhbcqosejhsfwumsesfutmqoedfaxisbwaawkfeucxyipkdpsbxwqiiigmjuphdmdmilcyfpnmgvnwitaxwlubhkayqkvsqjaexlpkgestloslghvmfxesxikkffjtcfloiljjrlexqvefgztnfseesvoszwluvwdzfabyfsddauyirtnbyfhqeyddvxbrdfvjlormcrhbwrulisobxxbsnjjlbbxykxyfzshvtcsejnig&includeDoritos=true&content_infol=-1&blob=ABPQqLFsVQTjYeEe_holPjOkHmcMiL436tEC-MsS6DHdLJf5pe2Dj1SaRMFjAHHW0fDrDZHEq72DJWDk56GZmHTix3p_zcKQ-OFUL01aiHG491ZbM2HcC8lUSXisDNH_tC-u-MQ6W17Y8iU4mNzAKFeo-09LQQ0WYSwVum_i7_5-8N9xXwAfVVapAirbmM5HbomB13sXB7V43KZEhpbJDm0g3KalnVLDfPEQgqMkeOQDzvwwzU1-p2R47lizEg&et=5&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3663"
+    }, 
+    "d42731d3-550e-442e-ab26-4c278f294082": {
+        "ad": 0, 
+        "dst_ip": "52.33.253.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.lazyswipe.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "a.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes?cw=720.0&psize=8&page=3&h=2392&w=1440"
+    }, 
+    "d42ddd56-acc0-4f8b-afaa-6d02f6532b2f": {
+        "ad": 0, 
+        "dst_ip": "52.76.200.200", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "394", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "sdk.api.kaffnet.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "sdk.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/v4/com.lazyswipe/config.php"
+    }, 
+    "d455afc8-1808-468d-8c21-f14bd8812e20": {
+        "ad": 0, 
+        "dst_ip": "52.33.253.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.lazyswipe.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "a.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes?cw=720.0&psize=8&page=2&h=2392&w=1440"
+    }, 
+    "d49ad218-0816-4311-9bb4-845d99ea997b": {
+        "ad": 0, 
+        "dst_ip": "34.210.26.237", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "adapi.holalauncher.com", 
+            "user-agent": "hola-launcher"
+        }, 
+        "host": "adapi.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/fetch?placement=70&net=1&pkg=com.lazyswipe&pkgver=2460&isgp=true&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&isfb=false&imei=867a26bff04301096d999c167ca5ec7f&osver=23&instime=1519250939592&memory=3113172992&country=US&language=en&channel=32400&brand=google&model=Nexus6&os=android&romver=6.0.1"
+    }, 
+    "d5b33a99-e9ab-41d1-9085-181248873068": {
+        "ad": 1, 
+        "dst_ip": "52.11.57.185", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "i.holalauncher.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "i.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/ad?a=400105&v=2460&placement=51&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&imei=xxxxxxxxxxxxxxx&androidid=xxxxxxxxxxxxxxxx&model=Nexus+6&brand=google&osv=23&carrier=&network=WIFI&locale=en_US&screen=1440x2392"
+    }, 
+    "d632cdd9-c2f3-4490-8399-323db7f1598b": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "d8d23e9d-4eae-4626-9300-14dfdfae688b": {
+        "ad": 0, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "host": "dc.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "dc.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/l/api/eventCollectRule/rule?userId=867a26bff04301096d999c167ca5ec7f&sdk=3"
+    }, 
+    "d9682d90-e500-4996-b31b-0ff94d3305ca": {
+        "ad": 0, 
+        "dst_ip": "52.212.120.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "d9dd7cd5-ef5b-41e4-a4fc-10c55742ae52": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.22", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/blue.jpg"
+    }, 
+    "dc6226c8-c0d9-44a5-8f9f-2acd44553c04": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/265ec43ec0844af77353262296eabaf3?w=540&h=960"
+    }, 
+    "dc75415a-4b81-42c3-8e7b-ab32c3bb6bbc": {
+        "ad": 0, 
+        "dst_ip": "107.23.216.193", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "charset": "UTF-8", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "setting.rayjump.com", 
+            "range": "bytes=0-", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "setting.rayjump.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/appwall/setting?app_id=22771&sign=b7b55dc5a0d047e9b8b3783917c70ef7&platform=1&os_version=6.0.1&package_name=com.lazyswipe&app_version_name=2.46&app_version_code=2460&orientation=1&model=Nexus%206&brand=google&gaid=&mnc=&mcc=&network_type=1&language=en&timezone=PST&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%206.0.1%3B%20Nexus%206%20Build%2FMMB29X%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F64.0.3282.137%20Mobile%20Safari%2F537.36&sdk_version=MAL_8.1.38&gp_version=8.8.12-all%20%5B0%5D%20%5BPR%5D%20182623210&screen_size=1440x2392"
+    }, 
+    "dcfd2e09-585c-4ed6-b79c-4472be078942": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ebb48858accf33fa3b4455ffee4a3bb6?w=540&h=960"
+    }, 
+    "dd812804-645d-443b-a1b9-d0a020d5107a": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "121", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=111&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "ddc28b8a-b8ba-42e9-835d-03ea2a58a597": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "118", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=108&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "dde904d5-b25a-4dcc-ac99-d150246f194b": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.144", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "417", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "e2739430-98f8-4557-ac16-c56bd79d3599": {
+        "ad": 1, 
+        "dst_ip": "52.8.64.222", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "322", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.api.kaffnet.com", 
+            "token": "0dfeab06-ed62-99a9-e92d-eff220aef239", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/adserver/v1/promote/ads/sdk/v4"
+    }, 
+    "e2a1086e-c642-4504-bb97-e52c433b837b": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/d6d91d2fd5c4a4b37b2e4d5a35cbc87a?w=540&h=960"
+    }, 
+    "e306f973-c15e-411d-8c2b-22b4dfdcf0ab": {
+        "ad": 0, 
+        "dst_ip": "52.212.120.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "e5c7eda2-cc68-4fff-a20b-5bc82200231e": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/9e7de4d0e87ab6ae6d943fccc08707f9?w=540&h=960"
+    }, 
+    "e764c4ba-b3a6-48bc-bb8b-b10b7628a8a1": {
+        "ad": 1, 
+        "dst_ip": "34.236.195.212", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1630", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "placements.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "placements.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/v1/apps/ec63e4ac-2923-4135-b0b6-4bee0b915c89/content"
+    }, 
+    "e776b0c0-a415-4600-be2e-c99b6cc8d5d6": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.20", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "img.holalauncher.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "img.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/cd9aa7534e5651da91c789b5e9f58d6b?w=540&h=960"
+    }, 
+    "e7acec2f-ed57-4264-acc0-ddf76da335a6": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "e7c5376f-7441-4cb9-a659-2fcf3ea2d9e0": {
+        "ad": 0, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1530", 
+            "content-type": "application/x-www-form-urlencoded; charset=UTF-8", 
+            "host": "analytics.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "analytics.mopub.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/i/jot/exchange_client_event"
+    }, 
+    "e7c9d419-c1a0-4aae-9465-68498deb225a": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "118", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=108&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "e7f99d94-9126-4bfe-b188-422374b5a756": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.197", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "Bearer ya29.Go0BaQW7L88le6ivuCErL6Aaq1Ur7KreTwXuOB0tBsskKsOS4c3Xv7JToHi_CCX8tLY_mL-V252DlO8kxPcjtvM40XzL4Eqwc3pqhcj7cCseXwbXfx4SXFiy8MNdro_qxBE7cayaH-Sg2wR_kgHNFilvFF3TAZjbMiFCRsLpx1dUCHGKQaHi1AIHtIenw75U", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "289", 
+            "host": "mail.google.com", 
+            "user-agent": "Android-GmailProvider/60019679 (sw411dp; 560dpi) (shamu MMB29X); gzip"
+        }, 
+        "host": "mail.google.com", 
+        "method": "POST", 
+        "package_name": "System", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "", 
+        "pii_types": [], 
+        "uri": "/mail/g/?version=25&clientVersion=25"
+    }, 
+    "ea051eb2-a3f8-4570-b165-802b111acc7f": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.22", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/green.jpg"
+    }, 
+    "eac58ff8-d0ba-4bd3-baa0-75aaa6e7c26e": {
+        "ad": 0, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "978", 
+            "host": "dh.holalauncher.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "dh.holalauncher.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/l/api/log/operate/write?len=968&iso=UN&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&ver=3"
+    }, 
+    "eb0ce292-854c-41fa-94b7-547720576232": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.lazyswipe?devkey=krdjtD9yK9ayjGzXx9VR3h&device_id=1519250740134-4672180664371726248"
+    }, 
+    "ebd786de-4beb-4988-8ba6-89384d43e602": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "ed7fb2ce-4715-4cb0-bb9c-a8081d751104": {
+        "ad": 0, 
+        "dst_ip": "34.210.26.237", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "adapi.holalauncher.com", 
+            "user-agent": "hola-launcher"
+        }, 
+        "host": "adapi.holalauncher.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/fetch?placement=51&net=1&pkg=com.lazyswipe&pkgver=2460&isgp=true&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&isfb=false&imei=867a26bff04301096d999c167ca5ec7f&osver=23&instime=1519250913074&memory=3113172992&country=US&language=en&channel=32400&brand=google&model=Nexus6&os=android&romver=6.0.1"
+    }, 
+    "ee35c1c1-fb28-42e4-9e53-9e3d0264fabe": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.10084000.1)", 
+            "x-requested-with": "com.lazyswipe"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "eed05b16-9241-4373-b12b-eb20fe59201b": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "682", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "eee1aa40-ca2b-441f-9aa2-ed8cddc0ffbe": {
+        "ad": 1, 
+        "dst_ip": "54.213.65.93", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "118", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=108&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "efafd8e2-ab80-4199-b838-2576270d12e4": {
+        "ad": 1, 
+        "dst_ip": "52.8.76.96", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "322", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ad.api.kaffnet.com", 
+            "token": "0dfeab06-ed62-99a9-e92d-eff220aef239", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.api.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/adserver/v1/promote/ads/sdk/v4"
+    }, 
+    "f05bf1d4-09e6-4a81-aa0b-c4ebc90d0525": {
+        "ad": 0, 
+        "dst_ip": "52.33.253.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.lazyswipe.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "a.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes?cw=720.0&psize=8&page=1&h=2392&w=1440"
+    }, 
+    "f261f5c1-51e9-445a-8576-9c6baba8fa7d": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.22", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/yellow.jpg"
+    }, 
+    "f676d12d-c598-49b8-9326-f6ad281828b1": {
+        "ad": 1, 
+        "dst_ip": "54.200.1.123", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "78", 
+            "host": "mo.haloapps.com", 
+            "user-agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko/20100115 Firefox/3.6"
+        }, 
+        "host": "mo.haloapps.com", 
+        "method": "POST", 
+        "package_name": "System", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/ad/api/log/ad/write?len=68&pid=400105&userId=867a26bff04301096d999c167ca5ec7f&cid=32400&iso=UN&net=1&ver=3&vc=2460"
+    }, 
+    "f92f9885-61f1-48e5-bf9b-67c138e3626d": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.22", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "res.lazyswipe.com", 
+            "user-agent": "lazy"
+        }, 
+        "host": "res.lazyswipe.com", 
+        "method": "GET", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/themes/720/purple.jpg"
+    }, 
+    "f9c52542-cccb-4fb4-a908-47eaf6b33f86": {
+        "ad": 0, 
+        "dst_ip": "104.192.110.206", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "922", 
+            "content-type": "application/x-www-form-urlencoded; charset=utf-8", 
+            "host": "g.s.360.cn", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "g.s.360.cn", 
+        "method": "POST", 
+        "package_name": "com.lazyswipe", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/pstat/plog.php"
+    }, 
+    "ffc7f6e4-cc1e-410e-bff4-4d93add518ba": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.197", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "Bearer ya29.Go0BaQW7L88le6ivuCErL6Aaq1Ur7KreTwXuOB0tBsskKsOS4c3Xv7JToHi_CCX8tLY_mL-V252DlO8kxPcjtvM40XzL4Eqwc3pqhcj7cCseXwbXfx4SXFiy8MNdro_qxBE7cayaH-Sg2wR_kgHNFilvFF3TAZjbMiFCRsLpx1dUCHGKQaHi1AIHtIenw75U", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "289", 
+            "host": "mail.google.com", 
+            "user-agent": "Android-GmailProvider/60019679 (sw411dp; 560dpi) (shamu MMB29X); gzip"
+        }, 
+        "host": "mail.google.com", 
+        "method": "POST", 
+        "package_name": "System", 
+        "package_responsible": "com.lazyswipe", 
+        "package_version": "2.46", 
+        "pii_types": [], 
+        "uri": "/mail/g/?version=25&clientVersion=25"
+    }
+}

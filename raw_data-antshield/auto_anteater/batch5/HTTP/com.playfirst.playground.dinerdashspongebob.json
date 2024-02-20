@@ -1,0 +1,31 @@
+{
+    "1489464971188,c1f12206-bbe7-42f1-bfe2-07b941dad566": {
+        "domain": "", 
+        "dst_ip": "52.85.77.13", 
+        "dst_port": 80, 
+        "headers": {
+            "accept": "*/*", 
+            "host": "cdn.playfirst.com", 
+            "user-agent": "libcurl-agent/1.0"
+        }, 
+        "host": "cdn.playfirst.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.playfirst.playground.dinerdashspongebob", 
+        "package_version": "3.25.3", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 45453, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489464971188", 
+        "uri": "/spongebobdinerdash/dlc_android_google/3.25.3/remotesettings.xml", 
+        "user_agent": null
+    }
+}

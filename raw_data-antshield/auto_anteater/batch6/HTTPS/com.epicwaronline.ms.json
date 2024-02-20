@@ -1,0 +1,38 @@
+{
+    "1489368316849,7a23cd8b-5cab-41cb-9b16-b0942f73925c": {
+        "domain": "", 
+        "dst_ip": "104.254.132.80", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "cache-control": "no-cache", 
+            "connection": "keep-alive", 
+            "host": "error.epicwar-online.com", 
+            "pragma": "no-cache", 
+            "referer": "https://mzwiso-a.akamaihd.net/cached_brief/error/error_en.html?status=1000", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36", 
+            "x-requested-with": "com.epicwaronline.ms"
+        }, 
+        "host": "error.epicwar-online.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.epicwaronline.ms", 
+        "package_version": "3.21.177", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 43683, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489368316849", 
+        "uri": "/tracker.gif", 
+        "user_agent": null
+    }
+}

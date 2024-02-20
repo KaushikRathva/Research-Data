@@ -1,0 +1,31 @@
+{
+    "1489464725011,bee97220-1cd1-4bde-82ba-aa7d4439d605": {
+        "domain": "", 
+        "dst_ip": "138.108.6.20", 
+        "dst_port": 443, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "host": "secure-us.imrworldwide.com", 
+            "user-agent": "%%%EF4ABE84-9AF2-77FF-3BC5-9BA9377D0A95%%%"
+        }, 
+        "host": "secure-us.imrworldwide.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.sling", 
+        "package_version": "5.1.577", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 49928, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489464725011", 
+        "uri": "/cgi-bin/cfg?cfgv=150&longitude=&latitude=&apid=PED94BFE2-8401-4A4E-98E2-7E7C878FD4AB&apv=1.0.0&apn=Sling&sdkv=aa.1.2.3&nuid=EF4ABE84-9AF2-77FF-3BC5-9BA9377D0A95&osver=ANDROID.7.0&devtypid=motorola-Nexus-6&devid=C7BABF88-7B84-45C6-B434-056187D85873&fmt=json&adf=&uoo=&sfcode=us&ccode=&dma=&rnd=1893503722", 
+        "user_agent": null
+    }
+}

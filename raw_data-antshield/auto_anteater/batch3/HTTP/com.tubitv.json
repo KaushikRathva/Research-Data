@@ -1,0 +1,62 @@
+{
+    "1489438594494,5df0f18a-bd32-4f67-bcb5-7a60ab6d57a3": {
+        "domain": "", 
+        "dst_ip": "192.229.210.3", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "c12.adrise.tv", 
+            "user-agent": "okhttp/2.7.5"
+        }, 
+        "host": "c12.adrise.tv", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.tubitv", 
+        "package_version": "2.9.5", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 46469, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489438594494", 
+        "uri": "/v2/sources/content-owners/adrise-no-ads/337705/video-1-vertical-v03-a1.mp4", 
+        "user_agent": null
+    }, 
+    "1489438595056,ffe02da6-31c1-4d84-b6cc-697c5fd6c289": {
+        "domain": "", 
+        "dst_ip": "192.229.210.3", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "c12.adrise.tv", 
+            "user-agent": "okhttp/2.7.5"
+        }, 
+        "host": "c12.adrise.tv", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.tubitv", 
+        "package_version": "2.9.5", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 46471, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489438595056", 
+        "uri": "/v2/sources/content-owners/adrise-no-ads/337707/video-1-vertical-v03-a2.mp4", 
+        "user_agent": null
+    }
+}

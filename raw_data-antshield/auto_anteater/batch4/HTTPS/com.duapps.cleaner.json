@@ -1,0 +1,36 @@
+{
+    "1489454054210,fc805206-8363-43cd-94bc-c7bb60fd8236": {
+        "domain": "", 
+        "dst_ip": "46.137.73.174", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "1451", 
+            "content-type": "text/plain", 
+            "host": "endpoint1.collection.eu.sumologic.com", 
+            "user-agent": "android-async-http/1.4.4 (http://loopj.com/android-async-http)", 
+            "x-sumo-name": "Log4J-SumoObject"
+        }, 
+        "host": "endpoint1.collection.eu.sumologic.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.duapps.cleaner", 
+        "package_version": "1.4.5", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 45545, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489454054210", 
+        "uri": "/receiver/v1/http/ZaVnC4dhaV1ze3xcyseO-pWCK5hlITjhpMImW7xNDBonBiso0IjRUwO4SeDPus1T0uh1lNhVfOfNGDtWeNpRihVvmxgOkzW8_U0NzAOIY4lkolVdmjHzzw==", 
+        "user_agent": null
+    }
+}

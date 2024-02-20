@@ -1,0 +1,62 @@
+{
+    "1488845408655,1fee903a-5834-4bad-b10b-85b4bf23e4a3": {
+        "domain": "", 
+        "dst_ip": "216.58.219.38", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "ad.doubleclick.net", 
+            "User-Agent": "GoogleTagManager/4.00 (Linux; U; Android 7.0; en-us; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "ad.doubleclick.net", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.google.android.apps.youtube.music", 
+        "package_version": "1.66.2", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 45561, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488845408655", 
+        "uri": "/ddm/activity/src=2542116;type=ytmusic;cat=youtu008;ord=1543748098249;dc_muid=C8E0F67E405DD17099D838FBC37295BB;dc_lat=0", 
+        "user_agent": "GoogleTagManager/4.00 (Linux; U; Android 7.0; en-us; Nexus 6 Build/NBD91Y)"
+    }, 
+    "1488845408732,78bb2dd2-a464-49f7-93b9-fccaa48e756f": {
+        "domain": "", 
+        "dst_ip": "216.58.219.38", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "ad.doubleclick.net", 
+            "User-Agent": "GoogleTagManager/4.00 (Linux; U; Android 7.0; en-us; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "ad.doubleclick.net", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.google.android.apps.youtube.music", 
+        "package_version": "1.66.2", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 45561, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488845408732", 
+        "uri": "/ddm/activity/src=2542116;type=ytmusic;cat=youtu00c;ord=1;num=5181994077404;dc_muid=C8E0F67E405DD17099D838FBC37295BB;dc_lat=0", 
+        "user_agent": "GoogleTagManager/4.00 (Linux; U; Android 7.0; en-us; Nexus 6 Build/NBD91Y)"
+    }
+}

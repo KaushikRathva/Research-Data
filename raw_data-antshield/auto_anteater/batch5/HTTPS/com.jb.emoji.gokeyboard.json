@@ -1,0 +1,142 @@
+{
+    "1489463668396,bc100b4a-0fff-428f-9047-8f929f76d982": {
+        "domain": "", 
+        "dst_ip": "52.17.239.74", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "685", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "track.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "track.appsflyer.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.jb.emoji.gokeyboard", 
+        "package_version": "3.10", 
+        "pii_types": [
+            "AndroidId", 
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "device=shamu&firstLaunchDate=2017-03-13_0854-0700&installDate=2017-03-13_0800-0700&sdk=24&carrier=T-Mobile&date1=2017-03-13_0800-0700&af_preinstalled=false&advertiserIdEnabled=true&iaecounter=1&appsflyerKey=o6XxR94NFNcyL6NTzsUrRG&lang_code=en&lang=English&app_version_name=3.10&dkh=o6XxR94N&android_id=RECON_AndroidId&advertiserId=RECON_AdvertiserId&deviceType=user&af_v=e4275815cf1b180df47d3dbd98117d84996056d4&app_version_code=287&network=WIFI&operator=&country=US&date2=2017-03-13_0800-0700&brand=google&af_timestamp=1489463666228&uid=1489460428025-6155513580936688896&isFirstCall=true&fb=390ba5df-76f5-4993-98ba-983dd899feb4&counter=1&product=shamu&model=Nexus+6", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 46777, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489463668396", 
+        "uri": "/api/v2.3/androidevent?buildnumber=1.17&app_id=com.jb.emoji.gokeyboard", 
+        "user_agent": null
+    }, 
+    "1489463668759,037f1225-d5ee-46f2-8cc3-e661be75d448": {
+        "domain": "", 
+        "dst_ip": "52.17.239.74", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "685", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "track.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "track.appsflyer.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.jb.emoji.gokeyboard", 
+        "package_version": "3.10", 
+        "pii_types": [
+            "AndroidId", 
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "device=shamu&firstLaunchDate=2017-03-13_0854-0700&installDate=2017-03-13_0800-0700&sdk=24&carrier=T-Mobile&date1=2017-03-13_0800-0700&af_preinstalled=false&advertiserIdEnabled=true&iaecounter=2&appsflyerKey=o6XxR94NFNcyL6NTzsUrRG&lang_code=en&lang=English&app_version_name=3.10&dkh=o6XxR94N&android_id=RECON_AndroidId&advertiserId=RECON_AdvertiserId&deviceType=user&af_v=38c84070a149d0fa61005530ef01c53636947ba1&app_version_code=287&network=WIFI&operator=&country=US&date2=2017-03-13_0800-0700&brand=google&af_timestamp=1489463666480&uid=1489460428025-6155513580936688896&isFirstCall=true&fb=390ba5df-76f5-4993-98ba-983dd899feb4&counter=2&product=shamu&model=Nexus+6", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 46778, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489463668759", 
+        "uri": "/api/v2.3/androidevent?buildnumber=1.17&app_id=com.jb.emoji.gokeyboard", 
+        "user_agent": null
+    }, 
+    "1489463779507,7e15b729-d39c-44fd-90ba-d56fdcc89638": {
+        "domain": "", 
+        "dst_ip": "52.50.243.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "796", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "track.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "track.appsflyer.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.jb.emoji.gokeyboard", 
+        "package_version": "3.10", 
+        "pii_types": [
+            "AndroidId", 
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "installAttribution=%7B%22af_status%22%3A+%22Organic%22%2C+%22af_message%22%3A+%22organic+install%22%7D%0A++++&device=shamu&firstLaunchDate=2017-03-13_0854-0700&installDate=2017-03-13_0800-0700&sdk=24&carrier=T-Mobile&date1=2017-03-13_0800-0700&af_preinstalled=false&advertiserIdEnabled=true&iaecounter=3&appsflyerKey=o6XxR94NFNcyL6NTzsUrRG&lang_code=en&lang=English&app_version_name=3.10&dkh=o6XxR94N&android_id=RECON_AndroidId&advertiserId=RECON_AdvertiserId&deviceType=user&af_v=d5da320c92f63b69c6f48ac4cb2b35557aeebfba&app_version_code=287&network=WIFI&operator=&country=US&date2=2017-03-13_0800-0700&brand=google&af_timestamp=1489463777576&uid=1489460428025-6155513580936688896&isFirstCall=false&fb=390ba5df-76f5-4993-98ba-983dd899feb4&counter=3&product=shamu&model=Nexus+6", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 38554, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489463779507", 
+        "uri": "/api/v2.3/androidevent?buildnumber=1.17&app_id=com.jb.emoji.gokeyboard", 
+        "user_agent": null
+    }, 
+    "1489464917113,e77c5240-0fe8-4713-bd94-a6bf98ca0838": {
+        "domain": "", 
+        "dst_ip": "54.171.42.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "796", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "track.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "track.appsflyer.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.jb.emoji.gokeyboard", 
+        "package_version": "3.10", 
+        "pii_types": [
+            "AndroidId", 
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "installAttribution=%7B%22af_status%22%3A+%22Organic%22%2C+%22af_message%22%3A+%22organic+install%22%7D%0A++++&device=shamu&firstLaunchDate=2017-03-13_0854-0700&installDate=2017-03-13_0800-0700&sdk=24&carrier=T-Mobile&date1=2017-03-13_0800-0700&af_preinstalled=false&advertiserIdEnabled=true&iaecounter=4&appsflyerKey=o6XxR94NFNcyL6NTzsUrRG&lang_code=en&lang=English&app_version_name=3.10&dkh=o6XxR94N&android_id=RECON_AndroidId&advertiserId=RECON_AdvertiserId&deviceType=user&af_v=c0edb39fe37cca1d2294792ab5250bfe06eeaeb2&app_version_code=287&network=WIFI&operator=&country=US&date2=2017-03-13_0800-0700&brand=google&af_timestamp=1489464913675&uid=1489460428025-6155513580936688896&isFirstCall=false&fb=390ba5df-76f5-4993-98ba-983dd899feb4&counter=4&product=shamu&model=Nexus+6", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 45156, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489464917113", 
+        "uri": "/api/v2.3/androidevent?buildnumber=1.17&app_id=com.jb.emoji.gokeyboard", 
+        "user_agent": null
+    }
+}

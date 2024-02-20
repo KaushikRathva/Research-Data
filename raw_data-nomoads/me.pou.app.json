@@ -1,0 +1,969 @@
+{
+    "04caadc3-42b2-4626-bd69-469fc303d036": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=412x50_as&gl=US&seq_num=16&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACTA_Y9kXB8fqAADG7jWPdN8EnOVvAg3DGcqyMGzJGcBHAoOLlYgIEk9fiFJd7JKfbHAD671-ZfXMA_J-Z70TwehlmDKTCeXekQqoVpuDIdfSyZzC7OnRKetsj2z8TuticMTSvz5-XkWdBOKyozwzkLYXtowc6iyxZS1RffNNoFO6Bm2ACj7Sd8s8ea-3M3-x126uVVyUhUa0ZXC1vwJXuCMGkRJdFv9INZC8gjyIv7rY8juWNch7Uj0G6EKv0ZV5LZD1TRFVgdGGdaq0KD33NvBjBqLCxuA5pJMbCAUo-2ycm9q8XHHE5usW7NXuLkLziYNxVvX0x6kIqu3YA8v9Z1QqAAi33TFPcrkQIhorM-oJzPIcjBJdfi3kohV-MLOfVhW4vbnqxoD4oHyKWsU8fGhZVA7A0PhjyBSjM85cvpvyULz20tgRmUkKnRh6wYEpBEQb3HlXTmhLCpuF3N0I8vkSttGbAeVvfo-McbTeDavAaVrFDdgIooegVMwPI_rlfbheM86NTmzIDEWe7XQLjFnqYEDrKj6R_bYGxR0Yn--J0pAx372o8MxClh4guTyv2PeloU4b0uoPhabgoXnOau_Zl7GZTKbc5dNbbErV5ENjO_nbTkJVxSacdzRRWXPumADtesYm_qscL7vrdar1nN8FjxyeBP5ylOvF_zCL5fiAGUO8SED760zzgj37vfEEMT4iDr70SlQIKgAKioipwQxv9FwVJVPAa6yGnwCiuJfpYk_PC3cI134mOZYHssdUPdrf5qpIRPuwPhWM0gO9ClUfecxyFHD2N8DbsW5FOugyQmldgV3oCGYJYAlaXj3A5-siHhiHEfnYBr7UcczQliY8LJMywzu-4gjai0evQBNpADv-0_p1dFsF-2nV07Mw4x0m3mvXBsVNKBbv-wkt1wJywRZF16VfWC_8c2SNeehz4SbbGMnUR5S5AQSKcsYwp_zrgUdNTQhzpV216A7u0L1eBwSOUGgqtWNnM5Zyf87A323PcYXGRRKC8SdTKoyyVz4rwlpeAINEDVr7NogxhJ16M2Rw4GszgxnLuEhCINIVADf0IZzp4bU-NfWwI&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=8c19a88b-32d2-45f9-ac7b-65275982e4ef&smart_h=auto&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=p&basets=628580085&currts=628868998&preqs_in_session=15&pclick=0&support_transparent_background=true&pimp=0&preqs=15&time_in_session=288913&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=13409600&heap_max=268435456&heap_total=66200464&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=egspsgxzlhkohjprrbzvkljgoyapwszphgqcvfmbfofrugaqimxqthoalhxwxutrtxwmzfkwynofuybsdvggadrjchmbphgvucqdmrpzbmfoqtukfolstqhxrjdqwwtsfjxyywhoqqgmytrwieguaogfqsmauatkmdkfkutelpdhhybivsgjeerogcrelsocusvvleixyhbvznsrqsvbaboozmurrtzysaeugqpdgcqnxejblhdtwfkasggculwlfrnikokegndfmakrrwryosbadhriftzywjomxocxhicckqmfoimvzhelmucccapvjpcbisuaohanrfujjoetxdebmtiuimgpchnzstadicgepibnbnikwundlupctpljjhvfuwlfcuefjcymajxacrhykjhozdlwdkjditikuswhvwjuzsyettnpifnztieyxonwqdvqtzerilmyxsqlhtqtnldiiplsnogkftnjaqhyvlkkwvng&includeDoritos=true&content_infol=-1&blob=ABPQqLG7RKGkwaOmZztxSSpeVB4x5yB28R24YVms4ycyS9Nz-M-fuLyn1mvRo5XplB1DTbaue77wkImOsmYy9XQsmYPNSLNDlzICl70eseS4p_XfkTwMHS0VJGSFaDvUvlqYzQfi-751dgBuGTZIGxJgd5XabLrNLEgKmA6RTj37YRHP0gCw7nudY5abVkrkgZt8Drq6Qjrr2BOOgHf_FK3GxQ9ttYI8hIrZEjgchnR8o9Y4psu7jpwJWnNn6w&et=5&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3364"
+    }, 
+    "0911baf4-95fb-49d8-8d55-003f22be79cb": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "0b5e0926-4fda-4aca-8842-99069e7266b4": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "0f3f7e2f-420f-48ad-8dd1-2862c3e1e548": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=interstitial_mb&gl=US&seq_num=3&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACOSj9Cgjj2GXo0u9j0hsL3rMEXvWvj4tYMNUnhevtfkyYnZRWJAKaKmBTuo9FK_AMn-_x6aq_RcajNcc0m2VEq6rqoEP02vc5AI7gcMME8ConxvakiLo-KZYeLXEPGsODnqr2a-nHMNu3GpM9kbg4oiW6KFQ4PnfoZzxZlh84jDwl9Q2CYfTEhMLMgH9LVyhwNvsRHl7KqvJQQXoxfF86OTdVsJ9dQWP02WyU6IGcv0dC2qGzEe3eAjpd9Y7Za2a2oRQ5du-wYtItzA-2GXnMwkI1oWV3n3J9oNddm4oHKo9PlQSoYaiRtU5bNbP3Dr4koTX1ZwK7SJiJpVltIcDxchIQ25jsSMRcIM51t9JUugG7nhKVAgqAAnLmMEU_yf-mCVrPPC_Psj426zw4F1sY36S_0ZWzuYSI-RuryV-DJ2TAkZNzLvgP0qshdm-SJ8yXWHOM1cC3JsF6lk6a88QISj-ial9LslK2hKKdEYstUe9IQc5_6OCsOCRgNL3PfBDcQUVdRs-0J1eVCML9IHad47y8HgEzk3arGODlnKOWwltHh1rhXK-Nr0inQ91riqGJYSN6W9ve5SAoMFfuTmpJYygG9pQA7kOo_RkjIRMJs-xPsNsKim1dad1XI9DKAor0wQOYh0ntSt2fShfOBJFbi8rSagWAIjxpdg6wQZcLiuEyYBlVQSfMLjbgnWiL6gdJ11kR7WgTYn4SEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=1fa6c3bc-3364-45ab-a8d2-68e5f84e8e7c&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&rbv=1&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=p&basets=628580085&currts=628615741&preqs_in_session=2&pclick=0&support_transparent_background=true&pimp=0&preqs=2&time_in_session=35656&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=3956060111&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=16038792&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_noRefresh=true&_extra_string=famfidqchawrmqpqjecarkybcanrqlzfxofhwupksnmptegsorkwckvpnmphwgodxfyrriypwhotcizlgbswvelfyntwwxabxbiwmyokxrgibqwwgrztqagmzjbwhyqcrjpfrphfcsrlpyfeqfvlnduejxkmvzbrxdhykzohfwktnhsrmpkuadtcnzuxvdmropcixrlfdpxsuirfuepjarqovcngtgeqkhcsmwcdyqvsjucfcccgtkyxnninmwtruomdsvsfenqqoihzpqxreouijfrkmdpjtgsahexbgsrsegeiggzfaypfscorqirhxayzefksnsavzcjannqjoncrosruwfczjamgbzfaobaklpjrdeqwwcxclsjiwojzlbeqzvwdzqznzdwtrogitsrcjkkdtdlbjdhjoavmndvmljnpeuvrcdqcrlxwlericahyvtmdbfjdktxjrkuwhsqbzflwivlmnukjmdswdsmswbbenlsa&includeDoritos=true&content_infol=-1&blob=ABPQqLGl-ZuZ1-PdZbDi5fVzehUA_0-arJajQl8xCNWIDoO5wH4ktydvos0fHFC0ZGNvUgx9ZkM07m8rRQ69JsRiJrfeN5gEZXALhc2LVM-8VFsuP1df8GeyezIpnfpfdDuBY7GfOIR7oqr0N4XPA5t5J0ZIqFcz4NLCC6DPz28_OVCemQBB0C6u4GbejkYskUWiq_JFDaSCaE4mz97VpTnvoWxiHYbwiS62fHNUh6MmQ-eTQEAiR-Wx8RFqxQ&et=4&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3017"
+    }, 
+    "117ff96d-d72c-45b6-82b1-240c7988fb97": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "16992539-a75c-4b97-95d8-7b07c567fdde": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "16b290a8-ef13-4c6b-b1d7-514804f817f4": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "17d674fb-a2f0-4f7f-a096-ba4e9eb5e6a6": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=interstitial_mb&gl=US&seq_num=5&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACH0GoAj7AtU3o38Zp-HRH17FqKv2Z57V3EpwThMfKDE-m__tXDmqhCmY89Ih_Ba4LncGU446cMM2JdoUesUkkpqDOk0fE-6QYCKyKcstt8ikHw6OOnNdIA4ZXI3YPGOCkhIvTR-2hON6ffdocuZAgqTOQR1gaHjrve1INtydVmxwfmBSDQZ_dg86FqVVhXwlwHJFYH3TF8txuJ2oYbFtUEBM59JFtTyvXywb346u3rklA09ySPeqwADJ92ofTKwyVgR9PWO33Ld8ZpiqyKXXpyERZ50p_sH1cgN0XkqYtV6xT2CSCQeblsUg1SbP7ZYApu1OvbxLdW5yhymBtBYqLehIQy9MQuDfSDlgnb6mb1ztYxBKVAgqAAo-CdI5WDrm9lXvvWKfuvnt9YTwZ7nd8x9u_-83GkKK1GJLrWaYFb5-W8P-0bFlh55GqWvqIZOh5FfiG3RS5DvJDkWpQLI0m6fwJRmacl1KUyobRuA2FNbcfD8x4-kbMYaEPNPUBkBo6RIdb-aS5bwbV5MDeT3fxPYz-fAEC2BygwCGH-KTd5k8TiVa3W02nRW6JLfNBqefFkAUQ2dZ1r-xVGh-Ole0DAv5M2Bv8YEWjD5JhNonOl_Jx_t1WCYkffVYbaQQzRuBTKuu01B1qBFDdqD_JJVlXEXhwYJX9g1AZVaSUmAytwISboh8CWSGMfFXClemmSGcTKFAxuGGRZC4SEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=b47a7f56-05e4-40dd-be7f-dd1168ecd225&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&rbv=1&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=p&basets=628580085&currts=628649353&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=4&time_in_session=69268&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=3956060111&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=13160752&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_noRefresh=true&_extra_string=ackzxpjnssgprcgiwyhosrrvovoiezmcesrsmxufncwdnnldluzegnkmkxcydbcptaecdeclvtmnmnsrglspoejfkgxwuhmzxwscwpgyfmsrhkixsaqrtjrnrdaishafvvanrmfvojugmkalyevwyjinfwldrymxqlweeuxehnntmzxxqppztfcaxzalpfdnwchphrcknsdzqrfozrrfklizxfzbkoyonzrtakqawbvfvtvozridwvoabybosdxakcclxbriwvkuailmkaafpjijnkvrlcasxsqtndmdndxcvkmfwtgzrpjrxdmdxhrwaivpprrgzfhykkaygujearrmmuvjadmsqxgzfdmbdgzzlmgfhrnlpvkojudeqyfnhzvnwoeksabccpjrjacssxlwmdlroiqpknkuhhvuoitdtytjykzkmomlowwooocugxtispotlchmquluewuoarbefhiprdcrpmswgacyqrralegvvpub&includeDoritos=true&content_infol=-1&blob=ABPQqLG3nDdrIyMz6lFQY_Qt_rD3Jzeob-vw4HoofNYHtpVvEWBWQXP48S9GnG8a_mdaq8XogMYn2pfHxUCjeftDMOwoX7GV-P-OgTd37kXrp1dAdi9WRwDKABbfKwadJK9wxhrtyFIkUY4xD3O_dgNZS8tNXvkU6HloBPO91pEoa_6jkgB0UZYlDpuXOny_M3Z8Mp4qFxduFmS7lh_JKAW93Nwi9beihaVGnHo_NgauPz7ZrUUIZTmpEfY5Kw&et=6&tcar=10&jsv=4-production-sdk_20180212_RC02&urll=3018"
+    }, 
+    "2059f186-bcaf-4999-8849-4a2c14cd1794": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "209a2fb8-ed2f-4ab2-853b-168bcc43d0bd": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=412x50_as&gl=US&seq_num=6&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACH024Aj78sU3o48Jp-ERD17FWOv2Zy6F3EpgDhMfKGE-mw_9XDlKxCmYo8Ih_Hb4LncmQ446kIM2JaoEesWEgpqDCh0fEx7QYCIiOcstd8ikH37OOnNNcA4Z3I3YPIOCkhK_XR-2VPN6fddocuaQwqTOAR1gaPjrve1odtyd5jxwfgASDQYPNg86xqVVhbw1wHIFYH3Th4txuG3oYbG9UEBMx8JFtayvXyzb346uzuklA98ySPcqwADJd2ofTFwiVgS9fWO3_Ld8Zoi6yKXXtyERd50p_jHlcgP0TkqYlR6xT4CCCQdrxsUgdXbP7eZQpu1-7bxLFT5yhwnBtBY6behIQIhtByGLgeBeyGEkNsiZu4xKVAgqAAjWIPuYiz33IFtLjUCqHpnxxAz-YG9uiv666Yfkg3D4MY7U38xVmsVfcsKDftjI17PRO2xXYbWzrnhwO7hf0lhgxmH7Vu0u_PqPh3N-P8Nrky4UYAJLLbmXXhEez4KWNby_kNHBIdpupwilL4cQxNVcIY0f-NPO5X68ZOb-s88-vQKTYKXyZaeiZblGakeojmlpA-OTzLSfXN0PcWAdR6hMq0EpJESRKH6On1IQAolRv5n4y3onKHUccesGzhwHEyBl-PrnNBaKAHUOsfATkzIFHA6u0GfHcV5gY48dU4BrdPYaQzF9miiLt55YR3OhGV72LCE7KJi56WJCtpSu44HcSEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=20aade6e-1752-4680-8533-2a75cb80acdc&smart_h=auto&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=p&basets=628580085&currts=628649364&preqs_in_session=5&pclick=0&support_transparent_background=true&pimp=0&preqs=5&time_in_session=69279&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=13041328&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=xjqnravtlutyhrqlcavvgujwvmhtpjsssmfbvyorvruzcgorqnoroooniahujdoeoaxbbgikorvfbdzaszhkogwijhtcgsssxtbphlgkivfwgdemxxpieytphupixwkpfdlhmjtlxsggadwsaojjubdrxgfkrdtlxaldtqwaauzufbljmmrgzeawsgshcksaavpysjopvvsagtxzcrplzcjwvjulvrjepqbnyflimmrpmueavckenvudfnzyfmsdosuzvqlgmaihfixidnyckyayrxvgjqqnkmtrcootnqkidtotajqhdduoruezzbkkgezodhnyegcrwlvmtcjrbmsuozazliyiverlqarzdfeqrsptmdonjaqietwhocoidjnsecqgxbtvaguctnjwgqnivumpmtrcjvfyklsghtizpglztgebwqvczeogthoffnuvdegeopskpakfzyndvwkaledexcksvhpfpekgndlcvmxeqmlh&includeDoritos=true&content_infol=-1&blob=ABPQqLFlMH_sEenwD27MLMV5Sslo3catpidverojmNebqmJlJ6a696JcdGDLVBn-Fg95i9AJzMpPvXafy4sYzD9Yf699pnGJxjvZzlN4isBJcmPWK9p0UBW8DKNn2af1LdHxFVTa0Hcp1JvXd5qBvqXTWgKC3C5TG5MNSuloXhHDOsO6sABFc91Nr7cAt55eEz0T6imeR3VRHu29MAWLFkexJ7m_K3HX2Kz2uE2gLNwCfScwlecAkTHP_Q_5Ag&et=5&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3015"
+    }, 
+    "2635cd36-65d8-4fe3-a171-93193c743898": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "26ff054c-d9e4-451e-8473-dfc9ed488365": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=interstitial_mb&gl=US&seq_num=1&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACOiThIgrm3lHp2tkD0BY12rAMaOusg7lAM9k7ueroSEyamLgMJgq6BmNant9HJtJMnePLz6q-V5igMeEqmGl4w6jrsgX139VrAYrsbMMMyComx_jiibIkW5YXC2cOG_OVna7kV-jHKNO3H7UlkbQSvCayHEA6P1_sZzF7yh8wsCwn-DOKYPjOnMLBlCNIXj48NPMdDl3CqrxTQGBjfF8kKzZYqo9dSHmm2mSY9oOQi2tB1quVEOj8XDtd9Zrbb2qYoRw1Luy0RtgtwSWgGXXm6kA8u0t2lkwHod9_5YoOHIdOmTamYaGv10xXLb33A6IoojXhTwK-QKSJqVsxIczLMhIQnwgfpweqjmwbRH4u3jLpaRKVAgqAArDI6JtiT587CnK3n5Djwizp5WhI-GoQWO-6Sf1mnITnOpTXPSkHu7Gapfuc91QrJKQ9QuaWqlwRjv8UtBy0uovwjG6TKVz01MGB0koNhjZGZADl2j4IYQsG0-LaX1ek-JlQPMwKUgCAfNwFjqw0n2TOo97rcPMhtausWnK4Bxp1S_NlhA2OalIKjC7z9QtpvmcQ47l6PH2kCxeKsnt3dfrAlXe9jeIl_NGWsrPJc0MinZo7QAyMl-_9K9_os8JxKUpIVxU1E25joyYcT4TzmilR8L90HxTXXUT91rTzlXxNUKQkLS4hztIGZ0mKUjpc_cZaJWMn0296ndER7N4OluESEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=4310c541-a44a-4490-abc9-7530b80812cf&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&rbv=1&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=1&u_so=p&basets=628580085&currts=628580085&preqs_in_session=0&pclick=0&support_transparent_background=true&pimp=0&preqs=0&time_in_session=0&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=3956060111&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=2356568&heap_max=268435456&heap_total=60311152&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_noRefresh=true&_extra_string=gbygsnacnpxicizrbuurioiwszdekkbhqzeftyvqwibkepugswjhetcovosyewdbhkttmxclgqyjzixxomdmrulnyzgdsvzxuqowlovmfoysqhotdgrwkelhtcavtwglpmaztpcdisqxpxwnhnkhvrbraoraohjtuxflzycqrxywynxmyelqxhxhrtddvitphpwcedbpcdrmrsidihhmbtvdauuwofppkqdxomtydlhjeyssjcdwizmxowfwpppfxbadelawxrtoexuprpoqztipszhkkcwakqtjxlcevrhpniesihmwalnpszankjfojvnbnjfxtcorigabfrvrrrpexevyzprvwnwawpupknzgqofbsmdhdeckvtqpecexahdialofcfsdwdmoorjdeghbttvfarmcspnxfihpepuwfxyjnrmhpfrfqhpamsquizhduzptyscvdlitmwdjebloerymgardpuhpxnmxdgulnhnjiedc&includeDoritos=true&content_infol=-1&blob=ABPQqLEWepvsTjl6p7M57rdVmts6KiDvvo5jBbpA-Z8MGViDkAQjOYVzIz3PBkriNfA0qkGlHRaPscbZEDRIKHiEaydu4mtG-pDzogQ9BFyK1ZPxe3F-0SPjKtFwEX-2BcbU5mZ_Z4PK9UBkkpPoTNxzps88c-63NPL1ZhDMXVkCxzSmJwAElnX7DWjrKzM5wYLbxEvtHmV_nBOZUKKDbkGYCEi3lIaPF4okap4idfT4DHdsBkBHpKfp0EZGYA&et=4&tcar=14&jsv=4-production-sdk_20180212_RC02&urll=3005"
+    }, 
+    "32eb025d-68f7-4c2f-a085-f10c2dea6eb4": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "3618da9a-45ed-43dc-acf0-be77a2dc13f7": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=interstitial_mb&gl=US&seq_num=15&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACTA_Is0Xh4fyAIAH6jUP9JsEnCVjAg0DVcoy8GDJGcFXAoMKmYgIkk9fCFIV7JKfcHCDK6F-ZbSYA3I_e72TAPxlmDOLCWXfkQqolteDodbWyZxD4OlR6a9sj62wTmtiNMRS_zp-3kXVBGKzrzyz0PYXNg0U6qzxYS1RvaNNoJK2Bu0ACj5Stsc8-S7nM39w226u1UCUhQf4ZXB15wLXOWcGERJRFv8JPZA8QmSIv7rE8jsWfch7UykGaELj0ZV4eZB1TFFVARDKdSp1JD33NrRjBuLWxuA5-JMbSV0o-yyIm1r9UHFEpr8WbNTuLkJz3YNxV630x-lIqu1ZG8t9J0wqAAsRh2V71sBkXDsjeT56rC5_Ylwp8E8_rorYzx9Tu_2utAm9Kic_F8Hwf8AEUletdnm6AzcY89bOOuMAW8XATdIR5Bye82tK8vVohAavRGUfCDIC0IwdcV3PGtD8PVBmDn2IxMJhd2eiDdr6XX_gJm21NEcO62KcLCFSSqMb-buZzqZpy5y3Tgh9XmTR7bEqqVWxp6Ih6iEUk9eBSEcMAvWtVgyV6Qds11OHD7xDsw1IhAx47gThp7C9T4acWBpOtnBBHwSioy-6SqR9wq4ktjdB2ny6aHLfAjWju12yGkjKcdFG6knaDNGPW0sxQ0aHaSlaPfbGaoB45bIh1sVw2enUSEOaphd8l7-pq1Bkr7r3LBNUSlQIKgAKiAkKJO9eJpxnKiQ2KCfym8AdaHaJSLtO2uvsJJ06E6Hkk_1Ar_wtI0j3f76yuJab8T2zjxeroP5yPltwVfjqsq5xIRiBecDuY82S_HWwk2maY4bEtUFU_XoHIpl6vjmWAejToSWgeMWQ0O67sphsLlWvC0SJpo7uoHEoAouUOOkmz87REjODSEnwUdL_p845uwHklaLzXHRFXEos6z--kmc1bU5wyNcqatqrBkaNHbM74MbgFVpPwvfP5T6iCfTUa6lnJfxvkwKPeoBadeSbAWZA9mwR2RY4cD2JN8O1SiRCGkt1lY8CUVvV9BFHizmeVALU4b7tTyMQZI-SMLBLjEhCINIVADf0IZzp4bU-NfWwI&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=2ca9c231-a8fc-4ef9-b1ba-2e1a150adb80&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&rbv=1&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=p&basets=628580085&currts=628868971&preqs_in_session=14&pclick=0&support_transparent_background=true&pimp=0&preqs=14&time_in_session=288886&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=3956060111&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=13735136&heap_max=268435456&heap_total=66200464&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_noRefresh=true&_extra_string=vivoxyolrblewieeoocuqutmfbxybrdocxwamywmrwpxcuiajgihamaqlphziilhhxrwmqnktrwsqgxjheupiorrlzwggprjkeybldbftlxxfyghhbbaldczymsxxdlltsysykcmvaffzvzkvvkvenxauqfbfaddyhzexsvyqbxcntiersftmeevnekqmtuupxbvkwqdcrcajbqquhagdsrlnftufkbxnwlpicgxhkbbzrctgvmhrdmttxlycsewvzvqhdkvedfzkhqfukwahywnizszxeehipvkutdlozanonxcprylqecrqadfibwhwmvcoqsoagezahertrxihsitwqaaiqfnvljhvjadqaeuzkqbkejfooaobswuteumxmpcchaecnyvnjvqtzxxwnehwuxluowvpgeqicsmszpgahttjtnmldovqojoolvypjamisgqyaghqapkwfihvmuramlnfefafxfbcsrsgrivoqeanoma&includeDoritos=true&content_infol=-1&blob=ABPQqLFueiJG-zQiMftp_p9HVCBOtGKEwq-K1nyg4LUMv5rX2-Qw-WllA-wv0dl-5wLkqaxJSs2Ps3_byeGBolUCNghIhDdWWrMPegf6UoeLkRlN1UmU1og9lrzzCjA_SEeeoMtPhSa9FxAVFwD71eRdqarY5Q_zbG5N_KUJ9P3qtV2ySwDZ-miNHavMS27HfSPGC2kjJ-M7py4bDiUvMa3Tpi8z1k5xfaRKJrFg6RHWj0iHTyXGCLM8IllYVg&et=5&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3366"
+    }, 
+    "39ca6c55-5830-4358-a467-f86bba8e11bd": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "3ddc7461-e69f-428d-9390-b88cd0e2041d": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "zlnnf4FQqPIU/XejegksB/YTAh8dLV9Qbl25oj+I1Zo=", 
+            "connection": "Keep-Alive", 
+            "content-length": "403", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "470d7737-aa0e-4eeb-b4ef-fc69565a1c17": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "4b05f473-0b04-4d3e-9e20-8ffeda129e41": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=684x50_as&gl=US&seq_num=12&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACGwycLDr9_Ebo4L1I-AVil7AUM6-cq5VCE9kY4MLJIl6jgcBODjLUE2Nrsop-H98Mncmn0Iule4aIKaoxsEFHjKHC51LE5qhsCaiYIsse3y8G3MaimZB4WIY2YmUPIpHJhIzbBOn3cM6eFLR9uaZk_DaiRBsaPgv3fxoFySc6lCEew03BQcCNh8vSlD9hT2RrHMNmG3TijbxqWxVybU9AeBdzo4ZsS02ty1SMr6uSlyRB9MzJOOv1HTJ_zdnSV3aNgS5fOO2ea5MdwA7uKVWloEE9zxF-jxIPgf8_7aIFVptWgSKuQZi03E19cqX_Oporuh_CVhOFMruhgwM7AMyzIhIQZBUPuRmJRYV-4pxJ0okrhBKVAgqAAhaaLDF0EkVYDXvZwgbovo5eaz5OfDOancjnKVzU2kY-uMRn0D9f-eSNuINOZg8PKaL6wAaQflQ4Pb5mDI-75qlSkXbHn4vub1QX7lkNmeh34JwTMY3JR4AmGUZWygqU7yoTNiKr1Kp7bYlJ5437HbP9umZ_ZnHjnZ_sYn850KTLWDe5i6-NWMwInVDcURk7-WaJ42ZJ5R0QKQ-cef8jkTBFUDkcL_NRjkYK_GJOfm0ZnYQBqzneZ6FI4utBopvnLv9Db72gXqKWo6ekLSZgrPTV_NGHDx_XdMAqwsbkmSpsdvraep23-qURtMcBYTNMlVbQaW-kBmWOmAjthUmdiNISEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=4800524c-eae1-4170-bb11-f856373a2ae7&smart_h=auto&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=l&basets=628580085&currts=628700738&preqs_in_session=11&pclick=0&support_transparent_background=true&pimp=0&preqs=11&time_in_session=120653&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=16535936&heap_max=268435456&heap_total=70002800&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=qdnfgwuoufmkvascwpsrvzanawwzuereasugqgxiujpdywmivtqtlbzknjgvysseajvouykhwjerdesenplncpddnddcesruzvrckxynxxpgkhcexyyebrbucqrfcgxckfolstyfuzxypurjjbnrcdmlghqruvvieuqcgkbmcetecxenwifhsylsdmsgkzfuhaxkctbcnefttbnckzcodwoxdhpjibnayiazissrheoxdsbtezwxudktijlnhuohvlahhxmklwygkakjghqrfffomoyxufhvkqkquereeieybpoardnhorqlleisssetfsnwverhpnocozriavyukhgocbihwmjhjfdrawojpnmdldkaygdvatgcfwcugsojboektjzpbtlzgggskuosuqhpwmrperqizsspukvfbhijtbuocbtgjvqanzhizlzjcxzgczndmnibsmtbyqihernkgvdaejpcgdkshxyklidtqrxgmwfb&includeDoritos=true&content_infol=-1&blob=ABPQqLFb9IO1PAqoSfqA0McGmCm8iCJPeK6aZjjg6YVvrJeM9gRDOn-if6N5ukFoM5gdbvj-qKBzpmckXstoiJwZAnba6ABdoJ4LMGDm7mxituzAKoxkZXHi0ROPAwGvJwK4kfNCW_B3_du9u_EBU1VR8PpWFEG8an8_kid_Mi87or55tQDJFMWPHljPmMkznt_ElFA2D_2kCHBE665VezcckvFRBp6IuARriC6Kl6OEDzFFYrnMO0mTVLrSpg&et=3&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3019"
+    }, 
+    "5121b1c6-1db8-4aee-b9c4-a9c597b62c2e": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=412x50_as&gl=US&seq_num=7&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACH2zaKD71zGXowvpJ-E0G1rFXOP-ZyvNwEpBwp8fqUG6myrtcDlLYAGYBx69_PJssnemqwY6sfMSJY8oUsWF6i6DrukPEz44ZCIiEcstUoigH19qmnPs1K4ZfKVEPCPKJhK6NQe2UMdufXIwfuawhqjOoZV4aP1_Ce3pIvCd4kBQfoXCiQaOchs6ZlF1hR39YHKl8PnTIytpuEnkxbE8_GRMQ65dtQ0n-yz_Y6Kua8UVA36q7Peu-CDJd_o7TPnicgQYnfO32VfAZi1y8KX3dwER182V_jQZ9gNRnuaYFVY9TwU-oQfq_v0gcDrH7WPgsu3fIZxLsUZih43ttBYfxUBIQZH0xZvNLcDdjncRI6RN6KxKVAgqAAoSsEsdaNt0nXk3VEehocIIx41MBoBX6F1df40dC5oZ0msA9Om31C1QWkkAP76-hXBxIY7tCSir7nqjE1hSb-iIIvQJoIZe3CbmZJgcdB2B-wDC-E4r5DGUeKYUCe6xbsyUZ9JzK7IfjADV_-izhyy9SigkXhOk7Pw9YHeoEztNyy5c4YmWhIe6SP4WEmadhHGst9kNKU8E315OEyR-rNqYY7BZ3mXsoKPmeZPFxbACSTZYklADe0xg9dvtnj6c6h5rnntV9dvR4ZzPiDFxyeNrdejvh4xfWsHgiKV33q9RpVEbaCUaBWibWFHzq1g0e7xbA4JLrmJQo4byzqiophhcSEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=b514e381-3814-48e0-bea9-dc9cfc51ef22&smart_h=auto&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=p&basets=628580085&currts=628653591&preqs_in_session=6&pclick=0&support_transparent_background=true&pimp=0&preqs=6&time_in_session=73506&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=12850544&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=lfrjsnrheskoomodpbdmgqlclitygmbpjzkfdcdnzpnxvlyzpwyemdxhbebjkhwazysmmwbtoffuotcybnccdtdyeldmhdfcrmhmivabplevdkydubnlaxpqjhvehlomgynryqfbqzpczayvpwutkmhqzpzeepwbcqmvfmgpvhhdxtwmyfvpxzinwrbvxyylwjgvaqzyxontzxuhvsijnpgsffrulommztejemmrnbgqzrqoxrlkxpmlbkbstxcvlumffzqgcrumvsnxyxlfzarnqsilnbwjhkjqwaapxmulhklqvsyfpkahgwmfulgzvcsehnvspiqddewsyijwynhmgeyewiohxozsjkbabatzzzukvqahotaeugtllojvocnvtxdajkljxbeegxgwjgqfhlxfgqbtvykuohuyywfomiydfecrlpevxxstgxvgbctlqhinzjicezyfasgpiylrotjtfahxhdgrzrgbxefloqslvptv&includeDoritos=true&content_infol=-1&blob=ABPQqLFNJAmmhZShSHS3N4xr3CI6gOhVL_dd0nFo6ZIvJ_XJIOF5lGSrQG3Fl_k1jEDT04PURsSILpZY-JUkKVhCx4DMRJ_vfpiRs3YTVKu8zk6lm5UvxVhTV6Y7xZd-eILT4wq4l39-YHxnZshALEt_tKPFfYoyAE_wBMaebcqr4KdziQD00Pgz_cATfqamY4Xe4EiD3iSvzXKxt8QsaAx9FmHSmfcetLme-1yYCgYS9GVx_ArCwA30wVOHjA&et=4&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3015"
+    }, 
+    "5992534a-4ebb-419a-9f5a-0f0db39a6b1e": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=interstitial_mb&gl=US&seq_num=11&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACG0WeLDrW7Uboy7dI-GZil7B8M6-c44VCE7gb4MLoOF6j6dlODlrFE2MKuIp-N8wMneOu0IuOYoaIYLMxsElcjKHK5VLEz6JsCYqQIstdxC8G98eimfNoWIZXaWUPKoPJhK_aBOm3cc6ef619uYRt_DaiRxsaHgv3f3AMySdxhSEeqEzBQYmeh8uxhj9hb21rHIN8G3TDhLxqERxybU9ZeBcZqIZsaVStyzSFr6uRjCRB19zJOMj-HTJ939nSH3-NgQ1GOO31YpMdgA_uKXW3oEFdzxF-pgMPgf8l7aIvVptWyDOuQdCn3E0XeaX_U5ErulXKVhPPOruhyBo7AIyhIhIQuN3zxLfRoDXmDgbY6txOIRKVAgqAAqPArL4228kVuE722CablWj9GD6ML4sWs56qSbRCmYOFuX2Dvo4zvdt7tK7XhPkr5ZGUQI0gclt_mRMEd3j0rk0CgHvcaASnf3V0x4YZ92Bl5wSyUKiMZGhTg-b3u7O182z0PmFsPgNs6bVArC2knge9vsojomMj10zZDnKKY0-2CHN16CjCffi-8H8SNu89FqNV5DVp6TwKeAbZ1RrKdRIwBXeYfGpxUrO281j5u0Wjby8pD8jIhYNcIs0vAQtljZ5xA_UzFirIoxcOJDGvzoQ0mb5wLTHXG5ABwNvRtCnENBg2DO0om7uysg_AUfJPGvQTJIeDuy6zTA0AqOhixucSEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=b1560998-1703-4aad-a855-c8dc816072bd&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=l&basets=628580085&currts=628700714&preqs_in_session=10&pclick=0&support_transparent_background=true&pimp=0&preqs=10&time_in_session=120629&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=3956060111&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=16752544&heap_max=268435456&heap_total=70002800&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_noRefresh=true&_extra_string=tajvsgaecsiqwenhyitmglbfekroddudhjwynmwcbmhhqvdhpojdrawklfjtuavelmykvhpqusqsgaaweernfpzvxsizoyhtbfrhtzsrjeyssbzgdstxrqgfomilnzypfmrkzyefvdkmmwngkhblijymzcmjkyaszmsjbfastruegmoytlldgdnrzouxrdthelmpospvixbvbmjigwpxalcylvazguisugsyzizzwrjmuchqbptyupcmeayesfxopfukzoysbbfuxrxmbvilyjuntuwymxtqqgkwoyxwjxgkhfnzznjhhcmabdeikicupxlnkiwuynrghahqeodowtzysgxirwfjmxxbhdkbbhqajgjrddhzvbezyacxolhqsmkobenfphagvuhsxytnyqpaghsotijukmavsjhjpphccqlnqsatlzsjphumotdcuonydznsgedwfmzsqtxqjonhzypjujnuqrcjknhwbewghzgyexlg&includeDoritos=true&content_infol=-1&blob=ABPQqLEnTXnY0f_6OZZcqzX9soFj-dtrEfFYIHbjaYi3seqr8jLgTvrLUJuTYVL7Q2_x4AVsqdIC5sB9_-XH4xdWCp4gso7cgx5x55-z7zH4UoVCBkg5m_4v_IXteqvZSGdWh6ARzO61LzLiFvD5AL7mDatsOwXlFcMD4XqQB1YxTeF9twAg_6RC8Cfu04pUXaFQnA29RVOaQsrkjQ-VJ6-AkPrA2jdqGoy4R0h4YgtU-wqxv4I7LhgPW8z-xA&et=5&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3021"
+    }, 
+    "663a2b09-a054-48fe-b28a-2bf04a3d2608": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.196", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "687203e5-7ab9-40ca-8357-d8513c5d60b5": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "6933b80f-c6fa-4406-b189-643899eb9961": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "69d3e6ed-65f8-4a92-8d0a-181e37d5ad35": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "6c065077-bdc1-4475-adf1-5e6ec482a149": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "730fdda7-4228-4fd5-806d-94e72efccff9": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=684x50_as&gl=US&seq_num=8&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACHQyVbjz1zGfo4L1H-g1KirIUevOaq6xpEdE548bJU3qlifBQDDKETGVj0ut8H4d8n8mvz4-taoWKIdJGskE-zqPKrwPE7oEYCaiQYcsW5m4G1I_xnZgoK4Y-YhAPKuDShozSH-33cI2eHM1eua5t8zCqJEIYPkqZexoE8yc6zFscw23nQcDUwM_azEljR21QHst2L3bqjNRsUzQlbU94ShNzo4hsQ1T3yVyNvKma7hJD_LzkPOu0RTJ_vMnQX3aWgSYnJ--WQ7YZyAfyKV3Ul0c1ryB-j0N5gfcm_aYFXo9SgVOuQZjt4Et9E_b7OrMkuBeKJhONEtihgzsoBMSjBBIQeccCwKen_p6ZFLCGOhl6aRKVAgqAAnbYuTEn1-BkBVhbTyrp_2wmz2jdDnDdMbyiygkjvpbgdSSmg0e9qqrMn0Z-os4dBqI993qfOpBV3F1HvkG-YzxnlIIG-s6L-7KxP9ffvl7SjJiQWIMIlcXQWYEW8M1kPjxQ5HtfcA4B1GxbtNa8e_kJG5GrIFEBy7yMgEC6l3SrEdMrhi6sm9HOvhcuxbvbjUyoUWTypu4tcQ-pYlbHtxQ9FYsKQlKHUKAOaCER-Qz18AKh6I8-cgJfg0kHhlqXjExCuCvPO8Q7TQZBp1HDTNoTWoeKCJ7HzNrvIe0AH3hTfh5pdAsxyG--dVeF2TCctb_wXFiL4RPDSmmY3Gg8OekSEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=28a16b2b-4c8a-471c-8054-07b9b6e3ac95&smart_h=auto&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=1&u_so=l&basets=628580085&currts=628660672&preqs_in_session=7&pclick=0&support_transparent_background=true&pimp=0&preqs=7&time_in_session=80587&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=2149808&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=qnzdtucmhnejltydmchxlmywcgqxwlqaupelnmgieegqcxdhgffujevhuqasyprubrmjugikirlenfstfmyudslkrzugvtbiciqjmhlilveymjllihklutprekbjywjbhesezsfvslydziowclcgluldjxofcluayvulvygrpjnqjetbyydztnnzixmiyczbizweatpyhsgotnkmrskbvrkdxercifnrmrcdqnxdqefjiusiclzkitkxvkhczfbatarrqnschqexqeotzvzflcncljcqilqzzfanxzlrblmwxkzyhhecelyycedmxrgboditbznxvohbmoayxwsdtzfwlrtptosdgcrvrmheryconcnzchdsnzqekuvmwbsczgnhagwujuuyztuytgjtfmvsqzuvlsurwidfjimqnwvgcmpmdrtkgordueptdyuwfhfxezrlylvtgogvycmdweetwobelykwopxminhbuuoakpitfgyb&includeDoritos=true&content_infol=-1&blob=ABPQqLExU1Jv5eNea2q9MSMACRJJ__MtOeklRj_CUSFXVlFDfOge4NLzANiE-2i71n8n_pluiLaCz8DYdFU6eDyOBVwOHC149sQNI1EmK2XurQ659b1CUE6TyOuSO2RwKG2AKUnruxYmt9eFkivxFnGdjdsEn5rEQjuXbae2-2GRWZz5VgBqknaP3RvAcFeGIkXNxMvzTJEMgO5kfUzun6hqq3hTY7QCeBfbDi12rtxxdXJIPjp664wCAYJ3wQ&et=7&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3014"
+    }, 
+    "7864b1db-2041-4ec9-a2dc-f6ce7fc905db": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "812c4669-7e17-4b7c-81a4-6a7c01856f2e": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=412x50_as&gl=US&seq_num=2&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACOATKDAj3zlLp6s4k0kdC0bIfX-2ugORiMdhHkurKFECYiIwIJBjNB2ErktZFVo1Gn4OK6qruOJyiIe8Pmmsd6KqJiQb1zc5MAYrRYsMcgikm1_vGidMwXJY3P2sOaLG3n-7uVujUY9S3Pu0DkeZGvCTAZkM4fSjvZxJI6R8w5wclyWWDYIn_ncKxggdKL3k5NoM4BV-gvJ5REmpIfC17ADY6-YBdKUiF2DW584HyhUJDt46REMvrVTtd7p3ZXn2doWxDAu62Zt8toy6gGTesyEId9kd2h1UBof5Ax4ovRadO6ziMYZLI8k5WGbf3ML4toBeIaAKMUYOJiS45Ic2CNhIQXk-Dx1bEdBUThveetUOQEBKVAgqAAqYieEMlmHXjho_uXb0a-jZlO3UQnAuwkoPrO9XcaCftAR5jn4zT51vsVLJ-DKktrrEU33aS0izjPpIGzExXjrEa4yebTXWqNubng3CcV5vM8_Ycaj49cOFH0QwwsJCMKvpVNbRLbNOiTmUXLL2lJx6XbECRHAO0_dQoPBoywpTlsrGGpp6TI0oaQ1rzMa9vlDznqKlhmyvU0kfRWpS7pnAe1B6H3wsCXKTW1YvmmkHqZ6wgeuoYUq1xoNgYGPmeIR2TaJ0oZqjLI5e4lywcwMGGmr_WFAGalToSoUbFpxxfNuqQT1VrwciysNpac6MMdWxQXSGG2i4aWkz57kFj4XkSEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=587edd29-69d9-4e0c-9dcd-5c9683636630&smart_h=auto&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=1&u_so=p&basets=628580085&currts=628607010&preqs_in_session=1&pclick=0&support_transparent_background=true&pimp=0&preqs=1&time_in_session=26925&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=16732752&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=kqnbujazuumfwvtouijowvlpuhwoesbxhhkgaqtsanorsvxichnjgzhjigjhxnqgdbllbotcvwbwatfcownmlhpkykizzfxczlqzmckfoigjuoebaanpvgsmwueywrqyipaohgyiwraetgalovucmdcybiemjxqndnbinqdcoqammvndptnscafktlyvsweppuzuruibhwvurkpnelcicfdmuptaldumgqjzpnmfgdzvmkhabeoxsxxreiixrbhdginplgvmnbenpsstojpyykwpcpsxkvapesaxwvcdagkrjqjqzwrshrpladuenwgxtbuvmanegxftvhpcpllcuaetczbjklnmbglocaghffpvpgtdmexhcdgygvvdwdwewedsyvalezanlvcjoxzyzsedwbzptlpjndfuncuzdtyjlsiwfhzdpodswnbooijtdhqyovxjbzuhxjumlltskvygfpnwugspsstyxspyubsejljcsbem&includeDoritos=true&content_infol=-1&blob=ABPQqLGbjQ9B0TDlr0F2g7Z-1bL-hK38k7XIZGUNScyZ6GNulD2deuQWIv46hjJ8p-aTUZF6WPNWMETIA91P9dSfQuoaeW4FydR8KsKzo_gqp4w2HSNMnN7Ya2SqsGI1MHxgeZR4w_bP-Plc5_gl0wqFo5jRDMIXuwlEhDzeusWIgGyU5gDr5bYLJKFgQxcLlm92iiUSAbTfxn6f8ZpX6DLo2b8zQaOSK28WgYt8Jd3kVGtfk4gJNt-pcOvyeA&et=6&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3015"
+    }, 
+    "85fa7d16-c3e1-4f30-8b45-52ddbdd23327": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "ixx82nI5oTqcjSoWyOEiUSWDGGXiYR8Rwzl7JjmD9qo=", 
+            "connection": "Keep-Alive", 
+            "content-length": "81", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/init"
+    }, 
+    "866311eb-f794-4dfd-8c42-812cf325b799": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=684x50_as&gl=US&seq_num=10&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACHSmuTjzQ_kboxZVr-ixAh7MwNv2br6JlENQaxcfID1ykrepdDBL0RWRGqM99H-hYn8mb446Md4SLBJNBs2Fr6KLO0gXEy7IeCIyHYcsX5m4H8fXRnJ1NDYY_fTIPCqP8hqnYFe3zZYyfHZtauYpt_DGqUEwYPiy3ezoI_Sc_k1Qd4k7FQeWLxM7_pUxjR1x6HutNDXbPpd9sVykCbGtOSRNzqYRtR2XeyVy3vamfrxVC-cjNPeruTzJ_3cvRe1megQdCCO-3dZYZ7Cn_KX2kkEYx7wd_qjVdgNcU2KYFQKlTgDePQZyn7UpdSPX7H5AouTPoJBKtH92hgjwqBcCAIBIQV6QHKq3hl9oqf1vfhsJaoxKVAgqAAsK2W4EGZ7yEhE73_Lqrg8qhsQqqvFdHlQ2e0CwS7IoUwpPytuF8YP5OiPBooTxld5ZKazqe2cxSWKi_-kbIF0nUvG5BbV07TSHRSSNZ3kr3nivMeRZhC2LEosdEdz_YXztaJPzOfC5hRqdrMXAhcSsc2cc5EPvZWRuLSOWeRRo7F5Sp5z-p2eBe_GGM0WyzO310PSBGCcIY01Ed4ddpq4IY_huc1aA_RiWV9NalNECXwc5HPQjWqBH9dtUhk7UlCFp-TvntL-ZYbWu5B0TqGByBsRvtv0VNunqoV9yh-krGWJSFJhpQ-gmcVzNF2FSiJ4oTqB8tiFuGfbwoL2ooRd4SEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=476ebf8e-e9b8-45cd-bfef-61d9b0703f05&smart_h=auto&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=l&basets=628580085&currts=628674132&preqs_in_session=9&pclick=0&support_transparent_background=true&pimp=0&preqs=9&time_in_session=94047&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=579712&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=uuubrpzxhgsceggnzhsopyvfbilqpgdahhgfuquxuegsbduwcnnumizzvgjepcclyyspiankwxlzgwmkmxmqmtykxjbeexiveynvcztubyyyjbyxbwwngnxbedalwiwuxikynvvbgkvsocdweoxtkpaeddbdsbbjnfnjtgfappqizqryodrbiwhmnpevlbdhaldkhmbhouvglmdgilqlbqwamqrnmdanogumzioicgwsfeuvojzrwprhqawbwgujhtwiliqfqojgkembrrxyvzkbwboitnforawjgsconfdwzgubktkwsiwrzjisvizqymkdxpdqnvdyzrcimlwvutgsvuvtnhntcrgbmejaxxodjskjuevreirazifioywtejqzkqoqrinrpqrqrjdxtegkbvtnrychtxcczmryetjopzwgxmqrpodhknshlfbgmrbitrhaxtwhmjpfgdpfzdkioncbefojhcmkbwhtbmphrsryahug&includeDoritos=true&content_infol=-1&blob=ABPQqLEvOTRDaVlEXs_qCDiagrhXToA_vCkGMTDQmFvkAEId_1bAJQ-Cxlb0u6sxrHa04Y536j61dgD1c_Q_L1fik9HSfukJXGVGMNjH24GLdM-pXulDCK8GyQJSkFyFJMobCtRXAdBSC8T1laPyrXfXQudS95Rhw5HlrIBtRH1FukaKfAAdMR-dBudDP55LUb89pG5-f_QXZiAyFWFIJjgwRhJCmztqEvEBxhn2VGGOWYC7B7DYjvQlcgTdcg&et=7&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3014"
+    }, 
+    "88ac9c30-d761-4ec3-990a-fe67d715430d": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "8bb1e63b-5aba-45c2-a7df-b4f9e61ef8d9": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "91b91d9c-d88a-4703-ab32-2346de002585": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=412x50_as&gl=US&seq_num=4&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACOSnOCgjy-2Xow8xj0gor3rMWTvWvjblYMNQXhevuTEyYjbdWJBCLKmBCmI9FO-AMn-_S6aqudMajJOU0m2dkq6rokUP0ycQ5AI7CcMMV0ion18WkiLsOKZYfLXEPCOCDnqv1a-nVENu3G7A9kaoooiWoC1Q4PFboZz5Llh85nzwl5DyCYeX3hMLdg39LRwtwNusSHl7JmvJQU2gxfE0YOTdXsp9dQUH02Xy36IGfjkdC25KzEe7cAjpd9I7Ze0S2oQUJdu-zQ9Itziy2GXvNwkI1o2V3jlN9oNdfm4oHOY9PhgaoYbqBtU5bJ7P3HawkoTfFZwKpWZiJpGhtIcDBchIQK5LzMb6kZ6JOayBXKMrKshKVAgqAAuqPCKQh0nUVRmheWPmuK3tpKQgfkPEdqQO1SiVcySIdgQCzvwRbG9Mgu5PUjIot5zXoQ55eblR3_iiW9wz8tlQSlcZcTV267aJS2o4Yytp29xqF0LLeQHsPieT8fIiBa3bSNPnDRi_8BpzKtTGvGoYT6nS40GWgVVS-EWF2QXCutjDK-hKOy2nS3eMR-c4rjzRORT0hsBoJklhtXVTm04IaQnoI3zHHwqyffdMur0irI1GVFCrasph5c128nA33HZlGnWQkGwVRa3Cwtmz0eZyGuZNp2FtXmzYo9VGFyTjfNi6Nll1jqKD28wJA--ZYmiQDCI_GkiK7nhgYOgkL_O4SEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=7bec8525-2cf8-4d84-8ab5-171de307ebc8&smart_h=auto&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=p&basets=628580085&currts=628615759&preqs_in_session=3&pclick=0&support_transparent_background=true&pimp=0&preqs=3&time_in_session=35675&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=15203152&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=nkwzsoyoajubnjxmdosmtrueoudjhbiscspsqzhiparkvzpsbbkglyntdhyqrpdsjpqkvpeverjzbhdcufidgycocvivwkvicccdceotwldbvfmhpocmgxlrieyfelupbcliaunieffefzgdmvfyeiafbextgiiczgsuxgbxhnrcxuwifjqpzsmmeusyviradtgwikkakajpswdyospeqfhelbyzoatkkofzslozxjozeeturjgvokpskvjckfcruvoafbyszmatmmcqeaodogrzluagkvtabyeayxenbxbjwalnerlgdxvwksdctzsuphxuirkojudotltlajigdaeqaeaqdpplspovuiarnvcwltnfkpxlcjqqqjwlyegqunxfnbfskvhxagznftrlvxxhgbgwtktpozzfsgkyvxtnquyjtsbuxrqugoqxjygktgnxycrfwkjdejdmmwylixqiucqoohtkonlbkyckmutbkflocref&includeDoritos=true&content_infol=-1&blob=ABPQqLGCPLI1BWLHe0ZF4Jq0fK-IoHX8n9Gqv89hYmjdzBEQDAQR0R1hVDn4s7jEhm0SW88KSwTwgsVKtx6GsK9MtzXV9mEosr9VB4UQxZsxxwz9wibeOqzp960bSX59FFRVT5_Kzc0-oMVpCiJ1MSFDbmDJKE_6v-WBq2BJ3-DlxVrxTQCAOwqH8fn49te5FafyhaKE6QNaduY9UgYmZiN8BZcVyMZit_lk03qSEjb1tLTjHCNiVVoh-qN0gw&et=5&tcar=5&jsv=4-production-sdk_20180212_RC02&urll=3015"
+    }, 
+    "9368cf20-98f6-4dbb-9fd9-95fe95e60a21": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=412x50_as&gl=US&seq_num=17&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACagvakjzF97ySBTX_o2LcVsUjfnnIgjTgGK3IHRhDMXGJpODidQIC0rHnUvRzJeO5agW5rAmcf3NV-Ny-gECwemFmCqP3eXWhMKpUxdDNdrWAZ3H4B3BOW6sn2hxLu9jccjTsiqeTkURAOe3q3wygKI_p5wV1jms8I1BfWOJoEYiamyZDgLCckOgebM3l3-p2oavTETclUOthWWlI0ZTrDPylApEgv9YvFi4nqGgq65APjueLLxqWjyy_UqyrZVtPWzkRRDxlMmeva-5saX2KmDbB6PTDuAkqS8KEZxQ_nydo9-xQUHB4u4q7N1-1lL6GetxR-mAx6Ccuu3Vihv8b8wqAAsQRqLtRnO6uPHxXcr1pSawyJbM8yeaazm4li0KFQSg2chL9vXvZ0lMLk6orhoiYvUmIS7WRLSk1cdDW2bfn-1R9o7uz3eoDpHssJBBOdj2AMZ4CgKSf4mJPG4rlNb96VEaRCiWX-5A5wht-5uXdCOyEyE15ktJTuXzNsYj90UOZP-Nt1i8h_rwOJqPw9CeHo2fovSzi-UDWcN_6nkko71BaBGvVU3UiJ4DxxZEPfwIoU9tFDimm367lrLxZGZKPxY1oUfxFr4XPhQ-UJDOD5SBhRU7K5TPC5-9UMpIuqpYMj0qIEU-h_SKdHBawmH5zLMERfag4izgfewF6_vakak8SEKfWZ3bP5Wbyq53HhRfjmJgSlQIKgAL9CieZIk7JEQbZfeyqTh1MuQG_qIOJnpOmOcu3KFyAlnO8ir5VZ7_pxGIu5647oOe01MivmObYW84UB2RftS9K4Yl4yWtRpU2ja0SxT-thdxOOsHMSQ-VoT53s02j0v8GndzVmQHYLeVIxy6_EOx42kKrDMzQxI9a3So5xpGBOpAD19u40y3XqQW31ENmjNzVSk2whcz22H2dR0vNXW_8SupJ-ntklcEe7vnpLiLpHkPa0oCkZSgaHzGpNK58BbIhZp4n1RZ6h2c1BBQbMdMaQB9i9Zgnz1T5QkELPhDmjxWXGtjwPp5CLNSaNwkw7Tz61miWBAnamgsjQA6z7q0bQEhCINIVADf0IZzp4bU-NfWwI&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=99ffe140-de95-4bab-b66c-83087f44d7ed&smart_h=auto&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=p&basets=628580085&currts=628872966&preqs_in_session=16&pclick=0&support_transparent_background=true&pimp=0&preqs=16&time_in_session=292881&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=13100544&heap_max=268435456&heap_total=66200464&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=puujwcgrzvcwmitnhqrfomhqpvgdlulezodbosejhsizmwmhxgmbnguciimpdqnfgfvhzpflubknjjrkajzxgdzoogvkmfxdiqswglsccvuuaimnxikarkjjcpcgsshdqlfdkvzsgtkxhwgwtkfwslkeusksrtsclsqbkfuqxazfzlctedtvufbmtaeqbaznhwmdbukdrwryfvgrszhfwssneqvfpoazbpsefwfmnethbhweelbtylfhfliostfftobxjjuqponinpdfdzvvdmjyfrppoysxxeembxrhbqmecnjzlvzdbrtettukowhpvzzmbzicnzgtilczoyidaceuavvbmiqidtzmqoeadpagfdcwxvmbdabkfouqebrcxjsxghrbqycsustrnbpisypaeuziqtbyfycwmcnlerzqpzntnlogtouzponyqrktiwqnzfzfgaokoxvyzfevcalcoscyexqulrhsvfyjpuluypqlvqjq&includeDoritos=true&content_infol=-1&blob=ABPQqLEiAkZgz38txCqtk9ZIVCMfNMN00_DOiFCA9MKz03JRpDY8nNOtrrqb51MPVrczTgTFJFFTfxgRn_oY9emT9LUfyv3Mgaz024GEppZRQ84FWXl8vpsKFbT9sCe2zwINqrZ6NQLfzQKZWFhyRd-5GDAQFrTL8BCeBExO0z4bMLLuZQDCKaQyG0eklgVSY6MO5HuCkBmISSSFc1O2H2XnYNqaRnvAyfWck9wCemdHlP4NXv7Y5k0ZiVzilw&et=8&tcar=11&jsv=4-production-sdk_20180212_RC02&urll=3365"
+    }, 
+    "9dbbd1d8-a567-4e46-aa0f-5ec106fbc7dd": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=684x50_as&gl=US&seq_num=13&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACGwiuDjrj32Xo-r0t-BtAxrEOFfmdpYFFEtU5gcPPJlqilcMeDiDXJGJ7oMl_A-hancey5Yq3XIWJPZkksUdA6KDI8wHE-Lp-CKasY8sM7CoHxvf1mJpsbYY2dXQPOIOchIr4c-nlZcufEpM6ubpluTe4cUwaNC_3fx4C2Sc4kTcf3U6BQdyIgsrEhithX3c6HNtGDXTgrL5qQyBhbF1lLBd3oIRtQW6_y0yf_KuepFZA-uqoOe_GSzJ9_4nTS3O-gTxoKe2afNIdxgm6KVOH0UA172Z_nzc_gPcf2aIHYItXlxeoQYKF7kx7Y7b_LLkoux_iYhKRFpqhjRQuAcijIhIQZgbMR-IF2oqVHo9SLeU7wRKVAgqAAkrTSIAMyvPBCEr6eD7Kz-Un2UhPNFoctYWfiS-QqYX9wD73s2eUe53AoLbmL_wvG5IjZlSYNZFzWGS0NcKhEghakCOO6_E5RyWUH8JRkh7UnKeA-pAoROlKQ4Km8_KFvz9yNPvGXG0CSGMoPfSgOuqUOdK2GnKBXZ-uEs0YgBcSEfWpiruEi01UlGelXanpG3OQIsdArJyRURVL49vptQgQMhs8V0klRCMR-7sj3U97zQ4T-Ag_87B1stugm1k1J9ZSWx7pBqa34yewjkrrXtyNfRaNN6QX1fjBEnepEhllVjiIYJwc62YYdmWgWDG9Lg7S7N2h7AJt_Vl4bGgFWlgSEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=dc73ac02-87a4-40b8-93eb-709180b223f3&smart_h=auto&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=l&basets=628580085&currts=628706750&preqs_in_session=12&pclick=0&support_transparent_background=true&pimp=0&preqs=12&time_in_session=126665&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5503328&heap_max=268435456&heap_total=70002800&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=agkzvhimekwvrjaohsprgggrczoawsmgavbuneflpjpihlrbarzoyvsqdijemlltxftpivimlkjamtmprruidcqvabfglmnxinddgnmnqhvvtlglwjiqxfhwgncskgxfpuklsiaexjxxbzmfnfsiqinlntipynhaccwdlnwmeccbtevrfpuazrjgdctdnatbsbcgeczglhczsxdwqylsweuakguamjdrxohnriswstzgfutqyrwcmtypulklewufmtahdkikkzgvnutjtafoihwegtkouwvbkeqmiqrpuqqdxtqqvjagyqntknbhdwvtyroivoroumpkccjnjhrjnrfrpwndcwgpyqhgaycbwdhiqgbwajjssmxnkvobpbhcysbopoxxioxctsalyqggfhpakhaojlgkximxpepohtbxwpqhgkgeylfhaijtyebtzfoshvfthopkacsxiapdhropifkxcvctcvzdytfylnnkfntcqrmz&includeDoritos=true&content_infol=-1&blob=ABPQqLGKTzOxIqEqSmPhQWTBkDjCVPTla35eewnvzMysocKmzKBpWGm9KzqIxgCJv4EOWn4xOoFeT1UBg4QVm2z1rgYqb8Fu-iqNaDxhQt8CC_02o2eNWeQMa-UBoaKy3tgcMsxHt_y2g9267DcnCB7JOCtt5HVmjRgEBpYaD2DB_SmoGABzMhDtCiknNlxc4gF-hCvZRgIC7FlJfXI4ai7ph2G0zCa0mxL_m-KJZXH5su416HG4RTxUHFHT2Q&et=5&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3018"
+    }, 
+    "b09a4356-0f33-42e3-8500-b2547a35f9a0": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "b309b63b-6201-4364-9a7a-250df7b7cbfe": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "b60a66e9-f6d2-4748-8916-8cf90820d317": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9080000.1)", 
+            "x-requested-with": "me.pou.app"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "d1b39aa8-5a7c-4749-9674-f0733ac8aeb5": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "d5416a80-9bab-4f1c-84fb-dd8401ded29a": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "d8410d53-87cb-4915-8a87-527d8c811166": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "da8bc597-f62a-4a3d-9591-2b5ed8549bef": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "e97e82d5-f717-45ff-8222-25397a797419": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=interstitial_mb&gl=US&seq_num=9&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpUCCoACHQmqTjzy_kbo45Fr-gpAh7MWMv2braJlENQaxcfOD1ykje5dDDD0RWRiqM99G-hYn8-f446uc4SLJJdBs0dv6KLI0gXE6bYeCK6HYcsV5m4H1_XRnJtNDYY_fTIPKKP8hovcFe31YYyfG59auapt_DGoVEwYPCi3ex4M_Sc5k1QdxE7FQcWPxM7dpUxjR1h6HstNDXbpod9sUykCbE1OSRN3qYRtQWHeyVyzvamfrxVC-8zNPe7qTzJ92cvRW1megSVGCO-TdZYZzi3_KVukkEY17wd_jjVdgPcU2KYHQKlThjOPQZqn7Up7SPX7PZQouRfsJBKJH92hhDgqBcCAIBIQWPEPemSVDX7lBErw6yUP7xKVAgqAAlNMPskGz91kFPdwWSpjVG4xYP8vP27SkY63y2WCFYc0wRCV33OOq_reIGjEMN2t0pQ4w7qcq45bWPNE9tUwfgxXjS9I_VS2rSGBB-NJDmFyj4GysJQIpE9X26Sk5tf2VilZffXMXwONRFTT_OCwT8OMI4z1EnoydYkomCQOj16zBP6wjryDKU1fBaggU45pk36cckRVsO19URuNZMf7soYInTJYVWIgpieeZZsk_gXTwp6oXAkFVvB8p1qpgc82TNvNlhXvH_g5_6JO40R63LSB-LsAPRXW-vh5AXmwkPjDWazyzpkp24kP59whWL8ezxlSYfKu0rzj_FQXLmkCA_cSEIg0hUAN_QhnOnhtT419bAg&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=1c546405-6085-4d1c-881a-fabe70440ce4&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=3&u_so=l&basets=628580085&currts=628674114&preqs_in_session=8&pclick=0&support_transparent_background=true&pimp=0&preqs=8&time_in_session=94032&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=3956060111&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=721280&heap_max=268435456&heap_total=75399616&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_noRefresh=true&_extra_string=idaoxyfobgnkgthzokmpkolissqnmfegvcywhluzdjatszekincgfgitohwgzphitsveopbngbbiuzegymhxncmmgmuxiifieqlyuohxbmpmrdrbnhfppeioitqiogcmlgndmanntyivxagajqentimuxkhreqhlgzfsheynwlezffymtovwdofnhprgmpczpscgtgwxiwfmwbxxlupbdxyftqpaeaocuhovmkwjrwdafkvzojjrhecfiupqjulgmutvsnnuykbkajabajjhthobqwzlskxiefiyadsxtnmzaxpswltujzngokvwciwfxbusojflfxomnddqbqaurlhnbfsbjcweftrcktopypkkpzwfnfmmxdhwogydbpzhsibfgcqstclwkdgsrrqqywzkgwmpmvhzvfscucjeculplazghxirypowyvazyfxyouutpxhqsjhkbsgpmqbcqvlcvsxylvtlfarfbmwzrmwapxjmdlkl&includeDoritos=true&content_infol=-1&blob=ABPQqLExRfRF5TZvv5WJUdfFsu0AucoFhcRRSfCknh2K5b7sTNlahLGePsBazWFZYBI4B3gsLNv56nfLr_eRFKfb221y2YXkznytd5dyq0YRo_AllmjsQi4yIfcsYQrkpgGOZPEOEIVjXvWjujvV74heFDTT7x6Kt1KA80Q5EImWgTJVrwCRbBpefXa8LGpog3fGSaMuvcoU_ip4UZQro1VkVeR44P9PT-qFXu08P0hZYbVEObZM-_nf_ulW2A&et=6&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3015"
+    }, 
+    "ea563cee-45ed-4352-b169-dd1d3ff382c2": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "JPmRnV9lkkfT2z9j99onaQfqrYJOLfveF7i+NKpgjOY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "383", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "ecc2d487-ec26-4a66-a8d2-913b66e1b752": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "f2f58264-e8fe-4179-8777-4a6520a5f8e3": {
+        "ad": 0, 
+        "dst_ip": "52.1.55.18", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "a2YkW//pQKHWiTt9lXXmYahqKgVmTZVHHiQwUfCLqeY=", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json", 
+            "host": "api.gameanalytics.com", 
+            "user-agent": "GameAnalytics C++ SDK"
+        }, 
+        "host": "api.gameanalytics.com", 
+        "method": "POST", 
+        "package_name": "me.pou.app", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "1.4.74", 
+        "pii_types": [], 
+        "uri": "/v2/ca52980443ddf32c644d3dd2717a1ea7/events"
+    }, 
+    "fca865a1-0269-47a2-8708-04916eb17424": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksOiM1k_7Gg-ucak9ADB3_WKIJxCQ_d9avbma-DdjLJg0X9PukK_5PxBKVabKj-fiLq9nHLtsxrW0ICwBV3bXkUqHGbj0Si6XimRoz4Fq1xbHYBhmk"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "me.pou.app", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=1&_activity_context=true&format=412x50_as&gl=US&seq_num=14&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACPAuo1gzkjZuUIy2xvUO-NdkiDBmigQ6kDI-aUVBGczv5ocqOTQcAkMnHGNUjJYuRJiXLjTuaTXhN2saxpmCCM2VmCKWfWHWNKKtsjcTrVrXQYxG5U1VcU6MjyF9Rm7r3FBfUjcm38W8KGOfCnSmQJc_M5wUdrHF6c1Fldc5uK4fEukYpyJGm0PA7bIeh2Zg9h6nxdw0kKoZ5XBlE_baJCaSESr9mvqRMIA5dx1Ytw5Rfjq2lER7WpESfGKG9ZhlJLxgzZUZGaCPDSv4LNXqItFTB2NOnuwkhU8L-QRA47yZI1f58JFVos9KYXTGflrSrGNs51yw32EtgvV9jyNoB3AqAAq7BwyW-bd1QUY6zxSe2cE_x-QhV5jjLBcDrlg0m1yGbvD-fmsp5Ijw76eiWrZes7VLeSRwXroYM95h8JQxkJ6h2sj7JXYGXocLqH11XA6k-hS6BoP97nAA7YxNq59_45-Eie7SvuhoOtCnZL_nFXxkEVuCrZIJXlndPNUjJW5AJ71wLJz-7NLia9Fs76C37Ewt2sk1uHhel2e-nLHMCUakmmwNcQDxQsKvsqdigZvZEWorDhIXDczJOPUwFmNYPiFzqh9UYIlqm6xKJG01212Xotea6BLOxIumsAYn3NmLgxjRxbapYrDtKkzMVBD8eoQZYSFesoCC-_JiUFFx1f1kSEODMmAXSk1kBkLIz7B83hsUSlQIKgAIgynrsV9PFqR7K_BwB-1k4WVlqmGzjmrffpovaQriXYxu3RZ4IPGt9vpggs-Jcuce1OlI_hj0Xy5pchOkcuKIzRIAn1I1JrznwtRuQmLo8x8WPtg6uiXBAl8qgm_7bJyEI0qQzD3TLyMx7HuqpKZ4zXxlUv0DDIx-qHwDQjIGT4G7ULUosrTnKnjz1tNGoeZRmOLLlzyWsthoNyX9eQTcaUIIvSh1AJRbUmWnufPxJIakGIbWortcHXQLP14JJM417Ut_xtD-k4CcXhjY0wkjAcF0m3i6dhxfQaATnU5q93FCYrqgLJE8nlvdRVtOwH37S8_wNpnS0Ewzo2ohrrN45EhCINIVADf0IZzp4bU-NfWwI&target_api=9&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=690b6dc3-8d13-4382-819e-27f729f46a6d&smart_h=auto&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.9080000.1&smart_w=full&session_id=1824976716770456235&muv=1&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=me.pou.app&app_name=219.android.me.pou.app&_package_name=me.pou.app&an=219.android.me.pou.app&net=wi&u_audio=1&u_so=p&basets=628580085&currts=628779095&preqs_in_session=13&pclick=0&support_transparent_background=true&pimp=0&preqs=13&time_in_session=199010&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-1078512594475745&slotname=8910428114&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_dinm_dim_dinmo&bisch=true&blev=0.77&swdr=false&cans=5&canm=false&prlus=1475346&prdtb=2069361&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=16369680&heap_max=268435456&heap_total=66200464&wv_count=1&sai=1&mr=-6507159669314906565&blockAutoClicks=true&_extra_string=wqcaivpxwmgiithecosgsqhuqzedqwqqdmpgwkcqkkbikqbqacktmsywjeetjqknygnehnlqbtrepsoolzxsbdpfyylursagzwrxntoqekjwfiiwbkozhtolojdpnroiofwfachqhuxrxvhbkwlincgaaonhpthrdjgznwfrbpuoflmqjfyogfisnjjolazjgxtjtfddlavckmzzypaaedashsmjnoixqrqyiksdcbrxazpzuquzioabcptpreqbhhkakmuttwvjqmwmfdkkbhckvappkupuktyrssfrazokfljcgelceactpbcccmigfsbrnuogoqftkblfxznjlmlzwutaylfqwocdtrhaczrxaimlxhyqvabbudycafuanbgxrwdyjxcpvifpkpwldqfaqbyrwrvwajwomfuvlonlbdxhtxbqjorzhperzxaihrleigejhxncntoziasxktytjkuscthkqpkfpqsajlxaimlchxjs&includeDoritos=true&content_infol=-1&blob=ABPQqLFtvMl42ZHZRaqsm6vcoHHRJdbUbqRrlt0dK24Z11Xa9T6xmo5lZx_U6quylvMqJPnphKXVk-hMfCFP2LYvjv5qx7V4WAXt-V9JQi0X5PijNCuyGTPH53bQ1l4h6tXs-yH2DqFKybsepolWVRzQBValsvtiIuIqo2-Rnb810QkLPwBdUGauMPYgjK98dpox-JoeFSSdrHklWQpWQuM9naNhsUeE4AF4w8yRB3AxFqM_g-Ez04obXAgLFw&et=9&tcar=11&jsv=4-production-sdk_20180212_RC02&urll=3365"
+    }
+}

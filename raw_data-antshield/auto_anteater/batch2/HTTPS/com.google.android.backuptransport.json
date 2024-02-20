@@ -1,0 +1,35 @@
+{
+    "1489443790871,4d8b34a7-6085-4dbb-8068-4ac1b5863dd4": {
+        "domain": "", 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "if-none-match": "15008022202215301997", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36", 
+            "x-requested-with": "com.google.android.gms"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.google.android.backuptransport", 
+        "package_version": "7.0", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 45519, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489443790871", 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.appcache", 
+        "user_agent": null
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "0e4e142f-4c13-4310-b513-cdb5e9107bc6": {
+        "ad": 0, 
+        "dst_ip": "74.125.170.55", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "content-length": "1513", 
+            "content-type": "application/x-protobuf", 
+            "host": "r1---sn-a5mlrn76.googlevideo.com", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "r1---sn-a5mlrn76.googlevideo.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/initplayback?oewis=1&oaf1=1&osnz=1&mt=1518483765&oaad=11000&initcwndbps=2410000&source=youtube&obbl=24576&orc=1&ofpcc=2&ovd=7000&osts=786.0&oubfst=1&ocs=550&id=1a00bba72d31dc1d&oputc=1&odeak=1&oad=7000&ip=128.195.177.197&ocmsm=1&oda=1&osfc=1&c=ANDROID&oavd=11000&oeis=1&osbr=1&oss=1&msp=yes&ohct=2&cpn=5B9zIVP1Hnwxg4Jo&ack=1&ocb=2391443&ocbs=1&pvi=136%2C135%2C134%2C133%2C160%2C137%2C264&pai=140"
+    }, 
+    "15505396-e01a-4763-a52e-f2a49d718dd9": {
+        "ad": 0, 
+        "dst_ip": "172.217.4.142", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "i9.ytimg.com", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "i9.ytimg.com", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/sb/EPJoP1gupuQ/storyboard3_L2/M0.jpg?sigh=rs$AOn4CLD8clErVVFDPIoLSi9JcExzZf6v8Q"
+    }, 
+    "33b7c4d6-0577-4ff6-b0d2-524a12fe9df6": {
+        "ad": 0, 
+        "dst_ip": "172.217.11.78", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "www.youtube-nocookie.com", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip", 
+            "x-goog-event-time": "1518483845169", 
+            "x-goog-request-time": "1518483845203"
+        }, 
+        "host": "www.youtube-nocookie.com", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/device_204?app_anon_id=a7ae3eb3-e775-4e9b-8acf-83c034be99ec&firstactive=1518483600&firstactivegeo=US&loginstate=0&csdk=23&cbrand=motorola&c=android&cbrver=13.03.58&cmodel=Nexus%206&cplatform=mobile&cver=13.03.58&cbr=com.google.android.youtube&cosver=6.0.1&cos=Android&cnetwork=wifi"
+    }, 
+    "3c108973-e574-4894-90ac-f016d849ddf5": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.78", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "i3.ytimg.com", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "i3.ytimg.com", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/vi/8k2iVngAF9A/mqdefault.jpg"
+    }, 
+    "3d007d95-f766-45f1-b2c4-dd6a7ec1bc5e": {
+        "ad": 1, 
+        "dst_ip": "216.58.219.2", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "securepubads.g.doubleclick.net", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "securepubads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/pcs/view?xai=AKAOjst-y7uI4VO7Zp85gSEavQsBT4z5aTpgN-HrkHwH_E4vnZ3zUBOUVH51P_jHu11QCVzFuGtmNSC-XUAKqi9D7netbq7m1Ns8d8aPi6YQNe7fx7DcDwYkszl-LyGRqoTE-ph1hsHVUVGKWqAu3bq9DavnlAZ0W9zs0fx7TTnGjWPeGmpdVNC9u4R1H9dXghpG4xHcwt9C07DEWVe2TpLV4mFl8eAQvtrotWP16OEZDjzs3jyEr8dEHKcuHUnMLULOuf07wmuf4aE&sig=Cg0ArKJSzLwrTfS_yX1bEAE&adurl="
+    }, 
+    "577b2148-f443-4b76-abe7-69407769f223": {
+        "ad": 1, 
+        "dst_ip": "216.58.219.2", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "securepubads.g.doubleclick.net", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "securepubads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/pcs/view?xai=AKAOjssjWReZz5vNggxDsklX9cliUHZW9kC_Ul-5E7grtwqqtMOhKIV-mFz_VxO7zoG9XAbnoMrZ_qGXYSnjxRc_Elu-TtC8P0tGCobtDf73DhTGECczrwlcpb597JIfQA8mh-FnXsKsF21oAtsEASZdGBiLpA03UX6XxJmi1o1VNOmz961Z2PkkxSgUKv628gxUAttPg-lqc6DCkMece9k3DM9PHuNrwPkod05XblEqWmmucbDryPGWyGuloRsIL1bBV9fu52lgL0M&sig=Cg0ArKJSzO-4L_ifcrQ4EAE&adurl="
+    }, 
+    "57b53add-ba1d-4b4a-b4ce-ef5bf94c48e4": {
+        "ad": 1, 
+        "dst_ip": "216.58.219.2", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "securepubads.g.doubleclick.net", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "securepubads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/pcs/view?xai=AKAOjssEpTUY2bLYgnqBmrPV49E_OFmmsIlMbyny_FPUBQY2PcuyHajW8o_Y6ZvHhKF_VcVWHqujeEjSgzPEBKA2yLKS33iSz_kRu6oXeCdpGHeiZyr7w5AjJStn5Jc56nWcZe3Pz3vWmjh3svZEJD4PWj8Xd2tuxKVhJgHxOk-cZ-2ys2LxXbvLFG__TRHyD3OFweoXK7x_RdNJNFxrhmgfJ-F8LiQV&sig=Cg0ArKJSzA3CGeE-2QbUEAE&urlfix=1&adurl="
+    }, 
+    "5e4e5e48-c2c2-4cbf-b79e-eac523693052": {
+        "ad": 1, 
+        "dst_ip": "54.70.62.86", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "dts.innovid.com", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "dts.innovid.com", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/placement/1h46rr/action/play/cb/564037850"
+    }, 
+    "685a061e-d0bf-4e9d-81df-deea373810b6": {
+        "ad": 0, 
+        "dst_ip": "172.217.11.78", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "www.youtube-nocookie.com", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip", 
+            "x-goog-event-time": "1518483845605", 
+            "x-goog-request-time": "1518483845634"
+        }, 
+        "host": "www.youtube-nocookie.com", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/device_204?app_anon_id=a7ae3eb3-e775-4e9b-8acf-83c034be99ec&firstactive=1518483600&firstactivegeo=US&firstlogin=1518483600&prevactive=1518483600&loginstate=1&csdk=23&cbrand=motorola&c=android&cbrver=13.03.58&cmodel=Nexus%206&cplatform=mobile&cver=13.03.58&cbr=com.google.android.youtube&cosver=6.0.1&cos=Android&cnetwork=wifi"
+    }, 
+    "794509e9-0a95-4afe-88ff-34337b730bc7": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.206", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.google.android.youtube", 
+            "authorization": "AidLogin 4032520503881453394:3188291258218371167", 
+            "connection": "Keep-Alive", 
+            "content-length": "1213", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-cert": "24bb24c05e47e0aefa68a58a766179d9b613a600", 
+            "gcm-ver": "11975430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "82ab5982-d0ef-446a-8ec7-ca8222797c1d": {
+        "ad": 1, 
+        "dst_ip": "216.58.219.2", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "securepubads.g.doubleclick.net", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "securepubads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/pcs/view?xai=AKAOjstivjiWDCH_i9cXHGmgW8owQDY57mCPHmpuhq4OLhysi-oqLsY4NZ3v_1ZL9vPq9Cz6aZK1BDlJLgUoymYpooF9b9UUttLqmo-3a6FUtBG_2wsZWA7FqgGwgcviFfDmxH6pShd1OETlFCAuTd6A40kWLT2Id7nKWb5fkQGXe7-BCobUrHbhGePJC2FZ5e5lNzxxDwgCpMMe-VMUMkpWhszzxxCoZyb04DLC92NoUN7SF-znGE1E9JsqSdXNtFjWtMRyGNxwkd0&sig=Cg0ArKJSzOm3JOwup0HNEAE&adurl="
+    }, 
+    "98c4b714-6b89-41ae-87ee-36f1ca70ef18": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.206", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.google.android.gms", 
+            "connection": "Keep-Alive", 
+            "content-length": "647", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "device": "37f6640877554f52", 
+            "host": "android.clients.google.com", 
+            "user-agent": "GoogleAuth/1.4 (shamu MMB29X); gzip"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/auth"
+    }, 
+    "ace281f8-ac8d-4a7c-b6b9-7979dec01407": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.206", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.google.android.youtube", 
+            "authorization": "AidLogin 4032520503881453394:3188291258218371167", 
+            "connection": "Keep-Alive", 
+            "content-length": "1213", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-cert": "24bb24c05e47e0aefa68a58a766179d9b613a600", 
+            "gcm-ver": "11975430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "aee18927-4817-4a19-a1b0-e0f5d1ac0b9a": {
+        "ad": 1, 
+        "dst_ip": "216.58.219.2", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "securepubads.g.doubleclick.net", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "securepubads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/pcs/view?xai=AKAOjsvnkWT37gyRu86ZQx_NlJ5mTVSIgEiYuPudCBqVJeT--a81aOnoab_AlxMY0wqbXqS6n9lGYf-tX1eeYFr1NUgx-iTxxDSGdq7X1dImUdIGOCPueordysOxIYbeTziby-KTxtP5CGc-3r-xS8zP0obg6E3MJTeKXpNX63bz1pgXqBq0ix07hfUtBO9qyHk6mP8vn3Y1Qg3VdyPwNSaeFQkq0RgDQDrhDIGC-uhWe_NHb_HEvar5cEZoRYFiYrvQ8OA6jiMocUg&sig=Cg0ArKJSzEcTbq48aMo2EAE&adurl="
+    }, 
+    "aee6c6ea-7005-4107-a022-b065791f8ed0": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.202", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "OAuth ya29.GogBYQVvD-cuP3zOU2mdhHyK7_JGNe77LeKUzY4HT6xCX1MtVZca-90WwF3AERkdJ3VHh54-eZ6tMP4SR6dgt2WB-QJbpEoRw-blSElBb34j9k4lpAckbZnE2hw1ySJ_s2iPajLXJELa8ZpbF4LAdN-RKl19kNg0W_iZvUugs498q3MR2xkQjkEN2g", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "3304", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "www.googleapis.com", 
+            "user-agent": "GmsCore/11975430 (shamu MMB29X); gzip", 
+            "x-goog-spatula": "CjYKFmNvbS5nb29nbGUuYW5kcm9pZC5nbXMaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0SIGHCBxwiiyJVNpB5z8teN3lDi4VkMcT/jymD+dHC3hT3GNKe1bqHgZn7NyDYrdmsx8q4l/EBKkkAXmqAnKwC99n/BMwXmbC6tJOHDwkwnOuk1dBTLw93P1NxcYuTozpRrX7ss7pRC8oRbHRfrQIje+eEjZ1K9CcSFcktXzWUt+at"
+        }, 
+        "host": "www.googleapis.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/userlocation/v1/reports/651348114?barometerSensorName=Invensense%20Barometer&brand=google&device=shamu&devicePrettyName=Nexus%206&deviceRestriction=noRestriction&gmsVersion=11975430&isLowRam=false&manufacturer=motorola&model=Nexus%206&moduleVersion=116&nlpVersion=2023&osLevel=23&packageVersion=11975430&platform=android%2Fgoogle%2Fshamu%2Fshamu%3A6.0.1%2FMMB29X%2F2704508%3Auser%2Frelease-keys&product=shamu"
+    }, 
+    "c06b12f0-bf1b-4c4f-ac31-448e5cc43c38": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "www.googleadservices.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.googleadservices.com", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pagead/conversion/1001680686/?bundleid=com.google.android.youtube&appversion=13.03.58&osversion=6.0.1&sdkversion=ct-sdk-a-v2.2.4&gms=1&lat=0&rdid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&timestamp=1518483844.370&remarketing_only=1&usage_tracking_enabled=0&data.screen_name=%3CAndroid_YT_Open_App%3E"
+    }, 
+    "e2b817b2-bcb8-4fad-8877-4c0956fa0e55": {
+        "ad": 0, 
+        "dst_ip": "173.194.167.136", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "content-length": "1513", 
+            "content-type": "application/x-protobuf", 
+            "host": "r3---sn-a5mlrnek.googlevideo.com", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "r3---sn-a5mlrnek.googlevideo.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/initplayback?oda=1&oputc=1&ofpcc=2&id=10f2683f582ea6e4&ocmsm=1&mt=1518483852&ip=128.195.177.197&obbl=24576&oss=1&oad=7000&oaad=11000&oewis=1&oubfst=1&ocs=550&oeis=1&oaf1=1&osnz=1&source=youtube&msp=yes&ovd=7000&odeak=1&c=ANDROID&orc=1&oavd=11000&initcwndbps=2410000&osfc=1&osbr=1&ohct=2&cpn=ytfC9BFDK5I_IGPn&ack=1&ocb=1965539&ocbs=1&pvi=136%2C135%2C134%2C133%2C160%2C137%2C264&pai=140"
+    }, 
+    "f2d13ff8-ac1e-4e6c-b262-d7e3561471df": {
+        "ad": 1, 
+        "dst_ip": "216.58.219.2", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "connection": "keep-alive", 
+            "host": "securepubads.g.doubleclick.net", 
+            "user-agent": "com.google.android.youtube/13.03.58(Linux; U; Android 6.0.1; en_US; Nexus 6 Build/MMB29X) gzip"
+        }, 
+        "host": "securepubads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.youtube", 
+        "package_responsible": "com.google.android.youtube", 
+        "package_version": "13.03.58", 
+        "pii_types": [], 
+        "uri": "/pcs/view?xai=AKAOjstaO-fJ67iWTs4_8Atm-Vu5AY_0BKE2c9223FeMi3guYYYS_2oYdJnwf8v_huldwmlNgGpx0E-58BfuMHd-PEk5AaW3LUsw5OrX8IBxBH9hvEpe-LPL3cb6UrySGF9qQM-teDEtlmMbbEH3SegzQapynXVFNeXxYK35N9vNQTPHRWwsp9hOMUSE6GofGV3D-dzxA9MzRw4zXZNDPtFlgalG3U9-1NTipgW-w-3iuDMGwyboFP1xoQcFk3kaLJg4wlM_6V5GOZw&sig=Cg0ArKJSzKCE7LoQEpnHEAE&adurl="
+    }
+}

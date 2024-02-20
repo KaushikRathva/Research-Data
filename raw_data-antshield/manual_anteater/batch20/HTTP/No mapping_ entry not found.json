@@ -1,0 +1,19 @@
+{
+    "1489206028818,52aafe08-4175-4de6-b607-1253725309dd": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "lL\u00005\u00003\u0287\u0002:\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\tanalytics\u0005query\u0005yahoo\u0003com\u0000\u0000\u0001\u0000\u0001\u0000", 
+        "protocol": "UDP", 
+        "scr_port": 27724, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489206028818"
+    }
+}

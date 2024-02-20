@@ -1,0 +1,31 @@
+{
+    "1489454219995,a9b24de2-2ae4-4e81-8693-9588c6403f5a": {
+        "domain": "", 
+        "dst_ip": "52.85.77.141", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "host": "api-owr-bootstrap.metaps.net", 
+            "user-agent": "Metaps SDK ver3.0.0"
+        }, 
+        "host": "api-owr-bootstrap.metaps.net", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.igg.clashoflords2", 
+        "package_version": "1.0.201", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 40663, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489454219995", 
+        "uri": "/3_0_0.json?mode=0&env=0&said=UVWKXLGACS0001&media_pck_name=com.igg.clashoflords2&lcl=en_US", 
+        "user_agent": null
+    }
+}

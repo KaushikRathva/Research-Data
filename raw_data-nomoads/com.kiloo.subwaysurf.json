@@ -1,0 +1,4316 @@
+{
+    "008c287d-45c9-4030-a2d4-0f9f69435fa8": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.90", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1185", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "i.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "i.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/showad.asm"
+    }, 
+    "01b94d4d-9cd0-4524-843f-b6f61ce45940": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/x-flurry", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "872", 
+            "content-type": "application/x-flurry", 
+            "fm-checksum": "-2030087325", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/v16/getAds.do"
+    }, 
+    "02d2cde5-e19c-4894-93fb-4d7a7f799f74": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "2"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "044c418a-c969-475d-8212-3dc03f896ccc": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "13", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "hoodrunner.kiloo.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/hr_dailyquests2.php"
+    }, 
+    "0773a029-f210-476a-9722-0b5d8a9753df": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.101", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "5348", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "sdkm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdkm.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/metrics/e.asm?v=1&"
+    }, 
+    "07bfaff4-d186-4944-8c0b-15c448a3514f": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "2"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "0867f30e-b6c5-4738-a5b5-ac977fcf15d2": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdkpubreq?event-name=sdkpubreq&d-orientation=1&tz=-25200000&u-appdnm=Subway+Surf&d-device-screen-size=411X683&im-plid=1437065540065&event-id=6920fe4a-c423-47a9-b2b2-c6bd56b3aec3&u-appbid=com.kiloo.subwaysurf&d-nettype-raw=1&mk-version=pr-SAND-GTATD-20161103&u-appver=1.78.0&ts=1509847188930&u-id-map=%7B%22AIDL%22%3A%22%7B%5C%22p%5C%22%3A%5C%228a174021-e40b-4fc7-a7e9-78f5a211ede9%5C%22%7D%22%2C%22IMID%22%3A%226c42e891-d9a7-48e4-a21a-f94a9608221c%22%2C%22GPID%22%3A%22xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%22%7D&d-device-screen-density=3.5&adtype=int&d-density-dependent-screen-size=1440x2392&u-id-adt=0&d-textsize=49.0&d-localization=en_US"
+    }, 
+    "093db709-66ad-42c2-b4ff-9804a199fd1d": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.101", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "5348", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "sdkm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdkm.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/metrics/e.asm?v=1&"
+    }, 
+    "095f5725-616e-4be2-8b46-323dd992a3a8": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "352", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "hoodrunner.kiloo.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/register2.php?android"
+    }, 
+    "09ba3fc0-7e25-49f3-91e3-b286d52cc759": {
+        "ad": 0, 
+        "dst_ip": "52.54.36.5", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1460", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "99588004211ca069ee8bdf4036a4c6103be36e5d"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/webview/v2/reward/get"
+    }, 
+    "0c6a9297-55ff-43d1-83fa-f6cdbd943650": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/x-flurry", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "872", 
+            "content-type": "application/x-flurry", 
+            "fm-checksum": "1289256926", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/v16/getAds.do"
+    }, 
+    "0c92fe11-99a9-4aa9-8bea-243eb7439294": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "0cd2a5ce-03ab-4cc2-b65c-b53439e55e17": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.101", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2403", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "sdkm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdkm.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/metrics/e.asm?v=1&"
+    }, 
+    "0e31221a-abba-46cb-9ffa-f721f70ccee8": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "3"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "0e4df90c-5be8-45f1-9476-7db297d3e2b8": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/SDK/beacon/v1/beacon.do?id=707xBpR3ruC-nncf1PvmmF0E2uFGYX71zmquBazQBpgNDIJsi1j4zN0pQy5NVD8kJvn71x6oXyNZeLnICvAgkHgjyeZyI9031u7Zc-uux1vQTfhYu-K1AaTxxgL65UmfBKEeKEgI_d9crRps0tXkpoUlAk3odGGdrPFnsrRfKez_glxu2QzZM90ZZlKRXo_1y5jDoqrFnP60SQb8zzfgDTi5U_lpqf2IXXFYjqhQO0kLcqchrnUgrLawAFdlKDiEYt_xj_0pJlxgnoBxY7InRcoutt2YH7vNBNP5eSU5Ymt5Zrclyw_EPkiemis98vhUg3nn-6iWpo5GauYfnz5toQ=="
+    }, 
+    "11ea71ef-97e2-4f41-b7ed-b3f29d857bf8": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/162644130773746/picture?type=square"
+    }, 
+    "12edef6a-e3fe-4fbf-8f0a-27e2b2af3938": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/458116091208525/picture?type=square"
+    }, 
+    "14a97f45-ad4e-4869-92a7-d42d5d4b21be": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "168bccda-0032-45ab-811d-ce65305d5cff": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "1"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "169f853c-8700-4177-951b-36d147a8f972": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "182dbede-eff6-4b41-a706-d59823a818f9": {
+        "ad": 0, 
+        "dst_ip": "216.58.216.14", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.kiloo.subwaysurf", 
+            "authorization": "AidLogin 3734064817643547494:632612277461774940", 
+            "connection": "Keep-Alive", 
+            "content-length": "184", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-ver": "11518430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "186aae86-4877-40bc-991f-c45a9d9d16e4": {
+        "ad": 0, 
+        "dst_ip": "72.2.117.23", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "subwaysurfers.kiloo-games.com", 
+            "kiloo-app-identifier": "subway_surfers", 
+            "kiloo-app-version": "1.78.0", 
+            "kiloo-build-identifier": "android", 
+            "kiloo-device-country": "US", 
+            "kiloo-device-language": "en", 
+            "kiloo-device-model": "\"motorola Nexus 6\"", 
+            "kiloo-device-time-zone": "-07:00", 
+            "kiloo-os-identifier": "android", 
+            "kiloo-os-version": "6.0.1", 
+            "kiloo-platform-identifier": "android", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "subwaysurfers.kiloo-games.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/v3/tournaments/findmatchedplayers?TournamentId=376a907b-a709-4c42-ae1c-bf942e21a083&Score=0&Multiplier=1&Amount=20"
+    }, 
+    "1a443e09-4c9d-458e-ba3e-b19d0595c5a2": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59f89af6648ef80a13641418_568-1509464822.mp4"
+    }, 
+    "1b0a902f-b125-4faa-83b1-6afcf0c8c06b": {
+        "ad": 0, 
+        "dst_ip": "172.217.9.4", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "referer": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/995153884/?value=1.00&currency_code=USD&label=szBrCMnWkWAQ3K_D2gM&guid=ON&script=0", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-requested-with": "com.kiloo.subwaysurf"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "1bbf3e94-93f9-484e-b4e4-41be5803a7b2": {
+        "ad": 1, 
+        "dst_ip": "69.147.80.205", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "Keep-Alive", 
+            "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+        "method": "HEAD", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/gemini/pr/video_gJwNFXKSOQXLF6w_M3IUQ4TnE70HJo5L-rrFNAi-CCBo2XbH5P-mqxx9AZTsEnEoDAi68LscTT4-~A_1.mp4?a=gemini&mr=0&s=8bfc678b737e3075d05ceb2ad2d38474"
+    }, 
+    "1c99fb67-7685-47c4-aa01-9f02d937a4d7": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59bc574cd989d60fc5d18b9b_320-1505515340.mp4"
+    }, 
+    "1ce21624-b3cc-4fd5-a341-d1ac7828807e": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "1daab10b-2826-405c-afb5-0bfb6de84636": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "13", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "hoodrunner.kiloo.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/hr_dailyquests2.php"
+    }, 
+    "1ddb0bca-a176-486b-948f-b31bf9828a26": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "126", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionEnd"
+    }, 
+    "2268b3a3-ac47-4950-ac04-d8c11efdecd9": {
+        "ad": 0, 
+        "dst_ip": "52.1.120.219", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "828", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "3f2e676c0ff801d95ce4c2bb05df6532929f6dfe"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/config"
+    }, 
+    "22acf3f3-26a7-4c33-acb0-60a8ab861c5d": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "t2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "t2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/base_templates/html/static-diablo-efe3d21113.html"
+    }, 
+    "23736dd1-4e3a-4da1-a5e6-0e541c1fb477": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "hoodrunner.kiloo.com", 
+            "kiloo-app-identifier": "subway_surfers", 
+            "kiloo-app-version": "1.78.0", 
+            "kiloo-build-identifier": "android", 
+            "kiloo-device-country": "US", 
+            "kiloo-device-language": "en", 
+            "kiloo-device-model": "\"motorola Nexus 6\"", 
+            "kiloo-device-time-zone": "-07:00", 
+            "kiloo-os-identifier": "android", 
+            "kiloo-os-version": "6.0.1", 
+            "kiloo-platform-identifier": "android", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/externalip.php"
+    }, 
+    "2422838a-8063-4b8c-a228-11ebd337f481": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/458116091208525/picture?type=square"
+    }, 
+    "242f1aaa-c956-4dec-9c84-f41b293dc5ef": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/5995b5c643150f6c63e3d6f3_320-1502983623.mp4"
+    }, 
+    "26f3ca31-bd9a-43c8-840c-a8ce4213ecb7": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.90", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1185", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "i.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "i.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/showad.asm"
+    }, 
+    "2764116e-559a-4452-9da9-d11c3f154e60": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.101", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "5348", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "sdkm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdkm.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/metrics/e.asm?v=1&"
+    }, 
+    "27e66218-fdf6-4aa6-8029-95a5a48f7c29": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/58929d3704b01672f8f2ee71_568-1486003512.mp4"
+    }, 
+    "27f1e64d-a825-41bd-88ce-992b4a566f32": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "1"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "2a052543-5dfb-4993-859c-3efafaf2434c": {
+        "ad": 1, 
+        "dst_ip": "34.196.254.219", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1592", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "2aa6b89d-1c08-4e17-b87b-6395e7d03bbc": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/creatives/5996cd30f6cd457ba78607e4/e2026f1c711885217015a926374fcb860f538b1c.jpeg"
+    }, 
+    "2dca653c-42ef-4c14-8922-b6727da4f100": {
+        "ad": 0, 
+        "dst_ip": "52.205.117.35", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "[application/json]", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "833", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.3.0 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "2e498079-1854-49fc-a577-0723807d41ff": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59bc574cd989d60fc5d18b9b_320-1505515340.mp4"
+    }, 
+    "32df5f3a-d480-44ff-89fa-348e534be277": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.119", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "853", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "config.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "config.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/config-server/v1/config/secure.cfg"
+    }, 
+    "33abe82b-e0cc-4d18-9fb2-0163c141bba2": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.90", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1185", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "i.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "i.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/showad.asm"
+    }, 
+    "346e8699-ad72-45ce-94d0-66a53c876671": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "106", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionStart"
+    }, 
+    "34b0675f-a37b-459b-9811-36e2b677883f": {
+        "ad": 0, 
+        "dst_ip": "54.210.179.228", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "[application/json]", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "917", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.3.0 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "35f9337d-412f-44e2-9e35-80370af1e7a9": {
+        "ad": 0, 
+        "dst_ip": "52.1.120.219", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "828", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "3f2e676c0ff801d95ce4c2bb05df6532929f6dfe"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/config"
+    }, 
+    "372eddef-d1ab-4728-8f48-b157ca0e4b8d": {
+        "ad": 0, 
+        "dst_ip": "52.20.253.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "828", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "c5a97a2c2df7e591309d79f9b2aef4920f9aad50"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/install"
+    }, 
+    "37c15eb2-9ca1-4178-88b4-7b2852623fa1": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "3a9175e2-f176-44ee-b280-80aeff6a8509": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "3bc78f2c-2810-406b-99eb-5887c6f92900": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/873596769333178/picture?type=square"
+    }, 
+    "3e253571-efed-4a33-8fa3-2651687e2e86": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "3"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "3e80a03f-b18c-452d-9e10-797bb50a493e": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/creatives/5996cd30f6cd457ba78607e4/1e4dd9c491c774d05d82e95dc3418e2968fdf5ee.jpeg"
+    }, 
+    "3fc7ba84-1ed9-404d-a64e-865312ab38c2": {
+        "ad": 0, 
+        "dst_ip": "216.115.100.124", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.flurry.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkAssets/videocontrols/v1/android.zip"
+    }, 
+    "420fbb10-08a4-42b3-a1b4-6f6c9386a383": {
+        "ad": 0, 
+        "dst_ip": "94.31.29.54", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "code.jquery.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "code.jquery.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/jquery-1.9.1.min.js"
+    }, 
+    "43763b1d-bf93-4233-8b1b-0d5596a323fc": {
+        "ad": 0, 
+        "dst_ip": "52.87.2.211", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "[application/json]", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "874", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.3.0 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "45b3b07e-a72c-43b6-b7b2-96e750110ddc": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdkpubreq?event-name=sdkpubreq&d-orientation=1&tz=-25200000&u-appdnm=Subway+Surf&d-device-screen-size=411X683&im-plid=1437065540065&event-id=425806b6-3886-4e5c-b284-7b6584f3aace&u-appbid=com.kiloo.subwaysurf&d-nettype-raw=1&mk-version=pr-SAND-GTATD-20161103&u-appver=1.78.0&ts=1509846997187&u-id-map=%7B%22AIDL%22%3A%22%7B%5C%22p%5C%22%3A%5C%228a174021-e40b-4fc7-a7e9-78f5a211ede9%5C%22%7D%22%2C%22IMID%22%3A%226c42e891-d9a7-48e4-a21a-f94a9608221c%22%2C%22GPID%22%3A%22xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%22%7D&d-device-screen-density=3.5&adtype=int&d-density-dependent-screen-size=1440x2392&u-id-adt=0&d-textsize=49.0&d-localization=en_US"
+    }, 
+    "46cc7bce-cd85-4feb-92de-5c91514ab14c": {
+        "ad": 1, 
+        "dst_ip": "69.147.80.204", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "Keep-Alive", 
+            "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+        "method": "HEAD", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/gemini/pr/video_gJwNFXKSOQXLF6w_M3IUQ4TnE70HJo5L-rrFNAi-CCBo2XbH5P-mqxx9AZTsEnEoDAi68LscTT4-~A_1.mp4?a=gemini&mr=0&s=8bfc678b737e3075d05ceb2ad2d38474"
+    }, 
+    "46e73155-9ac7-456a-a031-6d63c7e6da2a": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "4a30bbbd-0171-4322-92b0-a5606a8fa101": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59fa3beb90bcb03917bc1e9c_320-1509599316.mp4"
+    }, 
+    "4ab42f64-3e6a-4437-83cc-38f5dad1c5a7": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/296934227457800/picture?type=square"
+    }, 
+    "4cf2e0d5-06a4-49c4-9b8c-dd402d4c448f": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.119", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "853", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "config.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "config.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/config-server/v1/config/secure.cfg"
+    }, 
+    "4fd83cef-4a9d-4c44-8077-069e7220b7dc": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/156821148389033/picture?type=square"
+    }, 
+    "510a8f8f-b8e0-4b10-b5a2-111e5b9c788a": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/100001242551379/picture?type=square"
+    }, 
+    "545f2429-be17-430b-a63e-f486d19ef9e2": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "106", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionStart"
+    }, 
+    "54b1a12c-13a1-4e05-a466-063b85573181": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "334", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "hoodrunner.kiloo.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/register2.php?android"
+    }, 
+    "54c9f33f-abc3-4ea2-b707-a1976d46dd9a": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/127621141287132/picture?type=square"
+    }, 
+    "5561d787-65eb-4a9b-b52a-921bc9eda9cf": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdkpubreq?event-name=sdkpubreq&d-orientation=1&tz=-25200000&u-appdnm=Subway+Surf&d-device-screen-size=411X683&im-plid=1437065540065&event-id=849b87e9-4a8a-46f9-9b18-00f3f0fcd384&u-appbid=com.kiloo.subwaysurf&d-nettype-raw=1&mk-version=pr-SAND-GTATD-20161103&u-appver=1.78.0&ts=1509846902408&u-id-map=%7B%22AIDL%22%3A%22%7B%5C%22p%5C%22%3A%5C%228a174021-e40b-4fc7-a7e9-78f5a211ede9%5C%22%7D%22%2C%22IMID%22%3A%226c42e891-d9a7-48e4-a21a-f94a9608221c%22%2C%22GPID%22%3A%22xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%22%7D&d-device-screen-density=3.5&adtype=int&d-density-dependent-screen-size=1440x2392&u-id-adt=0&d-textsize=49.0&d-localization=en_US"
+    }, 
+    "5671b185-8193-4e0a-be73-d250dba599d9": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "591e20c2-341c-4708-b881-37ff52c223d3": {
+        "ad": 0, 
+        "dst_ip": "52.87.2.211", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "[application/json]", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "900", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.3.0 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "599631aa-396d-4a9b-9f9c-d2b1fea1a776": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "334", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "hoodrunner.kiloo.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/register2.php?android"
+    }, 
+    "599a5b98-ea9c-4107-b2cc-8138f147b30d": {
+        "ad": 0, 
+        "dst_ip": "52.207.125.209", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1460", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "5846f7c54d6475bfc91c5cdb030b86d44d80b76c"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/webview/v2/reward/get"
+    }, 
+    "5aa4d9a3-aba3-4eb2-82c2-d758744f0c4d": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/SDK/beacon/v1/beacon.do?id=fL-UIL11LyX2hikCv9j_--5IKG5uPH2WHjNfrCnfhKCshjod-OwIlD_v9V1UjScjd_HAVHd0EmmThrUrPulFxpZnOtw21i5v1vLs4-8WiEWbU6OPuMr13CQU8rw9cu8sf2ugrWiLB4q2Bmm3M5eI_gufcydbuNe8nXPw8abExejlIN8GCcPNkTq48foPLQxGnzxht8RxYwcm2FBzR9P-TqO1Dr-x-rtert7Kz1i_RL4jvHiZxnqTH_nDFmUGRr0s3B89Yxv2T0zPSSrDFiqwBJRjGo0KlmOxcd_MlSUwOD9ytG3fxlM5x-aiocTldayYxECZsg4G7tWHIHL3yL0KRg=="
+    }, 
+    "5c45cd5e-010c-41f0-90da-30b0a6504276": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/1698255603542728/picture?type=square"
+    }, 
+    "5e529349-d1aa-4f9d-af34-6b10668350af": {
+        "ad": 0, 
+        "dst_ip": "72.2.117.23", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "862", 
+            "content-type": "application/json", 
+            "host": "subwaysurfers.kiloo-games.com", 
+            "kiloo-app-identifier": "subway_surfers", 
+            "kiloo-app-version": "1.78.0", 
+            "kiloo-build-identifier": "android", 
+            "kiloo-device-country": "US", 
+            "kiloo-device-language": "en", 
+            "kiloo-device-model": "\"motorola Nexus 6\"", 
+            "kiloo-device-time-zone": "-07:00", 
+            "kiloo-os-identifier": "android", 
+            "kiloo-os-version": "6.0.1", 
+            "kiloo-platform-identifier": "android", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "subwaysurfers.kiloo-games.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/v3/tournaments/gettournamentbyid"
+    }, 
+    "5e6719d4-30ab-4618-93be-300bc42d3f91": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/10201771484635428/picture?type=square"
+    }, 
+    "5fe1d691-0dea-4e32-8033-94306b8a486f": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59bc574cd989d60fc5d18b9b_320-1505515340.mp4"
+    }, 
+    "601f3efa-06a2-4ef8-89d7-19a079610551": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/frames/502e041317ba47dc7d000024/1eb6c9b68dd4ce119f037bd6e0bf096292e7f04c.png"
+    }, 
+    "602bf679-0bb9-4e14-a9de-dbe48513b67e": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/video/default_assets/playfree.png"
+    }, 
+    "60805cf5-5927-4259-8361-dad4a459b440": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/creatives/5996cd30f6cd457ba78607e4/f73301d6237279104bfde4170b555457805e7e15.jpeg"
+    }, 
+    "60bfe3b6-378a-44a5-a930-ac1e35a5fcc0": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "60f82d42-459e-44a8-b727-8e037b2978c8": {
+        "ad": 0, 
+        "dst_ip": "172.217.11.174", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "clients3.google.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "clients3.google.com", 
+        "method": "GET", 
+        "package_name": "System", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/generate_204"
+    }, 
+    "610e1562-98bf-414d-8349-73a1143a1b98": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "126", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionEnd"
+    }, 
+    "614ec34e-e99c-427d-b1ff-4cda67a46c4f": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/creatives/55de7e1ac909a67b7cb98eb7/89f65d381b7e8ef8e4ec7a5e27f2c3c735a8468b.jpeg"
+    }, 
+    "63b42e7b-939b-4f7a-b083-6043e0f9a803": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/10201771484635428/picture?type=square"
+    }, 
+    "66940eef-01c7-4f31-8f71-17030ae19ed6": {
+        "ad": 0, 
+        "dst_ip": "74.6.34.10", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "17047", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/aap.do"
+    }, 
+    "6833de9e-1a52-47be-ba07-0a4499d31cac": {
+        "ad": 0, 
+        "dst_ip": "52.205.117.35", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "[application/json]", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "845", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.3.0 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "68b221a5-0203-44d3-97b1-4759c54ab91f": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.130", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "if-none-match": "4803134755594515964", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-requested-with": "com.google.android.gms"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.appcache"
+    }, 
+    "695917e5-1491-4d90-977e-8163dbb93d1c": {
+        "ad": 0, 
+        "dst_ip": "74.6.34.10", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "328", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "697e2593-6ef8-4cbf-a93f-d349b337bbdf": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/107724646616440/picture?type=square"
+    }, 
+    "6a5cc838-7a5b-4d91-b669-a075be42280f": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/581c655ff6cd45506933ef9c_568-1478255967.mp4"
+    }, 
+    "6bffdf39-df21-4d61-a06a-1d65fdd559f0": {
+        "ad": 0, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/x-flurry", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1275", 
+            "content-type": "application/x-flurry", 
+            "fm-checksum": "1799596693", 
+            "host": "adlog.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adlog.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/v2/postAdLog.do"
+    }, 
+    "6f95d25b-1457-49fa-882c-4701de73b6e3": {
+        "ad": 1, 
+        "dst_ip": "34.236.34.184", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1592", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "70837766-151e-47cd-9679-dffc6cce7b1f": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.119", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "853", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "config.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "config.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/config-server/v1/config/secure.cfg"
+    }, 
+    "717dec39-b440-4384-903a-73619816c37f": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/100001242551379/picture?type=square"
+    }, 
+    "735f1c5d-d23a-4200-a602-846e06b40d7e": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/x-flurry", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "873", 
+            "content-type": "application/x-flurry", 
+            "fm-checksum": "-1636237769", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/v16/getAds.do"
+    }, 
+    "747f3ff9-c052-4da3-87a9-fe326c99b26c": {
+        "ad": 1, 
+        "dst_ip": "52.86.96.94", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1665", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "placements.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "placements.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID", 
+            "Device ID"
+        ], 
+        "uri": "/v1/apps/79933fc1-a870-4194-9cca-68e4f571c2a6/content"
+    }, 
+    "782d6ce1-eb2a-408c-b362-5d47a393e01b": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/122435721424841/picture?type=square"
+    }, 
+    "786f3f45-9f24-4ef9-b518-37392542afa7": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59bc574cd989d60fc5d18b9b_320-1505515340.mp4"
+    }, 
+    "78f7aeeb-1b89-486d-ab13-6ca7e2be855e": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59bc574cd989d60fc5d18b9b_320-1505515340.mp4"
+    }, 
+    "7b9b162b-fe47-4b4c-b103-9b0de936f2bf": {
+        "ad": 0, 
+        "dst_ip": "54.210.254.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1460", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "9fab6efc7dbe7c9b2526d92fdb1df80b5d90817a"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/webview/v2/reward/get"
+    }, 
+    "7dbb9dee-16d3-4a1a-83be-dcb09b248a79": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/637405042982036/picture?type=square"
+    }, 
+    "7eb423ad-0619-4627-8a7f-d7522180848a": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/58d874d104b0160842f519cf_568-1490580689.mp4"
+    }, 
+    "7ef7c8eb-5af0-4bb4-976f-c01ff102c2a0": {
+        "ad": 0, 
+        "dst_ip": "74.6.34.10", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "328", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "86f70bd3-469f-4792-af82-cf7c2572dc1f": {
+        "ad": 0, 
+        "dst_ip": "34.231.170.224", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1385", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "connect.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "connect.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID", 
+            "Device ID"
+        ], 
+        "uri": "/api/connect/v3.json"
+    }, 
+    "8a63fb68-5aed-4b75-946c-1ff4c117e237": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "8b82813c-73b6-418e-9477-e59c0ce2ca80": {
+        "ad": 1, 
+        "dst_ip": "34.226.73.238", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1592", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "8c193302-dc8a-4a53-bb7f-20f809ef14e6": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "126", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionEnd"
+    }, 
+    "8c7797c5-a358-4c23-a2b1-b1900ae177f7": {
+        "ad": 0, 
+        "dst_ip": "94.31.29.54", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "code.jquery.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-requested-with": "com.kiloo.subwaysurf"
+        }, 
+        "host": "code.jquery.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/jquery-1.9.1.min.js"
+    }, 
+    "909e2fd1-ae4d-4e76-80f7-a96219ff8079": {
+        "ad": 1, 
+        "dst_ip": "34.236.34.184", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1592", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "9294ad0d-ce39-4c30-9f1f-a76fbc79822b": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59c2c1f10433440cb356c756_320-1505935857.mp4"
+    }, 
+    "92a37ed3-54cc-49de-bd2d-f115b12f6864": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/apps/icons/55de7e1ac909a67b7cb98eb7.114.png"
+    }, 
+    "94053b1f-3691-47b1-b53f-1aca35ef2afe": {
+        "ad": 0, 
+        "dst_ip": "52.87.2.211", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "[application/json]", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "900", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rpc.tapjoy.com", 
+            "user-agent": "TapjoySDK 11.3.0 (Nexus 6; Android 6.0.1; en_US)"
+        }, 
+        "host": "rpc.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Device ID", 
+            "IMEI", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v1/cevs"
+    }, 
+    "95bf01ca-eb5f-4b90-9299-d4c867413d8a": {
+        "ad": 0, 
+        "dst_ip": "52.20.253.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1425", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "33b2c53d91a8ef201f73e7db5e13248ef4bb5997"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/webview/v2/prefetch"
+    }, 
+    "96ec637f-b0bb-4c0f-88a9-cea66c6f6fdf": {
+        "ad": 1, 
+        "dst_ip": "69.147.80.204", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "Keep-Alive", 
+            "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+        "method": "HEAD", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/gemini/pr/video_gJwNFXKSOQXLF6w_M3IUQ4TnE70HJo5L-rrFNAi-CCBo2XbH5P-mqxx9AZTsEnEoDAi68LscTT4-~A_1.mp4?a=gemini&mr=0&s=8bfc678b737e3075d05ceb2ad2d38474"
+    }, 
+    "9836c5a6-b826-4274-952d-ce564f2136e4": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/SDK/beacon/v1/beacon.do?id=fL-UIL11LyX2hikCv9j_--5IKG5uPH2WHjNfrCnfhKCshjod-OwIlD_v9V1UjScjd_HAVHd0EmmThrUrPulFxpZnOtw21i5v1vLs4-8WiEWbU6OPuMr13CQU8rw9cu8sf2ugrWiLB4q2Bmm3M5eI_gufcydbuNe8nXPw8abExejlIN8GCcPNkTq48foPLQxGnzxht8RxYwcm2FBzR9P-TqO1Dr-x-rtert7Kz1i_RL4jvHiZxnqTH_nDFmUGRr0s3B89Yxv2T0zPSSrDFiqwBJRjGo0KlmOxcd_MlSUwOD9ytG3fxlM5x-aiocTldayYxECZsg4G7tWHIHL3yL0KRg=="
+    }, 
+    "9837db64-f61e-446c-884c-8180b25bae58": {
+        "ad": 1, 
+        "dst_ip": "69.147.80.72", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "Keep-Alive", 
+            "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+        "method": "HEAD", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/gemini/pr/video_gJwNFXKSOQXLF6w_M3IUQ4TnE70HJo5L-rrFNAi-CCBo2XbH5P-mqxx9AZTsEnEoDAi68LscTT4-~A_1.mp4?a=gemini&mr=0&s=8bfc678b737e3075d05ceb2ad2d38474"
+    }, 
+    "9a66b6ad-f156-4cef-87b1-ee394ada1739": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/SDK/beacon/v1/beacon.do?id=KxJM5ILNPIGbcXrdmMS29xQUYD4tJrH81udqYyNBDj85Jy1oPtaopKhSxLeDbxMi2JPABAKlv8HpFOwui81lWUzxbX5iLE-_oIMnnzMxcs84ue2aiSRK2HsxLoC--JGb90MMr2AuR_hrFRkLJv8wT6tPEmN5A89zZhBFcWzrg_XBU6QgVvk5J23ToqjNNAT2EEHXswklrUuxUMDAiAYQowJYx3oyDKfv9KTaMcAa_xtCmntjQJuAW31EDcRJ4ogvRZ6cb05h_MDHLokM5_9hfrtoEvpmRmsdSZEK1NGhiSAKUIe0sTyY0BvJFm6BbUTMSR36hSfrO_K9swy8eKgxqg=="
+    }, 
+    "9b2dc2f4-d0a7-43a3-ad71-7d4ebe0b3293": {
+        "ad": 0, 
+        "dst_ip": "172.217.9.4", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/binary", 
+            "host": "www.google.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "GoogleMobile/1.0"
+        }, 
+        "host": "www.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/loc/m/api"
+    }, 
+    "9ccc97c2-c07a-48d2-95c9-674b2b4c3fbe": {
+        "ad": 0, 
+        "dst_ip": "52.1.120.219", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "828", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "9f9c9931827a187278ed8ba1630b8c44d32964da"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/install"
+    }, 
+    "9ce47bad-5398-46d5-abeb-3e29fb69c4bd": {
+        "ad": 0, 
+        "dst_ip": "74.6.34.10", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "17047", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/aap.do"
+    }, 
+    "9d529153-0fe9-491b-8c87-64c12ded1d96": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "hoodrunner.kiloo.com", 
+            "kiloo-app-identifier": "subway_surfers", 
+            "kiloo-app-version": "1.78.0", 
+            "kiloo-build-identifier": "android", 
+            "kiloo-device-country": "US", 
+            "kiloo-device-language": "en", 
+            "kiloo-device-model": "\"motorola Nexus 6\"", 
+            "kiloo-device-time-zone": "-07:00", 
+            "kiloo-os-identifier": "android", 
+            "kiloo-os-version": "6.0.1", 
+            "kiloo-platform-identifier": "android", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/externalip.php"
+    }, 
+    "9ed584c3-10fc-4e97-9688-6a8d16d49180": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/x-flurry", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "873", 
+            "content-type": "application/x-flurry", 
+            "fm-checksum": "-959771564", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/v16/getAds.do"
+    }, 
+    "9edcc56f-9306-4f23-b7d1-5c67bc399ae9": {
+        "ad": 1, 
+        "dst_ip": "34.236.34.184", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1592", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "9eef7467-bb49-4e3c-84d8-6397e67af723": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.119", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "853", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "config.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "config.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/config-server/v1/config/secure.cfg"
+    }, 
+    "a104431a-b93a-4480-bc2e-0d3f910b26a0": {
+        "ad": 1, 
+        "dst_ip": "52.86.96.94", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1665", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "placements.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "placements.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID", 
+            "Device ID"
+        ], 
+        "uri": "/v1/apps/79933fc1-a870-4194-9cca-68e4f571c2a6/content"
+    }, 
+    "a167dda9-11e3-4e9b-93df-cd42d4d12820": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "0", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/new?app_id=507686ae771615941001aca5&ifa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }, 
+    "a29a74af-3c0e-48f4-a954-d7b74232e3a1": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/100008194907122/picture?type=square"
+    }, 
+    "a5c9a406-42f2-4270-9a5d-e65a734e715a": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/SDK/beacon/v1/beacon.do?id=707xBpR3ruC-nncf1PvmmF0E2uFGYX71zmquBazQBpgNDIJsi1j4zN0pQy5NVD8kJvn71x6oXyNZeLnICvAgkHgjyeZyI9031u7Zc-uux1vQTfhYu-K1AaTxxgL65UmfBKEeKEgI_d9crRps0tXkpoUlAk3odGGdrPFnsrRfKez_glxu2QzZM90ZZlKRXo_1y5jDoqrFnP60SQb8zzfgDTi5U_lpqf2IXXFYjqhQO0kLcqchrnUgrLawAFdlKDiEYt_xj_0pJlxgnoBxY7InRcoutt2YH7vNBNP5eSU5Ymt5Zrclyw_EPkiemis98vhUg3nn-6iWpo5GauYfnz5toQ=="
+    }, 
+    "aa966d62-4fa8-4b12-a103-0a0dac215b5c": {
+        "ad": 0, 
+        "dst_ip": "72.2.117.23", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "153", 
+            "content-type": "application/json", 
+            "host": "subwaysurfers.kiloo-games.com", 
+            "kiloo-app-identifier": "subway_surfers", 
+            "kiloo-app-version": "1.78.0", 
+            "kiloo-build-identifier": "android", 
+            "kiloo-device-country": "US", 
+            "kiloo-device-language": "en", 
+            "kiloo-device-model": "\"motorola Nexus 6\"", 
+            "kiloo-device-time-zone": "-07:00", 
+            "kiloo-os-identifier": "android", 
+            "kiloo-os-version": "6.0.1", 
+            "kiloo-platform-identifier": "android", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "subwaysurfers.kiloo-games.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/v3/scores/submitscore"
+    }, 
+    "aaac72de-c9ef-429b-a903-090359be0811": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "acd764ba-e168-40a5-9601-0adcdc6ef88a": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/5995b5c643150f6c63e3d6f3_320-1502983623.mp4"
+    }, 
+    "b1044e9b-d2de-492a-aa04-09c17aae5763": {
+        "ad": 0, 
+        "dst_ip": "72.2.117.23", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "subwaysurfers.kiloo-games.com", 
+            "kiloo-app-identifier": "subway_surfers", 
+            "kiloo-app-version": "1.78.0", 
+            "kiloo-build-identifier": "android", 
+            "kiloo-device-country": "US", 
+            "kiloo-device-language": "en", 
+            "kiloo-device-model": "\"motorola Nexus 6\"", 
+            "kiloo-device-time-zone": "-07:00", 
+            "kiloo-os-identifier": "android", 
+            "kiloo-os-version": "6.0.1", 
+            "kiloo-platform-identifier": "android", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "subwaysurfers.kiloo-games.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/v3/tournaments/getlatesttournamentidbycountry?Country=US"
+    }, 
+    "b25985f5-2f2a-4cae-a110-012b185eab6c": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "1"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "b2946c83-4c5b-442c-b58f-3f260de7a473": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/SDK/beacon/v1/beacon.do?id=AgbqyL7ucO5ITHiS5U9sCUoZ4pp1sM0Uh6nY298A-0mlXnTn6p_YkLNpHS2hdRUfobA_aUxqY7DvXfUodlfF-DZGVgipFh3tIPvp3RypiNUj_viR6QO268tt9AbhMngCyXJvjuimdoVKh2OuIUUxXfHi51cTJRhiyebBFP8z5hDTcoEeSnqaBEhJi8br_8j5KeBBQ00FA3zWeQbw_jWms2XgOV9WxA_37u5m7iqdj1SV8xLaGNdLca8EsQSPyytws-p7QPd15CCKnl5cyaOGzPiqN_Ptp8jsN45l3qleZhVTYTTKrWnXavurvhKmxhMCFHCkwzpUqXJ8mVV6gbFQmg=="
+    }, 
+    "b29c75a7-9c48-4484-b3c7-9e9e61c213c4": {
+        "ad": 0, 
+        "dst_ip": "52.20.253.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "828", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "eb747750cc1ed7396259f0cdf6018e5b1840d0f2"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/config"
+    }, 
+    "b36f28b4-e441-4945-a26e-c8af5a2e224a": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "b411f298-71ef-486b-849d-49c9c0e2e9fe": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "13", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "hoodrunner.kiloo.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/hr_dailyquests2.php"
+    }, 
+    "b53b6846-cedf-404b-a402-bd6255cafc52": {
+        "ad": 1, 
+        "dst_ip": "69.147.80.205", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "Keep-Alive", 
+            "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+        "method": "HEAD", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/gemini/pr/video_gJwNFXKSOQXLF6w_M3IUQ4TnE70HJo5L-rrFNAi-CCBo2XbH5P-mqxx9AZTsEnEoDAi68LscTT4-~A_1.mp4?a=gemini&mr=0&s=8bfc678b737e3075d05ceb2ad2d38474"
+    }, 
+    "b6119849-1d2d-4864-bcef-bcb32b999a68": {
+        "ad": 0, 
+        "dst_ip": "72.2.117.23", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "796", 
+            "content-type": "application/json", 
+            "host": "subwaysurfers.kiloo-games.com", 
+            "kiloo-app-identifier": "subway_surfers", 
+            "kiloo-app-version": "1.78.0", 
+            "kiloo-build-identifier": "android", 
+            "kiloo-device-country": "US", 
+            "kiloo-device-language": "en", 
+            "kiloo-device-model": "\"motorola Nexus 6\"", 
+            "kiloo-device-time-zone": "-07:00", 
+            "kiloo-os-identifier": "android", 
+            "kiloo-os-version": "6.0.1", 
+            "kiloo-platform-identifier": "android", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "subwaysurfers.kiloo-games.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/v3/tournaments/getprevioustournamentresultsforplayers"
+    }, 
+    "b726c6a4-70c1-4ff7-a39b-fb79a2261375": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/100000458289029/picture?type=square"
+    }, 
+    "b987d4ae-3ed5-4f0e-818e-36edc11a395f": {
+        "ad": 0, 
+        "dst_ip": "34.226.181.225", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1433", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "4a414ff237a85f668d029229c4a7663989b88852"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/webview/v2/reward/get"
+    }, 
+    "bbcb019a-2acc-413c-8bc2-2be7a7f20218": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdkpubreq?event-name=sdkpubreq&d-orientation=1&tz=-25200000&u-appdnm=Subway+Surf&d-device-screen-size=411X683&im-plid=1437065540065&event-id=fb678a15-e44c-49be-9592-adfced7f43b3&u-appbid=com.kiloo.subwaysurf&d-nettype-raw=1&mk-version=pr-SAND-GTATD-20161103&u-appver=1.78.0&ts=1509847284726&u-id-map=%7B%22AIDL%22%3A%22%7B%5C%22p%5C%22%3A%5C%228a174021-e40b-4fc7-a7e9-78f5a211ede9%5C%22%7D%22%2C%22IMID%22%3A%226c42e891-d9a7-48e4-a21a-f94a9608221c%22%2C%22GPID%22%3A%22xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%22%7D&d-device-screen-density=3.5&adtype=int&d-density-dependent-screen-size=1440x2392&u-id-adt=0&d-textsize=49.0&d-localization=en_US"
+    }, 
+    "bc325006-8a54-47cd-82d7-9f52a5afa4e8": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.119", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "853", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "config.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "config.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/config-server/v1/config/secure.cfg"
+    }, 
+    "bc4bb89f-2c17-48fb-bbac-b3f19af705a8": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://m.facebook.com/sem_pixel/4/control/0/", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-requested-with": "com.kiloo.subwaysurf"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/pagead/viewthroughconversion/995153884/?value=1.00&currency_code=USD&label=szBrCMnWkWAQ3K_D2gM&guid=ON&script=0"
+    }, 
+    "bd7c50e0-37f9-4e65-981f-3c97cd8da7b4": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "2"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "bf4b94cb-09de-4051-83ee-f5a8a34b9ef9": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.90", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1206", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "i.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "i.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/showad.asm"
+    }, 
+    "bf91e8bf-6e9a-4846-adfe-fba64e270566": {
+        "ad": 0, 
+        "dst_ip": "216.58.216.14", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.android.chrome", 
+            "connection": "Keep-Alive", 
+            "content-length": "677", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "device": "33d2102aefed6b66", 
+            "host": "android.clients.google.com", 
+            "user-agent": "GoogleAuth/1.4 (shamu MMB29X); gzip"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/auth"
+    }, 
+    "c057c639-f448-48a4-915e-485dae23ce0d": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.119", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "853", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "config.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "config.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/config-server/v1/config/secure.cfg"
+    }, 
+    "c08a20cd-81df-40b0-8910-0a4bdb717907": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59bc574cd989d60fc5d18b9b_320-1505515340.mp4"
+    }, 
+    "c2a808a1-c872-480a-ab1d-c93447dc0ee3": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.119", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "853", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "config.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "config.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/config-server/v1/config/secure.cfg"
+    }, 
+    "c41c0e38-89a4-474c-b796-2e1cbde5fd04": {
+        "ad": 1, 
+        "dst_ip": "34.205.107.248", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1592", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "c4e8b7ec-05ea-4cb7-b71b-bd683b38c81c": {
+        "ad": 1, 
+        "dst_ip": "74.6.34.29", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/x-flurry", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "872", 
+            "content-type": "application/x-flurry", 
+            "fm-checksum": "-1340955521", 
+            "host": "ads.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/v16/getAds.do"
+    }, 
+    "c4ffdb09-9504-48a1-a271-ea578a14c760": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59f89b3f9f5c2f5a9c0d3334_320-1509464896.mp4"
+    }, 
+    "c50032c1-fba6-48ad-a01b-e50d3198f3d1": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdkpubreq?event-name=sdkpubreq&d-orientation=1&tz=-25200000&u-appdnm=Subway+Surf&d-device-screen-size=411X683&im-plid=1431976944438581&event-id=7f98d3db-236d-4298-aa50-f0c560f3751c&u-appbid=com.kiloo.subwaysurf&d-nettype-raw=1&mk-version=pr-SAND-GTATD-20161103&u-appver=1.78.0&ts=1509846818023&u-id-map=%7B%22AIDL%22%3A%22%7B%5C%22p%5C%22%3A%5C%228a174021-e40b-4fc7-a7e9-78f5a211ede9%5C%22%7D%22%2C%22IMID%22%3A%226c42e891-d9a7-48e4-a21a-f94a9608221c%22%2C%22GPID%22%3A%22xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%22%7D&d-device-screen-density=3.5&adtype=int&d-density-dependent-screen-size=1440x2392&u-id-adt=0&d-textsize=49.0&d-localization=en_US"
+    }, 
+    "c5146d7c-3bac-4283-9f8f-3cdd2875c744": {
+        "ad": 1, 
+        "dst_ip": "52.204.14.225", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1687", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "placements.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "placements.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID", 
+            "Device ID"
+        ], 
+        "uri": "/v1/apps/79933fc1-a870-4194-9cca-68e4f571c2a6/content"
+    }, 
+    "c5e9afff-a85a-45eb-8e11-e6663371c2e6": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.101", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2403", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "sdkm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdkm.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/metrics/e.asm?v=1&"
+    }, 
+    "c689f797-7507-476e-9907-de402790010b": {
+        "ad": 0, 
+        "dst_ip": "13.94.251.209", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "hoodrunner.kiloo.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "hoodrunner.kiloo.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/newonlinesettings.php?platform=android&locale=en-US&timezone=-7.00&version=1.78.0"
+    }, 
+    "c80f977c-2eb8-4ff5-ae3f-fa4cdc0f6a38": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.101", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "5348", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "sdkm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "sdkm.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/metrics/e.asm?v=1&"
+    }, 
+    "c8406033-b8c1-4b0b-8019-a71d02ae20f1": {
+        "ad": 0, 
+        "dst_ip": "72.2.117.23", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "16", 
+            "content-type": "application/json", 
+            "host": "subwaysurfers.kiloo-games.com", 
+            "kiloo-app-identifier": "subway_surfers", 
+            "kiloo-app-version": "1.78.0", 
+            "kiloo-build-identifier": "android", 
+            "kiloo-device-country": "US", 
+            "kiloo-device-language": "en", 
+            "kiloo-device-model": "\"motorola Nexus 6\"", 
+            "kiloo-device-time-zone": "-07:00", 
+            "kiloo-os-identifier": "android", 
+            "kiloo-os-version": "6.0.1", 
+            "kiloo-platform-identifier": "android", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "subwaysurfers.kiloo-games.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/v3/players/createplayer"
+    }, 
+    "c8a7a649-fcbb-4dd7-846a-678a0804b5ff": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "106", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionStart"
+    }, 
+    "c93a0aaa-945e-4210-9034-c8b5252d1faa": {
+        "ad": 0, 
+        "dst_ip": "52.20.253.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1421", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "28c35bf7aef35f97367032d220f735a364f8018d"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/webview/v2/interstitial/get"
+    }, 
+    "ca86d29b-09e5-481a-8635-f242f79eb6d9": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "cbb54feb-d463-4a88-b0e4-a0922fcf6160": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/136546300430814/picture?type=square"
+    }, 
+    "cc32e5d8-8a77-4134-b707-8040901b3001": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/156821148389033/picture?type=square"
+    }, 
+    "d3f71eba-64ec-49a9-9bf6-b91c2938dee4": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59c2c1f10433440cb356c756_320-1505935857.mp4"
+    }, 
+    "d4a13f41-0f57-42e0-9ee1-14cbf9a776ed": {
+        "ad": 1, 
+        "dst_ip": "34.204.216.224", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1592", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "d5f25807-0410-46e6-8b9a-0f0d074d9715": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.90", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1185", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "i.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "i.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/showad.asm"
+    }, 
+    "d6251e27-4b03-44f2-bf99-1c6db9a4489c": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59c2bf5f0433440cb76da5e2_568-1505935199.mp4"
+    }, 
+    "d66eb261-cfb3-4ccf-8965-88e9af4ec89f": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "106", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionStart"
+    }, 
+    "d72b0a83-66e0-4696-b305-5f7993d286f0": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "126", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionEnd"
+    }, 
+    "d9014ac4-cbd6-4823-812d-c6b65e55f284": {
+        "ad": 1, 
+        "dst_ip": "184.87.194.195", 
+        "dst_port": 80, 
+        "headers": {
+            "accept": "application/json, text/javascript, */*; q=0.01", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "supersonicads-a.akamaihd.net", 
+            "origin": "null", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-requested-with": "com.kiloo.subwaysurf"
+        }, 
+        "host": "supersonicads-a.akamaihd.net", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/adunit/dist/prod/adunitStaticAssets.json"
+    }, 
+    "dcaeb261-a625-43cf-819f-25247307f353": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/100001242551379/picture?type=square"
+    }, 
+    "dd2a3934-722c-4766-87bc-61b6087ea62b": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "3"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "df02c017-5054-48e9-8a19-78e564abe3cd": {
+        "ad": 0, 
+        "dst_ip": "52.1.120.219", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1452", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "b81c454c3898e36e187545607414bdc39c13274e"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/webview/v2/prefetch"
+    }, 
+    "df9beb55-7dc7-4f6b-825a-3764053d5473": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/creatives/5996cd30f6cd457ba78607e4/7af0e435876ba82168dd386de1850a87de9eb2ab.jpeg"
+    }, 
+    "e38cfd69-45dc-409f-a294-e57803e8a50a": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.119", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "853", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "config.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "config.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/config-server/v1/config/secure.cfg"
+    }, 
+    "e3c39dbf-8c0d-471b-9ead-3164301d1120": {
+        "ad": 0, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "a2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/frames/502e041317ba47dc7d000024/b1fe9dc8edc74aca2466450b8ddafdcc7b3080d5.png"
+    }, 
+    "e44adb7b-bf94-4202-955b-edabd5cb0e73": {
+        "ad": 1, 
+        "dst_ip": "23.210.204.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.ssacdn.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-requested-with": "com.kiloo.subwaysurf"
+        }, 
+        "host": "www.ssacdn.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/delivery/mobile/adUnit/getAppConfig.php?callback=getAppConfigReqCallBack&bundleId=com.kiloo.subwaysurf&deviceOs=android"
+    }, 
+    "e5c0fb53-01a6-4fad-b27f-560fd47f9516": {
+        "ad": 0, 
+        "dst_ip": "216.58.216.14", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.kiloo.subwaysurf", 
+            "authorization": "AidLogin 3734064817643547494:632612277461774940", 
+            "connection": "Keep-Alive", 
+            "content-length": "184", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-ver": "11518430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "ee74a327-f5f0-4025-9654-ed808704a071": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "ee81166a-dbf9-41ab-b31b-01f0491fed51": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/166652980501024/picture?type=square"
+    }, 
+    "f174d654-d103-4768-bc95-e6d45dd43a90": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/121256995293167/picture?type=square"
+    }, 
+    "f208b743-2f38-40bc-a737-a7b16bea9ea5": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "f2367c03-c0fb-42be-9d6d-fdbd18cfba9e": {
+        "ad": 0, 
+        "dst_ip": "52.1.120.219", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "828", 
+            "content-type": "application/json", 
+            "host": "live.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-api": "6.6.3", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-signature": "200e0dfccfe004cc407d91ac1cf8c60d44105d8b"
+        }, 
+        "host": "live.chartboost.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/api/install"
+    }, 
+    "f2b672f1-2667-406e-8a89-556a8a87a93e": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "1"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "f3a03987-b814-46d5-9aaf-3c0234ba6127": {
+        "ad": 1, 
+        "dst_ip": "69.147.80.72", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "Keep-Alive", 
+            "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+        "method": "HEAD", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/gemini/pr/video_gJwNFXKSOQXLF6w_M3IUQ4TnE70HJo5L-rrFNAi-CCBo2XbH5P-mqxx9AZTsEnEoDAi68LscTT4-~A_1.mp4?a=gemini&mr=0&s=8bfc678b737e3075d05ceb2ad2d38474"
+    }, 
+    "f4fc9e78-f3a8-478e-b421-61ee0060779f": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/100007851798599/picture?type=square"
+    }, 
+    "f5443c50-ea41-4aa7-853a-c741a1982ed2": {
+        "ad": 1, 
+        "dst_ip": "209.197.3.85", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "v2.chartboost.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-chartboost-app": "502e041317ba47dc7d000024", 
+            "x-chartboost-client": "Chartboost-Android-SDK Unity 6.6.3", 
+            "x-chartboost-reachability": "1"
+        }, 
+        "host": "v2.chartboost.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/videoads/59bc574cd989d60fc5d18b9b_320-1505515340.mp4"
+    }, 
+    "f6f3fc29-334f-47a8-999a-14d2997d91ef": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/136011266853666/picture?type=square"
+    }, 
+    "f809ba71-3d85-45b0-893f-5a4ac7429023": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.90", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1185", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "i.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "i.w.inmobi.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/showad.asm"
+    }, 
+    "f8d30511-167d-4c48-8b68-2c3983d2729e": {
+        "ad": 1, 
+        "dst_ip": "103.251.109.106", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "sdktm.w.inmobi.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-im-retry-count": "1"
+        }, 
+        "host": "sdktm.w.inmobi.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/sdkpubreq"
+    }, 
+    "fb3e8960-bcee-40db-a635-f1d89a00db7a": {
+        "ad": 1, 
+        "dst_ip": "216.58.217.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://staticxx.facebook.com/common/referer_frame.php", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36", 
+            "x-requested-with": "com.kiloo.subwaysurf"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/pagead/viewthroughconversion/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0"
+    }, 
+    "fc73e7ab-40eb-4c94-9984-5b89f757da6b": {
+        "ad": 1, 
+        "dst_ip": "23.75.201.176", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.1", 
+            "x-vungle-bundle-id": "com.kiloo.subwaysurf", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "fcca58f4-8b9e-4378-b813-3fe0ba6f2d6f": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/122435721424841/picture?type=square"
+    }, 
+    "fe2b9ee5-e5a9-40e9-9d0c-b506520e2554": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.5.1f1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/100005044620454/picture?type=square"
+    }, 
+    "feaf13ba-0297-48c8-9d3f-004ef1c1b8ef": {
+        "ad": 1, 
+        "dst_ip": "52.200.169.33", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1665", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "placements.tapjoy.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "placements.tapjoy.com", 
+        "method": "POST", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID", 
+            "Device ID", 
+            "Device ID"
+        ], 
+        "uri": "/v1/apps/79933fc1-a870-4194-9cca-68e4f571c2a6/content"
+    }, 
+    "ff18dd3e-dfee-4d29-80ee-8e3677dec65c": {
+        "ad": 1, 
+        "dst_ip": "69.147.80.72", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "Keep-Alive", 
+            "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "c-4647b37c55fb6ec95503330544066bde.http.atlas.cdn.yimg.com", 
+        "method": "HEAD", 
+        "package_name": "com.kiloo.subwaysurf", 
+        "package_responsible": "com.kiloo.subwaysurf", 
+        "package_version": "1.78.0", 
+        "pii_types": [], 
+        "uri": "/gemini/pr/video_gJwNFXKSOQXLF6w_M3IUQ4TnE70HJo5L-rrFNAi-CCBo2XbH5P-mqxx9AZTsEnEoDAi68LscTT4-~A_1.mp4?a=gemini&mr=0&s=8bfc678b737e3075d05ceb2ad2d38474"
+    }
+}

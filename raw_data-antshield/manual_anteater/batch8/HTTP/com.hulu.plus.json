@@ -1,0 +1,35 @@
+{
+    "1489004247967,20ee1108-2bd9-407e-8762-f029b0fd1ee7": {
+        "domain": "", 
+        "dst_ip": "23.55.50.26", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "HULU-PLATFORM": "thorn/2.28.0.213111", 
+            "Host": "s.hulu.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "s.hulu.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.hulu.plus", 
+        "package_version": "2.28.0.213111", 
+        "pii_types": [
+            "AndroidId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 42650, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489004247967", 
+        "uri": "/sterm?auth=1acc50ca93df49c1dcd8fa2176fbab8a7280e72c&device=38&device_id=RECON_AndroidId&n=84b9d7d8de17424a&time_stamp=1489004247&v=1", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }
+}

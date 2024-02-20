@@ -1,0 +1,35 @@
+{
+    "1489444013713,f6d77394-e315-44f4-9956-4d0328d9e84b": {
+        "domain": "", 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.1.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.turboc.cleaner", 
+        "package_version": "1.0.0", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 37033, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489444013713", 
+        "uri": "/v2.3/241702669524083?fields=supports_implicit_sdk_logging,gdpv4_nux_content,gdpv4_nux_enabled,android_dialog_configs,android_sdk_error_categories&format=json&sdk=android", 
+        "user_agent": null
+    }
+}

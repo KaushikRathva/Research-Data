@@ -1,0 +1,834 @@
+{
+    "02a7598b-850b-467b-912c-4050552415bf": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "0a065d56-8948-4ee7-94d9-aef0baa79d2f": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.143", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "334", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "0f08cf65-d05b-403a-8014-3482690addf3": {
+        "ad": 0, 
+        "dst_ip": "23.210.204.184", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "config.unityads.unity3d.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "config.unityads.unity3d.com", 
+        "method": "GET", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [], 
+        "uri": "/webview/2.0.5/release/config.json?ts=1519256566208&sdkVersion=2005&sdkVersionName=2.0.5"
+    }, 
+    "1acc748d-29b2-4acf-a00e-71795eb3f06b": {
+        "ad": 1, 
+        "dst_ip": "34.232.208.234", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1504", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "29de344f-a4a0-45ea-9678-b0f71b288c2d": {
+        "ad": 1, 
+        "dst_ip": "54.234.186.181", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "publisher-config.unityads.unity3d.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "publisher-config.unityads.unity3d.com", 
+        "method": "GET", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/games/15939/configuration?bundleId=com.rovio.angrybirdsseasons&encrypted=true&rooted=false&platform=android&sdkVersion=2005&osVersion=6.0.1&deviceModel=Nexus%206&language=en_US&test=false&deviceMake=motorola&advertisingTrackingId=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&limitAdTracking=false"
+    }, 
+    "2fde1bd5-06ae-47e0-a9e7-5001063d3f39": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "323f2abc-0c6a-49af-a6cf-f0dcc9565ebc": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "652", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "35a71fec-3dd3-467b-8401-89bacaa0b53f": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "106", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionStart"
+    }, 
+    "39feb279-28b1-4e5f-b662-6bf7e13903e3": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "652", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "3aa198ec-47a9-497b-ab0a-ab160aa1f490": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "3b341dc3-cbee-48e0-a38e-644a914788af": {
+        "ad": 1, 
+        "dst_ip": "35.170.162.41", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1504", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "3df56757-7d52-4d27-bd13-b4db0a257489": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "view.adjust.com", 
+            "referer": "https://cloud.rovio.com/ads/1.0/adpage?templ=EndCard&did=56EFC2CFFD025B295BAC991556A9AD73951CAA42&sw=2560&sh=1440&vw=0&vh=0&ia=&ep=null&ctx=RewardVideo&accessToken=240BB5CDF273F478F7663DBB5AAD269F52F6F30F8B4059B70D83FDBB633F70F1E92D63EC1D80A088A23C7EBEB58CC4F43AF167947B91B8433BF5CA2C01BB5014CF4F450BF613963F1AD46C8DC6745CC9C07CBAF338A786B04BDE5DE88C5669E2A8A08E337B0478108AE6D648FF4F32563F0F6D96B56CEF86C23A763A5A33B6B6AC1ECA1ACCF2FB17F447CDA83AA7E4E860CB1E5548E1E038265CA421BF0FD0CCFEFC36DAC343E15465CBDD2A532277A4E311C6DD8F58EF0A16737244D8CB6C65CFC88AB9F1E566F2A18F97AD85B1BCDB2FE421011413FFEED965228E8DEE210B6470A4E17D989F47EC23A62803DB01553D295BED391D5AA4DFF8B5AD115BC8DD3AFD24A83022D874E22662F34BCD7AFCEFC96501DD07C0E19E1FE6FDB03B0CE70875747E70364CD76D14112E3DD3570AC1388A2D5002057C655588DAB3B85BFEFFE5A7BB374EA42B21CC1724DD053E8E7E963C27CA60BC2BB513212AC9F435080B8E3F9DF9F68A350733C90C2AE4DC65BCE09643E44581470ACDB5844845E61E3EF17AB984CD0AF2B53A777A83BE3B8C6B8378841F2D6C15C1F341C3F7C80CF2E346F02A9DD5F81FBACC920F9D6433C94241FAA3BDBDDA3B8E7F75CF2CAC13FF09B8012CD483514BA541D10C5C552458E54FEACA8F1764E3D5CFDB16C18F9D2D164EE2891C0A92A396DD994745F18B4626FC17DBACDDE67747F7CF8F9DCCB4556E00741332C776487318D0EED412BA3A&ctx=RewardVideo&si=6&cs=%7B%22ppi%22%3A560%2C%22advertisingId%22%3A%22xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%22%2C%22advertisingTracking%22%3A%22true%22%7D&av=interstitial%3D1.0%2Crm%3D1.0%2Cvideo%3D1.2%2Cvast%3D1.0%2Csdk%3D3.4.4&adId=OikKAfqDdXNlcmMyMTNmODNlYy1lOWZjLTQzOWMtYWNjZi01ZjA5NGI2MTg4NDaDdHlwZUdDUkVBVElWRYFpZOBmMGU2ZTA5ZC02M2Y5LTQ0NTgtYTg3ZC1iMDViMzJhZTJjNjU5ZTBjMDVmMC05YzdiLTRhNjAtYmJjZS1lMzg4ZDQ4NWFiMTb8gXRzJQ1oUnEweaCBc2nMgXNzTDE1MTkyNTIyNjE0NTGBYnRHRE9XTkxPQUT7qM6QXkhJsKy2bQYJIgAkQdpM%2FvFJHsirV%2BMraSchuCg%3D", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.rovio.angrybirdsseasons"
+        }, 
+        "host": "view.adjust.com", 
+        "method": "GET", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/impression/v8aflf?campaign=f0e6e09d-63f9-4458-a87d-b05b32ae2c65&creative=9e0c05f0-9c7b-4a60-bbce-e388d485ab16&adgroup=AngryBirdsSeasonsFull&rovio_player_id=RC1a58e6d1-17d8-49fa-a05b-2f452187c7f5&rovio_device_id=AN36289D911E06301BC60FC82A271F2BACE623E8C078432A4A13E47500AD387AE8&gps_adid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }, 
+    "40b2b153-e213-4b99-bc64-085644a6b921": {
+        "ad": 1, 
+        "dst_ip": "52.45.249.234", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1504", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "45f7b6c7-3c08-4f9c-b88f-2fdb7ea1e95f": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "492b267e-5f74-4237-948d-43b3dab2a68f": {
+        "ad": 0, 
+        "dst_ip": "23.210.204.184", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "webview.unityads.unity3d.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "webview.unityads.unity3d.com", 
+        "method": "GET", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [], 
+        "uri": "/webview/2.0.5/71aa782e19b703ca8be895f876f8e461a1766c72/release/index.html"
+    }, 
+    "54c9cd44-88af-4f88-9aa9-cab29e8e8c6f": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "652", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "5e13a94d-03a8-496f-b5a7-bac6c83075bd": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "view.adjust.com", 
+            "referer": "https://cloud.rovio.com/ads/1.0/adpage?templ=EndCard&did=56EFC2CFFD025B295BAC991556A9AD73951CAA42&sw=2560&sh=1440&vw=0&vh=0&ia=&ep=null&ctx=RewardVideo&accessToken=240BB5CDF273F478F7663DBB5AAD269F52F6F30F8B4059B70D83FDBB633F70F1E92D63EC1D80A088A23C7EBEB58CC4F43AF167947B91B8433BF5CA2C01BB5014CF4F450BF613963F1AD46C8DC6745CC9C07CBAF338A786B04BDE5DE88C5669E2A8A08E337B0478108AE6D648FF4F32563F0F6D96B56CEF86C23A763A5A33B6B6AC1ECA1ACCF2FB17F447CDA83AA7E4E860CB1E5548E1E038265CA421BF0FD0CCFEFC36DAC343E15465CBDD2A532277A4E311C6DD8F58EF0A16737244D8CB6C65CFC88AB9F1E566F2A18F97AD85B1BCDB2FE421011413FFEED965228E8DEE210B6470A4E17D989F47EC23A62803DB01553D295BED391D5AA4DFF8B5AD115BC8DD3AFD24A83022D874E22662F34BCD7AFCEFC96501DD07C0E19E1FE6FDB03B0CE70875747E70364CD76D14112E3DD3570AC1388A2D5002057C655588DAB3B85BFEFFE5A7BB374EA42B21CC1724DD053E8E7E963C27CA60BC2BB513212AC9F435080B8E3F9DF9F68A350733C90C2AE4DC65BCE09643E44581470ACDB5844845E61E3EF17AB984CD0AF2B53A777A83BE3B8C6B8378841F2D6C15C1F341C3F7C80CF2E346F02A9DD5F81FBACC920F9D6433C94241FAA3BDBDDA3B8E7F75CF2CAC13FF09B8012CD483514BA541D10C5C552458E54FEACA8F1764E3D5CFDB16C18F9D2D164EE2891C0A92A396DD994745F18B4626FC17DBACDDE67747F7CF8F9DCCB4556E00741332C776487318D0EED412BA3A&ctx=RewardVideo&si=5&cs=%7B%22ppi%22%3A560%2C%22advertisingId%22%3A%22xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%22%2C%22advertisingTracking%22%3A%22true%22%7D&av=interstitial%3D1.0%2Crm%3D1.0%2Cvideo%3D1.2%2Cvast%3D1.0%2Csdk%3D3.4.4&adId=OikKAfqDdXNlcmMyMTNmODNlYy1lOWZjLTQzOWMtYWNjZi01ZjA5NGI2MTg4NDaDdHlwZUdDUkVBVElWRYFpZOA2YjE2MmJkMi05MTJiLTRmOGYtOTZiNi1iYjgxOGM0YjlhNGFiNjViNmQwNi01ZDU2LTQ4NjItYWM4Yi1mYWY2OWUyMjE5Y2L8gXRzJQ1oUnA9dryBc2nKgXNzTDE1MTkyNTIyNjE0NTGBYnRHRE9XTkxPQUT71Wkl9GuDhcatyZ8kREYOxKvl0Y9tj99Y127S2LafRVI%3D", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.rovio.angrybirdsseasons"
+        }, 
+        "host": "view.adjust.com", 
+        "method": "GET", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/impression/cr21ut?campaign=6b162bd2-912b-4f8f-96b6-bb818c4b9a4a&creative=b65b6d06-5d56-4862-ac8b-faf69e2219cb&adgroup=AngryBirdsSeasonsFull&rovio_player_id=RC1a58e6d1-17d8-49fa-a05b-2f452187c7f5&rovio_device_id=AN36289D911E06301BC60FC82A271F2BACE623E8C078432A4A13E47500AD387AE8&gps_adid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }, 
+    "5f2bec8d-bf80-418a-83ae-20bd642cb06c": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "652", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "61f5e183-bf94-4c95-93b2-5d337d4feef8": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "7cee95fb-f1a0-4336-9436-3e5933d716fc": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "0", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/new?app_id=54d0ac1bf310759f7f0000e7&ifa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }, 
+    "7dfc4dba-c377-40ab-8350-b9b81e3c51ea": {
+        "ad": 1, 
+        "dst_ip": "34.232.208.234", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1504", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "8a45a08b-e94f-4b62-9606-89570d052b52": {
+        "ad": 0, 
+        "dst_ip": "157.240.22.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.17.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [], 
+        "uri": "/v2.8/1534809340154348?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }, 
+    "8dac1f3b-eaae-4dbf-8dc7-157f4b7b4a98": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "0", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/new?app_id=54d0ac1bf310759f7f0000e7&ifa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }, 
+    "91044b7a-5fe4-4875-9acd-030cd890245f": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "652", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "9940d9ce-9665-440f-8da2-9688375d88a2": {
+        "ad": 1, 
+        "dst_ip": "54.84.242.231", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1504", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "9cf60013-b978-42af-bfb5-23903df1426f": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "ab3363a2-1384-4c25-9d30-1f9434af242b": {
+        "ad": 1, 
+        "dst_ip": "34.232.208.234", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1504", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "afa76707-cdea-4edf-8c8d-180575533275": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "106", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/sessionStart"
+    }, 
+    "b936ed58-7f7a-46ad-b2ea-db97a59617f7": {
+        "ad": 1, 
+        "dst_ip": "34.232.208.234", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1504", 
+            "content-type": "application/json", 
+            "host": "adc3-launch.adcolony.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "adc3-launch.adcolony.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v4/launch"
+    }, 
+    "ced72b8c-44a3-41fc-9119-a5be25aa88d5": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "652", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "d49f5400-8835-43ef-b251-e040979ee5c7": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "d7a21055-c806-4196-b7a5-f04af682bab1": {
+        "ad": 0, 
+        "dst_ip": "52.167.221.184", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "495", 
+            "content-type": "application/x-json-stream", 
+            "host": "gate.hockeyapp.net", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "gate.hockeyapp.net", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [], 
+        "uri": "/v2/track"
+    }, 
+    "e4265891-bfd1-4d99-bd7a-eb1a9067acd6": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "652", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }, 
+    "e8434b67-c89f-401f-9777-c0712fc90a7f": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "84", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/config"
+    }, 
+    "f328a7f2-af99-4786-b1ed-2ba861919522": {
+        "ad": 1, 
+        "dst_ip": "23.72.108.31", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "652", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/4.0.3", 
+            "x-vungle-bundle-id": "com.rovio.angrybirdsseasons", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "method": "POST", 
+        "package_name": "com.rovio.angrybirdsseasons", 
+        "package_responsible": "com.rovio.angrybirdsseasons", 
+        "package_version": "6.6.1", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/requestAd"
+    }
+}

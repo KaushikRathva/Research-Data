@@ -1,0 +1,32 @@
+{
+    "1489369475380,4dc7455b-74ad-475a-b248-e4179e30226e": {
+        "domain": "", 
+        "dst_ip": "54.67.81.83", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "zhongbosoft.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "zhongbosoft.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.lemongame.klondike.solitaire", 
+        "package_version": "2.9", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 47486, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489369475380", 
+        "uri": "/cgi-bin/android/useslog?id=com.lemongame.klondike.solitaire&v=19", 
+        "user_agent": null
+    }
+}

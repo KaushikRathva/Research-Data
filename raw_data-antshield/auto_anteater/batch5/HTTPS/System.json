@@ -1,0 +1,38 @@
+{
+    "1489462937192,11c4a7fe-9ea5-4143-a814-c0cfddce91e2": {
+        "domain": "", 
+        "dst_ip": "52.18.160.21", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1101", 
+            "content-type": "application/json", 
+            "host": "events.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "events.appsflyer.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "System", 
+        "package_version": "1.10", 
+        "pii_types": [
+            "IMEI", 
+            "AndroidId", 
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "[{\"device\":\"shamu\",\"installDate\":\"2017-03-13_1957-0700\",\"firstLaunchDate\":\"2017-03-13_2042-0700\",\"sdk\":\"24\",\"carrier\":\"T-Mobile\",\"deviceFingerPrintId\":\"00000000-5ddb-cdcf-ffff-ffffc12bc0cc\",\"date1\":\"2017-03-13_1957-0700\",\"af_preinstalled\":\"false\",\"advertiserIdEnabled\":\"true\",\"lang_code\":\"en\",\"appsflyerKey\":\"meYpyd4vP6L7yiswPFhQ7H\",\"iaecounter\":\"1\",\"imei\":\"RECON_IMEI\",\"app_version_name\":\"4.5.5\",\"lang\":\"English\",\"timepassedsincelastlaunch\":\"0\",\"eventName\":\"Dev_Key\",\"android_id\":\"RECON_AndroidId\",\"advertiserId\":\"RECON_AdvertiserId\",\"isGaidWithGps\":\"true\",\"appUserId\":\"plnPGkHP9F2wNfIqaKe9kg==\",\"deviceType\":\"user\",\"eventValue\":\"{\\\"af_content_type\\\":\\\"home\\\"}\",\"af_v\":\"b7ede23f3a1afc8c7f347f9f40897d7a6ba17391\",\"app_version_code\":\"4269\",\"af_events_api\":\"1\",\"network\":\"WIFI\",\"platformextension\":\"android_native\",\"operator\":\"\",\"country\":\"US\",\"brand\":\"google\",\"date2\":\"2017-03-13_1957-0700\",\"af_timestamp\":\"1489462933446\",\"uid\":\"1489460242558-7056837227241068814\",\"isFirstCall\":\"true\",\"fb\":\"390ba5df-76f5-4993-98ba-983dd899feb4\",\"product\":\"shamu\",\"model\":\"Nexus 6\",\"counter\":\"0\"}]", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 39409, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489462937192", 
+        "uri": "/api/v4/androidevent?buildnumber=6.0&app_id=com.dianxinos.dxbs", 
+        "user_agent": null
+    }
+}

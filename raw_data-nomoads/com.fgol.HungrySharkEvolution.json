@@ -1,0 +1,2562 @@
+{
+    "00a49f4d-e439-4dcd-8cef-cca43285384f": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "0373e5bd-457e-4776-90dd-586bc2381265": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "0a0e4a9b-ad98-4c6b-87e2-0372ec6f22c6": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "1740d667-5cf9-4d23-92a2-703873085dd8": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989900144&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "18bcacac-cd24-4ea7-89b1-bdeffc5f9e6b": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "1bc8ad45-c516-441f-b5e6-0a5d8cc9fdb9": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989771996&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "1cdfbd01-ca88-4625-8f18-b8aac503a8a1": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "1e2d9727-70d7-4d9b-a685-ff06e9c721cb": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "1f989901-f3fb-40d9-8a42-cdb88bfa1cdd": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "22cac00a-4e04-4e52-8519-348473b33869": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989854011&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "235e484a-9196-4ccb-b97f-a83f31bf0a5f": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "251b65f6-4386-4d48-b538-739c9cbb8fd0": {
+        "ad": 0, 
+        "dst_ip": "50.18.104.216", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US;q=1.0", 
+            "connection": "Keep-Alive", 
+            "content-length": "412", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "fgol.helpshift.com", 
+            "user-agent": "Helpshift-Android/4.2.0/6.0.1", 
+            "x-hs-v": "Helpshift-Android/4.2.0"
+        }, 
+        "host": "fgol.helpshift.com", 
+        "method": "POST", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/api/lib/2/events/"
+    }, 
+    "2558538c-59ed-4704-ae43-09cd5ce6a4b1": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "273fece6-a11d-4217-afd9-f20e6b9483f0": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989911694&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "28156585-1df2-4076-8753-a61a73820ece": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989888622&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "2bba12ea-b632-4f46-a153-a73032875d50": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.74", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "OAuth ya29.GogBawWs1G_GHQ4LQol2e293ssL-qMnUSSIkcd9qrSns-mBWxuxdsVzJxjk665WlDBIWUg0hG-lAVnF5eaE0LQ2QQH7B6MwVdItTOtVE5FU8wHRnccdHhK0BffYKjQ9x12uQb8KlfH5yZFQRU4ThyAN2PcgXhIknK6W3wyn7O85uwEgj2Kv4gVriuw", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "3409", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "www.googleapis.com", 
+            "user-agent": "GmsCore/11975430 (shamu MMB29X); gzip", 
+            "x-goog-spatula": "CjYKFmNvbS5nb29nbGUuYW5kcm9pZC5nbXMaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0SIFFDSJxjpBP8eFeo5t58vA8SyNSb5Mb991MOmWl45P9sGNKe1bqHgZn7NyCq0v7r5rCRjGMqSQBeaoCc3X8cjtFZHb7HLhyOTKjHqvfzuSS/5IEJmZrJxn/2UakyJi3sUlkLdR3Mr+y/PQQuXX3xam6s5X5Q+kMSkPypE/l0/fM="
+        }, 
+        "host": "www.googleapis.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/userlocation/v1/reports/651348114?barometerSensorName=Invensense%20Barometer&brand=google&device=shamu&devicePrettyName=Nexus%206&deviceRestriction=noRestriction&gmsVersion=11975430&isLowRam=false&manufacturer=motorola&model=Nexus%206&moduleVersion=116&nlpVersion=2023&osLevel=23&packageVersion=11975430&platform=android%2Fgoogle%2Fshamu%2Fshamu%3A6.0.1%2FMMB29X%2F2704508%3Auser%2Frelease-keys&product=shamu"
+    }, 
+    "2c89c2d5-e0a2-4787-a6e0-7542b71f8c8a": {
+        "ad": 0, 
+        "dst_ip": "157.240.22.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.13.2/Unity.7.7.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/v2.6/413003698745607?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout&format=json&sdk=android"
+    }, 
+    "2d1fe2cf-9c66-474d-8ef2-d94fe9cee366": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "2d46b29e-9d53-4efd-bba1-ab5595cdf541": {
+        "ad": 0, 
+        "dst_ip": "52.219.28.21", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "s3-us-west-1.amazonaws.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.6.4p3"
+        }, 
+        "host": "s3-us-west-1.amazonaws.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/hsx-live-ops/HSE_FacebookMerge/HSE_FBMerge_Interstitial_960x640.jpg"
+    }, 
+    "33271ceb-75b9-4003-bc2a-d5d6419e86d2": {
+        "ad": 0, 
+        "dst_ip": "52.212.120.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.fgol.HungrySharkEvolution?devkey=m2TXzMjM53e5MCwGasukoW&device_id=1519427996483-7475204533435264625"
+    }, 
+    "33691505-25c4-40aa-9e48-79dc31b6ff30": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "341f4388-204f-4822-b99d-9298732bffec": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "3475fb2d-2943-4b06-a25c-3f200de68024": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.fgol.HungrySharkEvolution?devkey=m2TXzMjM53e5MCwGasukoW&device_id=1519427996483-7475204533435264625"
+    }, 
+    "386770f6-47c0-484f-a1a1-450688f1be12": {
+        "ad": 0, 
+        "dst_ip": "172.217.14.74", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "OAuth ya29.GltrBXGXy73FbQnXpZL3JFgwllPR30TQW-VMva94ZaATCOVu7hfVEhkcx-9TGqm8o0Cfhj6senvkd__-jndstaoBy2bJRAjEZnxJUWNPwunIsWmT5SoLJSEl9Q8s", 
+            "connection": "Keep-Alive", 
+            "content-length": "0", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "www.googleapis.com", 
+            "user-agent": "Mozilla 5.0 (Linux; U; Android 6.0.1; en_US; Nexus 6; Build/MMB29X); com.google.android.gms/11975430; FastParser/1.1; Games Android SDK/1.0-33051; com.google.android.play.games/54390030; (gzip); Games Unity SDK/0.9.32", 
+            "x-device-id": "37f6640877554f52", 
+            "x-goog-experiments": "CPuggQYI0KeBBgjOsIEGCLqxgQYIu7GBBgjBsoEGCNu8gQYIpoeCBginh4IGCPuNggYImZqCBgj3moIGCJ6oggYI0cuCBgjczIIGCNjQggYIgdiCBgjv34IGCJbpggYIo-2CBgix8IIGCLP4ggYI9vqCBgjb_IIGCICAgwYIkI-DBgj0noMGCPnTgwYI0dmDBgjR9IMGCPqDhAYShQIAPOAAZj0PdV1Lg1MR9GLLqsyWdM72b6CjM08MxFEnarWcXNcm_Yq_AtCopzW6iEx19hf8DZfJeIPBcTyVW_PfpqDSI-S8VINJtrb0twHduE4Syd29vYMOrj10iov3ppVTXvtB1k_1Yn1z05ELahRwUJSiPqSX5gNHbVvMmJ-3X3TCsW3l6NJEjZ6dQQuDV2oTDNVeLgziE8_OLqzDr9MSMvROethN68qZXPE3FZAhhSCIhBTMi6MhZ1DPML9kdEBmK6ABA6C69gUsji6eE2kVM1Rm2uOhnG0uJGACgWVH70F-qZ_oxV14gK6fB-U2hssgEkNkiTVz4kNDHwfCmEPkNBtC8fM=", 
+            "x-goog-spatula": "Cj0KHWNvbS5mZ29sLkh1bmdyeVNoYXJrRXZvbHV0aW9uGhxseWNXTzBCWUo0NS9ZWTVXZ2pIazNzaEZMVkU9EiAbO9k2/6JxicNxe698xPw5723hh0Ons2Hv4Mb4BvEBhxjSntW6h4GZ+zcgqtL+6+awkYxjKkkAXmqAnN1/HI7RWR2+xy4cjkyox6r387kkv+SBCZmaycZ/9lGpMiYt7FJZC3UdzK/svz0ELl198WpurOV+UPpDEpD8qRP5dP3z", 
+            "x-play-games-token": "1519428321816557"
+        }, 
+        "host": "www.googleapis.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/games/v1/applications/played"
+    }, 
+    "387e47ed-e4ab-4cf2-824b-c16dd45b9b71": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989946218&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "38a186aa-aa5d-4f36-b9d4-e48d0cb89a32": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989877136&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "3935f146-f5f9-4636-af76-b478b83af041": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989737164&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "3b4921b4-33a5-4496-a6d5-450b3b8ddea0": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "3be2dddb-14be-4463-8f3c-eeb03ed1f33e": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "3cdb8b6f-8179-4b57-b56b-05d18300e068": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989957736&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "3e839bcb-25af-4688-a79f-aadb35749a74": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989842518&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "4020c8ec-2b3e-451e-a1f4-fbd06f18c704": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-990006265&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "40836b90-3dfc-4ac9-99e7-93d81ccb2c32": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "4467f872-2eb7-4ec4-8753-aa61a4be2041": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989807990&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "471c5608-2cbd-4889-bc5b-dec968827eeb": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989748813&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "4bd0e298-bdc6-49bf-a83e-5c414a5c7a05": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989819475&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "4c0a65e0-3c0e-4bcb-a896-de16e553ec69": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "4db2761e-1d32-484f-92a9-0bcd59d30493": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "4ecb87de-87c2-41fe-9c22-ea07870d20b6": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "50276f38-9210-4070-8ffc-e04fd85c2ad8": {
+        "ad": 0, 
+        "dst_ip": "52.216.65.187", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "s3.amazonaws.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.6.4p3"
+        }, 
+        "host": "s3.amazonaws.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/hsevo/production/Config/GooglePlay.json?n=1371941413"
+    }, 
+    "5767ff46-f8d0-4673-bdbd-480f9e68c4a0": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989865535&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "582c79a6-b875-45b7-b53b-ef0080e715d1": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989923161&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "5c03271a-d1c5-445f-8152-36c197c9ea6c": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "629429c4-8ced-4f13-b7c5-f04ee1c0bd67": {
+        "ad": 0, 
+        "dst_ip": "216.98.48.212", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ingame-news.ubi.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.6.4p3"
+        }, 
+        "host": "ingame-news.ubi.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/ingame/Hungry%20Shark%20Evolution/Mobile%20Android/en-GB/Promotion"
+    }, 
+    "62cd86a1-9c7a-4d9d-a766-04135c0dec90": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989796446&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "6316bf0d-7d81-486d-9dfa-4809c2d4df83": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989900144&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "636f4d4c-30d8-44f1-be05-890c16b99038": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989888622&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "63757d7b-7b50-4d33-a303-96a6d3b8d6f9": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "63b758a8-2402-4be2-a192-9309cc2d1d10": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989807990&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "67c67669-1a79-4e62-87c8-e3c038d9c62f": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "69d5bdfc-aafe-4190-b7bf-d996fe37e821": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989854011&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "6ad01449-e831-41c0-87f5-34f3a3bab54d": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "6d37ae17-3d3b-4c4e-9091-640d0584ac83": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "6eca20db-4ab0-43e6-b1fd-c7ddd6ba2323": {
+        "ad": 0, 
+        "dst_ip": "54.86.96.245", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "gamecfg-mob.ubi.com", 
+            "user-agent": "com.fgol.HungrySharkEvolution;Hungry Shark;5.5.0(199); (android;motorola Nexus 6;6.0.1)"
+        }, 
+        "host": "gamecfg-mob.ubi.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/profile/?epoch=1"
+    }, 
+    "715e5956-b3d1-47a4-b6df-35231e1d7c66": {
+        "ad": 0, 
+        "dst_ip": "172.217.14.74", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "OAuth ya29.GltrBXGXy73FbQnXpZL3JFgwllPR30TQW-VMva94ZaATCOVu7hfVEhkcx-9TGqm8o0Cfhj6senvkd__-jndstaoBy2bJRAjEZnxJUWNPwunIsWmT5SoLJSEl9Q8s", 
+            "connection": "Keep-Alive", 
+            "host": "www.googleapis.com", 
+            "if-none-match": "\"ejGAgPEF2NM96H8lU8I2u3qEvJ4/sL0drxBGR6HsWII8Yv6sQWrxzdA\"", 
+            "user-agent": "Mozilla 5.0 (Linux; U; Android 6.0.1; en_US; Nexus 6; Build/MMB29X); com.google.android.gms/11975430; FastParser/1.1; Games Android SDK/1.0-33051; com.google.android.play.games/54390030; (gzip); Games Unity SDK/0.9.32", 
+            "x-device-id": "37f6640877554f52", 
+            "x-goog-experiments": "CPuggQYI0KeBBgjOsIEGCLqxgQYIu7GBBgjBsoEGCNu8gQYIpoeCBginh4IGCPuNggYImZqCBgj3moIGCJ6oggYI0cuCBgjczIIGCNjQggYIgdiCBgjv34IGCJbpggYIo-2CBgix8IIGCLP4ggYI9vqCBgjb_IIGCICAgwYIkI-DBgj0noMGCPnTgwYI0dmDBgjR9IMGCPqDhAYShQIAPOAAZj0PdV1Lg1MR9GLLqsyWdM72b6CjM08MxFEnarWcXNcm_Yq_AtCopzW6iEx19hf8DZfJeIPBcTyVW_PfpqDSI-S8VINJtrb0twHduE4Syd29vYMOrj10iov3ppVTXvtB1k_1Yn1z05ELahRwUJSiPqSX5gNHbVvMmJ-3X3TCsW3l6NJEjZ6dQQuDV2oTDNVeLgziE8_OLqzDr9MSMvROethN68qZXPE3FZAhhSCIhBTMi6MhZ1DPML9kdEBmK6ABA6C69gUsji6eE2kVM1Rm2uOhnG0uJGACgWVH70F-qZ_oxV14gK6fB-U2hssgEkNkiTVz4kNDHwfCmEPkNBtC8fM=", 
+            "x-goog-spatula": "Cj0KHWNvbS5mZ29sLkh1bmdyeVNoYXJrRXZvbHV0aW9uGhxseWNXTzBCWUo0NS9ZWTVXZ2pIazNzaEZMVkU9EiAbO9k2/6JxicNxe698xPw5723hh0Ons2Hv4Mb4BvEBhxjSntW6h4GZ+zcgqtL+6+awkYxjKkkAXmqAnN1/HI7RWR2+xy4cjkyox6r387kkv+SBCZmaycZ/9lGpMiYt7FJZC3UdzK/svz0ELl198WpurOV+UPpDEpD8qRP5dP3z", 
+            "x-play-games-token": "1519428321816557"
+        }, 
+        "host": "www.googleapis.com", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/games/v1/players/me?language=en-US"
+    }, 
+    "76574cd7-7a48-4df9-9827-acd38775b082": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989992716&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "781c41c6-6f36-4090-8a99-ec49118d809f": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "78defa85-913c-4b33-a012-58d625b8ecab": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "7e6c2395-4938-434c-938a-1c802bc63141": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "8004d9d1-94c8-4692-978b-5c74d1703fe2": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989830985&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "85749d24-25fe-4028-868b-131638582a8e": {
+        "ad": 0, 
+        "dst_ip": "216.98.48.212", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ingame-news.ubi.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.6.4p3"
+        }, 
+        "host": "ingame-news.ubi.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/ingame/Hungry%20Shark%20Evolution/Mobile%20Android/en-GB/Interstitial"
+    }, 
+    "872d2866-c34e-48d7-abf1-62bef3fb72db": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989946218&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "88773675-cee9-46f1-bbee-df63ce1ddbc4": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989865535&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "897130ee-911c-4276-a013-e1d444efd9d4": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989934701&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "8b0b9959-3048-4186-86d1-263d23566369": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "9161e3f8-0dba-4d2f-8123-e174b98d78dd": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "93408068-a5bb-4217-b696-ace25ba76bc3": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "9389f8d3-b814-49f4-ae80-1db72142a1f6": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "976f5bdc-0e5c-478f-a535-424f88213a80": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989784863&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "977e5748-926e-400f-a2fe-81c14add104e": {
+        "ad": 0, 
+        "dst_ip": "184.87.194.90", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ubistatic-a.akamaihd.net", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-unity-version": "5.6.4p3"
+        }, 
+        "host": "ubistatic-a.akamaihd.net", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/0068/hungrysharkevo/05e74e459d5c10f86cda9afd82421407e06027db7d782770f9f0c276939886da.zip"
+    }, 
+    "993eff0e-5794-4689-8bf3-33f123c488ac": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989737164&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "9abe82de-b161-4f40-b2c1-c8ba118f3524": {
+        "ad": 0, 
+        "dst_ip": "192.48.236.12", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "3122", 
+            "content-type": "application/x-www-form-urlencoded; charset=UTF-8", 
+            "host": "analytics.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "analytics.mopub.com", 
+        "method": "POST", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/i/jot/exchange_client_event"
+    }, 
+    "9e18100a-3926-43be-87c2-2aa95d9ca098": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "9e21c926-cb52-4944-9891-9eecc21e63c0": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "9e5ad25d-7304-4e87-a1fe-711a9b610087": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989771996&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "a0586ac6-f9fb-40d0-ae34-569dc49ba649": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989934701&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "a2ec5cdc-35b0-42dc-be19-ef95a8a3ba62": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "a38d268a-f484-4873-a769-285c76a87728": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "a5dcdd1c-ea6c-45f2-89c0-7f9c1ebbc2c7": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989784863&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "a69a88cd-1723-4f0c-9cda-629f5a924484": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "a6e88808-2ba3-47bf-b4ca-5a9147c6b5d2": {
+        "ad": 0, 
+        "dst_ip": "54.86.96.245", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "gamecfg-mob.ubi.com", 
+            "user-agent": "com.fgol.HungrySharkEvolution;Hungry Shark;5.5.0(199); (android;motorola Nexus 6;6.0.1)"
+        }, 
+        "host": "gamecfg-mob.ubi.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/profile/?epoch=1"
+    }, 
+    "a8fc1b02-980c-4234-8be9-7619357aea21": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989760352&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "ac599e26-66b4-4dbe-85f7-943d490da34c": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "b294870e-8539-437b-a694-726e8316bc2c": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "b6148d7f-6907-45c9-b916-046868c7f3da": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "b6868b77-bfa1-40f8-b26d-34f86105871b": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "b7059c8c-42bc-4c89-a8d4-fdd9d72def81": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "b8656868-f047-411a-a60e-97540d5bbda5": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989911694&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "b960b0c7-532a-4691-a254-5aa68fff8c5c": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "bd4f96cc-01e8-474f-8462-7f11865fe404": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989992716&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "bee4a6f7-15b4-4e3a-9997-c402a9791e6c": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "c0de1e2a-9e27-4ec4-bb06-4d510d29b196": {
+        "ad": 0, 
+        "dst_ip": "157.240.22.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.13.2/Unity.7.7.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/v2.6/413003698745607/activities?format=json&sdk=android"
+    }, 
+    "c2e02f1a-ec76-463b-9ab0-b2ea10dbdb9a": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989957736&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "c43e7240-d29f-4471-b71c-520a5ac1926f": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "c60a52b3-94b6-456e-bc32-fe16d6fcc1d6": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "c61fe83a-aa20-478b-8360-59e288674ffe": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989725581&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "c7abba86-c98c-44f1-933a-be50d41fcfda": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "c8c20e15-03ce-4d01-82d4-0576276f5f7f": {
+        "ad": 0, 
+        "dst_ip": "54.86.96.245", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "gamecfg-mob.ubi.com", 
+            "user-agent": "com.fgol.HungrySharkEvolution;Hungry Shark;5.5.0(199); (android;motorola Nexus 6;6.0.1)"
+        }, 
+        "host": "gamecfg-mob.ubi.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/profile/?action=game_get&productid=745&deviceuid=173706e8-baaf-b517-706e-1baafeb51737&keys=[\"umtk\"]"
+    }, 
+    "cad7d285-c860-4cda-af07-f4308f4a0119": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989969247&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "cafa7ec7-2890-4958-b329-af82ee1189f2": {
+        "ad": 0, 
+        "dst_ip": "54.86.96.245", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "gamecfg-mob.ubi.com", 
+            "user-agent": "com.fgol.HungrySharkEvolution;Hungry Shark;5.5.0(199); (android;motorola Nexus 6;6.0.1)"
+        }, 
+        "host": "gamecfg-mob.ubi.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/profile/?epoch=1"
+    }, 
+    "cce5d5e5-bd29-44f3-8259-f7169644ac6d": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989877136&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "d0c44c23-fe80-4001-8a10-3112a54529fe": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.fgol.HungrySharkEvolution?devkey=m2TXzMjM53e5MCwGasukoW&device_id=1519427996483-7475204533435264625"
+    }, 
+    "d32f52db-6e53-4284-a96f-db1670b09782": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989980742&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "d43054cb-a6e7-4a38-9070-9034d9cf6738": {
+        "ad": 0, 
+        "dst_ip": "157.240.22.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.13.2/Unity.7.7.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.6/413003698745607/activities?access_token=&format=json&sdk=android"
+    }, 
+    "d44e0a85-3d7f-4a41-8352-a2018262dc9a": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989923161&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "d89df709-c3fc-48f0-97d4-dee0c647530f": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989796446&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "db272be0-27d8-442e-bf33-f5c0f2f3bcae": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.11", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-990006265&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "dd31119c-25e7-4a21-bb92-50c350007164": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989760352&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "de7f8dde-6eb8-4909-b209-bdfda03fc69f": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989980742&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "e2b1d00c-f3ef-457b-97c4-87245698dcde": {
+        "ad": 0, 
+        "dst_ip": "50.18.104.216", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US;q=1.0", 
+            "connection": "Keep-Alive", 
+            "host": "fgol.helpshift.com", 
+            "user-agent": "Helpshift-Android/4.2.0/6.0.1", 
+            "x-hs-v": "Helpshift-Android/4.2.0"
+        }, 
+        "host": "fgol.helpshift.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/api/lib/2/config/?timestamp=1519428406.747&signature=66eb311edb86e19936bcdfbd73259528c0a991410a9b83b8af5c24ba2320f58f&platform-id=fgol_platform_20150707153741270-8a2809321407e0a"
+    }, 
+    "e44e1421-5808-46dc-9074-9e44e3181397": {
+        "ad": 0, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "6180", 
+            "content-type": "application/x-www-form-urlencoded; charset=UTF-8", 
+            "host": "analytics.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "analytics.mopub.com", 
+        "method": "POST", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/i/jot/exchange_client_event"
+    }, 
+    "e4f83a96-8c9b-43ff-aa55-d78e6298aad5": {
+        "ad": 0, 
+        "dst_ip": "54.86.96.245", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "gamecfg-mob.ubi.com", 
+            "user-agent": "com.fgol.HungrySharkEvolution;Hungry Shark;5.5.0(199); (android;motorola Nexus 6;6.0.1)"
+        }, 
+        "host": "gamecfg-mob.ubi.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [], 
+        "uri": "/profile/?epoch=1"
+    }, 
+    "e849c018-60ce-4862-8014-4602d0175579": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989969247&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "e8b3e69d-5ed1-4028-a46f-d34aaba20cad": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989842518&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "e8b64d19-1f84-4753-8930-453196038919": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989819475&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "ea6dff1a-503f-4ee3-9ab6-6b33f3867973": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "ee55212a-2eff-4208-8d38-41619517d260": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989748813&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "f2d06f4c-34b9-495e-9cee-c11dca2ca657": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "f5326b56-e993-49de-9fab-bdfe7960097e": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "f5d04206-9a86-4b0e-b462-2df30c727e9a": {
+        "ad": 1, 
+        "dst_ip": "34.249.16.226", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1278", 
+            "content-type": "application/json", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/androidevent?buildnumber=4.8.3&app_id=com.fgol.HungrySharkEvolution"
+    }, 
+    "f5f350ab-941e-4185-93b8-874362718827": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=2f11103334a64782b6d23be675bd91da&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "fa084211-e53d-4b18-8a63-6e50dcc1efd6": {
+        "ad": 1, 
+        "dst_ip": "192.48.236.10", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989830985&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }, 
+    "fc18ce1d-f220-4607-98b6-596178f365ef": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.6", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.fgol.HungrySharkEvolution", 
+        "package_responsible": "com.fgol.HungrySharkEvolution", 
+        "package_version": "5.5.0", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/m/ad?v=6&id=d2179714e5454271b774c0bb204996f0&nv=4.18.0%2Bunity&dn=motorola%2CNexus%206%2Cshamu&bundle=com.fgol.HungrySharkEvolution&q=m_gameVersion%3A5.5.0%2Cm_sharksUnlocked%3A1&ll=99999.0%2C99999.0&lla=0&llf=-989725581&z=-0800&o=l&w=2560&h=1440&sc_a=3.5&ct=2&av=5.5.0&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&mr=1&android_perms_ext_storage=0&vv=0"
+    }
+}

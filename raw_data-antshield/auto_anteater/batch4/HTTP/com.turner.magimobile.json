@@ -1,0 +1,35 @@
+{
+    "1489452487511,e4757fc4-d1dc-41c4-8db0-0067e5eafda6": {
+        "domain": "", 
+        "dst_ip": "66.235.153.38", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "close", 
+            "content-length": "759", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "stats.cartoonnetwork.com", 
+            "user-agent": "Mozilla/5.0 (Linux; U; Android 7.0; en-US; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "stats.cartoonnetwork.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.turner.magimobile", 
+        "package_version": "1.0.7", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "ndh=1&ts=1489452487&ce=UTF-8&c.&hierachy=ayakm%7Ccartoon%20network%7Ccartoon%20network%7Cmagimobile%7Caccount%7Ccreate&event_pageview=1&section=account&business_unit=ctn&app_name=app%3Amagimobile&a.&DeviceName=Nexus%206&OSVersion=Android%207.0&TimeSinceLaunch=24&RunMode=Application&Resolution=1440x2392&CarrierName=T-Mobile&AppID=MagiMobile%201.0.7%20%281024%29&.a&subsection=create&device_id=867a26bff04301096d999c167ca5ec7f&broadcast_franchise=mighty%20magiswords&sdkversion=4.10.0%3A1.0.7&auth_requirement=does%20not%20require%20authentication&orientation=Portrait&page=ctn%3Amagimobile%3Acreate%20account%3Ausername&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20420&pageName=ctn%3Amagimobile%3Acreate%20account%3Ausername&aid=2C6393E3851D3A3D-6000016FA0000CE4", 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 44635, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489452487511", 
+        "uri": "/b/ss/carnetnm-adbp-apps-enh-magimobile/0/JAVA-4.10.0-AN/s51791977", 
+        "user_agent": null
+    }
+}

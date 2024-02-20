@@ -1,0 +1,198 @@
+{
+    "1488756774828,8e2b50a3-6ecf-4b78-bcb3-047b53e5a9be": {
+        "domain": "", 
+        "dst_ip": "23.222.167.20", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Content-Length": "2", 
+            "Content-Type": "application/json; charset=utf-8", 
+            "Host": "rt.applovin.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "rt.applovin.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.miniclip.eightballpool", 
+        "package_version": "3.9.0", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "{}", 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 44887, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488756774828", 
+        "uri": "/pix?event=landing&ts=1488756774723&platform=Android&model=Nexus 6&package_name=com.miniclip.eightballpool&sdk_key=WX_oGSeIwzKpolTSQUnvSXZ8BPwxdzZ8VTxn0a3xXNlK7HnXmXRD3_LFOFB0Dl9iI4UIeTEBwzV2EGZ_o0Cs_X&idfa=RECON_AdvertiserId&dnt=false&ia=1488755943000&api_did=&brand=motorola&model=Nexus 6&revision=shamu&sdk_version=6.3.2&os=7.0&orientation_lock=landscape&app_version=3.9.0&country_code=null&carrier=null&tz_offset=-8.0&postback_ts=1488756774743", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }, 
+    "1488756775322,d331684e-dc04-41c3-97ef-9328a61dd9af": {
+        "domain": "", 
+        "dst_ip": "23.222.167.20", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "a.applovin.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "a.applovin.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.miniclip.eightballpool", 
+        "package_version": "3.9.0", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 44902, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488756775322", 
+        "uri": "/2.0/ad?accept=custom_size,launch_app,video&api_did=&country_code=&size=INTER&carrier=&preloading=true&idfa=RECON_AdvertiserId&wvvc=278512400&dy=1440&format=json&orientation_lock=landscape&require=REGULAR&sdk_key=WX_oGSeIwzKpolTSQUnvSXZ8BPwxdzZ8VTxn0a3xXNlK7HnXmXRD3_LFOFB0Dl9iI4UIeTEBwzV2EGZ_o0Cs_X&v1=false&si=0&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1488755943000&li=0&os=7.0&tz_offset=-8.0&platform=android&network=wifi&app_version=3.9.0&brand=motorola&sdk_version=6.3.2&v2=true&vz=83f8d35207330e66&model=Nexus 6", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }, 
+    "1488756775403,22124bac-c5ae-4049-b10b-b8bc9c2bd4ba": {
+        "domain": "", 
+        "dst_ip": "23.222.167.20", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "a.applovin.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "a.applovin.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.miniclip.eightballpool", 
+        "package_version": "3.9.0", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 44902, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488756775403", 
+        "uri": "/2.0/ad?accept=custom_size,launch_app,video&api_did=&country_code=&size=INTER&carrier=&preloading=true&idfa=RECON_AdvertiserId&wvvc=278512400&dy=1440&format=json&orientation_lock=landscape&require=VIDEOA&etf=134&sdk_key=WX_oGSeIwzKpolTSQUnvSXZ8BPwxdzZ8VTxn0a3xXNlK7HnXmXRD3_LFOFB0Dl9iI4UIeTEBwzV2EGZ_o0Cs_X&v1=false&si=0&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1488755943000&li=0&os=7.0&tz_offset=-8.0&platform=android&network=wifi&app_version=3.9.0&brand=motorola&sdk_version=6.3.2&ntf=wifi&v2=true&vz=83f8d35207330e66&model=Nexus 6", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }, 
+    "1488756775482,0ba28950-b245-4861-84be-eb00b61eb626": {
+        "domain": "", 
+        "dst_ip": "23.222.167.20", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "a.applovin.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "a.applovin.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.miniclip.eightballpool", 
+        "package_version": "3.9.0", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 44902, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488756775482", 
+        "uri": "/2.0/ad?accept=custom_size,launch_app,video&api_did=&country_code=&size=INTER&carrier=&preloading=true&idfa=RECON_AdvertiserId&wvvc=278512400&dy=1440&format=json&orientation_lock=landscape&require=VIDEOA&etf=57&sdk_key=WX_oGSeIwzKpolTSQUnvSXZ8BPwxdzZ8VTxn0a3xXNlK7HnXmXRD3_LFOFB0Dl9iI4UIeTEBwzV2EGZ_o0Cs_X&v1=false&si=0&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1488755943000&li=0&os=7.0&tz_offset=-8.0&platform=android&network=wifi&app_version=3.9.0&brand=motorola&sdk_version=6.3.2&ntf=wifi&v2=true&vz=83f8d35207330e66&model=Nexus 6", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }, 
+    "1488756775625,9ad97248-c667-4d7c-bc36-906d0fe7bdc2": {
+        "domain": "", 
+        "dst_ip": "23.222.167.20", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Host": "a.applovin.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "a.applovin.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.miniclip.eightballpool", 
+        "package_version": "3.9.0", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 44902, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488756775625", 
+        "uri": "/nad?accept=custom_size,launch_app,video&api_did=&country_code=&size=NATIVE&carrier=&preloading=true&idfa=RECON_AdvertiserId&slot_count=1&wvvc=278512400&dy=1440&format=json&orientation_lock=landscape&sdk_key=WX_oGSeIwzKpolTSQUnvSXZ8BPwxdzZ8VTxn0a3xXNlK7HnXmXRD3_LFOFB0Dl9iI4UIeTEBwzV2EGZ_o0Cs_X&v1=false&si=0&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1488755943000&li=0&os=7.0&tz_offset=-8.0&platform=android&network=wifi&app_version=3.9.0&brand=motorola&sdk_version=6.3.2&v2=true&vz=83f8d35207330e66&model=Nexus 6", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }, 
+    "1488756775759,870d5a59-135c-4778-995e-4a1142fc673a": {
+        "domain": "", 
+        "dst_ip": "23.222.167.20", 
+        "dst_port": 80, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Content-Length": "686", 
+            "Content-Type": "application/json; charset=utf-8", 
+            "Host": "d.applovin.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "d.applovin.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.miniclip.eightballpool", 
+        "package_version": "3.9.0", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "{\"device_info\":{\"model\":\"Nexus 6\",\"os\":\"7.0\",\"brand\":\"motorola\",\"sdk_version\":24,\"revision\":\"shamu\",\"orientation_lock\":\"landscape\",\"tz_offset\":-8,\"wvvc\":278512400,\"type\":\"android\",\"idfa\":\"RECON_AdvertiserId\",\"dnt\":false,\"locale\":\"en_US\"},\"app_info\":{\"package_name\":\"com.miniclip.eightballpool\",\"app_name\":\"8 Ball Pool\",\"app_version\":\"3.9.0\",\"installed_at\":1488755943000,\"applovin_sdk_version\":\"6.3.2\",\"ic\":false,\"first_install\":\"true\"},\"stats\":{\"FetchNextAd_count\":4,\"TaskCollectAdvertisingId_time\":33,\"TaskDispatchPostback_time\":115,\"ad_session_start\":1488756775224,\"TaskCollectAdvertisingId_count\":1,\"ad_req\":4,\"FetchNextAd_time\":378,\"TaskDispatchPostback_count\":1}}", 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 44906, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488756775759", 
+        "uri": "/device?api_key=WX_oGSeIwzKpolTSQUnvSXZ8BPwxdzZ8VTxn0a3xXNlK7HnXmXRD3_LFOFB0Dl9iI4UIeTEBwzV2EGZ_o0Cs_X", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }
+}

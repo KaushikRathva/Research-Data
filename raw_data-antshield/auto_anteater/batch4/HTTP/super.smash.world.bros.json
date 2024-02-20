@@ -1,0 +1,76 @@
+{
+    "1489454992615,5b139bd9-a233-426d-99d6-f375c9a8cd62": {
+        "domain": "", 
+        "dst_ip": "42.112.17.135", 
+        "dst_port": 80, 
+        "headers": {
+            "a": "RECON_AndroidId", 
+            "accept-encoding": "gzip", 
+            "c": "eyJtb2RlbCI6Ik5leHVzIDYiLCJzZGsiOjI0LCJtYW51ZmFjdHVyZXIiOiJtb3Rvcm9sYSIsImFwcFZlcnNpb24iOjE4fQ==", 
+            "connection": "Keep-Alive", 
+            "host": "imoads.com", 
+            "p": "1", 
+            "s": "r9YJ79oleIw4uWlpKd+Q/4Ccymg3FiRr/FBbaDCf0sQ=", 
+            "t": "1489454991839", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "imoads.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "super.smash.world.bros", 
+        "package_version": "1.8", 
+        "pii_types": [
+            "AndroidId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 47359, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489454992615", 
+        "uri": "/api/v1/publishers/apps/14/configs", 
+        "user_agent": null
+    }, 
+    "1489454992689,f7dffc77-4847-402c-ae18-057c67210b9c": {
+        "domain": "", 
+        "dst_ip": "42.112.17.135", 
+        "dst_port": 80, 
+        "headers": {
+            "a": "RECON_AndroidId", 
+            "accept-encoding": "gzip", 
+            "c": "eyJtb2RlbCI6Ik5leHVzIDYiLCJzZGsiOjI0LCJtYW51ZmFjdHVyZXIiOiJtb3Rvcm9sYSIsImFwcFZlcnNpb24iOjE4fQ==", 
+            "connection": "Keep-Alive", 
+            "host": "imoads.com", 
+            "p": "1", 
+            "s": "6ZeskY4sghqn+Nk1LAfv+hD60Y8cLMIzI4ovbfnxUQc=", 
+            "t": "1489454991947", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "imoads.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "super.smash.world.bros", 
+        "package_version": "1.8", 
+        "pii_types": [
+            "AndroidId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 47361, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489454992689", 
+        "uri": "/api/v1/publishers/tops", 
+        "user_agent": null
+    }
+}

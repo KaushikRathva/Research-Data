@@ -1,0 +1,40 @@
+{
+    "1489371531155,55a66d4b-40fa-4c5e-9d4a-88a2a581af3a": {
+        "domain": "", 
+        "dst_ip": "151.101.52.84", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "authorization": "", 
+            "connection": "Keep-Alive", 
+            "host": "passets-cdn.pinterest.com", 
+            "user-agent": "Pinterest for Android/5.6.2 (shamu; 7.0)", 
+            "x-pinterest-appstate": "background", 
+            "x-pinterest-device": "Nexus 6", 
+            "x-pinterest-device-hardwareid": "RECON_AndroidId", 
+            "x-pinterest-installid": "0870ad826be44350b700dc2581c6ae7"
+        }, 
+        "host": "passets-cdn.pinterest.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.pinterest", 
+        "package_version": "5.6.2", 
+        "pii_types": [
+            "AndroidId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 45332, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489371531155", 
+        "uri": "/status/android_status.json", 
+        "user_agent": null
+    }
+}

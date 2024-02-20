@@ -1,0 +1,3263 @@
+{
+    "00c8ce90-5353-4503-8c73-87a7c47177cc": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "012241f4-944a-4d91-bfb7-8ce7c6536a7f": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=4194304-4718591", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "040b121c-f85c-4526-b315-0eb70ed59af5": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "063e5111-6d61-466c-b15e-d45888951e84": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/c0c808212e6f0642d02b8ef75915ef7f2775dc07"
+    }, 
+    "06d3c136-74e7-4a83-9f1c-e5a5a2875073": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2621440-3145727", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "0ab4b722-02c5-42dc-a232-3503da1b84e7": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/upsell-service/v4/track?ctv=14315&cid=829&lid=4456452200&locale=en&uuid=bb84aee6-8c3b-4350-a596-05a0b1507ea9-showcase&trig=showcase&event=view&url=https%3A%2F%2Fsecurepubads.g.doubleclick.net%2Fpcs%2Fview%3Fxai%3DAKAOjsuRj6q2ivwHTUfjJEIZbD660eKuJW_1VTKfyeCcMWPMVVRGXBAMyTCdtihZ6E8l1iIbQSWnSJotZiMVJ8oivS_fdSQlX1F77qjxICIzJ7rOuuShMJzhNnmeg2FhDb-3nJlbi3kGQd0lJO6cJhWRlcaXzNl6d-y2oPYg_69SDXQ0TvxTdkrj4z61wxPUAbobPWKlSeFo_wDM1A3L-U8rCPog6I5scFEfzlvvhn9k8DKwiqNzyA4C9buUtmdpntm1YH-KMWfadPQ8wzBMQuvXWQ%26sai%3DAMfl-YSBF35mNiqwRuR_iETdJCVqCWWNGyXEtb1EMqo1yrh5ur2oZIcq9G4qHoVOS3w%26sig%3DCg0ArKJSzDb3FjcFE22JEAE%26urlfix%3D1%26adurl%3D"
+    }, 
+    "0af774b7-87a4-4876-ac5a-9a1f65d0fd83": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "0b8eadec-dbe1-475b-98cd-1cd61c78a6e1": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/2ca79f7f364b2c241f132cd4825e3080a85781a3"
+    }, 
+    "0da0b0c4-524c-42d8-9b09-becfb4e83412": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/7dce9c9612cf8223a374adf51989cefe122eedde"
+    }, 
+    "0efd5a5e-dd41-4dfc-aa42-a8529c8a59dc": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "scannables.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "scannables.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/uri/800/spotify%3Aartist%3A3hvgLXeDFNiqDOVXl0xTge"
+    }, 
+    "0f365b4d-3e29-456c-98fd-46ff24c15f22": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/858da498078ea7a558eaac5419d70718552efa49"
+    }, 
+    "0f5e25a3-6be5-4be7-ab88-e938b53c7df5": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "12a9c6ec-1faa-4b55-a1e0-c72ddf07e3e8": {
+        "ad": 0, 
+        "dst_ip": "184.31.3.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-akp.spotify.com.edgesuite.net", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1703936-2210775", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-akp.spotify.com.edgesuite.net", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/22625e98e5a6ea2a6808acb9ad619bc79bd0e1cf?__token__=exp=1509471818~hmac=381932ab5dfcf5d142206b330446908ccc450a5a6096400f568ac7fd0573da64"
+    }, 
+    "12e255f0-e92e-4092-870b-b24ef919b635": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=3145728-3670015", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "137718b5-4441-48ac-971a-21345680dc76": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "content-length": "1030", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdk_click"
+    }, 
+    "14f6ecef-2131-4cf2-977a-494b5bf7cf75": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "155b4d81-d5dc-41f5-b7fb-cc7e16a92c1b": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/6f8030c179642e3cbd1fdf8ed91ca9a72a723125"
+    }, 
+    "15bebe48-9a4a-415f-99aa-46fea149f706": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2621440-3145727", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "166a6826-145a-42c6-8827-91d4f77e2a17": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "16d31b73-1364-4cf2-bcbb-4345c1983ead": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/c17dad1374333c4d5b6463a30be1197c0167e89c"
+    }, 
+    "17a6b736-900b-4754-baa7-2f369270a1e0": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "1a904104-9a0a-4edf-8af1-5deff447e7fb": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/f36697f09e4b0539b8c1c05a2817c49bcdcfa3ce"
+    }, 
+    "1ce62b71-d3a3-455d-943c-3458ea66e276": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=0-524287", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/94b285cbb294946d533f71b291a8256485cb08e8?1509471910_dA8EwUTrNvQO4fq80Y8iRIPeY7NnBrkb/wi+kV7T7kc="
+    }, 
+    "1d905e30-6740-4e94-bb17-b2aba82679c6": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "concerts-hometile-images.scdn.co", 
+            "if-none-match": "\"966d3d7d2ef7a496b6700665367a276e\"", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "concerts-hometile-images.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/1jFvUvFJlht7yWieTAcBs9.png"
+    }, 
+    "1de9dd61-d307-468f-a807-3f22252031a2": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/347638220603e11e9a60828fb594a708ce305444"
+    }, 
+    "1f640576-2e70-4186-aaa4-fbd7d7f36b8c": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "1f793fd9-d2a5-44b4-9b51-9783a3150780": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/858da498078ea7a558eaac5419d70718552efa49"
+    }, 
+    "1fa3b8dc-b4b4-4794-a3f8-d50a7d420764": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/a036b794c6cb128100c4eec74871513144704a48"
+    }, 
+    "1fadc3f5-db64-453b-8540-4a935ff15162": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "scannables.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "scannables.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/uri/800/spotify%3Aartist%3A49gaZqfow2v8EEQmjGyEIw"
+    }, 
+    "20bb94fd-df60-4e56-adc1-ee68e615c20d": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=3670016-4194303", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "25b2a8d7-d743-47ff-a93c-35b732251b90": {
+        "ad": 0, 
+        "dst_ip": "23.23.80.6", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "849", 
+            "content-type": "multipart/form-data; boundary=00content0boundary00", 
+            "host": "e.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.11.167", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.11.167", 
+            "x-crashlytics-api-key": "ed79a89851fe4ae8eb60f37284a088b1055997d8", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa"
+        }, 
+        "host": "e.crashlytics.com", 
+        "method": "POST", 
+        "package_name": "System", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/spi/v2/events"
+    }, 
+    "25fe9987-37a8-48cd-9fd1-ba6ee23ea985": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=4194304-4575103", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "273cdd29-37a2-43fe-95b9-6c1d0691874b": {
+        "ad": 0, 
+        "dst_ip": "54.230.120.62", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "d1yypvapi0ho9y.cloudfront.net", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "d1yypvapi0ho9y.cloudfront.net", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/android/com.spotify.music.release.json"
+    }, 
+    "2959bc05-2eeb-4b39-986c-fcc8013bc0e5": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2097152-2621439", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "296a0769-06d0-41d2-a8d1-ded389e041f6": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/f0ddb0f4e2921d5844b0d6f900ffe633c03d61ff"
+    }, 
+    "2b3ff52e-4c3d-41c3-83f0-fdd2f851d2f1": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/c3c25e2cacc0dff837e7dd81cdb3c139d3ce93ad"
+    }, 
+    "2f21b79a-51fe-46d4-8d1b-c6b03e58129d": {
+        "ad": 0, 
+        "dst_ip": "138.108.7.20", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "text/plain", 
+            "host": "secure-US.imrworldwide.com", 
+            "user-agent": "%%%7818dfc62d0e89aaf9ce7a1bc8033be7c470fcde8d87ccb8e1ffc3d64dde213e%%%", 
+            "x-device-user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "secure-US.imrworldwide.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/cgi-bin/cfg?cfgv=200&longitude=&latitude=&apid=P285D23BA-D038-4E30-803D-BDB7CA1D5540&apv=8.4.22.857&apn=Spotify&sdkv=aa.4.0.0&bldv=aa.4.0.0.8&nuid=7818dfc62d0e89aaf9ce7a1bc8033be7c470fcde8d87ccb8e1ffc3d64dde213e&osver=ANDROID.6.0.1&devtypid=motorola-Nexus-6&devid=a87d5fb9fff2516e971a9923ba65189d8afd002383ba87dbd9fd4f0de9a7cec6&enc=true&tz=-25200&fmt=json&adf=&uoo=&sfcode=US&ccode=&dma=&rnd=1509468199325"
+    }, 
+    "3017aee8-dd24-43a4-9d56-f8fc28e7862e": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "32543b64-db91-4415-a1e0-647b5cd79a7b": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "content-length": "894", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/event"
+    }, 
+    "32b17ae6-e532-4917-a431-6c54b69a133c": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "3460ef64-66d3-49fd-8865-03d71624e8e5": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/388526c25b5b6621b4494362c79dad5a220eaca0"
+    }, 
+    "35a0eec3-586c-4d7d-b5c8-762057fe04dc": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=524288-1048575", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/94b285cbb294946d533f71b291a8256485cb08e8?1509471910_dA8EwUTrNvQO4fq80Y8iRIPeY7NnBrkb/wi+kV7T7kc="
+    }, 
+    "36424eb2-a151-45c0-987c-c70dc6046d19": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2621440-2793823", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/94b285cbb294946d533f71b291a8256485cb08e8?1509471910_dA8EwUTrNvQO4fq80Y8iRIPeY7NnBrkb/wi+kV7T7kc="
+    }, 
+    "37ca85b2-5e38-4ae8-ae49-69160f34ce06": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "content-length": "1011", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdk_click"
+    }, 
+    "3a761a93-a6b5-4881-a785-b674b96960cb": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "content-length": "1028", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdk_click"
+    }, 
+    "3cced1dd-e745-4e9c-92be-52889aef0456": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "3d03050f-7d8e-4a1e-93aa-c75a7a49b4d7": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/d33495fb9fe0e738daf355bd7c29c46a233e512c"
+    }, 
+    "3e300cb9-c09e-4402-86ee-50807c9c33e6": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/945748b003cbc0ca8f2c551aa957aa795fcff0c8"
+    }, 
+    "41300ed0-985d-47ef-bb4b-599b5feb84db": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=5570560-6094847", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?_ZnHY9DQE9kAIa3V2SqlsXSqB2Kbdk2G8RfXQfnbGKen5a1CzM1fXPP4P6GCvh5tYUXcJVKvlOx0MAViAtlteMOuZMFb1e20oHf_TkiUwXl8Wpm8V9vTKDTKvD6EwCAoYDmE-5w3TunDl4KHsw"
+    }, 
+    "4af68918-100f-41eb-9c0b-c2a1b0783d06": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "5068683c-097b-4963-bedd-efc4c405da8b": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/d394b9d7af383e25931f4b176c0658ba713b9cc5"
+    }, 
+    "53fae920-8c06-4142-b760-f706a74c9408": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2097152-2621439", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "589e5170-f19c-44ea-b573-10eb25f96070": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "593c5947-f51b-48e5-adda-7a7aba3ca28f": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/898db00889165ee261a928ef760a51b92a4789cd"
+    }, 
+    "5a8f6d8b-741a-4b7e-ab4e-bba7948137f2": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=0-524287", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "5a9a546f-327e-4c17-a8a5-bafaef54c45a": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2621440-2688975", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/12accde9d6de7917a61b35cd3f4cc63911e752b4?1WhIWIyAbSvAC--CWWPMsOndzNP-hu65Ei0HlMz7PdnSZKF5gaWqpNmJbU62HCYq_lqMmq5FaZPVAQlwlcDRf-5cXjWnKfbYL3Don6PzR6NraGoSY9s-JwL5ey6ws4BFQRib4m4n73nKjObOkA"
+    }, 
+    "5c5cf008-7dbd-4929-b407-1a14d42d7f6a": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/ba03d917104a5bd0994db92f477770256e7f2db2"
+    }, 
+    "654689e0-504b-428d-aefa-739b031d19be": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "68bf111e-ba80-4ab4-97fb-4f3656650e95": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=6619136-7143423", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?_ZnHY9DQE9kAIa3V2SqlsXSqB2Kbdk2G8RfXQfnbGKen5a1CzM1fXPP4P6GCvh5tYUXcJVKvlOx0MAViAtlteMOuZMFb1e20oHf_TkiUwXl8Wpm8V9vTKDTKvD6EwCAoYDmE-5w3TunDl4KHsw"
+    }, 
+    "6935e0bf-fbe9-4b60-a362-073115585505": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/b3ee21cf3b9a7b574d512ca2f26f6a541241244f"
+    }, 
+    "6cb81487-9374-4ccf-88a7-d8b163360e70": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=4194304-4718591", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "6d21b910-19fc-49eb-adee-b8495f11bb45": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2097152-2621439", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/12accde9d6de7917a61b35cd3f4cc63911e752b4?1WhIWIyAbSvAC--CWWPMsOndzNP-hu65Ei0HlMz7PdnSZKF5gaWqpNmJbU62HCYq_lqMmq5FaZPVAQlwlcDRf-5cXjWnKfbYL3Don6PzR6NraGoSY9s-JwL5ey6ws4BFQRib4m4n73nKjObOkA"
+    }, 
+    "7265d599-bbff-4d83-99f6-6ef21f3c4372": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/b4b807f57834c37234cb2fb4c421310f4423ae30"
+    }, 
+    "74787d25-cce2-4bf7-a486-6a8bcf88e97e": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/c630a22ad5afd78b49e75d97be75b98cfd1c7077"
+    }, 
+    "7537e5d0-a2c0-4811-b604-849308c8bd69": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "77d78870-8853-4f34-abbc-abe73283ff52": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "781a6acf-d46d-4499-9acf-f7f02b9e3441": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "heads-fa.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "heads-fa.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/head/22625e98e5a6ea2a6808acb9ad619bc79bd0e1cf"
+    }, 
+    "788211dc-9fdb-400d-8b0b-8776ed18476a": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "profile-images.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "profile-images.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/images/userprofile/default/3c93d52857ecf3e40c4e8435adb7f9c1da40a0dd"
+    }, 
+    "7c592126-5916-4622-bcba-0fe35abc55e1": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "7c8591f0-4479-438f-b75f-9edd61074f30": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/20ce6aa727263113c5fa9516f23169d999736590"
+    }, 
+    "7e548ea6-7550-4734-9558-f8c7e5976b5c": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "83862dfe-0e16-4c7c-b92b-9fae36886274": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "scannables.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "scannables.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/uri/800/spotify%3Atrack%3A3tXpNJIXVJRVvmS8Ah3GZ4"
+    }, 
+    "838daa8e-5ca0-4189-8573-3dd029022f8d": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "pl.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "pl.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/images/pl/default/858da498078ea7a558eaac5419d70718552efa49"
+    }, 
+    "83dc6155-eafa-4040-8467-0524b35f2b93": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/bed159a813e9dca7bf0e914d10bbee6020328872"
+    }, 
+    "854fe881-0005-452b-84ae-32e1012b24fe": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1572864-2097151", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "8682250b-ca17-48b5-9773-1e5ecce832d9": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "content-length": "909", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/event"
+    }, 
+    "8891fa82-9c80-4acf-b012-3cb3b27b329e": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1572864-2097151", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "898f38ea-462e-410f-9c72-5b11d050b6ec": {
+        "ad": 0, 
+        "dst_ip": "184.31.3.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-akp.spotify.com.edgesuite.net", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1179648-1703935", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-akp.spotify.com.edgesuite.net", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/22625e98e5a6ea2a6808acb9ad619bc79bd0e1cf?__token__=exp=1509471818~hmac=381932ab5dfcf5d142206b330446908ccc450a5a6096400f568ac7fd0573da64"
+    }, 
+    "8a3983e2-a9a9-49a8-99d2-aec643374f7d": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "content-length": "916", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/session"
+    }, 
+    "8ac22712-8ff8-4028-98f0-dcc3c75ae2c4": {
+        "ad": 0, 
+        "dst_ip": "184.31.3.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-akp.spotify.com.edgesuite.net", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=131072-655359", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-akp.spotify.com.edgesuite.net", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/22625e98e5a6ea2a6808acb9ad619bc79bd0e1cf?__token__=exp=1509471818~hmac=381932ab5dfcf5d142206b330446908ccc450a5a6096400f568ac7fd0573da64"
+    }, 
+    "8b7ee655-6a3d-44eb-90b0-a2d29b22ca89": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2097152-2621439", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "8d6dc482-01e1-48e2-bcd6-eb525508c068": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/59b0d81fd95666110a199811ad48f316f6c68889"
+    }, 
+    "8ddc5793-48e4-484f-b4f2-437563dfca8d": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/c649316b5aef6899a73a5b7ab0d6a7ba16ce157e"
+    }, 
+    "8f31a15b-8ac0-48a0-ac83-d0a1e22b71eb": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/dd12d3d2845097bdd261e13f89f22f64c410f352"
+    }, 
+    "8f8c7a32-deb7-4f34-b12c-14d3cdc141c0": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "8fbe5940-274c-4e8e-bcf5-32034387d912": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "concerts-hometile-images.scdn.co", 
+            "if-none-match": "\"b02718a32c2393ccc1a7192138953696\"", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "concerts-hometile-images.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/5HbK4D3WaotNXfdslZDyLL.png"
+    }, 
+    "92bfe169-b0d4-45be-ae58-41da5b4aa47a": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "931a5e69-dd76-4d8b-b1f5-db08ffe74077": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "963c1c9f-7aa3-4490-886c-30485126adec": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/b440f8af2bc95e6d9200aee27db98845ac64109e"
+    }, 
+    "99129881-c4ff-4d1f-af0a-151f73b7bb32": {
+        "ad": 0, 
+        "dst_ip": "54.197.235.222", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "999", 
+            "content-type": "multipart/form-data; boundary=00content0boundary00", 
+            "host": "e.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.11.167", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.11.167", 
+            "x-crashlytics-api-key": "ed79a89851fe4ae8eb60f37284a088b1055997d8", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa"
+        }, 
+        "host": "e.crashlytics.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/spi/v2/events"
+    }, 
+    "9999ad1c-176e-4a50-b775-b44ae123ed29": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/attribution?needs_response_details=1&gps_adid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&app_token=82pznetcdwvp&environment=production&created_at=2017-10-31T09%3A43%3A18.061Z-0700&event_buffering_enabled=0&attribution_deeplink=1&tracking_enabled=1&sent_at=2017-10-31T09%3A43%3A29.627Z-0700"
+    }, 
+    "9b4b2d48-59e1-486f-a4c1-31c53c4d9a3c": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "9b9282b7-c7a7-46fa-82a7-51fb6939ef7d": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/347638220603e11e9a60828fb594a708ce305444"
+    }, 
+    "9e9cd10a-bbdc-42f3-950a-979fea318978": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "9ec96b43-8707-42c0-bc6a-a1fc625a3fa7": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "9f9a7607-e838-4273-b938-13ea17d2c1c4": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/6130aa8a52cfef62d11073c2b04d38c93bc786bc"
+    }, 
+    "a038081c-c906-47ee-a31b-b06ad4c07187": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=7143424-7667711", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?_ZnHY9DQE9kAIa3V2SqlsXSqB2Kbdk2G8RfXQfnbGKen5a1CzM1fXPP4P6GCvh5tYUXcJVKvlOx0MAViAtlteMOuZMFb1e20oHf_TkiUwXl8Wpm8V9vTKDTKvD6EwCAoYDmE-5w3TunDl4KHsw"
+    }, 
+    "a2128298-9ad6-41c2-9af4-4f519e026a50": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=524288-1048575", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "a36eef5b-be0c-4146-b59a-514262659d12": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "a3c697b0-a564-4000-82e1-8dddbe732361": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=524288-1048575", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "a3eeff5e-dae4-4686-ae28-82a5c4836bf2": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=3145728-3670015", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "a407525e-b617-43a8-be0d-d262f7be4657": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "upsell.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "upsell.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/assets/a606f236-d91b-4cf0-b865-fdaf136e0d30"
+    }, 
+    "a41b6d97-b2f7-4710-b16b-c9e4ed18fd7c": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/a2987bd47dd20f97725a1a389bc67c0909ab74ed"
+    }, 
+    "a5111b6f-e66f-4b71-bcd2-3292eebfb06b": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "a5b980d0-eca5-4a9b-aec6-67d08d72c9da": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=5046272-5570559", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?_ZnHY9DQE9kAIa3V2SqlsXSqB2Kbdk2G8RfXQfnbGKen5a1CzM1fXPP4P6GCvh5tYUXcJVKvlOx0MAViAtlteMOuZMFb1e20oHf_TkiUwXl8Wpm8V9vTKDTKvD6EwCAoYDmE-5w3TunDl4KHsw"
+    }, 
+    "a6001227-fbd2-48b2-8d3d-169e1349ce9f": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=0-524287", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "a8a07e7d-77b4-45d5-bfc0-c6d6bbc2be7a": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "a93a43d4-799f-4731-aa75-b587ca30511c": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/9ccf17d0893d57358e32310afffae1ba913d4bb0"
+    }, 
+    "a9eec16f-56a1-4657-9d3f-e9c04a38f3b9": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "apresolve.spotify.com", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/842200857 (6; 2; 7)", 
+            "x-spotify-ap-resolve-pod-override": "0"
+        }, 
+        "host": "apresolve.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/?time=1509468198"
+    }, 
+    "ac1bca1f-9ff1-4bae-bda1-5ec7de17be48": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=6094848-6619135", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?_ZnHY9DQE9kAIa3V2SqlsXSqB2Kbdk2G8RfXQfnbGKen5a1CzM1fXPP4P6GCvh5tYUXcJVKvlOx0MAViAtlteMOuZMFb1e20oHf_TkiUwXl8Wpm8V9vTKDTKvD6EwCAoYDmE-5w3TunDl4KHsw"
+    }, 
+    "ad843d08-c591-46b5-8f25-91bb80956b86": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=8192000-8195239", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?_ZnHY9DQE9kAIa3V2SqlsXSqB2Kbdk2G8RfXQfnbGKen5a1CzM1fXPP4P6GCvh5tYUXcJVKvlOx0MAViAtlteMOuZMFb1e20oHf_TkiUwXl8Wpm8V9vTKDTKvD6EwCAoYDmE-5w3TunDl4KHsw"
+    }, 
+    "ae039830-bd0a-4ce3-bc4f-1888d3fdd39a": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2621440-3145727", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "b037e36c-14c3-4132-a31c-855345af6211": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1048576-1572863", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "b3f4934a-79fa-40ae-9bbb-85fdbc139791": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1572864-2097151", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "b8804084-1b84-4b23-95e9-995d3381fe57": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "b9b52578-795c-4d78-b986-24c32d550872": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.13.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/v2.6/174829003346?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout&format=json&sdk=android"
+    }, 
+    "b9c8abf9-f081-4c9e-be17-16e2c6b3c0f3": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "bab6574a-02ff-46dc-a8db-047d65984501": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "content-length": "1009", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/sdk_click"
+    }, 
+    "c0aa399c-a2af-45e7-9c33-5f27a7b42334": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=3145728-3670015", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "c20852c5-f1ee-442c-923c-84a41abc4588": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "c25d60d8-7f74-4997-b9c3-64337c3ca926": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/v2.2/me?fields=id,email,permissions&access_token=EAAAAKLSe4lIBAL6ZBxFIyIcbMfGJlfqWht9bwpBRD1IqnBsHNEr74LfFgRUeIqNoyhv9nKGqTyi0rwAEAwZB3lZB1AB4mLKxhXCiB16jE1gs7BTZA3PpLpg8EXoQGTuFKoaPvoyoLFlYZAzn0705ITVoF9aIJtHKMs4vaj1HRTEupgrJnfpppbjE7p7bO8U7egnc20mjZBz2j4gRpOGWoghqffnCyHDeAR3uFaa2ZCzpgZDZD"
+    }, 
+    "c2923131-1ab8-4fee-8ec0-c39a11550c47": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/74d0a4c3a149eff458f88fa2efce34e021601980"
+    }, 
+    "c894fdae-7d5b-497c-8f40-daa5203c960e": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "ca0d874a-9564-468d-96a7-d46bb142d18b": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "d0332f23-f400-4790-a1d8-6e5eb6f56bda": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "heads-fa.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "heads-fa.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/head/12accde9d6de7917a61b35cd3f4cc63911e752b4"
+    }, 
+    "d1767cc0-7acd-41cf-9afe-694167e8e6d1": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=4718592-5046271", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "d40fb256-80f4-4413-b77d-7e7e2c7f6890": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "d561d908-880e-40db-a031-2dacd5372d3c": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "d80143b8-e670-41bf-bde3-50a68b66e258": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/6f8030c179642e3cbd1fdf8ed91ca9a72a723125"
+    }, 
+    "d8be703d-479b-42f1-8ef0-303ad9488e24": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1048576-1572863", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "dc1baabf-ad70-4418-8d42-aecea10f7975": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "de231ba1-ac7c-4c3c-a6aa-1519c004a938": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=2097152-2621439", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/94b285cbb294946d533f71b291a8256485cb08e8?1509471910_dA8EwUTrNvQO4fq80Y8iRIPeY7NnBrkb/wi+kV7T7kc="
+    }, 
+    "dfdf7013-1dee-4b1f-96a3-b31eb054a94f": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=4718592-4899987", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "e14453cf-72c0-4196-adce-dab145d1e2e5": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=0-524287", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?1509471828_V6qXRmY3v3AeEUZ+6Q0Cwnqvhmfbc5lOq4ldXJQ88k4="
+    }, 
+    "e15a2fd8-ab7a-4581-9ec3-e121bb7d5e6d": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "content-length": "23", 
+            "content-type": "text/plain; charset=utf-8", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ad-logic/v1/config"
+    }, 
+    "e237aaac-b161-4a63-a03b-6e74ce4e5ceb": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1048576-1572863", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/94b285cbb294946d533f71b291a8256485cb08e8?1509471910_dA8EwUTrNvQO4fq80Y8iRIPeY7NnBrkb/wi+kV7T7kc="
+    }, 
+    "e297f537-0c8f-4d9c-ad3d-0c9e8f8876cd": {
+        "ad": 0, 
+        "dst_ip": "184.31.3.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-akp.spotify.com.edgesuite.net", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=655360-1179647", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-akp.spotify.com.edgesuite.net", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/22625e98e5a6ea2a6808acb9ad619bc79bd0e1cf?__token__=exp=1509471818~hmac=381932ab5dfcf5d142206b330446908ccc450a5a6096400f568ac7fd0573da64"
+    }, 
+    "e43c0988-2879-480a-ae8f-5bae0c8d05c9": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "e45b6eb1-8c01-45d9-95ec-6dc39cd04bf6": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "keep-alive", 
+            "host": "i.scdn.co", 
+            "keep-alive": "300", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/4f890df29d9806957e82ffbc11b91d9d7821cfca"
+    }, 
+    "e5bb3671-591f-4fe3-9b23-d916bf3c3d76": {
+        "ad": 0, 
+        "dst_ip": "23.205.119.24", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Close", 
+            "host": "b.scorecardresearch.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "b.scorecardresearch.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/p2?c1=19&c2=15654041&ns_ap_an=Spotify&ns_ap_pn=android&ns_ap_pv=6.0.1&c12=47bc0e189d4ee88c8c1d4a38379df659-cs31&ns_ak=O0RzZr6p2NPfEJG1CO31fk7e3BOHCASVnVCQUVKHDGV8%2Fvvqy0a9buf1dKngv46Cn2ltPlA5nqZrrInkmbY%2BylxJbJ1UAR1D8%2BZDaBOlhRmvUSgyPMR2BJDS%2Fu%2BDhYAZtxFV3t8DNSlaF%2FLXMm6uv%2FDk9zrHraBr03ovw3iyUB8%3D&name=start&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=shamu&ns_ap_id=1509468198014&ns_ap_csf=1&ns_ap_bi=com.spotify.music&ns_ap_pfm=android&ns_ap_pfv=6.0.1&ns_ap_ver=8.4.22.857&ns_ap_sv=5.3.1.170519&ns_ap_smv=2.14&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1507484884330&ns_ap_jb=0&ns_ap_res=1440x2392&ns_ap_sd=1440x2560&ns_ap_install=1507484884330&ns_ap_lastrun=1509466084933&ns_ap_cs=4&ns_ap_runs=4&ns_ap_usage=0&ns_ap_fg=1&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=2113081&ns_ap_as=1&ns_ap_das=0&ns_ap_it=2113081&ns_ap_us=0&ns_ap_dus=0&ns_ap_ut=60000&ns_ap_lang=en&ns_ap_ar=armv7l&ns_ts=1509468198014&ns_ap_cfg=01011-001-3C-7D0-64-A-1F-1E-0&ns_ap_env=1-1-111&ns_ap_i3=95dc39bb65ea152aa799339ee9434a1b&cs_wn=a0z0"
+    }, 
+    "e79bdaff-6117-463f-940e-f13bf723fb4b": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/97225927bde6f21acf01c18bf91ceffeda36f70e"
+    }, 
+    "e7a1fe42-92c6-4a51-bd57-aa0b7304edd8": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "e959fe4b-4e9b-4ee9-aa3c-5b5dc7bfc7d2": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1572864-2097151", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/94b285cbb294946d533f71b291a8256485cb08e8?1509471910_dA8EwUTrNvQO4fq80Y8iRIPeY7NnBrkb/wi+kV7T7kc="
+    }, 
+    "e9d82739-e710-4263-bf4a-b66d9a346617": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1048576-1572863", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "ec2a0874-77fa-4d36-8612-5d7c69bd3638": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/347638220603e11e9a60828fb594a708ce305444"
+    }, 
+    "ec7e7516-e6b8-4c70-8725-d7c6d94571f0": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=524288-1048575", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/12accde9d6de7917a61b35cd3f4cc63911e752b4?1WhIWIyAbSvAC--CWWPMsOndzNP-hu65Ei0HlMz7PdnSZKF5gaWqpNmJbU62HCYq_lqMmq5FaZPVAQlwlcDRf-5cXjWnKfbYL3Don6PzR6NraGoSY9s-JwL5ey6ws4BFQRib4m4n73nKjObOkA"
+    }, 
+    "efba84c2-523b-421a-afd8-cfae180c1872": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "i.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "i.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/image/7dce9c9612cf8223a374adf51989cefe122eedde"
+    }, 
+    "f1e11fc8-ef8a-4182-98cb-5af008278d54": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1048576-1572863", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/12accde9d6de7917a61b35cd3f4cc63911e752b4?1WhIWIyAbSvAC--CWWPMsOndzNP-hu65Ei0HlMz7PdnSZKF5gaWqpNmJbU62HCYq_lqMmq5FaZPVAQlwlcDRf-5cXjWnKfbYL3Don6PzR6NraGoSY9s-JwL5ey6ws4BFQRib4m4n73nKjObOkA"
+    }, 
+    "f202c9ad-150b-4061-8e61-e749ab5ac0de": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=524288-1048575", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "f2bf5ffe-2981-4d64-b5d8-9dd9473c11fa": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "f2d5d873-1f4f-4626-b5d3-558b145be453": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=7667712-8191999", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/a1ba87093224c57fa26b2cd5f181fe39e21caa63?_ZnHY9DQE9kAIa3V2SqlsXSqB2Kbdk2G8RfXQfnbGKen5a1CzM1fXPP4P6GCvh5tYUXcJVKvlOx0MAViAtlteMOuZMFb1e20oHf_TkiUwXl8Wpm8V9vTKDTKvD6EwCAoYDmE-5w3TunDl4KHsw"
+    }, 
+    "f4a962ba-284a-4cb6-b839-7a77901006cd": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.4", 
+            "connection": "Keep-Alive", 
+            "content-length": "909", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/event"
+    }, 
+    "f59f7b78-d64c-4e81-9ebc-667a55ade135": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=1572864-2097151", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/12accde9d6de7917a61b35cd3f4cc63911e752b4?1WhIWIyAbSvAC--CWWPMsOndzNP-hu65Ei0HlMz7PdnSZKF5gaWqpNmJbU62HCYq_lqMmq5FaZPVAQlwlcDRf-5cXjWnKfbYL3Don6PzR6NraGoSY9s-JwL5ey6ws4BFQRib4m4n73nKjObOkA"
+    }, 
+    "fc3873cc-bb45-4de4-b732-8f2f5f994433": {
+        "ad": 0, 
+        "dst_ip": "193.235.51.113", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-sp-sjc6.spotify.com", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=3670016-4194303", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-sp-sjc6.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/3a12cf3bf295e457b99fd02a03d141a3349985b2?1509472048_ww/yKVoDo38uHFBtTb6tSiANUjRTEsMEaUnBi5V5DSE="
+    }, 
+    "fc40ff60-5b00-491e-ad00-ebaab7c75e97": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=3670016-4194303", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/81953a0b7913ae760293066a9553bfee78f81b4b?4Z3qi1yO8BsJGpI2ICVyW9aBxNhLN1bOdlNl_QOnub_PNJK_Gf5wIx8oOZzSNr0XNb8AOmEF00pzFqNvMhxaxDCiQRWfpQWLojd_2JpwM3GEbQgptrANl00KcgogQEMrdFnsTZPTDjqWWVsbAw"
+    }, 
+    "fc50aa69-6b3c-480e-a8f8-c8be584db356": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "fe1fb93f-3afb-46af-8b4c-2a93e11a7892": {
+        "ad": 0, 
+        "dst_ip": "104.154.127.47", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "authorization": "Bearer BQDDbdB6eXO7Eeq8Sj99l18DX0Q5IQAau8VnE5uZYMCQR0lEEzXuHUuVy2FYSHdHp9WDAxOTKDlYyvgDRXWOtjTutXQ-Zxr0-nvXG4-G4OZr81KCrstIfgYNfvfFSx4abW5rFMEagssxbtKPYP40xxKTywj8Y2UbwV2Mt9yyGg0", 
+            "connection": "Keep-Alive", 
+            "host": "spclient.wg.spotify.com", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)", 
+            "vnd.spotify.ads-payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 6.0.1) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/842200857 (6; 2; 7)\",\"session_id\":\"58da1f6b-edcb-4809-a5a5-9872734731e8\"}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/ads/v2/config?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMSkgQXBwbGVXZWJraXRcLzUzNC4zMCAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb25cLzQuMCBNb2JpbGUgU2FmYXJpXC81MzQuMzAgU3BvdGlmeVwvODQyMjAwODU3ICg2OyAyOyA3KSIsInNlc3Npb25faWQiOiI1OGRhMWY2Yi1lZGNiLTQ4MDktYTVhNS05ODcyNzM0NzMxZTgifQ=="
+    }, 
+    "ff5260e3-39cf-4a06-bed9-1fc30900d0a3": {
+        "ad": 0, 
+        "dst_ip": "151.101.52.246", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en-US", 
+            "connection": "Keep-Alive", 
+            "host": "scannables.scdn.co", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "scannables.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/uri/800/spotify%3Atrack%3A4ln5gGLJie7NiRwR11RMMc"
+    }, 
+    "ffdee40e-54c1-4f11-abe5-459081fbeddd": {
+        "ad": 0, 
+        "dst_ip": "93.184.215.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "", 
+            "connection": "keep-alive", 
+            "host": "audio-ec.scdn.co", 
+            "keep-alive": "900", 
+            "pragma": "akamai-x-cache-on", 
+            "range": "bytes=0-524287", 
+            "user-agent": "Spotify/8.4.22 Android/23 (Nexus 6)"
+        }, 
+        "host": "audio-ec.scdn.co", 
+        "method": "GET", 
+        "package_name": "com.spotify.music", 
+        "package_responsible": "com.spotify.music", 
+        "package_version": "8.4.22.857", 
+        "pii_types": [], 
+        "uri": "/audio/12accde9d6de7917a61b35cd3f4cc63911e752b4?1WhIWIyAbSvAC--CWWPMsOndzNP-hu65Ei0HlMz7PdnSZKF5gaWqpNmJbU62HCYq_lqMmq5FaZPVAQlwlcDRf-5cXjWnKfbYL3Don6PzR6NraGoSY9s-JwL5ey6ws4BFQRib4m4n73nKjObOkA"
+    }
+}

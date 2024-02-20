@@ -1,0 +1,35 @@
+{
+    "1489435421875,55cd3bb6-20db-4f0f-b3be-b739eeb592fa": {
+        "domain": "", 
+        "dst_ip": "107.178.254.148", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "355", 
+            "content-type": "application/json; charset=UTF-8", 
+            "host": "control.kochava.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)", 
+            "{\"kochava_device_id\":\"ka17609cba229e4edb805e6178a21dc2ba\",\"action\":\"error\",\"data\":{\"message\":\"java.security.cert.certpathvalidatorexception": "Trust anchor for certification path not found.\",\"os_version\":\"Android 7.0\",\"device\":\"Nexus 6-google\"},\"kochava_app_id\":\"koaudible----android55d37375a6b0c\",\"sdk_version\":\"Android20160615-NOEMAIL\",\"sdk_protocol\":\"4\"}"
+        }, 
+        "host": "control.kochava.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.audible.application", 
+        "package_version": "2.10.3", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "[{\"kochava_device_id\":\"KA17609cba229e4edb805e6178a21dc2ba\",\"sdk_protocol\":\"4\",\"kochava_app_id\":\"koaudible----android55d37375a6b0c\",\"action\":\"error\",\"sdk_version\":\"Android20160615-NOEMAIL\",\"data\":{\"device\":\"Nexus 6-google\",\"message\":\"java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.\",\"os_version\":\"Android 7.0\"}}]", 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 37904, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489435421875", 
+        "uri": "/track/kvTracker.php", 
+        "user_agent": null
+    }
+}

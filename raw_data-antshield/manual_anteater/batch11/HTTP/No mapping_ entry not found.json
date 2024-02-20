@@ -1,0 +1,53 @@
+{
+    "1489210732087,1e41cf1f-85da-46c4-9189-a80193dd5ea6": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "`\u0017\u00005\u0000/\r\u0014P2\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\bexternal\u0002xx\u0005fbcdn\u0003net\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 24599, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489210732087"
+    }, 
+    "1489210887244,cc8cf346-58c1-4b0e-a42e-859bde7b7103": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "\u0012w\u00005\u0000$1\u0007Ci\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001s\u0004yimg\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 4727, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489210887244"
+    }, 
+    "1489211659280,dbbdeb1d-04f1-471b-92b7-88118227089c": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "\u0016\u0002\u00005\u00004\u0019cL1\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007android\u0007clients\u0006google\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 5634, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489211659280"
+    }
+}

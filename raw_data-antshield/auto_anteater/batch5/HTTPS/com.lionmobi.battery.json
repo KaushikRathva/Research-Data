@@ -1,0 +1,68 @@
+{
+    "1489464544083,27696231-9d6f-4331-b303-cc63f07e4115": {
+        "domain": "", 
+        "dst_ip": "103.235.47.88", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "418", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "api.map.baidu.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "api.map.baidu.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.lionmobi.battery", 
+        "package_version": "1.7.28", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "pcn=com.lionmobi.battery&output=json&mcode=4E%3A22%3AD2%3AF0%3A83%3A52%3A6A%3ABB%3A88%3AA9%3A1B%3A67%3A1B%3A16%3AA3%3A60%3A8A%3AF6%3A5E%3AA7%3Bcom.lionmobi.battery&cuid=C3911AE4D8BB8120E708615D3E257C9B%7C843028060854553&ak=mwZubZgwPOecLEu8uyw8dkGlHXH2Iyao&macaddr=MDI6MDA6MDA6MDA6MDA6MDA%3D%0A&version=1.0.6.42126&url=https%3A%2F%2Fapi.map.baidu.com%2Fsdkcs%2Fverify&language=en&from_service=lbs_locsdk&from=lbs_yunsdk", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 40053, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489464544083", 
+        "uri": "/sdkcs/verify", 
+        "user_agent": null
+    }, 
+    "1489464547793,a311379d-9508-46c3-9ddf-f42532f21a43": {
+        "domain": "", 
+        "dst_ip": "54.76.198.57", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1137", 
+            "content-type": "application/json", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.lionmobi.battery", 
+        "package_version": "1.7.28", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "[{\"device\":\"shamu\",\"installDate\":\"2017-03-13_200521-0700\",\"firstLaunchDate\":\"2017-03-13_210906-0700\",\"sdk\":\"24\",\"carrier\":\"T-Mobile\",\"batteryLevel\":\"13.0\",\"deviceFingerPrintId\":\"00000000-5ddb-cdcf-ffff-ffffc12bc0cc\",\"date1\":\"2017-03-13_200521-0700\",\"af_preinstalled\":\"false\",\"advertiserIdEnabled\":\"true\",\"af_sdks\":\"0000000000\",\"iaecounter\":\"0\",\"appsflyerKey\":\"kjztsfzUTb9MmHtKEpNF5J\",\"lang_code\":\"en\",\"app_version_name\":\"1.7.28\",\"lang\":\"English\",\"timepassedsincelastlaunch\":\"0\",\"advertiserId\":\"RECON_AdvertiserId\",\"isGaidWithGps\":\"true\",\"deviceData\":{\"build_display_id\":\"NBD91Y\",\"arch\":\"\",\"cpu_abi\":\"armeabi-v7a\",\"cpu_abi2\":\"armeabi\"},\"af_v2\":\"1c148bc74dd5264020e73c8b42cf77ba8ad0bd0b\",\"deviceType\":\"user\",\"af_v\":\"2c0aa2ea1a9fc8d38ff1a709017485deacdf1680\",\"app_version_code\":\"110\",\"af_events_api\":\"1\",\"network\":\"WIFI\",\"platformextension\":\"android_native\",\"operator\":\"\",\"country\":\"\",\"brand\":\"google\",\"date2\":\"2017-03-13_200521-0700\",\"af_timestamp\":\"1489464545032\",\"uid\":\"1489460721235-2498607039564718397\",\"isFirstCall\":\"true\",\"fb\":\"390ba5df-76f5-4993-98ba-983dd899feb4\",\"product\":\"shamu\",\"model\":\"Nexus 6\",\"counter\":\"1\"}]", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 37236, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489464547793", 
+        "uri": "/api/v4/androidevent?buildnumber=4.7.1&app_id=com.lionmobi.battery", 
+        "user_agent": null
+    }
+}

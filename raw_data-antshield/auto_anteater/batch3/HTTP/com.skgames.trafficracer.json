@@ -1,0 +1,32 @@
+{
+    "1489438557794,bad52a25-7fd7-40cd-8bc7-753a0be59666": {
+        "domain": "", 
+        "dst_ip": "69.16.175.42", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn-highwinds.unityads.unity3d.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "cdn-highwinds.unityads.unity3d.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.skgames.trafficracer", 
+        "package_version": "2.4", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 48458, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489438557794", 
+        "uri": "/impact/videos/130393/b83ffd8a316864ce/rtb-30s/m31-1000.mp4", 
+        "user_agent": null
+    }
+}

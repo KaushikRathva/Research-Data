@@ -1,0 +1,34 @@
+{
+    "1489438461122,4a27523e-d762-4bf7-bb91-f359297a712e": {
+        "domain": "", 
+        "dst_ip": "169.44.109.76", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "0", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "0036-connect.cloudcell.com", 
+            "user-agent": "5.27.2 (H10115) Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "0036-connect.cloudcell.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.ea.games.simsfreeplay_na", 
+        "package_version": "5.27.2", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 37825, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489438461122", 
+        "uri": "/time", 
+        "user_agent": null
+    }
+}

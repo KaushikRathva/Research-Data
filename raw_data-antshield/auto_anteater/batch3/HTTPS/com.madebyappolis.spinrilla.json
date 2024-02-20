@@ -1,0 +1,46 @@
+{
+    "1489438178334,9f2f4e34-196a-4269-b206-4880e8963de2": {
+        "domain": "", 
+        "dst_ip": "54.225.215.77", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "settings.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.14.143", 
+            "x-crashlytics-advertising-token": "RECON_AdvertiserId", 
+            "x-crashlytics-android-id": "RECON_AndroidId", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.14.143", 
+            "x-crashlytics-api-key": "0ba7f0c290cec88204ecd89a0db70a5c2fa46a15", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa", 
+            "x-crashlytics-device-model": "motorola/Nexus 6", 
+            "x-crashlytics-installation-id": "6fd3ee106eb24d19be14d0f67307d5af", 
+            "x-crashlytics-os-build-version": "3578881", 
+            "x-crashlytics-os-display-version": "7.0"
+        }, 
+        "host": "settings.crashlytics.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.madebyappolis.spinrilla", 
+        "package_version": "2.2.4", 
+        "pii_types": [
+            "AdvertiserId", 
+            "AndroidId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 38095, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489438178334", 
+        "uri": "/spi/v2/platforms/android/apps/com.madebyappolis.spinrilla/settings?icon_hash=df1769b0a3d140d474f728df1effacc8de075527&display_version=2.2.4&source=1&instance=1d3712d82fb9e2ece494202e870edf41e5094279&build_version=66", 
+        "user_agent": null
+    }
+}

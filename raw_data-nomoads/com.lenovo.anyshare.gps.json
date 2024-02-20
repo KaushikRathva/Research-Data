@@ -1,0 +1,2734 @@
+{
+    "017a8659-8a3c-4fee-8125-15b4eb2f7715": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=b108873514584c7cab299300c39a782a&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=107319&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "01d3084e-7b1c-4270-8e5b-55a175044d09": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=2&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACpRYedKle51Ylf9iE900qLAYJHav15j-t_2eDRcBAjI-KZON0eahunIyyoZe4uDE8I4ohej7eyOmTEtPm49RALhkj2D9ZUWf2hxLO64VXAXQs26GY3SZwvsHYmJMWUvU7Bpy3X8Q1wVHcn7Xf8KNi_PIK64dYvx4PsgB4ky_o5xyK31WhRDHcwWqXiXXq8pQp7zLyftwu-Os6ROog3XHyVMXhWvtl7kN58wZoqyZAi9VKzeWy9CL8csC7Ito8gmH64k_LWjIoiazyXxV7w2AgrD9dqAcrKUexjFADPylBkH0h-SUqoYHTgK3ZTEcPLBsJJrJOJcWtbt8AMNLUXuypzwqAAm7buZlQ3wgZp1csxa-H5OOYpswHg7ub1a-LLao4v1i6OJMfQPoOiSGw4dWEg9CRN_X6Y8a6_RoFF85-gPNcVSeR9DZasfGNzFGwtwzfJcmqRjFawOVYZUhnpuvnIfKNCBmkM7RPC1iTuzp6N4I614QUl3mjm6MsFyau0BQAcBHLhh8Jj8oQgYwU8NDeaHdp5C3CyuX7VMDov78xxTiLgmofKOjCfqB_AP3Bd0TR_OptoATGea5I73b-87RKmNCZ7QgEe02ihAEIPWM2zetcdU3UFCpUKP93e8QGxAjWYvR5iP-w8aU7qtTugUvhJMAEkwJDYBgpOKPacVCfopUnmmESEConuHvDEs1Kl34mmFIhqyESlQIKgALFKUd1RlvRKLN3k3N5zNCM-irfBi04_ronezpypq6CdW-awS52EUeZVLPMrt9nb7JOuG1q2F6kko8tEB5NFrTzlN4Q5Zox7BNeP5FJdVjRAUGiblL0l3CQsz_hc2nCKf2wEHNecMCAQ217WNv0eXxYJwcD2AFqd3qHC6RIoBZ2WCviOtf2gdkn7Or9ZhegW8VqGO8gYMW18EZkGI7zZ-DS2Lk-_-01nklNRFTB6HkAA-ZmiqzE0XuJKvDBVshR7k97yUiYT9j3hEdU5LxKrGSVT5nsJAdllQzCPLdInnVxefLt936oQCTMeq8pGmAGGtreg2zMLIYyblwnmu59obhMEhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=10c2d24c-5989-481d-b4bc-0a5a1872eed8&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049252&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520372162&preqs_in_session=1&pclick=0&support_transparent_background=true&pimp=0&preqs=1&time_in_session=574&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=8040143293&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&_mv=80881200.com.android.vending&pscfas=true&heap_free=5331576&heap_max=536870912&heap_total=44006104&wv_count=3&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=tuvkworzdwmvgixsvclqzyhtzrtzkaocvbaqjreqoqcgvnjnqnfmnxakzzgsybewpdccqencqtmmzzwjedaolvomadauokgsrjaufrsfkcpikonvlpohlvighzjwbvmmksooormhkxoxjjxqqxhnqxlixpdrwfaorftwajmhmdmbagyjkyvsybbztggevicordytcftborybrewhxghaajeendikwigbaylvgyaqdktikfxcntlfzxrjdnotymmzvcbsorkqghfhwuybqjxmpmgluxjqmwwwpbidtyyxuggersxytjxinkvwebqhzszlxaplovdjpqowyjjvxeukaykhtbimvcxheogfoqhhfhankeouajxlefkhfkmzgbqycyapcetktvytjsrjcahvnvdjifsujcdhduebpboupirezsdasnpnvhnmedjbcxndtoizdjvqoxgieqxhvmgpcxvjtveryclduunxjgytywlckundztdw&includeDoritos=true&content_infol=-1&blob=ABPQqLE_Lu7N9jSY7D7_Pu3x_tCvW1zj1u9E-zs9wf7dIbTXMVDvuctRZLNbN8dr9jh89D-HnXvh0VgZMDgE1jhVKtB6u6CGZPxjrSHsc_yZhX90o_FA9DF7VI0hRrnEEFp2hLZGZvawALNSJ-a-C3obXoYMcKOSxPo7SiUQrG4_ZLg5bwDAOV9wK8RDaIklulgLIBAKzwHAyKSaISzEK9ESxUECwgyOkLRk8UK-1do993ux8FhUZNXeaulAdw&et=4&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3648"
+    }, 
+    "037094fa-ca99-4bf9-95d2-e4a796fac46a": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "03f6d0dc-c5db-43b6-acc7-c79005ac87d4": {
+        "ad": 0, 
+        "dst_ip": "23.22.65.118", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "dts.ushareit.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "dts.ushareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/?length=5781"
+    }, 
+    "044f0eb0-be5f-46bb-b59b-0f1e2ebfc380": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "06ac55cb-f8eb-4f07-b0c4-c790200df837": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "cd041d897db74c36b7d0bb38d08f897a", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/3kYTt_w234_h374_s1474.webp"
+    }, 
+    "08521b76-f053-4ce7-bee6-8bd92379bf88": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "67887868319b4f6eaaa8225a89c8cfc3", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180123/19A4SE_w1920_h1080_s233274.jpeg"
+    }, 
+    "08af3b8d-11d1-45e2-baf4-40d83d37b0d8": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=9&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACphYacate41clf9iF9E0qKQYJGa725jus_GeDQcNAiI6KZOd1e6hunI6ypZK6uDE8IoohfzzezOyREtfn4NRALhoj2DtaUWP2hRLK6oVXBXEt26WZ3iZwusHYmJIVUvU_BpyzW8U1xVDfn7Ha86Nm_PAK64Nbvx4KsQB4ly7o4xyK31GlRjHYwWmXjXXo8pAo7jLye98u-Oo7RO4k3XHyVMfhWvpn7kN58wZsqiZAj9VLzeWz9CL8csK7Its-gmH_40_LWjEoianyXxF6w2AgrTxdrAcpKUO1jlADOypBlH0h-SEqoYHXhazZSEYNLBsNJLJOIMetbt4DMNbVXuytzwqAAsl5Dmc-TxpUs8Y5KQGmIjHTswrxHMTj3Dnw5t7mO9JHrb7C12VVddsC5v5Z33XSssEMX9wKhmsRG7zwM3OAG8uoZlSHuoFO2HMTg75N6SHbm0TskOY-_alRzCMjFR15BAwULzlvG9v5MZTsXoeg1F48fBTAxFBp_4fc1nUTVyO2mTkFF8b4HuEO5CzWHKN1sN8IS_Oi5AMNMtWEVjEg65F0M5Pe19Op9ltxFmFf01Zarr4QozMfW0DH6PsmhHYVcgwXkF9m3qKtqlDZ1xWfuIBd5oF5pDpNStqh1Ry9-V3SIURJ7hCUfiIApcaBeL3cr4VcF1cLZ-4b95prvvZ-yH4SEEmwOBoi2_tDZ-nu4o5YK40SlQIKgAILxUcLtZOBXGyp8K20WOHORsysnPcg3zgMo2jONg6zvaKksKI3E0VvCNW9_LsDXtIY6h3eG-zGyBpfMI4fKIZdLR4z6TVfjp9mn-ELQqKCiZYyXtrmCxHUMKOhh-yICnmjPiMcoF6ziV3ZSw0zRV--OZMzcsnYJzznDYcWlIg3hoHqCT-8bemje6yeiEJKeDE4fo-m_oHULLugS1yir-D2-qUN17RLvB28GiaPyQky8WQW-W6GMzvthEayvuPvnksLK0o6PKj3aj-a55zrAHaDHfPOvu2v5hj0SNaGisdAFzZZ9RD9KFU8eDMr3iHGGMZcTW_YDqZSjBCPqh55ccgGEhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=d22b588b-41f9-4923-99ed-74ff8c2324ac&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049222&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520375679&preqs_in_session=8&pclick=0&support_transparent_background=true&pimp=0&preqs=8&time_in_session=4091&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=2635468482&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=0&heap_max=536870912&heap_total=44058376&wv_count=3&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=afdgvqdhjyxkbljevtwhafuhkelpggnqcnyetjlybdphotzkfbkfyggjxzhitwjflmlsnsfzhxcyqcmredamvunyywckuirwbmlkcwqfcpzhpapzbyyjuaqmayywadhhudsnbgdoxurpkmphcbqcyzbhyriqlscnrzoinkalvtkehkfvkaplbylpmushiyvouocjdqmzpwrvejyyizfhskjtdqtbxuqkriuhfnvtlwqczfjrdcpnkceadhksnddbubucpawenobrfvyfhtippqnmyvorhnjlkwwcysvoucnfnulvwaggseynqfdryuyjipfmagznfujpoqvrjwewyxsviemfbioihslpndszwabrllmdhhghvsefkjunwlhflyduulgzthhbzujdcchfkfqlsmqfeqtotdnvoivixllwkrnovxkhjnpxzhaqjkscmfhfepwnsuvxzqbedxggkrzpqrpcynedhahesncvnmwaqaeckbvc&includeDoritos=true&content_infol=-1&blob=ABPQqLEtrf_OncXJ6qQhdw0ozEubp2oXYxdyG8qv2NNzn7Q7OrLsCchC2A7heX724hYvd3G-ipi__ZRotvmzKSuXDmzG81wat9xTtLikppsbQaa2sFyU-7ahnjaDoBJHwEF2kra8CrIXrZkhGlx1T1lNiKJpw2Zd39VLrmCxb65Ks2nodwCWNH1y0U6ReBu2vYJlpF4LLgSsHyB7oTNIgHUIMpqawLnj2JjOvRGay12QwJSxKU03-r_IzQhLlA&et=6&swipeable=0&tcar=18&jsv=4-production-sdk_20180212_RC02&urll=3655"
+    }, 
+    "0ad7ff99-5bd0-41f5-84be-29d364b06181": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "93602b897ced415b944fede8a9195ad2", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171123/3YuH1s_w720_h405_s52391.jpg"
+    }, 
+    "0b957d39-2b81-48e1-b1de-b83e746ea831": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "0db08ae6-c2bf-49ec-854e-4c4d6867965f": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00001.ts"
+    }, 
+    "115b2976-9db3-48e1-a13a-f12276f426bd": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "425", 
+            "content-type": "application/json", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "4bf32787b4804902b73ccdba590566c2", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI"
+        ], 
+        "uri": "/statistical/report?trace_id=4bf32787b4804902b73ccdba590566c2"
+    }, 
+    "13cdaa68-6b91-4662-8b71-f4c8a212f71f": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "3d08f792c7eb4556b488f779545eb5e3", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180129/yoWQpKft_w256_h185_s221894.webp"
+    }, 
+    "15efdabe-845c-42be-9e3a-8f52a7ca3d4d": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "bce22a74bb8642998a537ba308e213e9", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/home/card/list?app_version=4040038&api_version=1&identity_id=ae91d1bb3144408e8acca759468f6d34&lang=en&trace_id=bce22a74bb8642998a537ba308e213e9&os_type=android&os_version=23&screen_width=1440&net=WIFI&screen_height=2392"
+    }, 
+    "16721efb-8caa-4cf6-9a40-a1481dc92361": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171122/yniJBY26_w48.0_h48.0_s592.png"
+    }, 
+    "16c86d8d-9abc-4679-81e2-8a8fd044096b": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "16f96e00-d596-4782-b23b-acaa418b573d": {
+        "ad": 1, 
+        "dst_ip": "52.66.118.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.eqmob.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "api.eqmob.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/?publisher_id=1000&dpi=560&timestamp=1518639537980&app_pkg=com.lenovo.anyshare.gps&placement_id=1016&imei=xxxxxxxxxxxxxxx&lang=en&beyla_id=2bb17ec8762547dc906deb3a92371dc1&screen_width=1440&manufacturer=motorola&android_id=xxxxxxxxxxxxxxxx&device_category=phone&app_ver=4040038&mac=4480EBEB253E&app_id=1001&os_type=android&mobile_net_type=WIFI&screen_height=2392&os_ver=23&adn=1&api_version=1&device_id=m.4480EBEB253E&app_ver_name=4.0.38_ww&country=US&tzone=PST&device_model=Nexus+6&release_channel=GOOGLEPLAY&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }, 
+    "1f462e74-da5e-4caa-b14d-1f3613a0abf3": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "d754d667de3a4ae7a2ad6aa911473713", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171214/1wduQE_w256_h120_s93510.webp"
+    }, 
+    "1fac399d-0261-418b-93ed-b89a8b3b3665": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "8e369c03403d46529fe5adf999562969", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171223/FbfQu_w720_h405_s33929.jpg"
+    }, 
+    "2160921f-0c62-49df-97fc-7b0b112ced61": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=369e2b038e45478e99993d02676105ea&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=103933&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "265a84be-b39e-4c62-bb41-dfaddebabb1d": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "3edb8e4b7b484b25ab1ac0835d97bc5c", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/1so6aB_w234_h416_s8650.webp"
+    }, 
+    "28b4dec4-7a55-454d-8c75-32cfde61a7b7": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171229/yrWaaiqq_w48.0_h48.0_s170.png"
+    }, 
+    "29b8d32f-bf02-4822-9238-a63ff5dd1789": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "008a0d6f4c544fd4918facc817b0c355", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171201/X0i4P_w720_h405_s48126.jpg"
+    }, 
+    "2c016102-c27c-494a-8f09-6ef31231bec4": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "e3f400cc81ec494698723ede97446cba", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180122/2cIrLr_w1280_h720_s109770.jpeg"
+    }, 
+    "2d98a395-bb18-4d98-8fa8-c29a3e942319": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "69e70666daa34ee9b80e1e28a3b75105", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/video/channel/item/list?app_version=4040038&api_version=1&identity_id=ae91d1bb3144408e8acca759468f6d34&lang=en&trace_id=69e70666daa34ee9b80e1e28a3b75105&os_type=android&channel_id=sv_education&os_version=23&screen_width=1440&net=WIFI&screen_height=2392"
+    }, 
+    "2e967db0-7a75-4ea2-87c0-6aa3521b6361": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "549d54a8f4b24c46a3b297725fcdf874", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171214/1TrZiS_w192_h256_s85320.webp"
+    }, 
+    "2fb295e6-a15e-4191-a9c1-53bfcb02f4ce": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=b752239d09a34fb5ab988f7950095a5e&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=103738&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "30f2d7d8-ca62-4fec-b04b-1757b34278ac": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "3754432b-075c-4c98-8985-ff2d123dd706": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "faaaf10215c042079319c897e87d0e44", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180129/yoWBbQFU_w256_h138_s112250.webp"
+    }, 
+    "382dc21d-5ea2-4c89-9383-ec76be9f3234": {
+        "ad": 0, 
+        "dst_ip": "204.79.197.200", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=DDE383DFD0BB4650AE06824396B0767A&dmnchg=1; SRCHUSR=DOB=20180214; _SS=SID=21F1EDF5F38F6B3422C0E663F24F6A98; MUIDB=11999CCCF664634C0F56975AF7A46227", 
+            "host": "www.bing.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.bing.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/"
+    }, 
+    "389226ca-2df3-460d-8d45-29900199b000": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "3cd13ece-0a87-40ad-9beb-fa4b566c91e4": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00007.ts"
+    }, 
+    "3e95bda8-63c8-49f4-9a1d-719862517777": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "3ef5545a-826e-46fd-bd18-a352e08d1f66": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=7&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACpRYUdKle7VYlf9KE900iLAYJF6v15jWt_2eJRcBAjI-KZOt0eahmnIyyoZe4uDk8I4orej7eyOmTEtPm49RALhkj0j9ZUWf2hxLG64VXCXQs26mY3SZwvsHYkpMWUvU7Bpy_X8Q1y1Hcn7ff8KNq_PIK6YdYvx4PsgB6ky_o7RyK31ehRDHcwWqXi3Xq8pYp7zL6ftwu8us6ROog3XH6VMXhUPtl7kF58wZqqyZAidVKze2y9CL2csC7Kto8gmP64k_BWjIoiazyXx97w2AgrD9dqAcrKU-xjFADPylBmH0h-ScqoYHbgK3ZTkcPLBsJJrJMJcWtZN8AMNDUXuyjzwqAAtUjubEgCwPHeLy1dkufT6VWVGHuNv0qDzCPk_Y-GicWL9DQpAqh_wSrSnaX30KzhtskRzuxpaW8dbXxN61Xlu81kbPGeZgQDcBr67sqP2wvWQ1_6HbrXbniMLWEui0DOsVO5wsAzD2D1ktF1neb9deXnJkWHEzix3xw4HU_Yy4UqHf0aBikDScXbO8dhfRkGSNakBHxU6oIJgnLh5kq3ll_XxKQd5gkDy3kwQrGZaztGmCDR9rz-7EMKiccL6hVl00e3dOmkc1thWXcyJUNUrZIvWHgtjEz5-DRUq0q45BSr805WiuWm2FrLxW7rOTLE4CeKfEkiV2K8DJsYjjTsGISEOLdnrY0h4A2wTdllwJ41rASlQIKgAK5Wiz7DhI_q_V6RzoV1sgaphKtB1c6dqFHKC7ytp1-vhOxKOdMRqGEMsv07qFYcLZotPcgmCcRneES3tYnaKQ13MlP6fZRaBF0SZwEKSkNHGe-v0vUzv7HoWqUvx2EGPjaImUPWt7WwD9CakT6AJmGa0gwSylXL_qfUKDZjkuKHDOo_lSsvfc0iPoWeSnImgRiY0w7ZIKCoQhlu1OJL9eIyLnQJddBQxgfHQkN4k2PlPwYDeWGo_XcdJ2c1LIuiMk5pKETP6h4zGdWVOZ41mKRX_uZ8mVwVRrGBHrTuBE-N5zWLLO-Z9SbaKvckSJcHIj0ylUPLP8AeEpT5-hBq3AREhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=81882974-66d7-4ab3-b580-5537ad05fc84&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049242&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520372471&preqs_in_session=6&pclick=0&support_transparent_background=true&pimp=0&preqs=6&time_in_session=883&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=3426687858&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3177888&heap_max=536870912&heap_total=44006104&wv_count=8&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=wuxwzatwjhmbdjhbeaacrshqezqesftylkbrvylpnlcxvouhrrzkmwiapunvbzbfspchsmwzdjsszfpyvqtsyuiyvjqnykguqgjqsjygvtvpggflwygyirntckubkkyguedktdfgoxsplukfdwwhnwiqdkehyonxoxxmykxigsitnqjltdgjsfodymkptsoahvqqdecwckohojlntqgpalcbwgfkgisydlfzqofppqomxxzjzoumcdquoftntyhfveofbeaftrqqinvqydvdiccakaghpkcecwpzankljgjpkoyzslfefryqyhalhlzskwnvafyazjvdmuronhnsrvxywgrmcpwoldvambqopqytipqhoblfhticexmgyjnsqllmgpmcczcaaqsngoxfndwsbudnuggrqhhonkcscbbzwuvoohcwppppcykfowhknqfbyxrfsutvsoivomwmsqmglojwxpuydxidylvtvhmkvrlofmmx&includeDoritos=true&content_infol=-1&blob=ABPQqLGoexuXrHayJ-tnRGiJPO50LYJ-yZHP4yH-klsH-8uMQ2TyOoIhw_4YGOt4pMXWLM9N56jCiYxUM6mvrMGHs7v2SN3p3ZCVD3uMYWZT5Mu5MiyYn2dVJ529MRoKzBj0Nq6kd-aVflB1-hHTGjZeTFode834dMRQc2A7OoaOulkacABRKyxqLRN9niMzsmW2xBfHNpcc0E46Erm2qQliyUThyeaBHfM90S72ocIeiYutSRAy9VXIpV3Yyw&et=5&swipeable=0&tcar=5&jsv=4-production-sdk_20180212_RC02&urll=3659"
+    }, 
+    "406fd6b6-154a-420b-8f03-bad26bf73ca5": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "b265d9ba4bdc4bf19f26e12abd7f2058", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171207/ypaJUTMe_w720_h405_s32990.jpg"
+    }, 
+    "40c6874e-2675-4ced-804b-c6848311fa4f": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=1&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACpRY-dKle51Ylf9iE900KLAYJHav15h-t_2ejRcBAjI-KZMN0eahOnIyyoZe4uDE8I4oBej7eyOmTEtPm49RgLhkj2D9ZUWf2hxLO64VXIXQs24GY3SZwvsHYuJMWUvU7BpyXX8Q14VHcn5Xf8KNi_PIK64dYvz4PsgBYky_o5xyK33WhRDH8wWqXiXXq8rQp7zLSftwu-Os6RMog3XHyVMXhevtl7kN58wZIqyZAi9VKzcWy9CLccsC7Ato8gkH64k_rWjIoiazyXzV7w2AArD9dqAcrKUexjFAjPylBsH0h-SUqoYHTgK3ZbEcPLBsJJrJOJcWtTt8AMNLUXuypzwqAAqZDfhx7JQjqOPKZzHMhaEyN2nZgcGx9wReiFRCPU0xfU1ChXkRAmNmkHzux5PQW6Jm5ybm41-J46aptsbXPFmBl81HTIwzw2On-gLRbiwCmB-5CqB_qDvr96XAJbv8GM0oHJf0IL_zvoGGIdWbEChmHCgLMSgJVhCYPCMZ4Pp1N7g3pkRv77ttWrfUSOEMIilChtR2-E3kFYL0x_MdKO7sKRprrqD9URWE-Px5EWdx3mksqDmVaRKGg03bX8DglYD8Tx3OYkyo7ap74vuTZyjuMl1p3vT7rb4v7YVM4wBFyDO5tKmL9Ae9nxwLQYR2hM69MFXXyxwiBMFLheHObeukSEAABakmuvUztxZ39ZGY1GaQSlQIKgAKbADVYLDLGDGCX_K8lrFOU0uqalecwOCEFmhWFIg7avqIbS6K6uNslFfJ0pbYvhJuY0JOfiv6s05JNUMcXXrRcOZ5euzHYXYT3PyRI29BFihNDNsvznoeUIRYkjnyq6Toq0WQeuCA_ytjzsh86EdG1uSfJIclqNybv64RMHX46nYWjx2e5CPLw6iIYkEog42oh2EH9Y-0UdT5EKQ67rh21avHV37EcQQa4hMOF1Rnq-vzn4TwWuSe1ldk99maRnFqOQP8rObjgKCO0tYT_RKrACZEg7_GE0Rn1dITXn1S0XLolZln4iNE3-CcF3DDHKoRBwrmBn2fQl4kHJUZ1aVYOEhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=141f2921-bd7b-4804-b07c-42d0a67a097c&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049254&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520371588&preqs_in_session=0&pclick=0&support_transparent_background=true&pimp=0&preqs=0&time_in_session=0&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=4683929207&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=360189&heap_max=536870912&heap_total=29860949&wv_count=2&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=ejrqczfkbvgfbcyqrauoexbkdpsanuyssjbqvywjgepjgqdqkscgtiyrfgbjrriknhszjyjqbcacfemidbefdzexiqtsmkadhovbklnhuxbphlyppilkvrribckcnrzmbvkycpijkaypandlxzjdutxbmmnborewnuwjwjbzijgdltvrnqdkooeojejmhxkqudvgzxcdqctihzbtgeofsnhqrezqumczzgnvlxrblgbgcqrditsnmspwvwtykvooxamnuwzadkqplreercwwauezwyammmzdqurbfpehzywnntfzpfxtcflyurjddgzbbvycccehgfhywpyqatqzrzqzcqimrigxjsxqmaibbfzqwhlfmypcrxioeaqnkgtdouyahzwqretzqlrbamxyoocmvwwbefzmnkyxqnjqtmrluhvqahnblepdajflohycbzspggaqmekjrxbhciebfmtizjaaxkvcpannvmqwwxfwzvrpuafv&includeDoritos=true&content_infol=-1&blob=ABPQqLEZy7paJrguoiMWpCROo2BVdS9LieCxdJ1FM1N1pXWyeSMDUm-Zrpqvk5FM8NQAY4LfFnxx0d6Nn_ffrri08SgdeRugkoK_Yw8vto3akHUj0ZoxJr5UuofeEHv7SVPte5VzztKFgnphMsAnReogDEG_CMNO8VAbaWfy7znSNQzGuwAMtTV81SpEkE0PlEBCGQOiJ8Oxg5hiStposa8__MP10sFUcZquhlDL1DjMu5MkL8KETuHnwKgkGg&et=5&swipeable=0&tcar=10&jsv=4-production-sdk_20180212_RC02&urll=3649"
+    }, 
+    "42593dab-f110-413a-a73a-e7e4dc164822": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "450c326993344821ad410f98d7062540", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171207/16t-oS_w405_h405_s25336.jpg"
+    }, 
+    "431df42e-b516-4236-8f5e-9d2ecffeb4b4": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171229/yrW7Tga5_w48.0_h48.0_s510.png"
+    }, 
+    "4325eba2-efea-4071-aaed-82dab8aa1c4d": {
+        "ad": 1, 
+        "dst_ip": "52.74.236.57", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "557", 
+            "content-type": "application/json", 
+            "host": "ad.adapter.kaffnet.com", 
+            "token": "32413009-9322-5f4a-3615-0800176785eb", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.adapter.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adserver/v2/ads"
+    }, 
+    "44ff82f6-97a4-4cd2-93e5-1c712ba34fb3": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "8a379f22ca1b4c6c8d11d6fb10def09d", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171207/3s7te2Up_w720_h405_s20974.jpg"
+    }, 
+    "46a03c69-3247-4040-9b5d-a96f193e9ab7": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "ff7b713a6df249b2b2c09b1e55d7186e", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/1Dbfj1_w234_h416_s24680.webp"
+    }, 
+    "476670fc-f1a1-41cd-b9a8-44d3109354ba": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "3356da554ec44d159dd3f77a53a534bf", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171207/ypaDdxdX_w720_h405_s40456.jpg"
+    }, 
+    "48fc4159-033f-43cf-8776-2aba12a6db18": {
+        "ad": 0, 
+        "dst_ip": "172.217.14.68", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "4aa1a0a2-14ae-4bad-af77-7ff8cdf33996": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "55b2ca54d8f240e1ae11cffb37f5cc5b", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171214/1Ma8gW_w256_h144_s142536.webp"
+    }, 
+    "4bcda036-e803-4798-bb84-ee1b203e172d": {
+        "ad": 0, 
+        "dst_ip": "172.217.4.164", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/binary", 
+            "host": "www.google.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "GoogleMobile/1.0"
+        }, 
+        "host": "www.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/loc/m/api"
+    }, 
+    "4cbd91fd-c5c1-436a-9360-16a1b8db04fd": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00004.ts"
+    }, 
+    "4f559927-7bb9-4f7a-8179-90858e3d6ab4": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180111/ytAcnMq8_w48.0_h48.0_s387.png"
+    }, 
+    "5112dd22-ee4b-49cd-a730-11a429a98073": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "654d4814b0a949b8b6cdc7abcf01c7b3", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/picture/card/list?app_version=4040038&api_version=1&identity_id=ae91d1bb3144408e8acca759468f6d34&lang=en&trace_id=654d4814b0a949b8b6cdc7abcf01c7b3&os_type=android&os_version=23&screen_width=1440&net=WIFI&screen_height=2392"
+    }, 
+    "51b8fdcd-4480-4246-a3b1-f634ebc9314f": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "527f09ac-2a6e-4b49-98c1-31452cb1cd8a": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "441", 
+            "content-type": "application/json", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "b7a1c00e5d674cdaa147ec43fbc94ecb", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI"
+        ], 
+        "uri": "/statistical/report?trace_id=b7a1c00e5d674cdaa147ec43fbc94ecb"
+    }, 
+    "528f048e-4e91-429d-abaa-e34b78ce63a1": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "52c7e831-e3bf-464f-aa90-85cce1d0417b": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "48cdc7ca9bb94c0887416fe6a03784db", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171221/KHOeP_w720_h405_s46742.jpg"
+    }, 
+    "5467eff1-19eb-4e41-803d-b06a73d4873b": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "e58367ff98a1418684aa4b263470974b", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/gmhG6_w234_h351_s20344.webp"
+    }, 
+    "54f36b98-6c76-4a9b-b12b-f33e5cf34dfc": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "5a5317cc-c74b-42aa-b062-089e4b1e1ac0": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=b108873514584c7cab299300c39a782a&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=107319&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "5b0079fa-5bf4-4471-bd7b-bb6c9e0ca754": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "674b2774025e45bfbede26bd9a05a588", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/video/channel/item/list?app_version=4040038&api_version=1&identity_id=ae91d1bb3144408e8acca759468f6d34&last_item_id=vNory&lang=en&trace_id=674b2774025e45bfbede26bd9a05a588&os_type=android&channel_id=sv_education&os_version=23&screen_width=1440&net=WIFI&screen_height=2392"
+    }, 
+    "5ef3d526-ffe1-48e4-bb03-1c37e33b5f56": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=b3f6dae8e09742e181a1134e04e6cbaf&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=133790&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "60bd8b8e-f4f9-424e-94ba-9b264a9ac834": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=b108873514584c7cab299300c39a782a&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=104048&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "62370737-0d76-4960-b5fb-95c1bd7863e9": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "304", 
+            "content-type": "application/json", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "57e25088d11748a4b1ea51bf0d274735", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/endpoint/upload?trace_id=57e25088d11748a4b1ea51bf0d274735"
+    }, 
+    "63587b85-2040-4b18-86d5-9cc451aa595c": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "64ed2810-2ff4-47a8-8a83-b2d25eb7af4e": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "ad84091215ac41dc9dc75d778438c21a", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/30GZ5X_w234_h416_s9374.webp"
+    }, 
+    "69bd1b90-6241-4c23-94f3-80d366b49220": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171121/yn8WmdV5_w48.0_h48.0_s400.png"
+    }, 
+    "69d4cf0c-6954-4e43-ba74-b19dea9b1e72": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171222/yr3XChN2_w48.0_h48.0_s542.png"
+    }, 
+    "6ea10dc9-20a3-4f2b-b55c-576075deba7f": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "7315f5a0-7c7a-455f-b312-764afa98b206": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "d7e893d4aac7458bb9f63d3cd5cad6aa", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180209/3oV6xE_w720_h405_s28870.jpeg"
+    }, 
+    "758f20fe-853d-4a5a-8e11-cbc131533ff0": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171121/yn8VPj_P_w48.0_h48.0_s315.png"
+    }, 
+    "7637b93e-5108-496e-887c-5de5cc0e8f63": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00006.ts"
+    }, 
+    "766ad361-14d4-4a6c-976f-87bd38a7b7db": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7d09ed7858da4aee9fcf6f40bba9aad9", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/.m3u8"
+    }, 
+    "77225f2a-8b14-4300-935a-9873fb5bcdfc": {
+        "ad": 1, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "764", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.lenovo.anyshare.gps;FBAV/4.0.38_ww;FBBV/4040038;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "7901c230-b539-4dd0-beb4-30b617136211": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00008.ts"
+    }, 
+    "79874fd9-0502-4718-b966-eb3867575e2a": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=4&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACpRY8dKle5VYlf9qE900KLAYJH6v15h2t_2ehRcBAjI-KZMN0eahOnIyyoZe4uDE8I4oDej7eyOmTEtPm49RgLhkj2j9ZUWf2hxLO64VXIXQs24GY3SZwvsHYupMWUvU7BpyXX8Q141Hcn5ff8KNi_PIK6YdYvz4PsgBaky_o5RyK33ehRDH8wWqXi3Xq8rYp7zLSftwu-us6RMog3XHyVMXhePtl7kF58wZKqyZAidVKzcWy9CLecsC7Ato8gkP64k_pWjIoiazyXzd7w2AArD9dqAcrKUexjFAjPylBsH0h-ScqoYHTgK3ZbkcPLBsJJrJMJcWtTN8AMNDUXuyrzwqAAjTWkF8tEV4P_uzYdJjzagGg95VezLAN9NNIAOwYx34-2RcD2M4YBI_hHEmnoQixWBd9G41x2GmCm0W3FXSxvLEGoUyY7r29ILvk2e432aHPp3WrtcXxdRsfj6gK3zKuI9VgjHnKdEc50wukbc-9FKLIuI8JanTyPTnFJznzWTOMBI78snKlpGeBFGd0maVC1OerXp2hY_ESUMncjRYNrPhZIuMvAxcMmevJz-FsuVVW-aAWXWMWQ6HTcP7fuwNdM7SsZKNVa5u6I1TQnGLuwoZy8Ed1xVit43S1TgvB3macJ9Z3X6eTmDuEEC9ANtZwfSA8XXMR2M4s4MlXHPW1cT4SECKjAq_zKWAYIksKxqB9UZUSlQIKgAK2vB8-CHqFLPlThmk1vKme586yVdZ846GoSi4nvkrLPJaPyGIH9GuHEXK1rQ7nfrMt7Gl3Epq0mY7dSAeKMrS0PKoNvb2kjAJ3O8VGbnjUCK5XDg96gjWQiX61LnHSCPwbBQ8ckWTVQNx_eZEfiQkXrDN7z0kuDyjS_80KjFZzG5ATR8egAIEy4p7APOvEasAFGMM7Z-GcsQ6UYYSn8tTbao1_s73E4giVJAiLRU14ENl367KCBS_ZMGWEEvpFllo26EzHFGi7jqfUzeT3CHjCnRnIZ2XUmBltTNYTszBENhNt1zVd8DmdRU8FVqTXMs5VhmHJh1cCeYHn5qpkJdwGEhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=98d4eaf6-4d6b-4a07-a99c-20d41bf032e9&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049248&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520372328&preqs_in_session=3&pclick=0&support_transparent_background=true&pimp=0&preqs=3&time_in_session=740&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=8960496817&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4014240&heap_max=536870912&heap_total=44006104&wv_count=5&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=cqhfyitsyvrzivgkrcszlvgibxvoszehmkiapzcrsmvjyvdbhhoslszxahonttjlwjfsjyhyhpqlicihfxghcoypigsklfpdgesdlceucoazogkyptfoevpfbisgzetudbwplkrdrslswtbdjillftaasahvvcjvisxwkziezuwpeicqbtbytbrrshofwgoyncaciioihcysienoetqduqzksnygqucflspsfjcqrhbaxhhqnqiqywcaxncmkysfazkiyruliutydijhiccmmijdmaudialnbdvmiihxqrqvoxufhvbcemgiaozappdjfvrjaxlodstihscvjbtrmgbkbvgpgrswvxtppyxcyfzeymbikjjgbdyistbymcexwzummaxwsipblrfdkmpnrplnszgvddcvgnvkakklvsrfbvecklcwszwamnvmnuowtfcanfteecumvntmdvnutsixdkzrabdqrtvtzzqcrmncucscbkkn&includeDoritos=true&content_infol=-1&blob=ABPQqLGb11J5H4sxcW01LqXvbLYl7tQqXAUIte3cHAjF03NGq_yOsQVdKsATFhIZEUC0N4u3ea0I2-L-4fZhbcFydP80QCcevMtajvZ7jNrLdyUmQL2vHXL6Eo-pSFWYY9UohR81ADH-CKYEhketWcadZvI1GIMQVGSZN4h58ky2ozurwgAQ8vT3chYl9s2EENbZTsIgSP8tnTFKXsTLJ5c2uuD2PEddRBnz_pK66d9ugwR4XyWPS9ZGacN4Tw&et=5&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3659"
+    }, 
+    "7d4ee433-4aa6-4deb-9249-5ad478910740": {
+        "ad": 0, 
+        "dst_ip": "23.22.65.118", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "dts.ushareit.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "dts.ushareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/?length=4757"
+    }, 
+    "7ef065e9-43fe-4d4f-abd1-c2ff151ec015": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "eeb9c704a96749d88635131af19eb0a0", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180112/ftVsS_w1280_h720_s55043.jpeg"
+    }, 
+    "7fbe4c26-b3c0-4c9f-96bb-fbe6653ea033": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "80ac01b0-dfb1-4289-a684-3dad13c2bab7": {
+        "ad": 0, 
+        "dst_ip": "204.79.197.200", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=DDE383DFD0BB4650AE06824396B0767A&dmnchg=1; SRCHUSR=DOB=20180214; _SS=SID=21F1EDF5F38F6B3422C0E663F24F6A98; MUIDB=11999CCCF664634C0F56975AF7A46227", 
+            "host": "www.bing.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.bing.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/"
+    }, 
+    "80e75393-a103-4914-9f6c-ade5f2dd4ca2": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.oshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "620c8b13d1624b0cb8de2c5462e20115", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.oshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180122/Zyfek_w1280_h720_s72192.jpeg"
+    }, 
+    "862021cc-a810-418c-afca-d04e512ea867": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "425", 
+            "content-type": "application/json", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "671cfa71aa3741c78f6c051d97e6dcb7", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI"
+        ], 
+        "uri": "/statistical/report?trace_id=671cfa71aa3741c78f6c051d97e6dcb7"
+    }, 
+    "86214eb2-2e70-4a41-b995-99aaaff931ab": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00000.ts"
+    }, 
+    "8910959d-2b89-4b70-8685-a766a6f3cf3c": {
+        "ad": 0, 
+        "dst_ip": "106.11.250.205", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2068", 
+            "content-type": "envelope/json", 
+            "host": "alog.umeng.com", 
+            "msg-type": "envelope/json", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)", 
+            "x-umeng-sdk": "Android/6.1.2 SHAREit%2F4.0.38_ww+Nexus+6%2F6.0.1+80FCE4C5D6085C64A1B582469FD7A7E0", 
+            "x-umeng-utc": "1518639535336"
+        }, 
+        "host": "alog.umeng.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/app_logs"
+    }, 
+    "8a30cf40-d675-47ff-a22b-26f7bafd7bea": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "0c0967cef73e4d6bba54870b36fc7f35", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180129/yoPKuPfa_w256_h146_s22194.webp"
+    }, 
+    "8b566799-26df-42b5-b268-b27b0ffe61ad": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "7b21bb7e0a024c6c8934dc859076233f", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171113/3bmAZD_w480_h270_s20196.jpg"
+    }, 
+    "8d514b9c-6a59-405a-859b-d1de3b3388f2": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "442", 
+            "content-type": "application/json", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "25d0f4ea01f444a788458f7d7856b60e", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI"
+        ], 
+        "uri": "/statistical/report?trace_id=25d0f4ea01f444a788458f7d7856b60e"
+    }, 
+    "91e6bd1d-74f9-425e-9790-7a215be7a9e7": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=369e2b038e45478e99993d02676105ea&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=103933&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "95aeab03-5683-4021-8492-4633b58c493f": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "e6c8faef52994fb195ab7f108bc31e58", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/1i6Xvc_w222_h416_s14146.webp"
+    }, 
+    "95f61c53-d1e2-4542-acd3-f08e7f2cd338": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "2eeb24e6a65f483a9603f9439bea7067", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180122/1UdQDe_w1280_h720_s146916.jpeg"
+    }, 
+    "968c82bc-bda7-4e82-a82a-b54b07c8dc8c": {
+        "ad": 0, 
+        "dst_ip": "23.22.65.118", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "dts.ushareit.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "dts.ushareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/?length=4357"
+    }, 
+    "9aefcfe3-8a12-4ae3-ae30-334a1e233220": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=60762baacf384092aec3ca74f8435b5f&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=103829&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "9afcf7ba-9629-41ff-bee3-72ab4db74990": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00002.ts"
+    }, 
+    "9c417307-57da-4fbe-834e-b7cd2ee81158": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "a28b8767-573e-4930-a9e5-0cb43effce45": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "a322150e-eaea-462d-b108-369ad5003595": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "70a3979126874bbfb3c3bed4d9fb7cfb", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180202/xfG8N_w1000_h1000_s96042.jpeg"
+    }, 
+    "a46e46d8-230f-4471-8bbe-327df253bc83": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.14.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.7/1389177071407768/activities?access_token=EAATvcv3fEpgBAB0JmEkCjOwja7GFdHGUA6stpE2NyBPQp70K3xOdAXXywSivDKlZBeVNfUAl7ZAQ88zGynItvRhzTIHUZB2678XJnpGLNnYzGslMHzo2dZAcFBCrZA7lKyxmCqIG7FUErlhvFdGaCZC17O0PI9qeEGF0WdZBwC4I1dP6dNvrNchST9kmqLZAoBq2blYmG92I998onPTXSfkFHUAEGbS1EF4ZD&format=json&sdk=android"
+    }, 
+    "a52bb848-6961-4ae7-b7f6-f254aff46be3": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "5f1745815b2d41c8927675907adfe21f", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171207/3h5AXH_w405_h405_s15984.jpg"
+    }, 
+    "aac6a579-8551-48f0-8d45-9fe8b56c148c": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00005.ts"
+    }, 
+    "b2941a0d-297c-453f-b8a5-eb3aa7f05fa8": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "9a1ef94770ba45f398b7c6c1185dbd6d", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171207/1lrhjJ_w405_h405_s20051.jpg"
+    }, 
+    "b3bc32fd-0e4b-44a4-ae56-9e69def3f0d6": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171121/yn8WbDLb_w48.0_h48.0_s573.png"
+    }, 
+    "b7ec60af-2917-4a75-8b4a-ca7e7bbbf7cd": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "6fdf418aed7e40a4b56f89058eb3435d", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171228/trlkw_w720_h405_s35953.jpg"
+    }, 
+    "b8253a80-2ba3-4745-b98b-c888517efece": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "6a6426e99a7f47f49e4cf589f5b5bdce", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180131/1hJFgm_w1000_h1000_s449885.jpeg"
+    }, 
+    "bc983145-ba25-46ee-800d-32c3787714a6": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "bdf29999-46b8-41d7-903f-b8c4e27191de": {
+        "ad": 1, 
+        "dst_ip": "52.66.118.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.eqmob.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "api.eqmob.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/?publisher_id=1000&dpi=560&timestamp=1518639538756&app_pkg=com.lenovo.anyshare.gps&placement_id=1013&imei=xxxxxxxxxxxxxxx&lang=en&beyla_id=2bb17ec8762547dc906deb3a92371dc1&screen_width=1440&manufacturer=motorola&android_id=xxxxxxxxxxxxxxxx&device_category=phone&app_ver=4040038&mac=4480EBEB253E&app_id=1001&os_type=android&mobile_net_type=WIFI&screen_height=2392&os_ver=23&adn=1&api_version=1&device_id=m.4480EBEB253E&app_ver_name=4.0.38_ww&country=US&tzone=PST&device_model=Nexus+6&release_channel=GOOGLEPLAY&gaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }, 
+    "be98ce74-ab0f-4044-b032-eef04369e9ac": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "407", 
+            "content-type": "application/json", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "f38f22e0b8724ced802fdc060cbc7859", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI"
+        ], 
+        "uri": "/statistical/report?trace_id=f38f22e0b8724ced802fdc060cbc7859"
+    }, 
+    "c147df83-d6e6-4ef3-b27b-c9b53b8e9491": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_home_tab", 
+            "trace_id": "8e25a79b49ed45bfa97676dc1bf82b39", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171207/ypaTF5LO_w720_h405_s23703.jpg"
+    }, 
+    "c480131e-d043-450d-aa97-34144a954df1": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "91b75cf1fffe47bdb20601984b1284dc", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/214S1W_w234_h416_s6532.webp"
+    }, 
+    "c7d1ef90-e4e2-4916-9cab-d1c747970a83": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "424", 
+            "content-type": "application/json", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "ae081b2b01474aaa990d8eb6cfdb4e4a", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI"
+        ], 
+        "uri": "/statistical/report?trace_id=ae081b2b01474aaa990d8eb6cfdb4e4a"
+    }, 
+    "c7d4e84b-6220-456b-862b-8c779c92badd": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "exoplayer", 
+            "trace_id": "7512af024e21448590efc65c5b5bd37c", 
+            "user-agent": "SHAREit/4.0.38_ww (Linux;Android 6.0.1) ExoPlayerLib/2.6.1"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/240_h_v/v134Vj/00003.ts"
+    }, 
+    "c8b132dc-2b78-489a-917e-ba7315cb2389": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171121/yn8WyfaQ_w48.0_h48.0_s575.png"
+    }, 
+    "c8e32ab4-559b-4a40-bd0f-67581c394573": {
+        "ad": 0, 
+        "dst_ip": "13.228.37.134", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "643", 
+            "content-type": "application/json", 
+            "host": "gcm.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "gcm.ushareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID"
+        ], 
+        "uri": "/token/upload"
+    }, 
+    "cb8dd805-a594-474a-be31-27b88a1e3af9": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "ced02ebe-eeb8-4a76-8745-ea3dd5bbb322": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=6&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACpRYcdKle5VYlf9qE900qLAYJH6v15j2t_2eBRcBAjI-KZON0eahunIyyoZe4uDE8I4ojej7eyOmTEtPm49RALhkj2j9ZUWf2hxLO64VXAXQs26GY3SZwvsHYmpMWUvU7Bpy3X8Q1w1Hcn7ff8KNi_PIK6YdYvx4PsgB6ky_o5RyK31ehRDHcwWqXi3Xq8pYp7zLyftwu-us6ROog3XHyVMXhWPtl7kF58wZqqyZAidVKzeWy9CL-csC7Ito8gmP64k_JWjIoiazyXxd7w2AgrD9dqAcrKUexjFADPylBkH0h-ScqoYHTgK3ZTkcPLBsJJrJMJcWtbN8AMNDUXuyrzwqAApzsHESDiXVw5_LC90-t6T9NjyLRqzOqIR9UAlRry7ZADI7ISEIrmwtof5_6V2JRygoUGPq_spyWNgXtffdA4ZGIS8iB0EZmc8WbSl8eoGITct9FnWSMFFLiPSZ2sCnFbeFurljbfPCTlVqfUJykJfyHFw_HhtzClJ1xEwGB7IYsS5scejAliPW0BBpUuIsP8wVdyglBwPtn5jAWwdFp1EWTsflgPM-aaNH3B5R500VYRvnrGXcocNdlSwLZ1NISsjODNzrS9RrSaC8q4DSprnB82tp7Xp5I4uR4Ea6nkgu0qB18iPTexf1JE5x-CuhuMPvsDWbNJoxwRUo4RIsJDLgSEEn0nwzjP26MdNomB_NUQPkSlQIKgALLuRY_LDEF7B4dZ6lftMFW_tCfHI06T6gHCy_uLh5nteCSAaLWoYNPO2ncbNC_WnrC8M3-sMYRUOrX5QYHbLX1X6xF9RfzSIP3LaQH2WoVAU1Yjk6Xj_TQey20J0aCKfUyQGYUsDr1AYZhWRFQgaiWqy0yxqNyBqDP8aCCRUySEuEK7g-1Gcy7yJgtvFqKigEDQm46L-ewuGjGqMzTrdTSUtvae6-Ha4HuPCADiQuUUcZ8L3JOAc_ZzXikGkoLm9O644gOJyhSTiWWZSSDVlGLLRuproWXdRDlRFKau3Ukv9w1F7ymovWU-g_N3kDeHs53y03A5VwjuNG176I7aXkOEhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=e93bfa88-f07f-45b7-98db-ca59689b4b8d&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049244&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520372436&preqs_in_session=5&pclick=0&support_transparent_background=true&pimp=0&preqs=5&time_in_session=848&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=3751203404&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3580256&heap_max=536870912&heap_total=44006104&wv_count=7&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=fgwxmbyqggtozcomvanbuiolfhzbytppxiekegjkagyiciiawkrxerwprosjvhdezxbafilqscyjnxmpefupuktdttcsaxwnctfxhczgeznbxcklrgklcovpcudnjouiiuzjnfuzdevehurdtmkoobrvceigvgpmpxxchwtqjnbbinlxooxqwnpsyuesagmasnzboobgmswcxmijbnwkcvyvoyzdqkskwtzdoknbgusellgsepqwoeczxylnuokhazmlsoexdqmrrjpwjhmnvzxkaqmzggseeajegvxoallsjhiugrtkbcriwchxegxhxzptzpxgqqetxcunrkicaaqkfcfptbjktjthvklgmmffzkrejeghgumyhaufmidujtfntniiddtaxyumjkmvbygwvmmtdrhquixhzrppvfjkapxeuucmogulofkrslnahfvwbeiqdnyysypfrwqtdlhpclczhqtzxvewpddgcyupmumibgcd&includeDoritos=true&content_infol=-1&blob=ABPQqLFBxALaoD4EISq_zJNOwZjVh2yAaJae08oC8ydSqRYE7hPrbQ-9JycqBlH5HdihTPePU29_TPy5nxvf4r_smeCncKh_lj-7FomZkPNazEDLuZQIKhjk_PohNj8EfqbPAZPlr_8i7ak7xyl_87BRCfAe9rZltD52EJA7QqtDym1QsQDDyMj98cRz-lAcfQqsHfMXNkW3Wan7JPyTFkKfmbFafi4JiI-XW13x-icyGtXlGpCXNmR0_baGEQ&et=5&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3659"
+    }, 
+    "da42a1a4-341e-4973-8c0a-eb56f4f28a9f": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "5eb7121a25474abba14d4ac07ac3d621", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171201/eju5i_w720_h405_s33311.jpg"
+    }, 
+    "da7b2f79-ead9-4266-80a2-3c067593556c": {
+        "ad": 0, 
+        "dst_ip": "13.250.74.92", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.wshareit.com", 
+            "portal": "api", 
+            "trace_id": "9be9afc7a1be4e1c9dba0c00c9f7d037", 
+            "user-agent": "okhttp/3.9.1"
+        }, 
+        "host": "api.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/video/card/list?app_version=4040038&api_version=1&identity_id=ae91d1bb3144408e8acca759468f6d34&lang=en&trace_id=9be9afc7a1be4e1c9dba0c00c9f7d037&os_type=android&os_version=23&screen_width=1440&net=WIFI&screen_height=2392"
+    }, 
+    "db693f50-71e6-4619-a5cf-2f3838db0f68": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11020000.1)", 
+            "x-requested-with": "com.lenovo.anyshare.gps"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "dc5c147d-c115-4327-9256-0d8aa1238d43": {
+        "ad": 0, 
+        "dst_ip": "204.79.197.200", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "www.bing.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.bing.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/"
+    }, 
+    "ddeaed2b-7af9-401d-8b40-ea952a104832": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=8&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACphYfcate51clf9iF9E0rKQYJHa725j-s_GeDQcNAjY6KZOJ1e6hvnI6yoZK6uDA8IoogfzzeyOyREtPn4NRBLhoj2DtaUWf2hRLP6oVXAXEt26GZ3iZwusHYmJIVUvQ_Bpy2W8U1wVDfn7Ta86Ni_PAK64Nbvx4KsQB4ly7o5xyK31WlRjHcwWmXiHXo8pUo7jLye98u-Oo7ROsk3XHyVMfhWvpn7kJ58wZoqiZAitVLzeWz9CL8csK7I9s-gmH_40_LWjEoianyXxV6w2AgrTxdqQcpKUe1jlACOypBkX0h-SUqoYHThazZTUYNLBoNJLJPIMetb94DMNPVXuypzwqAAvrGrfHpiTyMltUT0XG2YF9YoC5tKKDmShUoR9EbQQh4rvrNtpWLWtP0oxoTRVZ9pVUCOPxocrh-jzDVXWFp4sLDCaKGilIfFPDpzY4gVXCBFe_ShqQTv_zTrQmCqO-Hfs9f3t_-cUKJ8zkHjiac0ege6IK3MmNQo7jAKvbnWVV0PScnKfrZEtKd9Rsytr1rbwTBuqpbtSSaGXM9qhScnoFitT-9lo8qT3q968lkTuUpmfeoeDvHD0MoRf3XMctKLqcshRZoJ-ZnVTWeHd_DVzW9M7spdoBknXGt09E2-F02_yLCv-afC6crwnNLdQh4rKufgupARkTcpd_0rOZtx_gSEBCXd931wNkNndCKY9FdBJASlQIKgAIlHC8ikmGFCaFIJAD_sAi6b3aUVJw-98inQY0TNo7PVA6I2W-WZ0meRfet_F042te_0s0LGHe6xRwdTU_ZCzaEIdIesb9Bm3Nra_xeplPHNTKBL3Nixx2EFh2tJ6-vuqnGTi89h6HucNsxe_0WXxoP9mZTykNgJhnCNUs7UGdiHsjmTPey0rRHPalHcSK88LUZUUdD8rqZgZZQYrlmbU3ye_5Irv4PWGhdX4qHzR72VUAhde4C5a7cb98uFqlOChuty_KqXL0yxzV1Z81vh-viX8t7UmFaF0k0fcpbbkr8Htav5FkZTB24mPUXauUGLdvf0HbMybASaVoNZou4t0hbEhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=98b0fc55-db03-40bd-b4ac-c13935f58b40&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049224&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520375547&preqs_in_session=7&pclick=0&support_transparent_background=true&pimp=0&preqs=7&time_in_session=3959&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=3426687858&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=2630520&heap_max=536870912&heap_total=44006104&wv_count=2&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=yjegrbpcvyfyjkbtzpvnudcbkoyofjccyaadkzdwhfmewmllcifxqkkluohcgjufrlfbdzodvjfpyueoayywvpviircziwcwwgdsesyobrzmtrhbvtaeoxzosicsfwqprtfybmmcyfjulpymtwbxjdefzxbvlkdweemarmwlfydvpqkpdtkpzuyokqfeuqhxpskrlcuccrlqbgvnltbtkuoqxsjdcsptbbkdeabytarurimfwdzojcocrszsmpdihrqvrrlemwhwkqzfclxkatmctynipbrzmogxekkarzaxkbjdfssfokzeeosjdwmtrenzrmwnhbnjrcryxijstpctjbtuketqegvetpiccugaqigxzbjtbzhfacihdymdswqzvtnatsqmuuwmnngpivnghmzlcgtuewtuhjyagvhuajonfbztfijmzvoatbadjujawsghjsgzhibbhufckgoptmfvcuticanfjlpghaaglxshqjyv&includeDoritos=true&content_infol=-1&blob=ABPQqLENUFzlcVHxl35pSxgf55EM8y8Ic6W_y5_ru72-CxZuMKW5pClmYs5PFJ04NohZuYmrYhAHjzHOf6EuMKOa9-SCX0sMIcE99i9jlAjF7vCeBHV1nE_c-FQ_Ri1STXosCQetld1bo8_ubtDtfTAc5ZwVom73mOUFSCrIV0PmH87-YABfR5xiVB8_X000LZAljOuqrcqlaLXBvHcii0eotTA50KyTodtLxKZoAzvKHtwlPDzUjNgrfKNCgw&et=7&swipeable=0&tcar=15&jsv=4-production-sdk_20180212_RC02&urll=3661"
+    }, 
+    "ddfb269a-7366-4ed8-9cbd-a2935c7ef711": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171122/3rXuc4w2_w48.0_h48.0_s552.png"
+    }, 
+    "df705fb6-6c1e-404b-84d8-27d820a07ec5": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "10f972b9cf7347d09d4a10d2b6742250", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180201/1g1VT0_w1280_h720_s700886.jpeg"
+    }, 
+    "e01d212b-42ad-409f-b3d3-2eea5ed2f68e": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.247", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.ushareit.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.ushareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171229/yrWbtfw9_w48.0_h48.0_s692.png"
+    }, 
+    "e220072e-63d7-4410-8ae7-7f8398fb76e5": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "0302d9655446499bbb78b1208d277b2c", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171207/2Z2243_w405_h405_s19273.jpg"
+    }, 
+    "e2624219-53e2-4d3f-b5f8-f3d651f508df": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=3&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACpRY8dKle5VYlf9qE900KLAYJH6v15h2t_2ehRcBAjI-KZMN0eahOnIyyoZe4uDE8I4oDej7eyOmTEtPm49RgLhkj2j9ZUWf2hxLO64VXIXQs24GY3SZwvsHYupMWUvU7BpyXX8Q141Hcn5ff8KNi_PIK6YdYvz4PsgBaky_o5RyK33ehRDH8wWqXi3Xq8rYp7zLSftwu-us6RMog3XHyVMXhePtl7kF58wZKqyZAidVKzcWy9CLecsC7Ato8gkP64k_pWjIoiazyXzd7w2AArD9dqAcrKUexjFAjPylBsH0h-ScqoYHTgK3ZbkcPLBsJJrJMJcWtTN8AMNDUXuyrzwqAAibRLtETfSeIkr1NhmQba8Tqe8Ib2tHZrJeHPMHEF61XNOQdvjxVp88z2EZo4GBCddgs6Ck1_qCK9yPR7QWPt0DgIdkpuh9KIbTWG7xsc960Q63zHSqGJ5_Du0gE-9_8QZmWUXNVLAwd19SMXMig5Dors6j3wmEQR876EhcrxarkVyKwapzq_g3geaABIz6AvUSAawdKWqW1XB5EZ2ITMOU15SlflLtL-FhdtztAavP3AmGnlqh9xvbMCWjkypqmaFOcp7aAWotTuPdl_a7n23pebFM9h-D6kEYGUrDnMBJrjRjZonbEcPHeh3qFJFFy_p8fiEM9JLmcHCEvm0D4Q0gSEPdnLmZn5MNcR9gJq-KUTcUSlQIKgAJHuDlL5VISOrJ9dysqht2ignCQNj_oYpDs8g8iN-5fP38JGQaHQpmFr2Dwtq1vSZ42cMoYqIYlxKTvykb_HqTdtwZeqTMiXDEcLaFN1kAVLZjzq1ruFsa2GXyhDynYPLkqm3w-SdD2Se7xbq29OZg2RJUMshEiPzIMwYh4iUanLBkzwtUegvdlxSoCIJTouv3wkkVqu8-a4I4ksrogfMKw6SnZ3YZ-RzEfHh2F4Hu7fZ53LIz8E-yFu_mkdNHJkUlSSqyah1porF5UaLaCpG7BD4usev9-SRoi7EdCDT4nX8tvMXrRWNySeeXQeKJVNKB9AnCWJEUBAA_t8_C1sVkoEhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=681d4df6-8301-4b03-81de-60ace050fd1a&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049250&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520372268&preqs_in_session=2&pclick=0&support_transparent_background=true&pimp=0&preqs=2&time_in_session=681&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=5644068336&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4275568&heap_max=536870912&heap_total=44006104&wv_count=4&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=xfiwjiznxfdmphryxeucgwuyertylyynzwavwcubbbhzepmxrlovhtqxreufbszfasakxugnkpjqftrsykupamtpqicuubdwwymelzcnjndbrbfqfdmklnxavfrxchisrbhtwdtlxaqyaoriwxmeipexkizhblqsalymxjnnomoefpifnoehsjyjfgmvrqzxkcxogvhvxmuztvmbinvidobwadmxzxxprekwyhjtsodvvhlamjflojdpzfztkackjruwdywbnufqxtjqwtalreajuicnzvkqjnnepqbdbkiipdqiqdqmecblulrxlgurbehduintjlkeipzdiuvmiztfkbjcrwgkrdzhtgygomfuiourjjeafcjbmuxahojfsdhwuwazmhfivwqscjbxchnqhkneybjbwujjdwgprcsmzadjltrurttrbrvxtxsbzmlmnreipyxojrudhakdqynciwymthanwsthcnzthtddtjdmbyvm&includeDoritos=true&content_infol=-1&blob=ABPQqLFrD_S3bP5ColS0VKgqHXS_AiY5HZnZg_7WVMHnnpIJrAaANHPVRoBojxj_FfCyh4PvP0BXkH9Blk-9DYJheiS65clXUrqc9WGQ8-27TKvyWgdaisHGB9KsgenOA-gYCaIio-wDTvWnEvB4zRgiYDI--j5s0WMxvXMM9cfhDvZWeQARhkK0fPW2IB5cRGdTOOqNgDirFyRmEYeGHgLmeft8T-ZNghQFVB4nXSyyBxrYG3UnxupzMCj60w&et=4&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3659"
+    }, 
+    "e681d744-2dc4-49f6-975b-109406c8766f": {
+        "ad": 0, 
+        "dst_ip": "52.0.101.224", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "dts.ushareit.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "dts.ushareit.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/?length=11685"
+    }, 
+    "e74e4bb9-d72f-40de-aed0-9ddbf1bf0e32": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "31ea1e46adbd4867a4eec3fd9f2cc00b", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180122/2sGi5N_w1280_h720_s99665.jpeg"
+    }, 
+    "e82cb9f9-29b2-403e-96d4-ca0cdd62dffd": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.33", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "4524f37495f64220b08890cb3cfd2990", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/395X04_w234_h304_s12698.webp"
+    }, 
+    "e9179f5d-cad7-47db-9c3c-a4f5eaf42fb1": {
+        "ad": 0, 
+        "dst_ip": "192.44.68.3", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1638", 
+            "content-type": "application/x-www-form-urlencoded; charset=UTF-8", 
+            "host": "analytics.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "analytics.mopub.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/i/jot/exchange_client_event"
+    }, 
+    "e95907fb-90e8-4e97-b7e3-c4d4c2c9057a": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=ac4847ea776e4f3a8197f96936107000&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=103234&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "e962d638-f765-4faf-a778-d6c39bac23b7": {
+        "ad": 1, 
+        "dst_ip": "52.74.236.57", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "557", 
+            "content-type": "application/json", 
+            "host": "ad.adapter.kaffnet.com", 
+            "token": "32413009-9322-5f4a-3615-0800176785eb", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ad.adapter.kaffnet.com", 
+        "method": "POST", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adserver/v2/ads"
+    }, 
+    "ecc209c0-de1f-4131-884f-202df9c48389": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_fm_channel_card", 
+            "trace_id": "793993a9021245ad999e95507dee1066", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180105/vuYUp_w1920_h1080_s197337.jpeg"
+    }, 
+    "ee9092a2-631a-4321-b3c3-89a89630f4e5": {
+        "ad": 1, 
+        "dst_ip": "172.217.4.162", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.9877000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxukt3sFGlFss2PL5l2f7aDquqAhloKW45rWL2EoIbxB3kvDMcl_m31nItj_7iygSUjuf4sJ0eU0ulwh6Scd1_ZCJyrr2cIL3sAh3LwlIWyiApSglBBkQ"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=0&native_image_orientation=portrait&_activity_context=false&format=320x50_mb&gl=US&seq_num=5&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACpRYXdKle71Ylf9CE900jLAYJFav15jet_2eLRcBAjY-KZOp0eahnnIyyoZe4uDg8I4ooej7eyOmTEtPm49RBLhkj0D9ZUWf2hxLH64VXCXQs26mY3SZwvsHYkJMWUvQ7Bpy-X8Q1yVHcn7Tf8KNq_PIK64dYvx4PsgB4ky_o7xyK31WhRDHcwWqXiHXq8pUp7zL6ftwu8Os6ROsg3XH6VMXhUvtl7kJ58wZoqyZAitVKze2y9CL0csC7K9o8gmH64k_DWjIoiazyXx17w2AgrD9dqQcrKU-xjFACPylBmX0h-SUqoYHbgK3ZTUcPLBoJJrJPJcWtZ98AMNPUXuyhzwqAAmXqOajJQSzSG9bZ6eGkPvMN34XlOj1YZX_EutK3kgGfOmmEo1aGlRi4qb5LGPfgZxVwnxBrPzxPwP0veYwgr4dQSkeYKYaVlXUOE0X_nPi4AGpDwOlXUCR5igyV9pRMtRIXihwWmFHL4VkN0U1tRzSgdae8DQCKwvR79fZSQi-AQI18jGvO8qrfzjtCNT71c67ZxD-wZR5vKuuyU-swPb8EXCgYQX8bSTlWbMRj4jznCsBSruHO5FJIEIY_cPu7Wk_Lz99IAwgMtRgrX7L8xtsRvzJkNz_MUbjxcK9qTlw-1G2BiURyDo7scbLmQdTXQEqKQL5RMNalXBpqm5rFk3cSEHTb8BCnGs6zpiEorSnXH-ESlQIKgALvtBeWEEOh4Cpg0JVXmuNX5nz-iJWg_6UL-1j7Nr6RGMQckifWW0XGK3WNSfwqTtP-cA3umN_GcP6vQBI7C5R9T15BYDdv_J7nffGO5UGQEXWjPGuDSzNJcyGDmkqZetUCxhEEgJXzqb6xe6x0dW2Hv8ARbqt6NznDnfWSVVtXFuFyKRO5zvuz2De8vGKgeoE_36-yP5qEoVxwSfXHbeLuWmQfapc7_rTeU1QrrSpyVeI3-etCWwn94e2iH2LEjE6uU0gePwvFZz1RhQyvsXS7HdOcNq1mhDTV8eYSq3Zyv9Ajtxy-WGWQ_uF5UmQEeGp_Rl1N7QRQNdGl2gIfqaifEhD2kRZKOFdMJZpBpUNfhB6v&target_api=19&hl=en&fbs_aiid=5ac2d52ec2e16c96953e557cd69926b4&scroll_index=-1&gmp_app_id=1%3A281012579439%3Aandroid%3Acee90e8974516c4e&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=bec1bff1-aac8-4ee0-91ba-69720fb5a2fd&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11020000.1&session_id=347862027883845335&native_templates=1%2C2%2C4%2C5&muv=0&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=-5370228636665049246&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.lenovo.anyshare.gps&app_name=4040038.android.com.lenovo.anyshare.gps&_package_name=com.lenovo.anyshare.gps&an=4040038.android.com.lenovo.anyshare.gps&net=wi&u_audio=3&u_so=p&basets=520371588&currts=520372357&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=4&time_in_session=770&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-2075998924432436&slotname=3617673160&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.89&swdr=false&cans=5&canm=false&prlus=2465444&prdtb=695683&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3850624&heap_max=536870912&heap_total=44006104&wv_count=6&sai=1&mr=-6507159669314906565&blockAutoClicks=false&_extra_string=rdkdbgzplsgugeujtrmaraqojsokllhxxlqlxqjovqeuvvgjhbkmlvbjycdnqsdvqffcnbjcxorfzjvkmpevgnbiskxpnrrzpvowqpkkoqhftqpucisalnydedyotnngqrfuroddiotvggxhvzdkxdevgmqjspkptdlrlqlokbdpnkmkwdclujeruovxansmdaocgsniqouavcxkikbcuqphxtanlmawkudpaxifdikpjazdkllruwpdthfwyujajdfoqiziphorkaycuwhsvqyhobupiodszpbbxdgracbmtimzyafkufbssrjlqxwlhdbwffeqaouihqetaxbovxfqlpwvgtyqbjozkubvdafqfeklbjwfmhukagsykqkduqmyacmviitmuwaogqlxhcxqaumpaudoxgflahgvgjvwfavjwsgeagriutqhtsoaqjalhkwwmhgwgwsuylzdqyosfoozoaslwzqbthwgcybbprdqlbur&includeDoritos=true&content_infol=-1&blob=ABPQqLEW0MSOZ8c1Sn4vLdCnAIhKQlcNCzMj2uHaKo_Epi30aGWmLuaaf7TM6MbVpODQtDIsPE2EOVEQYJiY4K6v-bgLa19OXDF8frp1bkUjBcaqF2asbdKM99LUgFBpXF0FVIps_UKXf16gBJo5KbZ4kX3FG7uV5iTyYZpl7W97EywXZwAS2RiOCXF1ABIcIWWeEUjKYjpoyExqRkTyhBcrF5pSXZE1jD8LldtXp0w2SZxA_4Mof5nn0iZsyQ&et=4&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3659"
+    }, 
+    "f8a636ad-268d-4477-af6f-e8b5d9bbbde8": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.179", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "8ba6deda3750456d9d1c688fa8d77dca", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180201/3iKPiZ_w1000_h1000_s296816.jpeg"
+    }, 
+    "fae6901b-5580-43b6-942b-bc1bd94d1676": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.oshareit.com", 
+            "portal": "glide_photo_main", 
+            "trace_id": "0626036cd0aa4583a11a8af76f76d2fe", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.oshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/180206/2OPKGk_w234_h416_s14636.webp"
+    }, 
+    "fcede038-b52a-4cc2-8a02-0a664bda68ac": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=60762baacf384092aec3ca74f8435b5f&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=103829&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "fe149aab-eb35-4918-a78e-5b4cad57ad7e": {
+        "ad": 1, 
+        "dst_ip": "192.44.68.5", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mopub.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mopub.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Location", 
+            "Location"
+        ], 
+        "uri": "/m/ad?id=b3f6dae8e09742e181a1134e04e6cbaf&nsv=4.16.0&dn=motorola%2CNexus%206%2Cshamu&bundle=com.lenovo.anyshare.gps&ll=xxxx735039%2Cxxxxxx727544&lla=21&llf=107506&llsdk=1&z=-0800&o=p&w=1440&h=2560&sc_a=3.5&ct=2&av=4.0.38_ww&udid=ifa%3Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&dnt=0&assets=title%2Ctext%2Ciconimage%2Cmainimage%2Cctatext%2Cstarrating"
+    }, 
+    "ff1342f2-655b-47eb-899c-f01d74cfa7bc": {
+        "ad": 0, 
+        "dst_ip": "52.85.83.139", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn.wshareit.com", 
+            "portal": "glide_video_video_tab", 
+            "trace_id": "439c960275784eeaa6a7ad97fa34ce4d", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.wshareit.com", 
+        "method": "GET", 
+        "package_name": "com.lenovo.anyshare.gps", 
+        "package_responsible": "com.lenovo.anyshare.gps", 
+        "package_version": "4.0.38_ww", 
+        "pii_types": [], 
+        "uri": "/sz2/i/171116/YaLEy_w480_h270_s29016.jpg"
+    }
+}

@@ -1,0 +1,1212 @@
+{
+    "06ece14f-c4e0-4dcc-afd4-412958b58f99": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=12&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC_P1booTMDLRc54bv2M3O0QNFlbndlo4mi1G8NYlfjXvMNmaOeP6SoM0wAm26UTVXCHHg9larZWW7aOHx756vgACIfpg6r6AMpmuuaL8wtet9z6qu6iNcINa2DJJozuvfXGs7EootidTmq84yl4N3RMaPu3ZEckBEl2sjjQ1oFaWuCJ0zTs4Zxh56vDjkh6Wsz8UJqbZeHdRNfRztgb4D_PjfxT4zgECd5ps_XlCPqZU4BAsx7FMt5_ckFV9HZy4S1uSCFhfuz0-TZZv25lr8LjjD990LVImfif6eMyibPj0Q3hjZgTLYd9OgOEBRVCcsFv4ddI0U3MkLiGotCSPp2wqAAjtw7eJ7BXEsZ8qNRjTeGPHuMynIH7PzP1OZWBZ5dgLyOpEwuricUUjS_EWov7faXDDtqomeycsWRagH4g492Xzc8uP0NlAjvWs389nGgCyzPUjSXZt_r0aPsvjlQ5NKsnPYeTRNZe_qjPbqwanxUnHJDWWXwenb8M5gX4ghDOUZoLbgyzYS2Q_AIaoMnOwHu5foKSU8H1EsDfulLWBZAFdWNhQckvfXocrDYPDB8YDD_uWHt01GONsnNQR8aMi4t4d1FPl5C5nk7IUTrxvr9kC3DYbTKRvUy0FVrG-5qR2ZCyYyctBWfXVhn4CdZ6m5nyV7orcTgOUaACbGviKIk_USECzaD4Dl25oKNIgJcEIquXASlQIKgAI2KK5pT0QZ_LACnWkxRsOzYiz7UrdvANzeLA40S_6yZw3twrdNsuzEjHvFKUnQYwfFx20_j0ECETUDdyIr4Ko7F4PcHXOuor_acMQWYQgBq8seXYZR3yr0OMUIC-27D1Yf-4wkt_RoUZ0v4Xa1Y7MtUoaeJlJnK6dOG8R3LDIwayhNE7r1s2RQODq5CIKZCDUIQroEJFkJxxwMGRlz4odDcxL-x6TyP_XXNoZiNKbISuDxTuDF-LvGsK-FtIYqfOc47_x-dyORi7_kUrHL3vqFG4wOZyT5aL-DynXwTGXkF38Z8cR8ZsjZbVC8j2TG_Nqjwc0VNEXTSbRArtrnujgEEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=e3b64123-e048-49eb-905f-9a7057d3ac53&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054145&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896491808&preqs_in_session=11&pclick=0&support_transparent_background=true&pimp=0&preqs=11&time_in_session=10959&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1509200483&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=2513892&heap_max=536870912&heap_total=39375972&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=jcejipbpqsvonyvdlapufgxrthuewkkohzznssjqwqpmyzxvgywgekfmdvjedvhmklumoeeakdeiyundgdkpxnsphfztwgtlvobctoiaimaaiaphhpivuotwczkhapgvottzqlionunlsclfocuvilcllihiruehfqvejwtgxjumbcmqdjbqsdfblogqeiqpmgbaqnefnhagefjuqpbcvgetnlspogicnhjpinowninbtdntrzeanbfxtyozbjiazfpbucecdjrmyxbrpmylqaetiubuezgqlnbrzdbptdrbxllfyswfhpawhpnnzyvjrfkvbfuneshcsgzvwcgymltsylrzicaxlhedmnptvhchnhvcvqfkkveyfvwdafxwgqrkbxzncmhgseltuvbvpkxlooqtpyqdllcghkvcjjlwfinuczwupnnsyrskgsbatokxqlyzjqllvgcrzqkkkbwztfdjhajvdujhohvuginouzxpwypn&includeDoritos=true&content_infol=-1&blob=ABPQqLFP0VZfiGD-5eU2L4ZBCtubPwIP9ZhDZrUgjd-wKCAovwZRHD3NDmcjif0yNo5DkBeXiunMvh4NFNCIc4jjjoBFVTPeRQsPWUrHlfiFPM2ppK059ec6sozl7Hm_GQ4-ae42nm04rnV1WleUThW1-LfmmDw8i3geghuowMSnyJHmiADUtUEDhkrnUGORJoIt1h22HCAdr4QhiQmgb1lw1gGuy1kAhlzaW9IBqiHPeEZRcZqpYDR2_1h2gQ&et=5&swipeable=0&tcar=13&jsv=4-production-sdk_20180212_RC02&urll=3735"
+    }, 
+    "0c44a89b-75f8-4e88-aa16-bb7e594fb125": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=20&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1as5XMDKdF54T_yc3u0QtFlKnAlq0lilGcJ4VfrHrBNmSOdP6Ro8wwIn2uURRVGXHD9kurRHe6aOLi_p6tkwmIfIg7r6Mcvmuua68wleh8z4mt6iN-IM-2DJBxzsjcQGs4EZotiMfmq-wwm4N3VsOPmGRMckFGjmshnwxoFbS7CL8zQs4Z1g96nTn8h4a91sUpub5eH9RMfR7-jL4D_PTf5T0qgGGd-5s_TkiPqoU4BCsz_FMu5PIkFVxOZy4Rz-SCBwvu70-SZZvl51r_PTnD9swLVKuMmP6fIimbHD0M3hvIiDLZdtqgOENNVCc8Hv48dIEU_8oeiGg8HCPKyAqAAjtD8r3bCWA5jBRNVH22vajLKqA0N4OUAu5C0xiUligGKDaUZA-zyiRmgSUOSX3baNbahffVNn_WU_KZWM3FQ43M_u4kMID12JscJtz1Xuy9AVvMf7f2ByyTkO6miagOBbJhy3jKpTamNYrRmVfzii1xnCFnBr2cU3UBCASxnSPujJEtw7-T86feWl0eBk8sPKuNX6cHHmDiq5eusIdlwDmlcGcWoOPdn0fxlWaTydtwRg0U_yy-B85Kg1m_pstgrA2uqCosysDKXXCWm2dkOYW4sx1TceHh6kUAVEN8Dskw_eYukMPXb2G_oB0013sMO6Il-IW2XR8Sg8OnysjElk4SECZzkv4ZOH9eKA409DJoC0sSlQIKgAKqAJxy2l34emFZivm9V2Sfa19uTqJt92HWZ6srG92n8JTeph2V0mxWUUtRnY3hFx5M9vkP0mqgKqgx8yMqycqKlrL9Ir-V8a9PWzcocVs3iY4_6aCVnClesN3PIriTrNbfskqV56WZ8ZVHJEKgCMQpC-doq95O-J1OE1VXNWIxcOQVZ7ChoRBcNGFpl8-bjKsFUjqpuELc1AB_CiR7msPNOhhr8SzzGe0fdrRJ_JYP_S252dWBodryeeVyLYtxf2r416rl9xHDjCaGlQ6Wj5k60rR-VO3a6gyS2dHdBXVTM2My81axXPhcfVJ-GrGHP-4q4Rs9pBywceh5GEN6qkmzEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=6e776124-c5a5-4c1a-85c5-c10b5f4d4614&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054180&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896511348&preqs_in_session=19&pclick=0&support_transparent_background=true&pimp=0&preqs=19&time_in_session=30499&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=6076303282&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=2380540&heap_max=536870912&heap_total=39375972&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=konimrgkesnfnflrrflmhvljrrmyszazbfjlqgozaebtdauhgphpleucppxpgiqwjeoyoiaaqcodsxwolyxtodveqnupeueoitpxlbeevwigifhhflxutxvhqkvijjuxvtkhhtrhfxraeheburantuwvwsaulzjoyuqyqmdcsovbbtsnccorxbmdfsxyodrokvasxaebgbsxetdndhhztwbypqjezzkoeotcmtyrcbllpndmhtsdgksmghirngvevzhagrajphvhvxcxvffnlvmhwigvpllabtuuvmikqgydkzmnpsngofdbxpnbgxxnpxykwwmrtgmvhdnpmpyrdjwpybgdnoaupyrhjvbpjurbrjrqccpldcmzdxnzjkayoohipzrxwrcypvkibxuyluxukkskuypivapdsrjwudystubtdofjbbeavfjlbwhunfrgeekmvymloqbcogbxgsbznbmnfvbiepgztnczvowzuwyiueyl&includeDoritos=true&content_infol=-1&blob=ABPQqLHGfhvAuzTXDu5BcHLvCqwi0AMoBOs3k7yaYCh-p9ccdnkX4jqwsoBiVevZmvdeVzmJyueaAvUcawZlXwa2qaDclzUOkK416EyX5WiRvmLzygGzPgjuHLwMz0i3DUplWm_M668rOcUnX98DrB0rQFFGXM2aVkncMHt71lXYohtezwAY5IT0CoY0bOF_Kuvz_Gfl1ZuYixVxolvIwVobODEFkJD3eRdyf7QXZ24MdpslPi9eBedg-hwRyQ&et=4&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "15ec3143-f4fd-411b-998e-bc2eb81ff7d5": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=23&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1bs5XMDKdF547_yc3G0QtFlanAloYlilG0J4VfjXrBNm6OdP6ao8wwCn2uUTVVGXHo9kurbXe6aOni_p6vkwmIfog7r6Acvmuma68wteh8z6qt6iNUIM-2DJBxzuPcQGs7EZotgcfmq84wm4N3VsOPu2RMckhGjmsjnwxoFbS7CJUzQs4R1g96tDn8h6291sUJub5eHdRMfRz-jL4D_PTfxT0qgECd-5s3TkiPqYU4BAMz_FMl5PIkHVxOZyYRz-SKBwvux0-SZZPl51r8PTnD98wLVIGMmP6eIimbNj0M3hDIiDLQdtqgMENNVC88Hv4ddIEU1MoeiGo8HCPhyAqAApE0BAvZx9UDVPF4TUQnCldc_PQL_xu4SMctJ0Ip1DFCdkyPUwJ5vX8rZQlJ6hKzrJ_hxc3fyfYwv1fUIN9AOWN_J2QZKTPEHxV6hHC3dakiaZQEWDXLKCSEKiNIdk5uMJWgNraMjPWx5BSKCGzLP4f5k-pwgQfp4eT3GaVL05dXMyHU1aZJCzf1fuspTAlK_0K0Ctzz0yVt93a5sh5kWKeVI8h4OMFwdakinD9LCk5-zYjfZiPMN7LgLTPVNtlwq6qdYngXUlFhmECTrrml-knN55CI_8T5drfeZF5-HTwOAiw6ULxV-Eb6virKqNtuHoOXRLQpRpd_LNUhGYDGUh0SEIZPt6cTIQj0g26gaZEoja4SlQIKgAIPsao4PhlVRZO8EuK6Y8WAOV22ctXrSlwH4E4Wifl1_hT8BDRERSoMx8uL4osx5X8sxGhnhwlIcv5iOVtpimzr5_IbJ-mB4_5Z2c0moM7EyMqYmrbDnqBeM-vDCuykQI3cNkCcRrVo2TcXaVZ3fbcUy1NUj0nKY9W90IMMFWO6eSH13-Alsu0T4RG6sGhIzdxyM7GUPQUMxKQJXlL6is2zSq-3_97QtL3PBsATrqdA8JhbSqiWdrrFGSUCDS-DfQ86pjTWlacQsNdiHAhxKzp8srZCVY6L7gxg_7bgdmMkNEZj_27GWIwR_iFzNfQUdIjK8otsh4peGA_6K2Aembu9EhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=ea550f1c-b0d0-4d9d-b5b1-1ce45cd55ad0&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054186&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896511445&preqs_in_session=22&pclick=0&support_transparent_background=true&pimp=0&preqs=22&time_in_session=30596&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1506502883&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=1250348&heap_max=536870912&heap_total=39375972&wv_count=5&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=kxpprdsvgvnaawnxejszbswtixoorfpuikodoejsudcfqoewvcennkehqxtwooqkmssvlxycoovnqxzvonddqmrjbkzxxioysjaxxcgnshqkekiizaoiilseminhtbsnzsrkptjmmwjjwiyrapxbvdasrqepskcrryqabotqebkhtglwffpalunfkhhuvzhztgpiucuojzbbzufqshlpmnniawuvhohikfryghqjztixkcrfyramwzopvgcgrncsfqfvjvjsblewkgytyypaxqvidohzdahmudymoaeaxgexnicbnscqqvimzugijbjspppuectqodyfpebnbfylejtlnlqsplfhuljzvxzusalepfxptzryekymzrlzktdxjdbxxgfhotmijbzrglhowycbjrfzvlafirsmqjnspybwmkqqwyvyuexfzmuptvoiciirmeuegzjifqcxvjldztrxmjpnyohdwacrdjnzvnsgmrtdbhoq&includeDoritos=true&content_infol=-1&blob=ABPQqLGyLYOyGwc1Jt_kPNhJTX_tjnpXflnW_Gdo5PTuqEt_26P3aI9JoT15Wu7qmM9YFvljuGShgncgMJimMtCfNuTGjdCvX7sK4BnHvezj-_gxX1L3tsLWmrRRvO3VqzdU1TxA6BcuBcOERns25xN7N2ph9NT9cfuY_qwlopPcubg2EwBec4E_cuD7TX0Az_ZxRXJN3W8lHuJHskCMthj0oaOLXG1aXVjxr-hezHmSME2HSBfOT9gNJinDvQ&et=7&swipeable=0&tcar=12&jsv=4-production-sdk_20180212_RC02&urll=3735"
+    }, 
+    "17dfb96d-e28c-40de-9ef2-547c83dd6e41": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=26&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACvP1al6XMDKcV54zT-c_m-UtFlK3Ul6UJylKUI4FcrFKFNWyGUP-Zh-wwKnH6URRxSXHL9j-oTF-6aurG7p2tkymLfKgbraM8rmumb_8yleR8zImNyiN2JP-1DLwhz8DcVGg4NcotgOfGqewQn4B3eqeOmGwMcklu_mghmyxrFZSPC7czBs4R-j97lRHMh461psYpsd5cH9gMfB7-yLwD9JDf5T06gGG9r5o3bjiNqqFYByM3jFAm5NYlHXgOZiY9n-aKJ3_v52OyZJPtx1r_PTnB9sBrV6OA6PyfKimbFDlY3RPk6DHRUvqgMGsZVi8cPv88WIUV98YqimgYaCDCwAqAAmr5dzMP_FwlXla4-0j404YtkRed31rjvWdx7Y95NDsjMQC6hgImSWcjIbUTaNJYBu2eJ4ZYXmqjM0K40DCRRWM3hRsuTe2TqA_aSoNycFjwmxXBuj12ZDjFnaVpO39ZM6pv1XvOIv6SyUpsIUelCKmKPp4HOvQChsew7xLraGEux011jcyrxF7dNHmNtdQRjY1WAc9aYCneJBICm8aDx8PkUQKxE7W8K0AjdZV97ZypCT8TZLkVPA3pgjfGkP8kiy50YErZqKkuOMwQ4kaVWoIEV9KXVT2_QLIW2gc8OYFCV6TgZobPgLxltgZ2EDLIYQnF5U7dSy880GJ-6pS8ZMISEFdinxQvDb072GOxnuUKm30SlQIKgALHF-4t8l1ZZiIIXGGNRtcCVQz-Ysr7xXuotY4lQdwj_vdc0iMJByw7GJ_Q0Q_nZs1d9S3As_iS8HIy5mjuif54-meMk0xD5upAT0Ewqd5F-uOvCDbzzjr-TgsYnhMC2otsoo0cx7A8eOKVNFBIjXYS9OUeva5euvUNkUE72qLw_3XU08DRs7AjQjM9BgGOyM5wkC8jUBcd5Vh_jEKm2wazYIuuf_SzOp3oo4MzPELYw3M_y42ANfvE0zLQKwGi7K_exuz0hQYVIaIDFpn-XipJLzHfUhoOOatRmnDm3SHlEpp1ZN3xyYy3qxeppnFQ_TpFNAxd4I5CvHRrakVK_e0aEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=5998e121-81e1-4479-974a-9d6cbeeb3ede&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054200&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896531044&preqs_in_session=25&pclick=0&support_transparent_background=true&pimp=0&preqs=25&time_in_session=50195&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=6076303282&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=11709024&heap_max=536870912&heap_total=50247920&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=dmchtqzrfgxjvpzsohtjnxabzxrfyjbsmgzouumhbjzkqlqattsrhnsdaxlxteyufdkuaunfdarpqrmxenngbuumqknlgoflokihdczcfkeocwwgknhvdsvpzucrxmpywvwinkemgpoomtbcsqwekwpidswpazeabljptgyfoiowmntxhuojvlbvpmqivgflxmwbxkvlfmtbhzhzmcqufflbgaxpxppjeylinrzlgqiuezjomrypxgnaizkrvdtnqygueslcvvgwgkzuihxkkyjankfypviouyqosfvweshtcgjpwngmarbbysqfombihfpnzdawmhmzypqzcbzcuhizbgxslhosqxrgmojiwdoyjhfrabstiwflrodaxirecflcgnawjdtxhodoooeblzwtzkguphtilbmseekbxmpfqmalkfgongvzttglbrpgerpgurnlzixpwjzbcfjobnfgmsdnxgjoqydxnmurlupwgggfrijs&includeDoritos=true&content_infol=-1&blob=ABPQqLEsi4p7HmyDZNXmfDlvu5So96ecbIxSGd8MWPvEygodaTCzajx_vHnlezvxXzB7-fQRwXFagFaK2j2xZjozTH9ZtJuqqyN7h29KIAjLZSl5B_VI2Ek11q2vGiOCtZ5Dsf4H0iUghMviuajzxxJ2EEJzpktFkQcnlwOUFSB9naZjggAwukIOVwSbuMe76yfxYi6KloQiSUW2GV9vWt0887LhwhkYMDCKV3a4503-mwC5dBIRCscOOccbdA&et=5&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3735"
+    }, 
+    "1cb0ae8f-f367-4439-a0d4-00fab5c06686": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=11&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC_P1fpoTMCLZe547r2M3G0QNFlb3dloYgi1G0M4lfjXvONmqOev6eps8wDmm4UTVRCnHo9laraWe5aO33756vggKIfpg4r6AMpmuibr8wse1_z66s6iNQJNS2DJRozuPdXGs_FIothdbmq8owlYNzQsSPv3RGckxGl2sniw9oEaWsCJEzTs4Vwhx6sDjmh62sz8UNqbZeGdBPfRjvgb4D_PrfxTwxgESd5Js3XlKPrZE6BAc37FMl5fUkGVlHZyIU1uSKFhXuw0uRZZf05lr4LDjD99kJVIGZi_6eMyibNjkQ3hTdgzLUc9GgMEJRVC8sFv4ZcI8U0M8JiG4pCSPh2QqAArK7Aclr9y_lhyQ_MM74HnyvgnrdHV601XymuSftsnLR5R0S2uw8TWQhY1KsRbjq7RlqV9HELpZv5oXk32dubYwE6sxE_B3aEiDPlP_atQHcRhFzOqLHjgWsNI7l_W4rqYMBC1edEh2wU3CzwJeI-rTomJ6Qu9R4BzOMgLam_kBuuwuYBCX2-r82nVjdbyt73GvVTVoGYYb3jArJmn6HTW02bZ9u_w6_XgczCPknDf2alBmFciZ5tWzdNZpvQ3SF2HrV1FPXKSgwJt5winIUATkDT6fF56PpURzlzGpJAvroKnF8T8Yl82SwZ6J58dYMPIDoUS2KHv_W2-JeK0tSm20SEDyHuSwcW3hO0NZQNVNDGe0SlQIKgAIcVM49LlwZL7NPAmiUh78uBYi-Rt877Vs9dKhsih43uisc3mNBgxwHwZ6YtIghLNkHtgu9qDjgmflzynhsjJAw9CKUmt3CgL9ZzRdZoJgt5-SqYEfzSwC7Hwhu0s5CxJb-47FlWnEqBTDWTjxXDnQq8eJy9Hbb6qiDF1UmASLK4iBR1-0S87pX3TZrRklJ7LNoVmkXAxR1xZZ58Ev8X1jDc4_gV-a2Qun14r0isIaEn6Y4u-GCcMnYGreiLwMjtKIex6i5mANhDPTBbq1tWmpQvDG3N4-IY_tEX2r3TCX7TlE1Ks32C-iH41CvguqX_wfOcABYt81CwT7sCkkFPsNXEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=2f047453-be28-4315-bf00-20ce59bbb3a1&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054134&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896490177&preqs_in_session=10&pclick=0&support_transparent_background=true&pimp=0&preqs=10&time_in_session=9328&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1506502883&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4734260&heap_max=536870912&heap_total=39375972&wv_count=5&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=auvmntnopsoovdcnomcljvlccsnlzntxmbmulbrvettbnrrtuvhlkcdshudolikfkptirabvaahtdrtfewnswhytzcslnnbaiombxqujyvbqrkuqgmscciagabzflclvzewqcjkncsbuxjcnodoicunxivmabqtuxbgbthiyplfjiqeoqzzyialivgcpqidyeovawydmmbqctidnjsaolpfyypktbfjbwrsbiyoshyjikyjgjitlqgdonwtczydlvrnvkglosggbkuzrqzkrcwphcbhohgnlniwevbyxjoialjidavmzremvdtpbjufojihccqqibtswscwuppvfpsvukzfpqzdayikpjhkvfyzjldnoxzhcryyxeuueaqkxoachonrxvdaroyfmrqsgtsgkuzertfriioqdagzesqkhcgjyfybxkghplzpkfvxxddsrwqcrcmxeuiisbsipurkherpwondkgwikbbynivzfhisycfir&includeDoritos=true&content_infol=-1&blob=ABPQqLESPjWIj5oeh2u2LvVa6XsYl17q-UAfEwuAADw-Wb3llW1szozQmwkwhy38meJF6ynWuSFiLmkX6GecrMOV9PKnXax83v6ZNt_Yyp5dwVOeTSAx47Ch8BwNyUo4OUojbbXt_KKc8f3Z_-oX0L2j4Mu_k_6ZsLaJrarL1ilWmKQeugB_TVXJKfuQ8Uz2mK8od25DpvXbekNGf-tMFPkNiunZ7OaBlnVY4oGHN2bt0yHIl2KIuXSUWy6NKQ&et=4&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3733"
+    }, 
+    "1d8567bb-7ab9-4071-b20b-402909eec1b0": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=21&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1es5XMCKdF547_yc3m0QtFlKnAlqclilGUJ4VfrHrBNmqOdP6fo8wwLn2uURRVGXHJ9kurSHe6aOzi_p6vkwmIfog7r6Ecvmuia68wkeh8z4-t6iNwIM-2DJBxzsLcQGs-EZothMfmq-owm4NzVsOPnmRMck1GjmsnnwxoEbS7CLEzQs4V1g96kTn8h4y91sUtub5eGdRMfRj-jL4D_PTf5T0qgGWd-5s3TkiPrIU4BCcz_FMk5PIkGVxOZyIRz-SKBwvu40-SZZfl51r5PTnD9swLVKGMmP6fIimbFj0M3hXIiDLVdtqgMENNVC88Hv44dIEU8coeiG48HCPAyAqAAnsFGfQEkqqj6VVZ_-fSaZ2jCgVT29tGuRRVegjLTbQB0sMI3LfeTiYa6k3M0QBZhODgqG8oym2v3-XWQnSGsmiFiI5M_pRnC-QN-QlzpkNsuEGcUHLoCmROthU2mVWwpBRCPrzpkUwokl4OrL7TSA-JKQzNcj8U90xxMN0c7uCtdeos4fBzftP9nWjH1hMzoOO034QsRTxlEw1eyiFFcjN59Q2Qz-djcOSpIDuPxungMJRJl479Cnp-Vd0tVWUGx6h8s-e6-yx4hv6XLW6ufHqKcmgbleP6a_qiQt0ap5p306JaGpK18qiLjGV8JSm0sBag22WP1bVBFfaPUZTfEZ8SEIT-Te_jDqvtyunoxub8ogYSlQIKgAIvbqwoYkUYooBhFiFdI8THHx32IuI7B7uqaQdhI7EzflW0SqcpimS6iA_JVR2n50idlGVF4xwIcDBvf21ejSZ4QrZVEkbPpauyV8twUQePv5MT0bYR3qn-ZL-DXtnnCAoO-g4Zz_ltPdhZbBTgLLRTJt0ceU5GIPFXBcl7GDKxekVlm4C5_-BmSBe1B9PLiAsYbL5nOBIEoCBLHkZeyo8zWjb_u4SXsZ2aUoA3XKZLR6mbQYnY9bKA8acCq-MPd6p88351Lz8f5Pr2XdzW93nIf6gGViCa6uqb__GnTSlnEzI0_5wxAMTyaWY65kGRf76v_cdZMEpQPYRnIMG6gLUfEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=0fa8a531-231e-46b9-a8c0-98e02f565abd&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054182&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896511390&preqs_in_session=20&pclick=0&support_transparent_background=true&pimp=0&preqs=20&time_in_session=30541&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=7553036487&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=1992236&heap_max=536870912&heap_total=39375972&wv_count=3&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=qiydjnpiaojbcpywonfmquznqjrlcsqlzyglajveawrglixjttgjbgobmxxbwrdgdtsuofldjmbwspnwsdqhaokpqaslrgmwgadmxdoxeqlpbeendyrgqzudjymeccpsxqycmcmlooffnufwmlmlmguzyormvbzlgldzkbvrtptmqxktixddrvztmhaulnkaddqcyzzwsudsptyeybsclcckatytiqcyqhxdbhicgibdnklgirpkhpdzzkjhyluvegfpqnpprwgwzfvbdsqanjvfsoekceamwfymbockjnvslrrlxwfngushysccdzsnxlmcakjbodwpfagluyakhnsvvnsrugcnrokuppxkydrpvxmdfnqnhevowadkidpvxebuofhmwabyiofbjnqfrsyhcjthnmcgjbwencbrjztszwzcafjrcmwioaovxckawcjeamhkyfzjepacszmkhifgisbhqwhdqgphbzdxtxzkaqpfinlf&includeDoritos=true&content_infol=-1&blob=ABPQqLEh1dT4RxX35yI4HfCbebAmrvNbrQZKsB5vGGaFMFJdOoBKLrDeHkp7mjBlAWBami0AhoCIfg_jVy-V5pyUoactDXlj_iwR1p7dd1nHQg6MjKANGHNtizKjHJddUgrMjsWO3xNT8u_HE64IFHCrRMtRGFW3k-StgBfkZLbaTl03JgCeECZaTXI2Aacq15v9_WqGwoss5xnAOoQxfSn8FVWPQ7FMbXoM4z7mUIGNj3_NDZ_nzVD1O38aPA&et=3&swipeable=0&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "2017c29e-4fc6-43bc-9950-91f72940deb2": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.23.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/v2.9/814932715208091?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }, 
+    "27e1c4c9-16e2-4a2a-ae4e-e41bdef9b82c": {
+        "ad": 0, 
+        "dst_ip": "172.217.14.68", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "2af6fb43-aa58-477a-b1f2-4496658e3aab": {
+        "ad": 1, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "739", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.mxtech.videoplayer.ad;FBAV/1.9.17;FBBV/1210001038;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "30152588-1952-480f-a947-b2dff3a51f51": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "359fdcf5-ea36-478b-bf05-f266405989c6": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=29&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACvP1bl6XMDKcV54bT-c_u-UtFla3Ul64JylKcI4FcrVKFNWaGUP-Sh-wwInH6URVxSXHA9j-oRV-6auHG7p2vkymLfqgbraA8rmuub_8yleR8zIqNyiN8JP-1DLwhz8vcVGg7NcotiefGqe4Qn4B3eqeOm2wMckBu_mgjmyxrFZSPC70zBs4Z-j97nBHMh4W1psYpsd5cHdgMfBz-yLwD9JDf5T06gGC9r5o_bjiNqaFYBys3jFAt5NYlFXgOZi49n-aCJ3_v72OyZJvtx1r8PTnB98BrV6mA6PyeKimbHjlY3Rjk6DHYUvqgOGsZViccPv89WIUV_MYqimoYaCDJwAqAAmrJBJFWcOTwmHvrtoXTbfx_630A8U3V_rMZVkLgQ0mET47lfnJM1beovAsuBQpp5VIvXOor5JnkJAha4d90tRN1pBBxLuEBa8_ZpOCYutQtDt5xpEK_O1Zyh9qRpZwUvH9x4ikdrrSw6nCmrJkHoRdxaMMudHAzOTc-nRLMrwiHbBbYn57fHCEY6mAOqstRkDPNPpYsalbB8RgyYPmaUq09mH9z3LQUrA76DQmN0qjal834SIbPO0uL4aucNt4lgkV4btFh-b15nzcPFMo1Z2eseGbEOEuJpJ4g2BZpOshFpL-UZOjmcreAh1YFi_AWPHKMxdtEU3ypKUIW6qsmtsUSEO5C2859sPTiN78a_L9gPv0SlQIKgAJBgA0pekzRnWTLsDoRR_TQAH43JoT9bpn45OlC3tzEcv3clqHYQS6BnuibfohhZmOH9ml_Onjad-IDi1KsyvhqMrIPLheEQL_O229j98jFiW-cC6NyvxDH3dzWXl-A9BT8MUAVxZfZAblUfwZDCjdIZVbyRvbv8MRJgSZEmVA7bO2l_71Fs_lD2nAYPIQr7BHuQqFFVXIehc5Nyls1i-on9Luhs6Hys7GxdsQS9Yb1faM6yLXBMJmA0UcxlQLj74Ic9wNLU5Gx_G0Vn9G9PIrwv4X2QUTYet3R-bGlimUiJMkzybe9bQrNvEBE7DUVdY1G8ipk441qDSPKKP0Qiqo1EhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=ce8b8aef-4aba-4ff6-9d77-34628a1da73f&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054206&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896531142&preqs_in_session=28&pclick=0&support_transparent_background=true&pimp=0&preqs=28&time_in_session=50293&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1506502883&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=10469208&heap_max=536870912&heap_total=50247920&wv_count=5&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=odhfdwsmgalzffagjskhbyqujfbcjbiucnzfteceezpcdweabcxwitdcrlcwizyafnlqldyofoyjwpoopdymtutfzyndpbhctyrxhkatavxzjefqqlaokfxaxsgznynxnytynvohbeepzwpuhlwmbydrppjmnykpeaadhvtnudewbqumahtlxbrjqgsgmxjjzgqzljmxhzzmwbohzmqfsklarmkrjderqrpjfsaaizayyxmsbvxaeqpvjyzrgegvhodwyhxpatcdhlqbvhypficdaqmtyfcwiczqvligicasudktutuxbiswrnbgmlhxyjyxvsxxglqcixdvznxtjjvllizjfnhjzraxzlkrkvojcdcophbiuybqgjlaqzxnksduxreggfpvudspaajcwbifcggmsuiggczzkuqbymfphqsnwfylhcjofgcphmlrklewduxmxlttliyxkqplvkcnufvoswcsxyhvskiizvvbnaerdrnd&includeDoritos=true&content_infol=-1&blob=ABPQqLFAD6GPhbcxTrIzgjQh5c4gEQc1KTxACDmZSOaiU0ZV3e4UHdmNpB5npzgGgrv-dX_yQ798bZBIDmJ9tOaQgi_DmKv6l3ElXjZGG6PU8eO78Q1XwwNNGxjpTgMxm7TduEemm5qgRIHQc0CnOv63uySPWz2m32nukeCoUvTcJgXzYAC3kuJzpOmNqS_mXjyz6T8tN5TGBRUUYsudF_q97n8xE6uWxb2xuwABPSyPcOBChKVWyrDuNy4vhw&et=5&swipeable=0&tcar=10&jsv=4-production-sdk_20180212_RC02&urll=3736"
+    }, 
+    "363e3701-aa96-49be-9f35-6813be28fc73": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=9&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC_P1epoTMCLZe54Tr2M3u0QNFlL3dlq0gi1GcM4lfrHvONmCOev6Vps8wJmm4URRRCnHD9larQGe5aOb3756tggKIfJg4r6MMpmuqbr8wke1_z42s6iN6JNS2DJRozsjdXGs8FIotjNbmq-gwlYNzQsSPnHRGckVGl2sliw9oEaWsCLszTs4dwhx6mTjmh4asz8UtqbZeG9BPfRrvgb4D_Prf5TwxgGWd5Js_XlKPrpE6BC837FMu5fUkEVlHZyoU1uSCFhXu60uRZZ_05lr7LDjD9tkJVKuZi_6fMyibHDkQ3h_dgzLdc9GgOEJRVCcsFv44cI8U-88JiGwpCSPK2QqAAjeZkZxlpMGMBW5zCdxlkaN-pkSxxhrUXdg2t5ht4PIF1Mk7cUj-ZF0fXLJLRhMGMkf2YBGdMlMPWVD4THweNiI-D28Lr-53tWhsDpL5cBxDx1VSVxnlV006GLZF3Eyph7i7_Xx1pLfConZzITDCtGdR334DyQwdS-nJuHueWedZhNY5uYjM7mxFdpdSbYkHbA9YNrZ1zpWlbWkIea5dhLyP5cPK2BNpivyNXgYYkwEg3ty7eUefofDF1KMyACQdaGxPdMGiGkUEZfCpIJ2a-8snICtwNSBbcjMy-T2fRas_MxlFL3JPgkdqQsL_hxCsgx2QiL0q6ix_okId70NHWjcSEPKiQyvbehLUhDrEhX88sNoSlQIKgAJJ_G44atWYLg7rnqF0h4DjeIVYEpdTYR_cHY19hxeRfo4cgLfZrmyOzTfn4cGlYVTvNg9lUTigULAb1XH0iejoKYYdhjkLATeFDQdEpFWjox1HPxYDZgt2rinLSmtjrIaT4g69nlmLGfH_YDRyThL3WA_8bY9eynVjsyVnwSIzcqnVkShj--ba5DNbE6gNyL-sGrrXM5QIhLJ1mtop-uWb24K_n9dTn72UQua7_CrpW8PVj6HeFfiEzhtmJyvD36Yq7xz1HYfzUEiA02isP5nc7HjufkdkCOa4k_UruMknF8A08YTDykjS9_Rc3j_7HYIDvS9Fz-QwkVrhTEFANruXEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=ccfed9f2-2b5f-4d79-bb43-8c284413d773&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054130&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896490136&preqs_in_session=8&pclick=0&support_transparent_background=true&pimp=0&preqs=8&time_in_session=9287&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=7553036487&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5007252&heap_max=536870912&heap_total=39375972&wv_count=3&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=ficzhgbaueujzjdbrjzohmyrxubjhaomujkmeerernqlncfkcxyhyxqgouopsygletjmrttcuntsteusqppihjqyooriitklgacoycpioznrgvulijmwbmoeophifmlpozvxkjsyiwpcpjwzvixdvbyyxyirtnnuzjupliobvmqhccjfmuxxbscwwrftxefxjojecpmbbofibctgkqvvbyiiwzyaugzeccnwamnvkmqvsbnbzzrvqxnqakmektetiokayxrhhqtylodfsqpfytvjrgyzcgjofihuokhgvbcaczdzkmxwhhjgpsonhfjnnkremusprxkwibdebkqodwgkfxojmpndubcjqvsfcghddpqyxppqswynivokhtgbgeexeyeedthcbtuadlrbcufxwsyxiepvovfpqlzycqtwdqqathvxrpekoxlkxorzzaovsgfyxavcpxggmevlvpjrvtsfbmbncsjdxpumefztzvlievkv&includeDoritos=true&content_infol=-1&blob=ABPQqLHGT4NKNGpvhhWiDSxfUmCHWB_B5KTNrft9G3JSQOnjTA8IKa8kdhfpbkCZ4a-42r3GqGMk6PQ9N2E67Je_kvUscqscPDlG8wRNayDRWKd2n_gvqrea9R5FsQpGPruFP5f9YDry21HIKq7IUcHHYF0XQvTGVPV_DlJ1aXhltc9ZYgDK69ACWcsGyGXSAkcwr0zXzOxm_4NdYU7FYKXY4o3SI3W__kP6-ewOsDhkitrpy-u2Tqk36MAkAw&et=11&swipeable=0&tcar=13&jsv=4-production-sdk_20180212_RC02&urll=3732"
+    }, 
+    "38b5b32f-4d71-4dcc-ae5d-35c88a7f6d99": {
+        "ad": 0, 
+        "dst_ip": "13.126.193.96", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "mxvp-feature-toggle-prod-1.zenmxapps.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "mxvp-feature-toggle-prod-1.zenmxapps.com", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/features/v1/com.mxtech.videoplayer.ad?androidId=xxxxxxxxxxxxxxxx&advertisingId=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&locale=en_US&versionCode=1210001038&versionName=1.9.17&networkType=WIFI&networkSubType=&model=Nexus+6&androidVersion=6.0.1&MCC=310&MNC=0&MCCMNC=310_0"
+    }, 
+    "3c2d0189-098f-4904-acc3-cc0d49ccce5f": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=8&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC_P1bpoTMDLZe54Tr2M3O0QNFlb3dlowgi1G8M4lfjXvONmSOev6Qps8wAmm4UTVRCnHi9larZWe5aOP3756tggKIfJg4r6IMpmuubr8wte1_z6is6iNeJNS2DJRozundXGs5FIotidbmq8wwlYN3QsSPuXRGckBGl2shiw9oFaWsCJ8zTs4Zwhx6vDjmh6esz8UJqbZeH9BPfR7vgb4D_PrfxTwxgECd5Js_XlKPq5E6BAs37FMv5fUkFVlHZy4U1uSCFhXuz0uRZZv05lr-LDjD99kJVIuZi_6eMyibPDkQ3hrdgzLYc9GgOEJRVCcsFv4dcI8U3s8JiGgpCSPr2QqAAm8VtFG4MsgkOuVShbhwUUXOTFuiVNqIbM3Ou3GmWVjMeEBG9Ser1J6yyrwv4x0TtA6QiR9glp_SbRt3engYyM6gY-LYbyaiNdKUfgZqEXFyJeiiFPh_bi4qtdjhTnzavvds3NPeuD7Ax99ZgamR4FyiTNgWV-eBH2PhMGOgtWpyTsozH4JBmWl6t6dilhLXr24WiiqBNe7N70R_rIiKoomEZ_PjHGbCGFE48XF33BA-I8LTYkFzVrnjDJYUN1U4xjOf8tW6jCgd-QXeg7JlvmrfTH9tPbBdFYj5S071fEFMRPfbsdveblwBeRXiainrqSYOTf7NAp1Xo8d1IBnZATASEFbLnhlcF3W_7lqgmFYJLTASlQIKgAIHq55iahlwObYmAnoGUuQc0N-kDAXSdRJuwklqTVBNkizGLGzZ7yRmm2GTvs-j9Y3R_nv9Kyho-LJRGTE8gWBrp1A1wdED2fzJStdK5N7XiHsBo2J3v4PMGmDvkNmtZPcptUJUgo9zQ78vTAKSz64odkhIyWFQWu9Zeb1EHWubo6lH7dJRKPJvHLCDVIRIxLiukJpqEQc85Jy4ahT3uemtdwSLMTfAm_3in_47sjRl3PXRU7ZGzbDhFB4aH4OTV6mKvwik0RcjPKrCN954oDk4rq1eRZcjyPyEXJGszlgzIE770dbrQbiN6yN863EmdU4TcLMOpyJYwjZqEDLGo6NREhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=28ea4fe3-d610-4b40-a76f-00e8b885a7e8&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054128&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896490110&preqs_in_session=7&pclick=0&support_transparent_background=true&pimp=0&preqs=7&time_in_session=9261&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=6076303282&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5134676&heap_max=536870912&heap_total=39375972&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=zlpujfbrohogxrtuqoeygydvdmdxnwfaouvzxckgldpfrqgtmbmtwtcdcemrqorlsspanovrtfjbgftgqgcjrbtvbqxnbndioctyhabikzhyllvyaqshcmjmtlwrjndogbbubcazfwsxlukwkiibdcxhpafwfgwrkpynrcadesrmxzqmajlheaihjaplrmksszxaydahivmmslvqqbjtngoltgxadzoxetufxlercsasjulsxlfjjbikjdgbnimqtwuqmlxkudhfemoluhwettmlysvndmegjhxrjeeylrielancmuwioiautnjovxpsybfukvqtkxmmzcgsbtdeevaicpvvnenhvruwqyxkjzrpctxttghvzuacfgcvgsslqxtnujzyqexusfzkjvonljcvxgwhrikepdlkugijhnoiukcqbsvxyalnwekconlttfhvbgjifnzhaodgzcadnablggxxwqpaaeslkjxsbwxdfmxgypgp&includeDoritos=true&content_infol=-1&blob=ABPQqLE0v8RtCX3uWUzOcf3MpJ6b__WZQBQh_mI4y6vQyjqDrllvwr706fx5uRvTzyY9SEEblAYHkF_6CkhAf5QAEYombkud9dnTEMYjmYoyL-bmR_JaX1wCwaz9Z6r88mSN0DGqZaun_JtWtj6MJH2OfY52peJbmAywg2y7j5qyUVWaZADRPk1EsYOBDU1l6sPQmkQd2WFmjqC0GFlDCcQPtaxaDGXc-s7naOZRyGkJ6SSgB7ib0PLlRWEe6g&et=5&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3730"
+    }, 
+    "40489f61-60a5-4d24-872f-2b7fb7afd878": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=25&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACvP1bg6XMDLUf54TH-c_u-UNFlbnYl6wPylKcNY1crVKLNWSGXv-Qge4wImX8URV3S3HC9jOoRU24auPQ7p2tgSOLfLgZraIspmuuaf8yleJ-zIiPyiN-IPW1DLopz8neWGg5M8otifXGqewSkYB3bKGOmX4GckBs9mghjS5rFYSJC78zCs4Z7j17nBHGh4elrsYpodZcH9wOfB7sxLwD9J7f5T8wgGC9oZo_fjKNq7VaBysxjFAv5tAlFX4GZi47l-aCN3Hv72ewZJv_x1r-LznB99RpV6uW6vyeOimbHD1U3Rrw4jHYVvCgOGkVVicMNv89XIsV_sAsimgMbCDL0gqAAgwtQ9rbozZ_Gw0LSU0DoWKIqvy8INPnlgHbvDGd0j-m9xefq_tFSGn3SXju9F9KVR9MTAyhwopHy1zAarlfBixwDqRSs-yOr-e4PiUxSKj9bKHFXB10bspi3XfZrDD5KNcmwqO7N-am68QTZQWFZS6Y1ESL_Do6vzh81mXNc3zd0jUbNClS6qFjB3ix5Tl4DYL4S5S5JanrLsNFSyZWhnTAfWTUqRhwY_eU4V5YJGq7gOj69HhVySQ0VdDXOfIft1hePT-KFeX9Vb7uyL9B0T4vE56-Pz1jo0VzvazEbAAwusRsXJPE6LTQWOfHRW7s8nXuyxCsuVi7Z34ZC0FRDHoSEL11cYEkBwadkBCHqsLUHgkSlQIKgAJtDYy36kXtLzwKkPAFw2AAu59my8Rp9nPMOIFuh0mxpM9Mv0C7iXaJmo1qGcV1F8XZ9vUJIXWeubIm2vG0jsGTTnbXojjF1KJAxwr4hdQM0Vu44333RjidGgXCb_kEnYBAsEnFSSO9sbSJKglSF_M5_u9eZCjOxZezHG4L1CEC9ktNfvpRtiVJ9CVgx00CqK_sBzi7Mgvn1LRpH_t8Ss5S3I9Z5HSuIneAuoWJuN8su3Uz0dSMLNHlPadQs-s3Vz1owq-32wXdEUqEjwmaVZ5wTSB3mDSB-kLtFeRNrSFS62Z_-d2hQMaFIQ1snlnYOKJxPgdsbpiH5f7mNMekc2bwEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=197a2a31-0e1a-436b-b268-be840961498f&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054197&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=3&u_so=p&basets=896480849&currts=896517449&preqs_in_session=24&pclick=0&support_transparent_background=true&pimp=0&preqs=24&time_in_session=36599&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1509200483&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=13607648&heap_max=536870912&heap_total=50247920&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=tjhdnvdstewrugwxrnutuiydlppjgbkmmtaouwjljlkjwjvpbqnxnmsytighdfczrysmardqykikwevldhoxxnuwjgaokvyrodznmpjrbkbpgyumddgzlcvuigitqcafrtwatacfsscnvamaqpahoafwrdlphgpvvurvykjnuvftdzqkohlcijsfdpqtgjlaapuvdcafwekjguzakwznneilekhnkssuoquaiewessmkcfwktlyriibzmmtvvdhofojivxndirrhjowtveqcvrmrzfnuzxadhpzpsrsxmrlqmjptwycylnnnsavpsizjhscytcyebzymwfonzftahhaftudnkdswbrmochlvmqitrsoumjjccnwcecxmjziryzzjiqtkfsvmqozczyfxvscyavaslkdpwwwbkoapfsbwuajhgaadykkekfqazgmukqafyfxkpvjhdlgyubuxrizmzjcgacwtqxshocgobcprqqljmlee&includeDoritos=true&content_infol=-1&blob=ABPQqLFRBIdIUNmmBjIxcDTPcB68w6YC7rRTP2TXRtqqvyGPKi_ucBhqlSSi8p6wLHrUYX5y9ZWMQWgDUjOIzZvVHscDAFj2tEuEzlMCKxTCR-745omeqlt0OeUo_EwAGrmt9U9QDyHUXgOA5dDR18mmlHkO46jW7gTKhZ3D6BCCAUU18QDV6i6jw_69L8DgspMgftQpQCzVOl8lUpWhWFxrBn2HwE65QZXjryAmyUJwa21rjsKG6EGDXg9cKA&et=7&swipeable=0&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3735"
+    }, 
+    "41605408-d5a2-44dc-bb3d-146cf7e8ffb1": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=13&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC_P1aooTMDLZW547v2M3m0QtFlLnRlqcki1GUN4VfrHvCNm6Odv6bos8wKm28URRVCnHJ9lqrTGe5aOjz756vggqIfpg4r6EMrmumar8wlel_z4us6iN0INy2DJBgzsLdUGs6EIotgNbmq-4wmYN3RsCPmnROcklGn2sjjw9oFaWoCLUzQs4Rxhx6lTjuh4ysx8Upqb5eHdRPfRzvjb4D_Pbf5Tw5gGGd6Js3XlqPqJU6BCMz7FMk5fEkHV1PZyYQ3uSKFhnu50-RZZP05lr9LDjD9t0JVKGdi_6fMyibFj0c3hHZizLRd9mgMEJdVC8sHv48dIMU9csNiGotDSPA2QqAAs1PYcdzHt5dBsoUGcAxwAIf4zS3JT9c2_-xVeFPKgBOk67FpO0IyDZvfqib0MS_3r1Q9Z3cqz76JJhmuqm7H4ve_iI_mHmcmNzzhg5xKr-vTmOePsf9b-0-ZyYJhomU7yEPsZ3obwpmmbnsMYiIYc09i5wVFl-0sOpsDjtzfBo-v_P5DiwlNugt9vgbBrtrCWhDnCIbQu027oeTdcWYd1gp85ZOoeUu0XHbL-9MWK51ZVW8fWhHuYgpA5kVH1igkygrjeh5E0QvL-hYp3EKNWSKsXggj97C2eg3qWep4JeiT-ukr1D9kxuQpn0Ne1IMTt1YGyvnYZ6737DpCAG0s0ESEMET-ohdmSefiObWR_5ur4gSlQIKgAIqLe9_e10VfscCh3kJ8pI4Wbq2QqZRUcvgIQmvLHCu_Bdg2jEhjbTR1OGUsQtFNJ3d2yso82hNCDsya6gPx7SiEheBCwyluars75IIRJgRII6hUYQTfiR8JmVOBp4oQVFN9JU0x2o30IKN72iga-woPYvLJU7Waz9JHdxzEwxqd1VgX7q1jydRAxHmFswqUSYVdukDPUNIVTQdWIpOX81DDKftVZnjfm-In4hhXLKEW7pTBvWAbfHc-r6aq6gWIWV-_rzuYBTBiabFRymWRPoRZg0acH7kbquQXGZ0EVnymnIft101QczVb2WqlhXk40KtUpEdIcTO1NnPs8_qJ2YQEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=02d06342-9ee9-466c-9052-58314dbd22a9&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054149&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=3&u_so=p&basets=896480849&currts=896493901&preqs_in_session=12&pclick=0&support_transparent_background=true&pimp=0&preqs=12&time_in_session=13052&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1509200483&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=1298452&heap_max=536870912&heap_total=39375972&wv_count=1&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=hfyzbfjxhodbdmgvdbcrrxsktvamehkecmlaktdivlsgnfpfasquqyludwzdgluvwsamnksrkpapzidlqwbqckqbzjaqhmklcqjagrflsrauasnpiavdedhlpvlsjwnbjdcslizfdjqpfqmhufgejxiegdhhuehirjmrshuxornjoosfytlmfpdpqjojndapyhkkvejnuvqbesmfittjyohdeveetjdtoyowbxhypfuuvyzqxiqxtihacduhbavejvlgumwjwuhkihovmkasjwryrppnobdqppljlvejppebocxndesvkhsnmmwaacocbrcmxpjwglqthqtugasksuswpitpzvxpuyafptyjivywpzhwjtmfukjwugzxqvljeyyyccxhflfdrakddhjnaggrsmvsdtdpyhdsmymblinfeyczqpkmietovwnwkyqzrotfsolzzknllevrthuqfbltrjlkpuparntdbokdjskfvkzxprnq&includeDoritos=true&content_infol=-1&blob=ABPQqLF252cE5S6mUWYvZXpr9UY0AHSQbl9zYx67A6K2xI4vg1IZZETHozuvRNmcq7dRleKw7R-K85_683zQqjjz6a3ZghqE191asOM5Hruz0bNJvTaqLG4SxL9_sr9QQ3XRW0Sstz3m2l6jt-mCjBP7lHQ_JOcNlN44Kr4O2IP_VA4oGACs1dTUWL-ra-5JKchXcPpsQizLHeTQthcrdYcxrDE_RQ0B3EgpWIUqeQkKmquRzW-xVKCzHuLnsg&et=4&swipeable=0&tcar=5&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "41e7622b-2f9b-4746-a988-b4686c72fb50": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "4226172a-7260-4ef1-8161-f97e709e3f66": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.23.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.9/814932715208091/activities?access_token=&format=json&sdk=android"
+    }, 
+    "4ac10842-ca00-44fc-b0b7-2049f2276c58": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=28&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACvP1al6XMDKcV54bT-c_O-UtFlK3Ul48JylK8I4FcjFKFNWaGUP-Th-wwAnH6UTRxSXHh9j-oZF-6auDG7p2vkymLfqgbraE8rmuub_8yteR8zKuNyiNcJP-1DLwhz-rcVGg6NcotiOfGqc4Qn4B3eqeOumwMckFu_mgjmyxrFZSPC50zBs4Z-j97vRHMh6S1psYJsd5cHdgMfBz-yLwD9JDfxT06gEG9r5o_bjiNqKFYBws3jFAs5NYlFXgOZi49n-aCJ3_vz2OyZJvtx1r9PTnB9sBrV4mA6PyfKimbPjlY3Rnk6DHZUvqgOGsZViccPv8cWIUV3cYqimoYaCDowAqAAhfpa5UfU-9-gD4SSM1PftNWBaHe48kAzjAvueMn0abLMWyGWxVkTnJrm7YIKlWwvHXGSsjj-iLY7_GZf_Uc8VY0OE6aPBioL4xx-XrEWOBHHqvB8cEzbJcTMq0rQZ2HLuJJbER0z5h6rUMa67Wj9ZQdPbp4-mwLzu_kT_5jSE8_HlhbyVtK1QbHiVaQUvOf8f3UTMFxkQm7pPxZr_E9UshB7_DT6FKUw4sPx6KlCtAOqNu0Vq-Q9cWAJz-m5oqfJmZTSbTy8gmPRueLct6SqqOklGZfSVMCcUW9In8sMH9jltldwnLC4VsPDBCJFOwy_4J473tjSeaoLlrxK-iIFFISEKuuumf4LHUtizWmBib6qlkSlQIKgAJCeAQvYV_tq5V7sWwrD8muMxcrQs4P3vnIRWBOBpf4GEeUlsEZoJaXniEvEEmx-2v9pPUrgSryGzNLE0o_icQyaJiaOjzNeI_GW2Z9LANt9dQdq_FT9pybPqfCVvbrWQJP-mRRxd3QNbB1Rz76Ej8YVdf2cgxE6bg7MQY2WygKdGdVf-318cxBcTGtYubBRCdnUJAlNwir5Txn22106sN1VgK88dOZh9mKTOwwPqzkDdKb2OWA2bnKkoW9qeIL3qZs7y45UAGxrMbOBr-87b7mbrbWFRygds3g0YHhKQ2SXkgo-dsFHiqVL2joone9_JPX-YdYQ25DUdNzvM-KsipXEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=57b5e4c5-3ff8-469c-8bea-ac904ba84fa7&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054204&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896531113&preqs_in_session=27&pclick=0&support_transparent_background=true&pimp=0&preqs=27&time_in_session=50263&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=9029769681&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=10856616&heap_max=536870912&heap_total=50247920&wv_count=4&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=jrmrpehvwgjfkerrvzcrpotrhieeupgjqiifuacdfglceoypjlaivhgunmgoqjrehjsdmpttqrwnjzcnjomudenrppecnzqhgsnlclxdonlpaxfmybrkeqlbcuarbcsznlsblpykcnfrgbdvlpxfgzljdejpcaielisqjehbetwmazuyapsyqwklehodbzgmkwxuairiwbdjyekpjrkovctcpkdjgvbqbjjttwldfnxukdhcycezbtuvolgxwixnkunpsabluunutjlsupwhbttgxsbsbvvpwseyseqyfbmvytlbuwioalknrruurzvbdwvufagdesekwqqkzbqgvaqxdxgvmdbwowptmewemjkusvacqdisxjancmvzkelhhptjbzwhxchwqfvllowcstlbvrjjwjiiqekdfavgnowndwozxgbenlpojzuyjvwebzrlybacvmuooqjuvdtiwpbyxirgeyinqqftsbqhqbpmqvtapykj&includeDoritos=true&content_infol=-1&blob=ABPQqLFWlXW-YT0tWF2ZnU6Ojrl-tnVcUuvtWpQ2iHAZ_m2h9__tOvikkO9ARtnw6mFrf0nN6crG9rpS8bRvHsJ1TtgX6PxeiaMCh6La6soqfx_7Kee9zsgEx2u1Yy12CL30nrwtpXwonHwE16ls01u1RFh15BtC44qO-3jWgAlKLaC3lQAogccP-JVFwqQIhc7TyNX1yGHSjV073kPYU6O5PGx_4Bot1BOslLMdVjRnD7Wn_xINjn6oQ-DP7A&et=5&swipeable=0&tcar=13&jsv=4-production-sdk_20180212_RC02&urll=3736"
+    }, 
+    "4cd0a048-a558-4f28-bf7d-ae4d29b8c35d": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=10&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC_P1bpoTMDLZe54br2M3u0QNFlb3dlq4gi1GcM4lfrXvONmaOev6Sps8wImm4URVRCnHA9larRWe5aOH3756vggKIfpg4r6AMpmuubr8wle1_z4qs6iN8JNS2DJRozsvdXGs7FIotidbmq-4wlYN3QsSPm3RGckBGl2sjiw9oFaWsCL0zTs4Zwhx6nDjmh4Wsz8UpqbZeHdBPfRzvgb4D_Prf5TwxgGCd5Js_XlKPqZE6BCs37FMt5fUkFVlHZy4U1uSCFhXu70uRZZv05lr8LDjD99kJVKmZi_6eMyibHjkQ3hjdgzLYc9GgOEJRVCcsFv49cI8U_M8JiGopCSPJ2QqAAv1TfuNb3WRLcNXquSa2ALGPUhkju8kemuvOB52naXCXiePav6gkvsghf3gXlh87Sy_ue7qSsljsru1ebUGF7vIrmdmMqDUC-K2P1JDlYAOoEk_BvgqErs0TMjgKD0Rf5y2DOuI4NrKaBtLfcmhDJRnoF0S5AtYRl-yK4Urdssto15M5rY7SD0qZdnOwXt501u3oQWJHAEi6pREpkSZkMIPEqeO4JXYpw7KqIJOUBgCeza5w4jkeKnS4DMEPmZZE5PSEOt93OiEgqTw4XVA0mfyYAqjA9laCohdGIRGwyHOIJ67Ddo57pWcb2OaNwal-GbIInblSMAhtRkcTX-oPSNISEMf40ed24GYijiowlfy-zkwSlQIKgAIgaQ4qY2LbLKdjpCsdg7tI8S86Ag4uq55E7G7tTjLT3BeEmCXhGb63jBge89mVqM7XAO1uIa7Ae7HPDOo9DPDwgATUHOBsAq3UU3Vf3AIJEVQwxrRze4JeDo_IUPJyJicDfhcVh13KkbDoaB-KK3B8aU-0V2bgqH97FTVWERQqcIlFMYtTXPxgLRGLAZDYKCe1aOtkMzDTJapO0Mjw6r4xWjPmNS805j7U9d0ytCSgSuIfnaBWVMuuPqGkj6KrtiWy4w79zI3j6ZhGSFlU8IhmlI73VaY8Ye2wTKwg6Qn_vHixyB37JkrQ7_DN5U8g_xIr7ORcv25gkitH7Orws2EXEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=435a13e6-3381-4286-82bb-8cd28cf74137&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054133&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896490158&preqs_in_session=9&pclick=0&support_transparent_background=true&pimp=0&preqs=9&time_in_session=9308&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=9029769681&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4893476&heap_max=536870912&heap_total=39375972&wv_count=4&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=jluflhciadxkzzkcfywadqmxjvoupydoqhskzeogvzcngaitlwotqexyphhjikfrqdwyrlmcvwlxpsprwinwfmiwfmtdcznfzkzyaieyaixnujanriluazcuyxxhrziegnpdlgtawotruzrjvpdiyudonpoyvypwjhdffmyfpawbxyprnccszjsroeltuzhwsnqycdbtbpzdxtnupooakgbjtmustwanwjdgskzuvtngkeehbvbcivymtdhtvbyabeegtdycjklmzruqgppbtwkdbiuybjqfglcfzchzbtdjyqmqcjabsjzqwhcfulkvrbtavitwjvksctfwfuobpulwqvzxwznfhcmhmpnbfwrkiwsgccufltcvlsnkwdalmkjmvqbkxsixeshclddqpltmkzgxlrtnegcnpgohaufpjnbdufhixkdokkmpfkgrfhxwjnmypqdqznbqqughvazwztsunclcluafzyutnyexgawesxqr&includeDoritos=true&content_infol=-1&blob=ABPQqLGHp0OputaMalMBeQsxDbtVw3l04VcqfWI8Ew5H6jJoFDsmvpJ7qjC1YCA9_ipszoTLcA9gJe3PYxKsjCDKJUcBwABDtsFL2eep0W-bX6jFmdy5onbgvJyy__rNiMjNDcUuY4Op4Ar9lUcRo_7dbs23kCN0YpLlJYKMH4bfSgwjMwCE37oEQb4iqXvvECkQDtEirQ24UaufR6-qQ5LGbbFI6X9XpGSGc_xmRyizYsQrf_Z5zA1PfnuGIw&et=4&swipeable=0&tcar=5&jsv=4-production-sdk_20180212_RC02&urll=3731"
+    }, 
+    "4d120d23-b635-4231-9e23-57801b2e1576": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "53007661-641b-4236-b26a-a91d22fa9d55": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.144", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "381", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "55e39a42-e70c-44eb-a649-eef03350e921": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=4&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1aorTMDLRE54Tn6M3u2QtFlLnFlq0ui1GcNYFfrHPENmSGUP6RoO0wImWqURRXGHHD9m6rRG27aOLx_56tgCiIfJgar6MMvmuuaK8wleN9z4muyiN-IO62DJpwzsjfRGs4EpotiNTGq-wyn4N3TOaPmH5MckFMr2shjS1oFaWeCL8zRs4Zzi56nTDch4ak98UpoZ5eH9xNfR7tib4D9NDf5T4rgGGd_ps_XmiPqpUYBCsx3FMu59ckFV9PZy4azuSCFi_u70ezZZv-xlr_LjjD9tUrVKuXuf6fOyibHD0I3hvRqTLZd_ugOEhJVCcsPv48fIUU_8E7iGgtOSPK0wqAAgeLkz0WrJw7izUyKbaqZRjoCKgE_z1p8UITyhYJwod5og_fKQUTClVcZ_3RZEGOmoyCUj9-bCEAfGMlCogHgXLC4lzXO4c_4E8EV18_OPE7uwqaI460v5QsuADwSUi-85wUG4fXfKDmVZpGd7fTvU9xGHT0MTugjvhSgX1ZG1sAEXQdJ4QIEyINGlb2YVhSrYYtkCXzHtScIbSrnxTGyXCzr96Tz7DZqsu4MGr1hMTZ9PSPlUrZZVRY-oClTO-adcLGffqcGjfScV2D2i8tiawmX2254yNfL20kwSdfNuf9dhYVdPO3TTx1f9MJwnLRlSlzqwrN20gSXGzw0BiEhpwSEEFEmuAzFoBFF-LJv0sG-o0SlQIKgAIqeW1q7lGROilml-1TIpC-uQ5SEtT567iauQ_fhbCCiMw0ktG7DezDjZl8hYeh4iqOl436dpi5X7I6T470i_p2SCON_nkJAVsBAw79wdQjpRzBrWSjzpBaSCnSBupkNdcR7AfBW_6ZcfPdeb9S7xCMvYv1Y25S0WngkST2g6A4oEz0G_0B-_1U5BHY502KSbevuqPgMheYZbBZirxp2--l3KenJTDTlNiRx-Sg_ibySCNbjKTdNftOazb2ve_Kz6do5gY5mSzzrUwhWX_KMIimSn32QSdIGl28vPQw-WmmmiMz68unwUiUd3HGY1lUl9IgOq-cLMgowLxjzRqkkyjHEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=38a7a190-2235-4e73-8ccc-55d6e34acef2&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054114&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896484409&preqs_in_session=3&pclick=0&support_transparent_background=true&pimp=0&preqs=3&time_in_session=3560&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=7553036487&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5546036&heap_max=536870912&heap_total=39375972&wv_count=3&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=sxomkoaxnwwsksmfqusupxvmiyjkwhkfbjdufecvvevdivrrpvscchyoyiheexguccqcfqylnyjwftsuvhtfviitzucnvcfmenmpwsftswtrldhyerbzjpdnyoafywsalobscgqlvezeicrphhqcgjyreraviwqmqzviuywqsldynspuorcvsssmxlkgtvpsuugernfvlzzmefskwujwuuiejwcqcjtdarelaqeutvpnxzvngsqjnquzhhxlvrgnqoisvdupnbzvvzvexiagqrkpmxlsoqajvquniuhnktnbufxybpovdtgptgvbozgqabtyedxdomlmlxldzsfwfrymawbolbhsqtwkqworzicupltgviphisprbqyvuvcktcxrvrqcapkccemxioxukatcuwfoansbxubmuapncifvohdknhhvlmdkhudlfasxeofqlddbemwmtcftsebjgefgqwzgvcekikbkvdwtjzzwlcixirmw&includeDoritos=true&content_infol=-1&blob=ABPQqLGNx5nNdMkvhMLibj2GGeQTRjL21eCpY1EoRYHNOMoVERxbbrJi6zTwKNl_7blFESoJbPnvHNV-HLzdoITzv09IMGqohR-coVMiOYkm-LxrOcPuNBS3jA26wOggvvCDrXNTBDE7qD45fa8dI8ZPSVo-Y6-3e6535JKLAIzRtmKn4gDXHbvg8l5rNxeBdBwHAK1MfIJ0oxRO52x48mkgb4oOpcDV_LAwU82pk1XeHX6pon_kZQR_EaZiaA&et=7&swipeable=0&tcar=10&jsv=4-production-sdk_20180212_RC02&urll=3731"
+    }, 
+    "5649eb0f-07a2-4df1-982a-93bc034d6193": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "5652bb20-6e25-4b5f-aeca-b5565071faee": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "56609c8b-2b24-4202-9fc9-3c0a15facdeb": {
+        "ad": 0, 
+        "dst_ip": "178.162.219.152", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "client-sdk": "android4.11.1", 
+            "connection": "Keep-Alive", 
+            "content-length": "699", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app.adjust.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app.adjust.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/session"
+    }, 
+    "5c0893bf-84ff-422a-ade4-5514be437529": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=16&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1as5XMDKdN54z3yc3G2QNFlKnIloUtilG0J41fjHLJNmyGfP6Zo8wwCnWuUTRVGXHr9kOrbH-6aOri_p6tkwGIfIg7r6Mctmuma68wteB8z6mt6iNWIMe2DJh5zuDcSGs4EZotgMfmq8wwk4N3XsOPuGxEcklOhmshnwxoFbS7CJczSs4R3g96tTH0h6613sUJsbZeH9xMfR7-hL4D9PzfxT0igEGd85s3TkCPqoU4BAMz_FMm5PIkHVxGZyYZx-SKBwPux0eSZZPt51r_PTnD9sQLVIOEmP6fKimbND0E3hPAgDLRdtKgMEtFVC88Fv4cfIkU18IeiGg8HCPiwAqAAirYkPnoGo8BONDDn6bFP6MjAFDyrehbLmInKxdK-fFrK2RtZay0lmtod7TQpHO7yHfOdpMj3cEJ949vLEfFXh0ywOXCIvAbcIJ5Jlf8CRcr4-03UDhqSjgQcG-VR5k792_nyFgpeRswjanygtY5aGEvNVZE5WKbly08nSC1Isk2ws4D1pDBjTDj18XSkRbrx82LdEIUDPkywKbBqC4lPdgv4b1hZFpAL1808qHFIpIDYltD2hl_RfkXa5z-s5mIHqtrglrKe87k4nFA4Tu8P_mU-bTWBIAfOu3Qg51wvbjjV3h3nDXBzQLMuCRn9AY-OKPue7lSnOBV3TtGxaBOqKISENz2hZFp6246aLsTkt9zK4cSlQIKgAIcmJ8CK9CfO6CCgPiF0Gq-Bo5rTsl_vtA4PKvKm0iisC9dzMxDkk6GwglfnJ3meG8VY92fuWWgGvs32dNthIQL4_fRg91Mkj5YUFXIoVg9yPM442DzWQYOHgeoUtkbgpftrSb0TST7ITGbTYJTEaWI9mYka3RBuC2Wn1SGADQbwTbNBdARpX1N2Dou1kgZrLp4EjuIEomyZIBsINT9worNcZJnUeQ0F_3hJry5pERFPKC3-NSBLJtDGCk1vQK6d6sc2e8En4ejvPOU_T5_WPzavS42BYgN5FxBjvlMTKN64lNp-fbg1Pqt8ZI4C_jQf67NpVTsopXQ4C72HHIBaADTEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=be7d7c85-db6e-4a11-b493-8bd84fac7eb8&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054163&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896503218&preqs_in_session=15&pclick=0&support_transparent_background=true&pimp=0&preqs=15&time_in_session=22369&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=7553036487&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=1147868&heap_max=536870912&heap_total=39375972&wv_count=3&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=krzyngyohcotuotxjahxlxwjjbwlqzbdziiwppqjrgxrnsfpnduoysawrldntmkacrhyfbtockvcpoellqjykphitoowvvfrddftxelzmmifyripibnmsdymxojarzbufmcmknhnkhsmogvzmglzbsyofssatkdotqyavdpyyuytabsmjdssklqcqtlutdttgjjofrzkdhnhmrecmafbeckdswihpskcsnyaqicqahefgvqyksixppeadztggvwtfqicbmxevxcivywdghynpetisncxewpmfvgjaxvfrvvlxgkjqowievwwltxjrhyldfzysjmzbfmsohttkzxfetowpytduwqernfhjlvpwhdnqjfafvufitidnlqoogjftzczhsyjgbvmsbtnwhlpledtuizcomkgjpuxkkrnyxyedsjxxeklqnkfjdqenlncrisoeveurdrxqorfxukjqmwuikgrnctbvxwqtudpexxzcedeuivg&includeDoritos=true&content_infol=-1&blob=ABPQqLF0LITJXphRyz6dvaNZNaonq13F1VMNaf6jWfahggUH76vj23hh_9dhhfAeoOMSi4b4BmJWHjj6d9qOGwsEOD6MTpGx84loHGp1w_aTbG8OUUcXAjzyxfn6kPh8RXBmqOQESDnpa_fROHx5ODidOGYxLO-4DKEGDPmLraNjd_9psQBiFBby_S4F0gzbqcGDEFOQ4gY3sdVbXfydqTma2GhWpu8NSMt4f2neygPyyXbjpsi2-NHs95uEvg&et=4&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "5eff6054-c4d5-4849-a2de-9a22336344e4": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=17&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1fs5XMCKdN54T3yc3u2QNFlanIlqwtilGcJ41frXLJNmCGfP6Uo8wwJnWuURVVGXHC9kOrQX-6aOfi_p6tkwGIfIg7r6Ictmuqa68wkeB8z4yt6iN6IMe2DJh5zsncSGs9EZotjcfmq-gwk4NzXsOPnWxEckROhmslnwxoEbS7CLszSs4d3g96mDH0h4e13sUtsbZeG9xMfRr-hL4D9Pzf5T0igGSd85s_TkCPr4U4BC8z_FMv5PIkEVxGZyoZx-SCBwPu60eSZZ_t51r6PTnD98QLVKuEmP6eKimbHD0E3h7AgDLcdtKgOEtFVCc8Fv45fIkU-sIeiGw8HCPLwAqAAub0dbqhW7m-ZHV9UjirePPUY_aO62zcOYCXVcEWh_prRHEt09roKjJOxkVCp_J0HVZIWbBHLZfa_4FUq0qcjVLDxkyYKlOm-gK7H11ZiQvWhULmRhOcuocWQiJHp3_RC-ChvYxFS0XelyykObwrzTIEw_6vUK0y7ZdYJdyZIO81sI9sR9ujp85fkRamxN70Se8VLY6r6jJBxYjXtlfhUpBHXWR5uAu2ulZyMU7PaYupdbA5un7AnlSiJfg-FDPAM0b5BgddCYzrCdGcl6Qk7FfEo791ty54vjP71hmAwOeQZhKEaV8SeEhHoqnWOlXZYDiJAhdskLrJg5HMBaRydggSEILwwUexz-_lRHSGmsIQ6W4SlQIKgAKIuY5vKplheheEFvUs0-S1OenkQkd38FqFcK0uDmU5eYfwuaHR-XDM1WPGsQgFEQE_SH8xgIm4EXlW_DB8IsGr4Fb1g3mh-DfN_SIEJN4mpdyQYwDTmjJgt8dOH_o8sdBKpse4xq0TTbA_LGRz-VuhWU98KM5m7yO7WExnkfuqZ6DB-D4yKoPI9TFmEmlYhL_klz6Gu4VNxbIJm5_4KkjP2xP_2d5wDvtNKqv4PCeAXhr30_QGbtHAnin-Mqsz9-Uquq3ilCNXFUDyBz31kxidJA77bZ8jeLfgT0Ro4OvWB8FPcdBCdOjF75Xoi_aUtMLawgcBh5IpwZraEFYJocaUEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=c1e9d8df-7211-4b4a-946a-a87975b4515c&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054165&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896503248&preqs_in_session=16&pclick=0&support_transparent_background=true&pimp=0&preqs=16&time_in_session=22399&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=9029769681&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=774284&heap_max=536870912&heap_total=39375972&wv_count=4&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=qecmkpvtqznzsbrnkdotpizngisabducqutflsqcnobzssgiehoijxsgymslpvroxmajbieumsgfffeoavqohbudphsphathyikoapqagamhlorubkuctmtasqtyfpisiktezxlikubmcxhowxarlrsrspvahvfchddpiwszqmflyrecwnogwwferdwkkvuoqywsbrknjkscaezarjdaluachrlpwcxztjdtacdiepqupkrzgnznhruaxawjwcckrzxzehuxrkqsqnbiyvqfvnaahuqxzalsjzqjjvvfetixjofrhwmmeztjawhuwmpyimozmqnlgrjempcsundhtlplanqyrlruvirjdtfdzbzldqeieamyzppbeiktvquwrkqnonzpzxnclqkptotljstbptioapxwxiqyrfkvfalthyfzhmwzilplccprpdtqkzpngzhxcuxnszipbyakkqppxopgfcawzzfnpcjbkrpewipkrdli&includeDoritos=true&content_infol=-1&blob=ABPQqLEtL5fv48W6dUkjD7WnEWuPuNSEvZgKm1D9WgmGw8lSFL6JTOIgkz0hByk-A4t9ofACofDNF_I2YD7-ygTLu6hp3H8iryIV1DOTIDcdirpswGhNZzuBT5ADJNTNwgv-wjk1eA7KK_KzYCe2PIMJF-doHHNDl80MUKpoY-rrFgHTHwC7NePE5dKxa-fu4b64MgBWeEVvN12hwJFqr7tq7buPWIHRNXWig5QeuAxkzP9U8KMXFrr4ltr1QA&et=5&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3733"
+    }, 
+    "5f587f58-3e43-472d-9e1f-64c181112a8e": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "65dacd0b-9c2a-487e-a676-24d6775da28f": {
+        "ad": 0, 
+        "dst_ip": "23.21.253.99", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "settings.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.14.143", 
+            "x-crashlytics-advertising-token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", 
+            "x-crashlytics-android-id": "xxxxxxxxxxxxxxxx", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.14.143", 
+            "x-crashlytics-api-key": "4194fbf5097c74b675c7bc27fe52978ee2d1860c", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa", 
+            "x-crashlytics-device-model": "motorola/Nexus 6", 
+            "x-crashlytics-installation-id": "615e704def3d4df1804cc22ffc71819a", 
+            "x-crashlytics-os-build-version": "2704508", 
+            "x-crashlytics-os-display-version": "6.0.1"
+        }, 
+        "host": "settings.crashlytics.com", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/spi/v2/platforms/android/apps/com.mxtech.videoplayer.ad/settings?icon_hash=b6f91cb06f844bf8c35b60ed3d296c3d4b5328fa&display_version=1.9.17&source=4&instance=cf05aa9964ae60eed37c0cdfe76ce006f4105fb1&build_version=1210001038"
+    }, 
+    "6605c211-1ab7-4e77-aa4e-00f30ef2bbed": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "67596b5e-0232-4bf9-a260-1336ab1ea347": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.211", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "104", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "i.mxplayer.j2inter.com", 
+            "user-agent": "com.mxtech.videoplayer.ad/1038"
+        }, 
+        "host": "i.mxplayer.j2inter.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/auth2"
+    }, 
+    "6eee3e40-5622-4a7d-93f6-24d2b1682b59": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "705a59c5-a06d-40ff-8d6b-1db2d562fdf9": {
+        "ad": 0, 
+        "dst_ip": "54.225.206.218", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "774", 
+            "content-type": "multipart/form-data; boundary=00content0boundary00", 
+            "host": "e.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.10.143", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.10.143", 
+            "x-crashlytics-api-key": "4194fbf5097c74b675c7bc27fe52978ee2d1860c", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa"
+        }, 
+        "host": "e.crashlytics.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/spi/v2/events"
+    }, 
+    "7f9cdd6e-9c79-461c-aa3e-87f3563e2e3d": {
+        "ad": 1, 
+        "dst_ip": "152.163.13.21", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "99", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "8012c13a-765b-4836-8461-e6b993d7df63": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "832300e2-3031-4096-999f-d6ae70b7447f": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=22&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1fs5XMCKdF54z_yc3m0QtFlanAlqQlilGUJ4VfrXrBNmiOdP6co8wwLn2uURVVGXHK9kurSXe6aO_i_p6tkwmIfIg7r6Icvmuia68wkeh8z4yt6iNyIM-2DJBxzsHcQGs9EZothcfmq-gwm4NzVsOPnWRMckxGjmslnwxoEbS7CLMzQs4V1g96kDn8h4-91sUtub5eG9RMfRr-jL4D_PTf5T0qgGSd-5s3TkiPr4U4BCcz_FMn5PIkGVxOZyIRz-SKBwvu40-SZZfl51r6PTnD98wLVKOMmP6eIimbFD0M3hbIiDLUdtqgMENNVC88Hv45dIEU8soeiGw8HCPDyAqAAjDx5LRFBsQdtXAyLfjW93HWzIurmLpkn6QUZdmrDFFie5-CICEIIOsjeVviTKSbLGwbM9N84hsRz7CHrEB6eo5ba3NZ_V4-5CD6cTJo4EFdbnHBe-NkvuBMIU6NakU3d5sGEY0c06hMeitdOEJq0es3iJjq2jTCq833tf_7JNGTXTJ1COROj8q5F6gORP8TkQ-x6StBsVSgOGfZVwAgA42uWtefz_zADf5nyfaLEwblcT2QfkRfvnqzAK-DiGk0kne53Axh2jgd_lcL7Fhpf1gv7RMS0TQit6AI_DOHD2SkPhLyZjtnlmGAPdkz-2P0cUs-d2K2eec2t1z8-qMq_ykSEJBIpzEsuFPZCMJQC5Brk84SlQIKgAJbDY4_akVpO-4GO3WBxMVXCDtvQoZqVih4vKov1EQ0-G_ElFBIC15ejC3jkZLzNdIddnnDsvgwovKL0SMmDchKqnJeop1J8udURCRl5VClxf8R62HyaRjSX4pOrt8DHZPkOehZTwmYfDOPBUZRHfdg_Ur4q37ga9HRF0ZWAwGCtX1h9_xVOIAY0iZrEgyoDK98DpgkVSXt1MRIG2y_z0HNfCb6OaEkCaihs6QI7VSsvaM7WpXJIfuzW4TzYAi73Kce5aih2YvxRP8AhI4_8Do_v4teHcYJ-oVJPsOYCC5QN1P189KlYWiUtoNu271UPGLEuItx6RyD8SlGOkYC1Wp3EhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=827fa9c3-b2f3-4953-a300-ba5cb741a1f2&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054184&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896511419&preqs_in_session=21&pclick=0&support_transparent_background=true&pimp=0&preqs=21&time_in_session=30570&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=9029769681&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=1618092&heap_max=536870912&heap_total=39375972&wv_count=4&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=caidjktmzihmdfuliunrkcmklffqabwndjuyrujvbhedluatzqzwthcudbycgjqqtgqebwgrhhukyldtazuqjeksawxkprbwmvfdtsflwbgdjdlsrlsaivkmigruiexarprrkrwjkjjqbyianvfxbkbevarsjpkexutrmewwuhpphuicjncczvuzibybvqjbegipdxbzjcqmgbqaglobndepjoutpcwuejsxadfmcomdeqmpyoguhbfetisvozplaosftubopqkyjtdpzhbjcjckgxxwdylfjgieifnijzwgftuncpuboqavsiutjgwzwpiohhdcrfldwbyexqbrbvhuooykjampcjfwcxtdzaojhlbjwtwfkloipcywzdhzkylhyiqdkpcosabvarpmywbxbamvksbmnrxnviydwoiszazegvmkpcjmfwwkvarltpedzacaurdgtjuqxvvtqbndcnnekicddtfugpwbdxyblnxbrnnp&includeDoritos=true&content_infol=-1&blob=ABPQqLGj8gjUilPCpWijUSb3CJxLnhXaRYHrWAJu6VTUMLBYJOSINetvW-t3f1vqN48AVhufbL-zqMxQMfioRM2tCUqUexnqgeFlI4jzO2sGzRCww4ulgaT-Chi11m4n2ZuPwwgJdYQ8uVMax2MNrvgcpeIZ4bSbor8EuKE346m7d7jHSgDnOuaEyNmxLJI44GNTYoCOqvGUnNupYDtq4BwVGjtGTpmfDQmVxUxFxsHm0l7A2KUp4TD0QeZCXA&et=4&swipeable=0&tcar=5&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "83e29fcf-a563-4c93-ac06-2e237a814d0e": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=6&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1eorTMCLRE54zn6M3G2QtFlLnFloUui1G0NYFfjHPENmiGUP6doO0wDmWqUTRXGHHr9m6raG27aO7x_56tgCiIfJgar6MMvmuiaK8wseN9z62uyiNSIO62DJpwzuDfRGs8EpothNTGq8gyn4NzTOaPvH5Mck1Mr2sljS1oEaWeCJMzRs4Vzi56sTDch66k98UNoZ5eG9xNfRrtib4D9NDfxT4rgEWd_ps3XmiPrpUYBAcx3FMm59ckGV9PZyIazuSKFi_uw0ezZZf-xlr7LjjD9tUrVIOXuf6fOyibND0I3hfRqTLVd_ugMEhJVC8sPv4YfIUU08E7iGwtOSPi0wqAAmC-8vqquPNGIZA65s7EkD8uXjQmPsGv2k0r3csvM_lQnNL8BkXCUiAr6gE0UqeYjoFhAmHbGeG1sKUv_L0txtzBs1pyGjyN8RgB5FxZVFMzV66hESmhlRC0IV-M1lR8wg2j3Yabl0IlzwIapU-nyjaI4bA7pSKyr_fmBoM0x_K7aqucIu4Gak6xGYL3hehAIKGK4eRUR3ET-QoVPHwpbDt58_StNu5UxJG3eo87Jufv0UBctvtdg39gCadUePGQk7LWQ2Qn3Frlq2AEYUpWvZj2uVlOI86b7261S9CQLDPe6qYdwUWhex1-lwWKPxolf5NIfC-IQkGYiHDdWWXXj3ISEBopjR4BnL1Lfl2RjDrvtUUSlQIKgAKwqUdLwwC58SYFkzLpY7z8IOk-R-_O75uQ6ANIH3yseMfo9IyB0abPDHo6H5mVjGcXwKFX0SDRE7FnQRNtgpBBwUaPAPUoC7QUdQRCbc4NwZU46-mTu7jP_mfWGfe8XRaHvgE157WxKdEOdUv74X4BHEfRYtZG2-9aWWYPIFJaSPxpf5q3ErkNeJn6HcR4ZXMUpuFJthz8rA6IylV1gsFEfzPLmCrw8P8Bk4x75Ca0PyLXitTD_tvDeimat8KLjan2qygFuQPRvX3CVf3VmsrS1Y62DKY6ctyBTvKFSEPAKTnfq7WuREjlfzSuwP4k_eYvQoMsqgJCY6pDq_MhuWoaEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=4b51e412-2425-4837-a84f-5faac09f850b&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054118&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896484461&preqs_in_session=5&pclick=0&support_transparent_background=true&pimp=0&preqs=5&time_in_session=3612&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1506502883&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5262932&heap_max=536870912&heap_total=39375972&wv_count=5&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=ujaxtalblchrgcsetlhszfkqcronslseuodptvbdhmtrkixwguhkoqbxdeqyorpplllfroddyzpgujnsdfmywnzixwucblcfmaegseeujnjxpltdprgsxdlgayutwulbifbledpogbcwxlluphryexhxrifpgdqxoohmmkajnbprwvsazyrwtcgniitzpmseiebgjgguuckqcdbfoegpxkzlmandhrnpitvcsnqqkadmqwpbsuehvmhseoxoxeiiqkqjeilwdtoaorbqfinqzbylpapkdgdlfzehjskedsdpffwdzbxueqccjrflgczuzfxcddirwdzpnpzermeglqrsavndjwhqlarqdvouzlepcleibrwbqrivmvwozelftbwxibaysisrdeivukuxagdibpuozciwdhybsnasysjwugulyufzdablxjmmtbgfurfawrkukyzmvbawazkagldejksktsibiwmdwkehdblduolyspjs&includeDoritos=true&content_infol=-1&blob=ABPQqLGh44MjpxEvd7mj21dEtnoGTNJHcnYfuKnRGoQd7Yel6jCEJpWeIjdSeO_T6mAPRgITJS92zbor6AxCLD7VwvCd8iB1QoT6EqUAVxzE5vkP-JGv6g3SA-XGgLEo1Spg5rejmLcC_SK6b03NCKDcFT67De-SzccgW9pJqwBkXhs2dQBxZLKeyiE4hj76HqubYF7TnN5elw8jdLkleKwRDPrVdQxzaFhoR-jTuh8E495RvzlOdKGbdPHtig&et=12&swipeable=0&tcar=14&jsv=4-production-sdk_20180212_RC02&urll=3732"
+    }, 
+    "8c05d294-9a0d-434c-ac7b-ec3257c47c82": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=2&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1ap7XMDLVH54Tj6c3u2QtFlL3Elq0rilGcMYFfrHLHNmSGUv6Rpe4wImGoURRTG3HD9m-rRG24aOL0_p6tgSuIfJgZr6MMvmuuba8wleZ-z4mvyiN-JO22DJ5xzsjeRGs4F5otiNXGq-wynYN3SOWPmH5OckFMrmshiS5oFaSdCL8zRs4Zyi16nTHeh4al9sUpoZ5eH9hOfR7siL4D9NLf5T8ogGGd_Zs_XmqPqpEaBCs13FMu5tQkFVpOZy4fz-SCFy3u70OwZZv_x1r_LznD9tApVKuSuv6fOimbHDkI3hvUqjLZcvigOElJVCcsPv48eIcU_8Q4iGgoOCPK0gqAAsEKMsTGBBl55nZdviyG0YjQLu0y8IsdqZVXRkOeBPC9SjR0QJg3vj7QRuQz9NIJpRj_GkA0aCpACdynm_RbcmWbGwpp47vap99bwICIkxoSL1Ml_xFD3XkGA3QyAnz7c6WZUFkbqbCfUfYLEG7TL0lyFf53EcLUYfFAvo2i8Ds90wyigZLrm9Fdkv9LaxhxvBx8NCsRP4OTok_M3wXl8vxJ0Mthjfz9c_RLLDpfGyyVxZd_tQdzRn5ST8Jpfyvv1ocNJHKEvddHXhlKl8h10RokT6dNEOo5hfZMdroX6j_yQYiVBWtdYQe9S6L9Z32qnB5Sc1ljkk6HHMt2Mvwryg8SEGNowL9uXh1jfQz-3oXZSv0SlQIKgAIP6Y_YPllRaJB2s6kzE-duMZ-30tzBbRiOgGhZCRHW_h2UhxdHvazBxCGJBQuhZPqnvmpOjylImX4SGp5ogunCZBKdiGgRwbvYG-_LIdxFx8FQGXZD_gDcODFGBu_8ZINc9MCxz89LtbZt71_2z7UYQAvzY0JCYvs1OKQCFik60iFVfoulamoUaKGblekabPF6k7DUNgcNoyT5WNx4-uhTQBewk9TSMnzE3sX2JjfkvpPTS8CUjJnKmw-iqafTfCM4_pCfHRWxP9SAHm36oZtQO_xmlw5xa0vhHTIEfVmjuka72q1HUIjwd3HX131k9ubJIqkoBHD69Ix6quqUozuVEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=c4b1a638-7bae-4f6d-9032-1792f383048d&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054103&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896480892&preqs_in_session=1&pclick=0&support_transparent_background=true&pimp=0&preqs=1&time_in_session=43&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1646103681&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3666388&heap_max=536870912&heap_total=39375972&wv_count=3&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=tlnvkopykomunddbztllkjhngaekyelfedpizmchiboccyhdgntuuxqqfgbirpxdigdsobzlhldzxklhgrthabadeqhngbnfbfloiyqqzupakbttdoofpjrpesrqdrxzqzgkpjfmtwkllragjgricpyukqqcbrhwqguvhovnaaqpaolaqlyekfzxvwjazrmdbicmoogyghtyazmwxtlkzbjsoqnjxininsrljixcoufbmtkckpxzxpwjqcucdycfdyajfgbtsokogdioombghsdskqzhnhvlskgsijldzomrgtdgohzqdgbgsmnyyfbatlmtgxuinovpzmzreupivodzycujdkxdwlxgwqzirqphxfzgrunulrxjvohfqmpsxvguklowkbcxyipajdgdlsbiqznzfnkqnkmeopfobcgdbnvdkmwjyfykltsefqezmglvmzfmfjyummvbnkiimmubxnfhejdlusdudpunskrkysjmmybt&includeDoritos=true&content_infol=-1&blob=ABPQqLGD42nLwNglqlAcKU39evYlolSZZI5uTapqfLhxpt2rWN1i2fGf8NEhTrRUrG6gm367vRcPkHcrGcINStvS3VyFK94JFuxDq8RALR5xd7pNKG6yFLdt5t9YiIrLRT2z00DblGcp9xYD-KJms9yjpYCEQLlESidKVJe2THd_BwTa0AB9jimFNXods5sMcdNZh9MlLh_CWa3U8Vgijke2zse5n74Jg1wjJ-jTLYN2Sob_SfHETqY_ApK7iA&et=4&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3728"
+    }, 
+    "92a38e6b-f3f8-4077-9a02-87e8f49f626a": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=15&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1as5XMDKdN54b3yc3u2QNFlKnIlq8tilGcJ41frHLJNmaGfP6To8wwInWuURRVGXHB9kOrRH-6aODi_p6vkwGIfog7r6Ectmuua68wleB8z4ut6iN8IMe2DJh5zsrcSGs6EZotiMfmq-4wk4N3XsOPmmxEckFOhmsjnwxoFbS7CL0zSs4Z3g96nTH0h4S13sUpsbZeHdxMfRz-hL4D9Pzf5T0igGGd85s_TkCPqIU4BCsz_FMs5PIkFVxGZy4Zx-SCBwPu70eSZZvt51r9PTnD9sQLVKmEmP6fKimbHj0E3hnAgDLZdtKgOEtFVCc8Fv48fIkU_cIeiGo8HCPIwAqAAnEe6xSBiz1K-PrWZXwbphxnz4Jl0mRypPUhY5R3jfjYzA2E6cE8WqzaLMcw_c3QcgG0fxI3YXaR4uJX9HDoLrfje0VQDUCakONV-vcc-_4tKgsRXWSBuMQa_5Yj17-Gb3XC9MIt8vCZI2w3crhGB7cTzEr73AUiJqQfLpXnNO1qJ3FRFvRyBebD9r9zJ8WcSGZXU8GkMUWjF05slzqjnLV41YkvVTyQD-Omolfv5qL0qje45bmCmTcDUXyJ0UWyeKku8Vfejri0sUJB2omQQKcYVBTacrMJeE8n13YCPhKPUHv4c-ia-IAN7s4_v8qXPX-d8O1_uLpSb71wXK5_rwESEDINEMEmhHSlXUGp46aa-sYSlQIKgAJV0YwTZnxdKLBrIL_dNbntR4-yApz-NpJ0tGDEiwxJ6SOcHolDszaKygifz8mjs2tFhmzb4ShCX7IzC8ZsqHRNtjJLjZQkkTEQGffOqdiUjadc2jSz_YRSHi_LTcXyKIa0wBSoEcVQMXBWZ45e-e_F-icmejRsKXPLE7fPQBCiyStlt55RYOVU3LOEjAEYtb8gkunAAgBCNZzsUs20yquVeDvtDezw9qO0x8y68CQsauXbAITAgNgeWSU0vgPTL6UU9RZQmyNo_f60RmUmvBbX9cZ2WcRI5kUFKqAQDUd6sVqB2bD9XMrl6XJJSal0bLqNIPft_nxis357fWpEqeuGEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=f3303354-bfa0-4189-96da-356a35a32d98&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054161&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896503187&preqs_in_session=14&pclick=0&support_transparent_background=true&pimp=0&preqs=14&time_in_session=22338&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=6076303282&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=1555180&heap_max=536870912&heap_total=39375972&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=zvagnjapsotfepcozlydetrcendppgrmeqqfzydyycbopawthtujlwjbiijzlieuijbrrxxqcofdnheksyqvirgrsopihxlzhzapkxheofqtdhxnkcdojjanmvmdwiveqscdgjvudwlgwepcjwfqxnavggijmlgpfcuvdctzfnvwwxkjijzufpeotmkhcmvwtkciwtemmwowziszxapvabelobfuiisqyktkwumdvngivwsllebomswushlzndslqcwoletrxpniyqjpblvakvlpxkqhlyosowghmurwzqflgvobjvpeusqwbmzkieoytrejrewpwglgcktqagigepvitkerxddsgemwqucfusrffqyyijndxbafbhehnjzhkwsymmcvwvpzudbufpvtqiontelxiefnzjvysqweuvcihrhbgobbymmshvzghnhbaaexdrzjohqczodncticeafrcgbycdgugiszjhbmcowmiuisowxe&includeDoritos=true&content_infol=-1&blob=ABPQqLGJ_eAAnGiC-nZWDOUYtjeew481x6H6YtP7gDtgrkyEjNqd7Zfcj8zkTSL7iKqbgAxmYxwovyK_pIPWOEwOCMEoI0gGjJMcMzxX7F_k8cpZ-UtDqqhPAKu_fkDgVkYG77Lz97wtiFzMBPyZ4k0ETwRlC3T2ImigSlbFfc2DCILcoQAEyrQ0oleJjhbbFNR7M1rmmDBmEE6T-NCOxgF9iGjNs5MavK_MWqiSbVV8XXu0gDeA6z-SG6MF6g&et=7&swipeable=0&tcar=9&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "946163ea-2c6a-4649-88e6-8a3027424c41": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=7&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC_P1fo4XMCLVf547n2c3G2QNFlbnYloYvilG0NY1fjXLLNmqGfv6eoc4wDmW8UTVXC3Ho9lOraW24aO3w7p6vgQOIfpg5r6AMpmuiab8wseJ-z66v6iNQINW2DJppzuPeWGs_E4othdXmq8oykYNzTMGPv35GckxMlmsnjQ5oEaSpCJEzSs4Vzh16sDHmh62lzsUNobZeGdxOfRjshL4D9P7fxT8wgESd4Zs3XlKPrZU6BAcx7FMl5vAkGV5GZyIb1-SKFxHuw0eQZZf_51r4LznD99QJVIGWiv6eOimbNj0U3hTQgjLUdtCgMElVVC8sFv4ZfIsU0MAMiG4sDCPh0gqAAqx8ImH-pbPQJ0BQ3ih-AhiowkvPwuo5Uag_Z9Nba91T_62KTIHSoNf8pIO0cF0sndIWICIbHzMfmeBu7IbHUyjDs1FWsDrXlainJD9Yr5Uw5HOqd50KQAFS-nB_rL6J7em0TCut9-On_zNR2ZmyUutMDXuDvMewOKhGHPEPrMaHdHrwyfm_WkW6BpP-R9txI4Vlzok-pB_hw4BkEbS_VmH9oKAXh2EEOu_i2i9ToPQ3Xr8tRHRpUH8f2yVLeBlSgup-88K386uWMknq-vw5Cnt9IeAKS4VNlwOralOTJp1S0dLF-SQ-a1hLt38qkoHFoNv67mv_Zzpo4YlQ-qxDeFYSEByVeFXz4bujnzdYC4_aANESlQIKgAJ7_Ms5SJR1SYijQnYH4fQkq451Q0J7cFl8eI0uMzgMym_8_ACNgzApqlzTx9UndOPdFivTMdQo17J3yUcCBPRvzGYhhryM2NL2hVcGgdzX5V3IszdXzQLzGqYqj_suYKRm6ZIJ7bGzWbQaCUfypO8FeAaMmjwVCtEXX3gFRqDLwP_9_dxRdacfVF4CBc9JVN3e9oshEpis1KBZPk_4EyyeeiePbmYUH4mGAqo7rmThyeeSQqQIfPHVGz3bFetPx4f4qd3T3SejFf6lp608_Dhc-3taWKQIjKTpP8XZraN2MVA91fOhASylt7YoqFvRZTBj9LJEzoHMsWqmUGGimGIkEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=a8e2fa60-aec3-4686-a7bd-2a83e34a3d2d&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054124&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896485196&preqs_in_session=6&pclick=0&support_transparent_background=true&pimp=0&preqs=6&time_in_session=4347&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1509200483&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=2314380&heap_max=536870912&heap_total=39375972&wv_count=6&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=prndiruhicxeegxqncaxzvospypatbfeczgibsmelixwyiiydhpdwnkpxzxnsgjselgeclphylebtsuwkhyftzpxgscwujfqfeutuidzcijntvtfktwfbffiiabmsazwxmtoctgybehwfrbwxgsweotfmgfvxpnlgfejdmxmntozdrymufdhnkklzggaupcaappmiwuutrnjhidsmyzjfzqctuxuagfjgyzxigyrhvvebqfkeibyaufnqmzrefmqsdsgyabkgmwveewfadhwaqjssyeueitxzqpiwbderndxysosmihjprllivhnjsuntwmgypjzhuakazplcjwtisxexshlxocgmcjgugggpgzspwstfnfqhdwkxhtmotuzoblujlgiubbiffrdfbgkgzemqmkzmofjrnpqbaevelhppbspnzdoygzwppxocbgiqnsnmusadqhocejbkjigwtoxvgunbaogyfjkfrdjmowxctbbrjce&includeDoritos=true&content_infol=-1&blob=ABPQqLGyQkwFyHpZ4jMd6JDUMOxl2JLNYZOKwmyt0uusrukufxJQM0qMVZe6-Yktp2byD8EcrwkkTwK8WrsG6JTm09Plp69qiTg6PXxUtok5ge_e06WXHbuBO5008DJvhuZc1wiKIR9Wz1BxE1iwVFU5Xi9HTb5woe4JVNlZipKUZRSxVQDRJcJaeTaSp1_7riX7GZftPFtDED9fq8IBXWH8TTnXi9G9nBlY3qMlqJTnrMt8SMPi9EWKiUHJ2g&et=5&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3730"
+    }, 
+    "9a69f045-69ce-4cec-b513-4fca686c4792": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11010000.1)", 
+            "x-requested-with": "com.mxtech.videoplayer.ad"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "a1521c27-d733-4e95-9543-e993896686b2": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=30&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACvP1fl6XMCKcV54zT-c_m-UtFla3Ul6QJylKUI4FcrVKFNWiGUP-ch-wwLnH6URVxSXHK9j-oSV-6au_G7p2tkymLfKgbraI8rmuib_8ykeR8zIyNyiNyJP-1DLwhz8HcVGg9NcothefGqegQn4BzeqeOnWwMckxu_mglmyxrEZSPC7MzBs4V-j97kBHMh4-1psYtsd5cG9gMfBr-yLwD9JDf5T06gGS9r5o3bjiNr6FYByc3jFAn5NYlGXgOZiI9n-aKJ3_v42OyZJftx1r6PTnB98BrV6OA6PyeKimbFDlY3Rbk6DHUUvqgMGsZVi8cPv85WIUV8sYqimwYaCDDwAqAAsZaz9bDMDwqPl-HfBNH9dAPEm8R084OZiNzq4ZpfCfzMqDCnxlaV_EWcAdNLpd4nZxAFfoxE5BSBhRGvvpGom17wcqvzYmdV650REsdsTxBuNBGt5XhlY59blzLexkmxpHUSd_aGo4fCKDpLNsIdQZH6Yg7bFEPQKJNnuY39MdTXB3Lds_7tOaiAwiqUMPI-Q-90UK0mGxxtM5R-WCL2cDiyd_DpFNJ7m07vs02XQzryneDUeC6KxS-qvErDHGyBfsFcPhty9ZUU1fTUcYqp4wUZI1WdiFBquJPlZxF7JUaVyXfALzVVJRmH34TnVxCyqO0c2fakSsA_H8BJEgbwIUSECzFwR3_n3nglpLVbDy3KgoSlQIKgAI04hg5J8nUoIHtoDONg6TPB50mIuxLM7o0Ee1ougnNbQMMjq9jpiKqyiuTTZmzN0EVNHlVsTjKcfMDm2ZNieRhxpJTAdQDGbNwC3dgiF-VpdZbQ7zTbgH8PivLTdRnoALF9gACQUXRPRDlagx-XG5D-wGuclRKuPubsTtrASI7axvFr5gx8_R83SMBDEALpBNRAPhsM4Zeu6xrzkXU6q8xWI7tqc1D_4_EVtg8gDahTKTbkYKABdCQOAc4sCLTt6k05w52uofh__6C189WO5vTtGT6X6RqbulEn7W0TcF3G3ow1ZbtyF7h-eJY5dn1dbTtsXNJr_p-NQ_rcMIkOOMOEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=f2502c32-f922-42e5-af56-31c29c1d8f92&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054208&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896531261&preqs_in_session=29&pclick=0&support_transparent_background=true&pimp=0&preqs=29&time_in_session=50412&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1509200483&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=9865400&heap_max=536870912&heap_total=50247920&wv_count=6&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=qcsxxamngzddcwwkpeqxmzoiulduxnkulfpwehclbuyeamdzewlornfdjhqfhsryryfeaqspfzndjnpqlwofsvqfaaelbiqyosrrghuasldopflsfzrrnktcqxtvttnscrdngznxhomsfulavxafdtdzsgpqsxnpjlqxenjirjvghinxhcnayvqjgzmmwskvsbepawcugokociddyomroxldhbziroacwcsiqiktcnhmwykaqvjcbvudquplykbyithxejsxqdgvpmrodbbamefimcrssttffnkljfeyduavhtvxbfjkctxsuorzrhokchfgyqajisshzetbqqeqcsjxikpvqjtdrwdcacaydfjhtqadlfkserqjnlraezcjtsapqdzuysyoxgncajdzseyjdhvderitmiqsvenanttoouteateuzcrrbqoryxllupdfjjwwqbvvvhzqojfvvgaminksrijccnnicjvufykulgjbbvsy&includeDoritos=true&content_infol=-1&blob=ABPQqLG-o36fD2a0WKxZKopKRw6nTUQ_TEMlr-cym3kzCNiOJPtWWXLct_5h9omgxMDHhof87iGhOeWBQSu0DBoISQ8GSC5DjKLmblSlKDAM28FEhBHHg-FHzH0Mf3GGRKmG6R7NvZBMu9iI7WbM-sSGKTioj3svsb5uiTqR4Bsa7fCeswAjQV6y0eT6pqyxM_jGxwgeWOKWR4ZrIOtaAK5zCmdaNhPNqHQFjQh78kggYtdDUcGWXQ8DDGR1eg&et=5&swipeable=0&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "a4edf232-4eb5-4620-a80c-243f0fb86750": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=1&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1ep7XMCLVH54Tj6c3u2QtFlL3Elq0rilGcMYFfrHLHNmCGUv6Vpe4wJmGoURRTG3HD9m-rQG24aOb0_p6tgSuIfJgZr6MMvmuqba8wkeZ-z42vyiN6JO22DJ5xzsjeRGs8F5otjNXGq-gynYNzSOWPnH5OckVMrmsliS5oEaSdCLszRs4dyi16mTHeh4al9sUtoZ5eG9hOfRrsiL4D9NLf5T8ogGWd_Zs_XmqPrpEaBC813FMu5tQkEVpOZyofz-SCFy3u60OwZZ__x1r7LznD9tApVKuSuv6fOimbHDkI3h_UqjLdcvigOElJVCcsPv44eIcU-8Q4iGwoOCPK0gqAAuXgcq507t9xu-A9tDPCVmeVaWh_ce9PePjT66o0Uf-KVw6lMVlzvvofla_g826M730e6_a4g8gYL_Lcqj4o8IpradayW52fJf7ku_yKwp9UNhVhVWYciOAw_dMdX77TV_yNxmSc8YMXiWtCJZTf1BrytUfj-2-epqXh4CsdBE5FYI9m5P1BM4HrMFZj8eCLoHwJeZnDE0TISSUX0ZzJ13DNUl1B-WwKWOohq1ol-lWLSWVhqkEZaf5al-idfAn3eAzEHQ3TPn2NUwyR0fRkZv-ozXupGPs8vPyvCWokWQV6V1O0xWvw00lxJ97HHzPfrAPQMPfY9oUQHaC7qwiTuJgSEGWsWgx9_dU3bV6v1aLtcP4SlQIKgAJitZZhVv15OJHtBvta1u-_ceuuCp15fDLrd0RIJGxrFTVeIs9L0iTC7U65nU7A3SnPR3Z95mtAWTMQFxZMzUTpCJMd4Skh3VuxXtNoCFvcrYQ6qGQDOKhMGUjDFeIzSNI4okTSogF2ZfL3ZyT7PK2LZUJGai5rW2tZl7FjW1KaIySA63DAgfvMRVSudIUb4bsWd7XsE-c84yhKTLUwr8WpZb2NsfB2st-JYti8bidgXPKYWrLUAJjA0mUaOKfwXak49iymEIAEP_SSFn-7Ohq7egF2R29q4tmkzbIsOMUWA0sm_9Zm-JyJf_J77RC2fsyg4ZUJRb1SxeTdOxL9Lq_WEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=da25808c-1206-43ac-ac5d-388a9bc4b804&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054104&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896480849&preqs_in_session=0&pclick=0&support_transparent_background=true&pimp=0&preqs=0&time_in_session=0&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=9169370484&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3868924&heap_max=536870912&heap_total=39375972&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=ednwyrdgatnswpvstieuierffkanczfmluzaklxywqqnsdzpchntnsnwcqohyhoeqvrygmtiiugdglwuvklmikatnaoselnnyejloeltsdhklqcufzqfuadhlxokvsivvfrabkgxprgxzjtzpdwxbmfiwxcicjcvwjnphxmefdwpgtdghyxkoqybnndurdwdtvsmhgdokvpsrezlbeaklstuubhvyiyuodvygprzpbjuslnaxwjvhfigaeptwyywxxmxlxuzhycznphpisjxgeugxxsafibxwfxbamfsvlgubwolvvekdnvjbowjwrqmmhqkddmxbkbogpnbwfwxbboymfmgsxorwzijsggrjvtitmeftuohgmplymbaqrvjghelxbpufytriejamtzwtwmvqsbaisggcxukptiekojuxxkjuxkuthsqcgrjraznjavsbdrmdvkrcdltuatfingwslvksqptoowqutueqfxpyahwbxyt&includeDoritos=true&content_infol=-1&blob=ABPQqLGo2Z6t50ZjqZ-PUcTBhse46_6JHJM9wMXovrtHI0T2VoWYTFmacKBk2p595HQXT5qIEQxxxiH6tdEyjz-bdVIklfqfP3lWTfqTxvDHNYFUpcoXby09RVuk507JuXpm08fcNDzITgsfcJQ2ZZnIWB2QBf_b_-x73Ok5HYizqf9xnwBhR0-J_HQmFPybbpfyGMkPie_Ch5Zg5D3GjAMo8XVc2rQ3erjvzs6ofQVwkzT6qI07R7JicNFljg&et=9&swipeable=0&tcar=11&jsv=4-production-sdk_20180212_RC02&urll=3720"
+    }, 
+    "aac33c8f-ca70-428c-b0a1-c5a4cd41480e": {
+        "ad": 1, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "739", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.mxtech.videoplayer.ad;FBAV/1.9.17;FBBV/1210001038;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "ae06fa8e-c36b-48be-b368-974315b8935e": {
+        "ad": 0, 
+        "dst_ip": "216.58.219.8", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "252", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "ssl.google-analytics.com", 
+            "user-agent": "GoogleAnalytics/11.9.75 (Linux; U; Android 6.0.1; en-us; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ssl.google-analytics.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/batch"
+    }, 
+    "b000ad4c-7684-43a9-a485-93664a19009a": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.78", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.mxtech.videoplayer.ad", 
+            "authorization": "AidLogin 4032520503881453394:3188291258218371167", 
+            "connection": "Keep-Alive", 
+            "content-length": "1198", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-cert": "42588b092f7dced6f1e29c1e9f7537353ef06461", 
+            "gcm-ver": "11975430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "bc5d0675-479b-4cb8-8ad6-c33b09c94e26": {
+        "ad": 1, 
+        "dst_ip": "152.163.13.21", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "99", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "c0888013-2b4e-4bc4-9e59-760152e444e2": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=18&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1bs5XMDKdN54z3yc3G2QNFlanIloQtilG0J41fjXLJNmyGfP6Yo8wwCnWuUTVVGXHq9kOrbX-6aOvi_p6tkwGIfIg7r6Ictmuma68wteB8z6it6iNWIMe2DJh5zuHcSGs5EZotgcfmq8wwk4N3XsOPuWxEckhOhmshnwxoFbS7CJczSs4R3g96tDH0h6-13sUJsbZeH9xMfR7-hL4D9PzfxT0igECd85s3TkCPq4U4BAMz_FMn5PIkHVxGZyYZx-SKBwPux0eSZZPt51r-PTnD98QLVIOEmP6eKimbND0E3hLAgDLQdtKgMEtFVC88Fv4dfIkU1sIeiGg8HCPjwAqAAv237j4c35SpBqefDjUn4WnZJzrhCgD3DEBxdymV6lCjor1yZbsm1pp9ligKDU0Gl3PRfd6-oOxFKvnFMb-LaTNCIQmpNE2WR1Wj7op1AC84w2a06sUTIPbk9fcw2-8EgHrS1IWE4OHWlZU1_-8Zdhjd6g7tsd2V8pgjaVVHud6qZT8zkXb4r5Fg29PXrltCGRRHHMt6gyRh5_f4Nrjez3wqCCq57fT1yhv-_b59Uvh-He26vnhmV50EHnv56pN1vsQRI2XitsjwnjQ_fUG4HcvUnERyV-ye7RL7MihTzgAtJIH92XYarufVTQ01v199hLde1huXp4ZYfsMrhwdGaIoSEKVDFYheEfPqBskQhgjPbcASlQIKgAKKyYZrKFMs1xXTOrEiEtrZMx_kYk-vh56J7amPDpIh_I-U3qzRGETM14j7eQgkbaQ1sW11iC-2sHt-0dF-jYri4LXHpn3dvffP0mnlJJMlwdSwaa3T2hnMv54Dmv7TlFVOfqKVzO1HCLBJWExzCjgEVW4khcTBpA-zlUVOkySRa6bUv3o07c7I-SAzOm9ZkBfuWQKOtwE2jLR-ltL82wfj15PrvdK0Ef5DdLRYNpX9-xI-0TEAZKAFmiGq1qO6zQ0s0uSHmJwneEZGVxj9QH21Lr-EzZ2cYF_g3V-g6Dnbb8EwcXREFuxA51Ck5_4A6ULe7U3tg99WQZr3JvIDoq99EhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=9b8a05c2-b08d-4e61-84e3-77e5b51af76e&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054167&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896503279&preqs_in_session=17&pclick=0&support_transparent_background=true&pimp=0&preqs=17&time_in_session=22429&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1506502883&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=307036&heap_max=536870912&heap_total=39375972&wv_count=5&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=htiwmbeiaomzifqnprnhvysfbnnrvfmuoxbsyhmpyzxfprueltcohpkdpqsuijcickozowegihwtdgvnzjhauynulnjeowucuctjkpqsaryqnpkqpmbkzrbljstwdteiinwhlbyhkqnskblxunwxrdpzerpheeatzxqkgoipkmwlkzueoyhpphziytgtiygtequipzsebhebowhwaabrakumijlifilevcapvfzrwuovroyzdzgzvoyoegedflizhtnuajusdqxifplmxadigkgcieipoaywhgvbphmjhcfwlkzppzvchcfgqqvvmpgiatsswwbtjpbpdvacrzqlhalmyvkjmisxqrcpftlqbsvxajoiaqbjcgurcaxzqiyktettfpufxdsfyrofnpxkjzbywebdjfwgmelqsoueybhcmxdnqykiwptofnwnkcpgjgjauqvsnfoujtcopncfmlyyluotliewjzhsdrvvnyofgluvzaeo&includeDoritos=true&content_infol=-1&blob=ABPQqLEOmh4-8vqun2wNWnEFTIIRdvsGFESebt7aJk8YYVZN-plizc6EwJs-DF5x-chwZhUXNQKtypafv5cvqxhSmThPDrJ5rLaJIejXsp9nydOn8RWTHb9NRGJnyD-Bt1w-AyA55T-tO6pUzoh7XmmzP8SFgakJd4A80I9K21s_Zh8nwQCrQa-aE-5cI4xMVgUqcmwg24-Aihqu4nkBddNYTFl1tGHH2TKAtuBSqWPi8zDbOHEoi4Or199Vew&et=3&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3733"
+    }, 
+    "c9dd87c1-f86f-4daf-b70e-4839dffd80aa": {
+        "ad": 0, 
+        "dst_ip": "13.127.35.150", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "mxvp-ad-config-prod-1.zenmxapps.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "mxvp-ad-config-prod-1.zenmxapps.com", 
+        "method": "GET", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/ad_config/v3/com.mxtech.videoplayer.ad?a=a&installer=com.android.vending&androidId=xxxxxxxxxxxxxxxx&advertisingId=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&locale=en_US&versionCode=1210001038&versionName=1.9.17&networkType=WIFI&networkSubType=&model=Nexus+6&androidVersion=6.0.1&mcc=310&mnc=0&mccMnc=310_0"
+    }, 
+    "ce1a9c80-8d06-4aa5-8622-03d5f88e9525": {
+        "ad": 0, 
+        "dst_ip": "54.225.206.218", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "659", 
+            "content-type": "multipart/form-data; boundary=00content0boundary00", 
+            "host": "e.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.10.143", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.10.143", 
+            "x-crashlytics-api-key": "4194fbf5097c74b675c7bc27fe52978ee2d1860c", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa"
+        }, 
+        "host": "e.crashlytics.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/spi/v2/events"
+    }, 
+    "d6ccfcae-37cb-4cc6-867c-fd7d4214a7d8": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=19&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1fs5XMCKdN5473yc3m2QNFlanIlqYtilGUJ41frXLJNmqGfP6eo8wwLnWuURVVGXHI9kOrSX-6aO3i_p6vkwGIfog7r6Actmuia68wkeB8z46t6iNwIMe2DJh5zsPcSGs_EZothcfmq-owk4NzXsOPn2xEckxOhmsnnwxoEbS7CLEzSs4V3g96kDH0h4213sUtsbZeGdxMfRj-hL4D9Pzf5T0igGSd85s3TkCPrYU4BCcz_FMl5PIkGVxGZyIZx-SKBwPu40eSZZft51r4PTnD98QLVKGEmP6eKimbFj0E3hTAgDLUdtKgMEtFVC88Fv45fIkU8MIeiG48HCPBwAqAAuhUofNQcaBvH89xd_4J2kygxmHgXkc_izo1o5yhGZHV_s8CK7tOSV-imVfcU36gGhmdbYZdVorcSgCAdglmkcoSbFpTAXaFKGidfywLSye_iplLqHXJzy7xjSGgt93jEHVb4PxMEmNUdL8BEz4GqxPC2KJmPqfZp7QWd_Byu70SycxCygIB6Paa7mjC2JZ4ElMb_mcRsxBubHK_ewlOwngqrPDesHUrDbZlzXn-H0tn1RdjtQ8WXrD8kBqF4QgiDLUWrYcd6aA_GdLhvboYggz6IylhsryGS9w64dk4OhVcyYI3B9883UZNAp0vfKQyyhJ1hwG4x7FbMx8DLWmcgY4SECjiQLxQEz0VXPEWb6iNfeMSlQIKgAKk7Dt70kbd6H3igyu0Ap_lcRI1Ur2Dg5rF2EQwDoLsdZWBj7UBJLDCS6EbbwQ8pBNDuehvyjvSEztDOHakhOdphpXbCSPMIflbzkVC7poF7YKY2ZSP57D2OafaDSLrGEJQfwIw6MDzFZxlcXY7G305hUqFIsLFuLNZtQBjtSwgeWjJFuqg9eZULyCzHE1BFDMWROoUMQnXgQ5uxl305p5RJYb-kbSI5PeBXNl2YLCYXj4bkaCcROmC9A2S4gOWrKH45yQ8-o3b3bBGVqWZdLGTVqbAdW2tdekE3Lakngn_Ue01_MSoCkzZ8WTp3TA8_M4q8cFBr_9WX2bm-sp1tntWEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=907533f7-b711-4dff-a2d6-c7533066cefb&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054172&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896503419&preqs_in_session=18&pclick=0&support_transparent_background=true&pimp=0&preqs=18&time_in_session=22569&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1509200483&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3413740&heap_max=536870912&heap_total=39375972&wv_count=6&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=rsxhqylwvvsaenxaepdzjavhvuwoichyojfbhrqtejhuwbmthkbyuchnxsshmssiokggfjbwcdpvwyilnflmyvchfrguzjoceedyplockhsnvmafbzhlljusdmvlwqifjkppjjodctqxguxnxookuhcxbdcbtakmdnhpncfwpzupwbnorrrnlnmgpyeituepzvclpuksfionjftkhnbgipifaolbxroiqpyrvbleqmtdbeebavkehbveiiuybnfootgvfisavsdmqwpxfbrkwwubgoqbgbbbcybssfimcefxbruqkljbgrzybggwannudmdnjagwlucdfrpiupuknabhmrvnpcfaogjsqsphsgpailwtvumnrdoxelvwbbhkmfuckftspiuaizzgycysjeqkxkmyslfdgcmbrskzgjwapvljfxcdvnpvalwpcwxunohbneirqkdhhmvzelwykmsaxgswqxafoqszhlwfkmzyozwwcuxp&includeDoritos=true&content_infol=-1&blob=ABPQqLGeytSZ7EOCUHHMEWKH9iqLJZdw-UIDjLMu6gUIxWHfPEoKaQcGfGVmLBj0jlAk8PsBaoUFX3UI8SwgVxiSPPWbtFWqXoX4az2tEI08Z1qHIc89Iub6qvQFmL7AAfDUlRdfMSK9LDzyNN6WOG4r5VYL_-KHw9XGXkQUJ8EBBu08XACY6Sr7ZsqGwFYPYqqpTxac38hgshXY8aMZlYd4wk1jAPx0HzLfHxGCob42RupQWV49308Jy_ATFg&et=5&swipeable=0&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "dabe6deb-9721-44f7-9597-dbdd4003995c": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.23.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.mxtech.videoplayer.ad", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "1.9.17", 
+        "pii_types": [], 
+        "uri": "/v2.9/814932715208091/activities?format=json&sdk=android"
+    }, 
+    "db9d3348-ee3c-43f1-be42-6b1b8deaea84": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=27&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACvP1bl6XMDKcV54bT-c_O-UtFla3Ul44JylK8I4FcjVKFNWaGUP-Sh-wwAnH6UTVxSXHg9j-oZV-6auHG7p2vkymLfqgbraA8rmuub_8yteR8zKqNyiNcJP-1DLwhz-vcVGg7NcotiefGqc4Qn4B3eqeOu2wMckBu_mgjmyxrFZSPC50zBs4Z-j97vBHMh6W1psYJsd5cHdgMfBz-yLwD9JDfxT06gEC9r5o_bjiNqaFYBws3jFAt5NYlFXgOZi49n-aCJ3_vz2OyZJvtx1r8PTnB98BrV4mA6PyeKimbPjlY3Rjk6DHYUvqgOGsZViccPv8dWIUV3MYqimoYaCDpwAqAAvRpuahuk_wE92zz2CGFwdZO1pfx9L0QV0wHjKzghNedOME4qa95veLN0kGK6nvE7Va1VcI_4GvN5d4Sm5IMYbH7Gq-jCAYJP0sWC-ACqB2fZ8EHP4KB_Plw3Qp11bOhFHtxuPk5Olw3pOmnjrR3ErcE2ao_qXzVXcQGaDGNjjfLCh-_O5aG0OLq8juufN_CrTOwXBR79qRFhKYWXrkKVkZ7i4K-XdbhYYQt_LPKkrHvjowKBf3mVpMgTuRtvQEEwgUlTjLs4Tr-uKydJjl60mKxk6SY2Mvclh3Qwx8LL4GEWc6iwdJxmr0nDoUs5WHhLfV9VaQjvvO8WBIBzSvl8dISED4ljwio1-8EAdPZZgffs3QSlQIKgAKhm85i8v0JOm7pEnmF_r4-ccWuDo5_bDDEdSlLD0QnkJfUX00h8gxHXEKYnQFira5XRQv--elw2zg6WhKkaQFqkDsF4iCvkN9M2oZpzdOsqYWe4WC7tpDODubukjM7VddCiiFVz40rYahVXiMKsPUIsGRi6-Zna-1rEcRmkNraoFmk1vGTI6tMLHL6d0kT_Ls00ehoMst15TpmcTTgC8itAjPhMbZ60tyETr04dC8U3DuaO7SOCMnC92ciPSNaJav6_imlzSJhPYC-f_-cvno6RQUnRX5C4t0xY_qsuc16AvgIu9e7XOiM5_ou6xe8bk4r6YEMrr9TwHLzChJgoMJTEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=43907454-64e0-4107-a3df-4dba0a1f61f7&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054202&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896531075&preqs_in_session=26&pclick=0&support_transparent_background=true&pimp=0&preqs=26&time_in_session=50226&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=7553036487&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=11320288&heap_max=536870912&heap_total=50247920&wv_count=3&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=sipubwgbyzvnpxzqgvaomlfwvzhyxumzcstsptpqnhlekvejuyhsqtyfxibdptsdfbtufxmfwlwqmmxbdkzaszgmozrmmoevrjxvmiqhivonowbcimpjspthczaiynbhpgfmjabndmnxnrwklfjanbyhbnofuqiwbxqunryqxgsofympbbukbmlfknumntweejknvlbfhjxlctzhfmbapwccqsiymjkzsagvkybgzwrkxubwbgdtdgbjgthsiyeegiwrzbgekgjoxehaudqahxeucawcqrqkqwtvjzgdjkkzkcwujzlhwofcyyegtlvqrtgesvanqsgzfdrdxichqyatuusplplduerygphuzmoclsjzkdstwkwjdcgfpyweoexxrrreixmuxssvatqouzahsqgitvjjpwvrmbkqsovbpfpewjmdghihudxpxgyaboxcjfmkxklwucbeivbpiqmwftuxzpyjhonbhrkgmchtnkgblfev&includeDoritos=true&content_infol=-1&blob=ABPQqLERXvCs66qEbqwUzMIm59pFi9S6_QfMnZcqDztvTMPPKzWgMpAmaVJVNxlkZjEj87t2Xu5ErAwfNnzedowcwt3-zZDbLhFeiUozFUcMrIgmjUC5jAdlxhTI3VD7LN4yKmugyIdxz_RCGq9w7N9UnmRltGzDkewt97OXdxRhzoCBrABpdItl3sWWHbd2W9Ydh5vWviVl048jgOi6AecN4cKKC7JSgvEWB1omJNHFionz0W-cQUmZLvtUgQ&et=7&swipeable=0&tcar=9&jsv=4-production-sdk_20180212_RC02&urll=3735"
+    }, 
+    "dcc3e5ab-0edc-44a6-9181-9a0c28413b40": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=14&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1espTMCKZO5473yM3G2QNFlKnJlocsi1G0J41fjHPKNmqGfv6fos8wDnWsUTRVGnHp9kKraH-5aOzj_56vkgKIfog4r6Ectmuiaq8wseF_z6-s6iNQIMS2DJh4zuLdSGs-EJothMbmq8owkYNzXsCPvmxGck1Oh2snnw9oEbW4CJEzSs4V3gx6sTD2h6y038UNsbZeGdxPfRj_hb4D9P7fxTwhgEWd8Js3TkKPrIU6BAcz_FMk5fEkGV1HZyIYxuSKBgHuw0eRZZfs5lr5PDjD9sUJVIGFm_6fKyibNj0E3hXBgzLVd9GgMEpFVC88Fv4YfIsU0cMdiG49HSPgwQqAAtiKuRAaYLKVRF6rIb9D3PYVC2-QvinN88TT1dPMVeDWBDKCto1FE2_3f7GunT2J-6LvDeli1c5NgTx40gFIF7gtNdhc7G4-dBETFChS6cyP-LAZsD71RKiooYIMAdDU96OD87PA_gtHXuxyRi2H7AkFUQxgRGB9M7NIUcdJKYpZOGC0_FTSxlSpcPbt9FgdTPX0JPWHR0RjGTVP497LfaVgTdpW5XOzhWQMcoLa1Dkit_GSC5-046oaIEZlkI7VMSmGERI96saNZ6l1OLxSCLrAPPoa9-iCnszC06pQysYn4Moxh7hOfXGSt7nqUM7k9rZ1FRfnpI0c5rpVkSa0AsMSEAC9lPB4ngQLCgXZJ1OBQ2YSlQIKgAIbSQcjSmn_PJZmgGvxIro4AB0_Vt5ivlMYMENxrILqqE-EtHkAr7YLpAM7r6qxnMsFnuW-yjjEnrojAWJuodA40rLNnf2jHrQ8CFFa5Vwd6KdT-0Cy76q2f6DAzM_vDpe81xJsf833EFNPYT5xf2kgtaqE71ZijKfhGzQ_AwsL7WVlPf41-u1R2iKqTGyIMLoMAuMFJQXuxZRo3Fjfy4bFVCbLSYHi8_ORX8wr1balj6PRiOXhjdvKe66ZP2BTj6Fe7z-wuSfHDdegRbFPspxD3832KK7BYPUhvqX0aEjSVBMZ-cW1Q06VxmHsjO326x6MsNRdkXBExhlo_F8is2xGEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=5eec65ea-f273-42c3-ba94-56326f964d93&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054154&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896501822&preqs_in_session=13&pclick=0&support_transparent_background=true&pimp=0&preqs=13&time_in_session=20973&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1509200483&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4277300&heap_max=536870912&heap_total=39375972&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=sptmxydavkhhxevbqlwgmixflicxxqvguwjrajqvxdmxsiuozdhulhqtpqyrzxcfobdzjakmnzivgkrqlgfwguiirazbtheomfklwarozexoowurxratgzvcoqzwugcksrbpngimpcecxbjtzzoxmzunawczlzjhthzlzxslxregkxtgquedtlshehpxjkrqtnqxvxoudcripwcexpwpfwbfvhjnjxfhaptarywwoxidplbgajeoztxytwkhktmmwgimkdwppymbnrgrhuiqwjjfqutxikanhwsldqhpvutwfokjghetlukypmwtwxhmfiykzltqowdlwesnouiqimkdfpvevadxlwsoieqbmeixatbvjurbrdznbqtzbzmexdpwnibvmxgtuxpzjihboxsjaxvwaqucrgmumebngjsqzhtvuzjyacboedityqymydfemjfncwgzvxllghvhqtywxvqyyvhtyaksetjzdfymcxpqvdik&includeDoritos=true&content_infol=-1&blob=ABPQqLFyejFVqpAQrByE67U7B1h2To4BVVLAPYJxDdObPNZ-GYOAy1sTL8-LRzall9Uaft-U_0XyzjbowPzKwRWgvfbgLwRIxGFhtcen2u8vlvBrT1FBeKLj4soXMqyvVgXxTdACMJtVaa9ek5uYkxRs5hRhvMcRr6QxzaJkKwRoYOQOOQC07e4CJri9UXUHYZsxfgqg3aXSX-RVzXXWHSzE9wmRMGHb-FV0TSNnRaebQ32Koo8XwwnRv0NzwA&et=5&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3734"
+    }, 
+    "de1cfcd7-d8a9-4cc6-9641-87f2936794d4": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "cookie": "test_cookie=CheckForPermission", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=24&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1ah5XMDLdF54TDyc3u-QtFlL3Elq0JilGcM4FfrFLFNmSGcP6Rh8wwImGqURRxGXHD9k-rRE-6aOLW_p6tgwmIfLg7r6Msvmuub68wleR8z4mN6iN-JM-2DLxxzsjcRGs4NZotiPfmq-wQn4N3asePmHxMckFujmshiwxoFYS_CL8zRs4Z6g96nRH8h4al1sUpob5eH9hMfR7uiL4D9PDf5T0qgGG9_5s_fkiPqrE4BCs3_FMu5PYkFXhOZy49z-SCNw_u72OSZZv951r_LTnD9tALVKuQmP6fOimbHDkI3hv0iDLZUtqgOGtJVCcMHv48WIUU_8YaiGgIGCPK0AqAAvEmU37YGSv1op8U3RrTTza7DP9GbXarMAYG8TEUTzHY2DgqZdJX0XOUv6_DsUETaOcImgPe-zhWOL_pW46nfkskK5LlaQ6lMzKTUA7BOeAgotlGziXSggKEJhh4xs1mEOEJKSZzhC8xXUI9xc3swDR-Ap7JGAC-m4Uau9FC5Bw324K-tmSK6_C9mwswcc-gGfjHrSMG58P3hoEnxyE0LpCHNsE3_eydMRaatOwJiG1TCog27wDd9bBJtTmLwAZSPOhbwIIpZyDs-ELvZJ6NGAkOC5r6nBlfqqXMVSUhNNCviHNCcM_-UKPy1xZUAdEyrM56WTH_rlRmGAevvmjsDfwSEHp1VdHXP3E4fnNkcocjduQSlQIKgAJzbI4g7lyMSDJWmukRFHCvoTpuQtajp1HY5KshjbSh3s811A-pOk44jKVT3c-CZWrFn81PL4m0WLJT0UeupIj6UhPPGDBwl8NYfEEagZgl_0-Q67bz2Rl0GhOrHut7nKJY8SiZU-jt1brvUF5QrbIR9MosmzZhrtOpn0cbyqgTWk3RF8pR6WQE_iY7jUXZuMns1iilIAW8wrhYPkxy_oWT1JZr-2C0GZWQ-rQ_tDRdz2Mz-6GEaIrKMy0iCeWybQJ6_ezX0TOljl5g9TSKQP9AWxouXiYx6iLl3vfFqT9xM3od83S9sOwwL1IuLkEEab5hQU9ZdNXWNfReDmumpA-1EhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=3e67959f-d50e-447f-bd7c-9e501e018037&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054193&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896514978&preqs_in_session=23&pclick=0&support_transparent_background=true&pimp=0&preqs=23&time_in_session=34128&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=1509200483&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=15065368&heap_max=536870912&heap_total=50247920&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=dcgnmnalfgdpxdctdwskvngyklcqayqimjwfpiqefklzerumejfpzpatxtowubeycswdkmvtgqkctjeoxmvpnefesethayqaetppftpldijxxlpkbwqgckctiwiqllgempfsbqhunjpyebogggnhkbiecyymfzihonkkgnxzaznlihbrpzrvemdvwevxtduggkxjslizzrmeetcfvoanelnpnepeqvdmdtknpmcfjetodbvggprewtqdufciijhumrxkdqkuocqdcizglwytkaohnbenklvcsowhimtbhqmavazneleiapxdltvgexcycnqfwshllikrklhjwlsfeaestqveycabszyualmlzggjgucdcmurfamstlifqhxrjgnkyjgoaxwypqvlbhyccmbrtstmhlmoxffxitixskeodpzehptcdbgxqjucjdqvjcbtnefhlytgenezzoqzwkcxyyopccdyotahafgziitvrxwxfxrc&includeDoritos=true&content_infol=-1&blob=ABPQqLEvoFMgWc9Qn4z8NsR7CNTp1hbBo52emPXcTI8h1GLKFdnscqwebaT19-gwpVtsXVCoLqd0m83Qfu8RM4zEEO00IpScuJR4X4_RIlSBN_LLrF2PKwRcL5Cj4Z05wc89YCrgzeUItU4ceK-3atEqjlGFY7OAs2z7M8HS6QX3h2p58wCE8hrC6eTte9onrXFEAVfJNO1jt-k65D0m3Pibw2LTAUSV1dbo95YZpiNAVFINp_7bw3M4HIMuTQ&et=4&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3735"
+    }, 
+    "e8cf0189-d7d6-46f6-98a1-86cb4a7753a3": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=5&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1eorTMCLRE54zn6M3m2QtFlLnFlqUui1GUNYFfrHPENmiGUP6doO0wLmWqURRXGHHL9m6rSG27aO7x_56tgCiIfJgar6MMvmuiaK8wkeN9z42uyiNyIO62DJpwzsDfRGs8EpothNTGq-gyn4NzTOaPnH5Mck1Mr2sljS1oEaWeCLMzRs4Vzi56kTDch46k98UtoZ5eG9xNfRrtib4D9NDf5T4rgGWd_ps3XmiPrpUYBCcx3FMm59ckGV9PZyIazuSKFi_u40ezZZf-xlr7LjjD9tUrVKOXuf6fOyibFD0I3hfRqTLVd_ugMEhJVC8sPv44fIUU88E7iGwtOSPC0wqAAl7gCduA2dNxHgZHdT2_w4HWODIHE0RxxMw7pBcGtbIA338aLPSwHFedZNB5Nv0jKFR5v18RXJ2B2wNx5F79htcPPunUXU3V7Q9NbpDx8SExZFoUT9PAJ2sv_pTpPXOIOOVv4q9xgeXMdoxtK2W3vVmkt_tjYxycsrYPJaOKpFTJvclPM7RgkgiAsjQfRGSPPZrAsdq_AnMwIJx95GJ7hhGBFWf5BrYPcPtBOzko2qgDM5PU4rEjejaXamItzwuwqvTpdU1Qbb2dEnEKAf7lmFJ2YS39RCo5k-lZGcrmFSVunui7yz9CFeM0XgFwqE6m29aYXRjNkwsvrIj-9Jbng_4SECvhByToYW-dUQMIfUv1GIISlQIKgAJzPURzShW4a7cmjqg25rzM4cI2e3VxYzMffa96TXSz9Ex0-jyIwTBhj9WdjYspC1nE3y1NCxjgOfJy5zVth5rr02M1AvGJKbrdzztopNin7U6JafVTAil9f2HHB6go4IBYqBaR9jKBtduVbFXzb1gZU8v06BXS5PsJVVUjaWhhcul4-4Jxs5g9fRVll4BCxNvONub_YR9UoNgZ0leyF9P6cqfvsGbfxd_Xi7B9tqaLn-BbkcAGccLBdb4uK4MCvyn6pia3tSjHvbvhxU1NMMlYnjGyFKaIYmrAfM2tym1fEzp3owX6SWh5rjEifmScf-5icg8I94xgdXPnAEPiF82UEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=1a0618d8-376f-4000-995c-f3a1846cce70&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054116&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896484440&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=4&time_in_session=3591&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=9029769681&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5391860&heap_max=536870912&heap_total=39375972&wv_count=4&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=rqkxbnvvvkfhhhflnsogyxqzicwehfdnnzjcqylgkywqkaovujaswmicaaxvexmgjanpwdberewmzgdeaaglzuhqwaqqnnqiippmtsqmfkggveglviujdqbozwyvxqsegtzrrafsmofuwpmywrcdefotyijkhgdgicgzeygtvgtraybmgplmrrlamaxzsqzsvmqvyuvnonsafxsspcdfshaiagxxzizbhyyqjynydmpsvqphvzdnitawhawxohaailoheyawfbprysvjyraegzqtowwkbhiilhoyqizsovegvndeiaztnmksgyqmdhxfbpcaqivlfnpiyjtdtbxcsqikmihvvtorilogotuwrqkbjcvveqktfzhvztpowjaurygdwghgkpngkzvzhvhqoexgfrxsgnxfdiyibpedvxigdyjftgdtqzwjsbithqnxqjofdqzjmvhugdjufjcfrweakrhagyjnvvaubrfcqbxbbuhjildh&includeDoritos=true&content_infol=-1&blob=ABPQqLFFSyuI_8KBObD5OFCvKmUSkfxJgwDzD-jbzCogJXzqJ-YREb-2BZn7nyUlMIhPTMdzmFOzchyixLtPebjsdlZK-LzjH-G9lu545hZllSat9eQaicA4x6t-VoX1EokZDeClstYhnI_UDDakgMYsiE6onY10LsmJDQSXWZGlm27XowAK61dkDrgp9mmepwS6M4oOXDr8D5qgyzu2xGGel35yrOWBwRsFRFYVZD9tCQR7zoyMIdgDAZ3e3Q&et=6&swipeable=0&tcar=7&jsv=4-production-sdk_20180212_RC02&urll=3730"
+    }, 
+    "f3ca1f15-d911-4b0c-8972-6c00e089a6dd": {
+        "ad": 1, 
+        "dst_ip": "216.58.193.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksaxkzZegRTJCwaBrVUFBnHMO3oca1lf0pfZ55cMTCbFwvrODmvcn743f8kKL9ik_7VlRWSSxFZuHp3HqIqvtxdM2JxFh1i9UW1QjUgKzEL4-wBhyo"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.mxtech.videoplayer.ad", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&native_image_orientation=landscape&_activity_context=false&format=320x50_mb&gl=US&seq_num=3&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7P1forTMCLRE54zn6M3m2QtFlbnFlqQui1GUNYFfrXPENmiGUP6coO0wLmWqURVXGHHK9m6rSW27aO_x_56tgCiIfJgar6IMvmuiaK8wkeN9z4yuyiNyIO62DJpwzsHfRGs9EpothdTGq-gyn4NzTOaPnX5MckxMr2sljS1oEaWeCLMzRs4Vzi56kDDch4-k98UtoZ5eG9xNfRrtib4D9NDf5T4rgGSd_ps3XmiPr5UYBCcx3FMn59ckGV9PZyIazuSKFi_u40ezZZf-xlr6LjjD99UrVKOXuf6eOyibFD0I3hbRqTLUd_ugMEhJVC8sPv45fIUU8sE7iGwtOSPD0wqAArVWkAycGjAFm_-m9Zpi6ICwk5Elx2Q1jMfDjhRUWsjOmRErye6WH1DvtZcHiHdPMxe8IN1C_KMG2OtyBzujY-qm3G7cjZ7LWaGGqACMWL3Vc6JGX1Dqq7tZ_8_6sWgJ5NBNqDO0D3PhIy1r2iHQzewe5QWF2vj07ugdVHL6mXCfzfXkM7qKv-CGNAiaN_GS_uZ6gFXjZHW9c_W6y6N3htKwom6wpImzcjr2HOhPzMnLzeTFJnn3FCu1UPrCkWiRGyv8IfzhOsX2p67iNBPN-BUX_zr_DaRvvQmGPcCGXKIk3SdZ_YMKQcgR8qAqDs0TWENYllo9h5gOptanD5J-D9kSEOo8jWfzbcLq_hiRTY3GVmkSlQIKgAIpuK5oSttRYKGTBiP8o9ZPO_-UZvFH4rsVZc2pizNZ-EY0my8WyDD-g2G23Y2VYYQMSE1F0W7qMLpnjON5xfPwx5SXEP0lyOcNe1Bw4EtkcZ4xIbiHegB8YydOGOgr4Uac9tcXdD1DuVWZbFhzOhkTm198M00AzT_PnTx_JQyoemf12sgh3fNs5VEGDUxpxAMEMC4pO4AfLpBP28Toynp1eKKvObw1DF-dDPl5_CTgTazX0YfQPaGAaSmu5UuD1Shoq423t8Un7ueGBx5HQQgCwF75XqwkSOwQnSYlVMm22yIIYVag1oj0_ODI4PCx1HSo1SVdp4Zr8TufAsMoMqZbEhAV_C1l8vEn-ymB07ndA78k&target_api=23&hl=en&fbs_aiid=d3a39f4bae54c30f8f6b0adde34a0957&scroll_index=-1&gmp_app_id=1%3A394174467%3Aandroid%3Af68a0f569be765c1&request_pkg=bra%242&platform=motorola&submodel=Nexus%206&rm=2&max_num_ads=1&android_app_muted=false&request_id=bc86b288-9ffa-4a4b-af99-d27ba50c957f&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11010000.1&session_id=14105929516447759671&native_templates=2%2C5&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&native_version=3&android_app_volume=1&fbs_aeid=4844202489204054112&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.mxtech.videoplayer.ad&app_name=1210001038.android.com.mxtech.videoplayer.ad&_package_name=com.mxtech.videoplayer.ad&an=1210001038.android.com.mxtech.videoplayer.ad&net=wi&u_audio=1&u_so=p&basets=896480849&currts=896484384&preqs_in_session=2&pclick=0&support_transparent_background=true&pimp=0&preqs=2&time_in_session=3535&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-5633888758361604&slotname=6076303282&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.78&swdr=false&cans=5&canm=false&prlus=1860185&prdtb=776691&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5706148&heap_max=536870912&heap_total=39375972&wv_count=2&sai=1&mr=7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=false&_extra_string=vuqrkdduuitykqbutuidkeixulatbmjynvxyfyilufzxrzwwtncejdknnbnksuvhmezlxdwvykkdeqcrnssxturzrqpuoochwstwylfroszhfmxqvchwyppuofvwsiaewsmgjmgktrrnkuawwsgdjoviittfbtmobllqqailbvpiwikthwzglpmfdmauroilclelywixyajduanqhhqinxpvsfqtkykddkivjaoqenllnkwhodihqidqrqsgtwkpwzneamjpnvckqlteawoowsvljueiflongfswldonkhzsdenzratetgjolvljfbwppgjulydrdcdstpbhxyumlvzvprzufddfjpfpbqvuqywcayairzumbxdqzkntragltgywlzndxpwyeefpnmyqpfxuuquprhkrqhvhxwejggnlacahifjzpxgnqnibxxpvshjwocfwttaynzdrwaehrlvdibjthdzwydiscchprkjvodidmokg&includeDoritos=true&content_infol=-1&blob=ABPQqLFOyZfN6qIW_DghRIykdNyIoWYqkLaX_0LxRproNeXX43RmoOyN3hX4Urw8A6NNf3UbzbHeufKPCPXfjPPfoZqZq9tUAe_DarISxGYgl3nEByEJ_pWVb--QPuiOrFFwf6aRO-28XHFQ-m3z5Phg4q51Xn6Lt_zDQUiKsCMKk7S9XADta1TeWmAIog4JydvJCENn0wyfvy6Mf-QCBjdF29d49CoTWwYvXsjZvm_RSMqKLaoJymlhXp77kQ&et=5&swipeable=0&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3730"
+    }
+}

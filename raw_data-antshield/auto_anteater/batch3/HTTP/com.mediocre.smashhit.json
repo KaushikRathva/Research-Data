@@ -1,0 +1,20 @@
+{
+    "1489438095606,dfaf5a36-bd75-465c-9333-7fbaf45c4673": {
+        "domain": "", 
+        "dst_ip": "195.74.38.125", 
+        "dst_port": 80, 
+        "host": "mediocre.se", 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "com.mediocre.smashhit", 
+        "package_version": "1.4.0", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "GET /content/smashhit/ads.php?platform=android&version=1.4.0&rev=0&date=1489438093 HTTP/1.1\nHost: mediocre.se\n\n", 
+        "protocol": "TCP", 
+        "scr_port": 44391, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489438095606"
+    }
+}

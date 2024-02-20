@@ -1,0 +1,66 @@
+{
+    "1489369547391,33a741b7-8b4b-452c-9d86-6851e710c3e2": {
+        "domain": "", 
+        "dst_ip": "54.154.107.128", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "918", 
+            "content-type": "application/json", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.sega.sonicdash", 
+        "package_version": "3.6.1.Go", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "[{\"device\":\"shamu\",\"installDate\":\"2017-03-12_1727-0700\",\"firstLaunchDate\":\"2017-03-12_1845-0700\",\"sdk\":\"24\",\"carrier\":\"T-Mobile\",\"deviceFingerPrintId\":\"00000000-5ddb-cdcf-ffff-ffffc12bc0cc\",\"date1\":\"2017-03-12_1727-0700\",\"af_preinstalled\":\"false\",\"advertiserIdEnabled\":\"true\",\"af_sdks\":\"0000000000\",\"appsflyerKey\":\"r3XYRja9GGyFPYRUpDVffd\",\"iaecounter\":\"0\",\"lang_code\":\"en\",\"app_version_name\":\"3.6.1.Go\",\"lang\":\"English\",\"timepassedsincelastlaunch\":\"0\",\"dkh\":\"r3XYRja9\",\"advertiserId\":\"RECON_AdvertiserId\",\"deviceType\":\"user\",\"af_v\":\"790175137f6fd6c7d2a708ee148dee31f8ff332d\",\"app_version_code\":\"1612131530\",\"af_events_api\":\"1\",\"network\":\"WIFI\",\"platformextension\":\"android_unity\",\"operator\":\"\",\"country\":\"US\",\"brand\":\"google\",\"date2\":\"2017-03-12_1727-0700\",\"af_timestamp\":\"1489369535702\",\"uid\":\"1489364824730-7993533538190799131\",\"isFirstCall\":\"true\",\"product\":\"shamu\",\"model\":\"Nexus 6\",\"counter\":\"1\"}]", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 37071, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489369547391", 
+        "uri": "/api/v4/androidevent?buildnumber=3.6&app_id=com.sega.sonicdash", 
+        "user_agent": null
+    }, 
+    "1489369550248,2f3c8305-954c-4a28-935a-26e1ffa4b443": {
+        "domain": "", 
+        "dst_ip": "52.214.244.160", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.sega.sonicdash", 
+        "package_version": "3.6.1.Go", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 42904, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489369550248", 
+        "uri": "/install_data/v3/com.sega.sonicdash?devkey=r3XYRja9GGyFPYRUpDVffd&device_id=1489364824730-7993533538190799131", 
+        "user_agent": null
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "1489004247529,7c25bdb1-6506-4160-9568-b41b57d9cf11": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "m\u0014\u00005\u00002P\u001cY\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\bsettings\u000bcrashlytics\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 27924, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489004247529"
+    }, 
+    "1489004257094,ded03f14-66d6-44d9-a1a4-08436144bf3a": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "z}\u00005\u0000)QZ,l\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001t\tappsflyer\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 31357, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489004257094"
+    }
+}

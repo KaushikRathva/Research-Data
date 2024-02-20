@@ -1,0 +1,1934 @@
+{
+    "02bf2059-1cce-4b7a-8ff1-ca339ed6909e": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "037e2591-861e-4259-8b0c-3496afa3159e": {
+        "ad": 0, 
+        "dst_ip": "52.212.51.48", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "737", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v3/androidevent?buildnumber=3.0&app_id=com.surpax.ledflashlight.panel"
+    }, 
+    "056165cb-ae6a-4e60-bffc-66f005582ae7": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=4&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1moe3VtGmOVuDgfuak1IeMAPI4mmjQHEyQsOPzf2mXO1fE-SPx-fRbwr11arGFtdg1xQBpLl1Typ-Yhj_vYTj193LkxGJVkexCfvZObU9cxK6VktZT0yqyJhQ1uES0YDzxMKuRuLcJmsiCJeo2Mi17MAIFPsBoWFq-O9VO5j5ErWD1nLqnV7PpZlQ7-EfbCvq0qfg3wCUB-UaIeCunIGG8zSTxFNQ823gVGfjTENnDwKnfIZ_WaUjdWdcBSNc4wMbkKxHiIQnjshi4jXfTHKKxlZ4ZlSMhQdJAwf5T3RkMbUm1DSc3Ae6bKNGhubbTSqLHOIS-dRr-qFBrDDNPNzewqAAt_aSw9ZdgN1Uh6xWf_JOkk_PqZ-ZLaGZZ5KLKeTEKxGLRYQUM77w4q3yDENG3-IRAS-3wk8nZWyxyQua7w0HFlcP1-DLh7FN4EFFzVgmU4-sJ2_xYoO5uKIN962RjKRsJEtBJwAnxLpDhzmfdBLeRgSZRAJWlUiT02rRepvcIukR0WdEV5eE4Btuho4UVS9qFTDnRLvgA3_hOBz8t5udKbfeooxHfj3ZeYJg8JFVRFHofTRIFtkYUhChfHUscIAlo5SOzCCwHwoFyp4Pin73xtBrYPOo42O7ri1VzT6n1sbmaHh1OfpjUtxq10iAxFlNHuJyQuU-HrhqbtbK-zzlhcSEOutl8M2vdqRXIxUY3-NccMSlQIKgALI4q5rrK_Iz2Xptxjg_-HcPuXopGOsmHNo1dRS7Fwm7JAHGr_V4l7tw3EXQeWa1wcpsuefyBOiq1BcAnYL6xuYlLPHk1UWe7fKNq555L0BsjiPJ_GjGWngPT4SPWqeEnBNaJsF57rgjyhCNO6NB9WJPWUGaX-PuhH5WG-bahjVBKw593Elb3n2fWRTNXGgkuKTfCDAAdRfZHDx_4vzlu2rWynULv-MDt_v-C8ulUcZb4HFuNrSVVqK9gX6BvF9em2r63lltb0n0wssZj_U4K6iFOj1XL-nuUsWQV148-exbGY4BZD9p3Qamp7xUKJHS5zKjWostVLkpN8QUwx5DYDXEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=453f5814-617d-469f-93fd-00e3c3a506a1&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324642121&preqs_in_session=3&pclick=0&support_transparent_background=true&pimp=0&preqs=3&time_in_session=636&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-7176948080084743&slotname=8384496385&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=3404072&heap_max=268435456&heap_total=43190880&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLEoakpwJT2MAfrDA49wDuPLCvzIZTQbLzjnOfY8aYmuSa7ksy_419XGw9nf39D1VavHkUNs-wM-1lEJT32RNjZ9uuvt3tR5UGpjfAguxYdAoK2ogF3N6dJrZgYoQ3o3qMIxqm71UCGz7T0F_JJCkDNCUti9-ukXnoRLJB1SBYjvkQASNPu1s0-Kagz3maWwWbZuFVugEJVu1tJuHK_3vriYDLTFAuTSUtudjvFEZhjIOj0hmHmX79xCIQ&et=4&d_imp=1&swipeable=0&tcar=14&jsv=4-production-20171102_RC00&urll=2994"
+    }, 
+    "081aff29-d6e2-44e8-8b1c-aa52bda2815d": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "091dfd93-d374-4225-a2c5-586a1eb3fea8": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=9&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1Goc3VtGmuVsDifsak1oesIPAYumjQPEyQssPTX2uXO1fG2SPx-fRbwr11apGHlfg1xSBpLl9z6p-aph_PYRjV93LExEJVkexiftZubU1c5I6XstZz0QqSBhYVuES2YDzRMouxmLcpmuiAJeo2Mg1bEAIFHsBqWFqeO_Vuxj5EjWD3nJqnV7PpZlY7-EfZCvq0q9g34CUh2WaKWCunIGGczSbxFPQ--1g1GdjzMNvj4InfIZ_WaUj9edUBaNc44MbEKTHiIQvjsji4rVfzHoKRtZwZtQMhQdJgwd5z3RkMbUm3DQcXA86bCNGhuZbTSqLHOKSedRreiHBpDDNvNTewqAAghjBz_R0fAoaJ7FJ4C_B8VBiDfectC2fE6sfEu_impPJ4Gq--dTpwrLgj7-FK6JMrlcR8UsiwL6q_LA42odNUdlOMcvHGdBRwiJWLRXYKor3v2QAODJThxW7gJxZU4SXZAUq-cYe1EZLvxYaX3Kwk1eiXz_R9I8hJBt4hG4AoJvNLYTLndHdileVGkyAE1ODmW2Y9em1O8oDiUC6NTtiqasNrI45JJ6AA_tVSJa9gjkKGcXDV3q-XU4LF4o7DAGeBoxp3k-kcH2TY8y-OBAi_SZyUp2hm5dK44qA_nxPJX_M8hEAzbKPYOsnWy7MRcWuxE9elO5yGKUHqwoXrcTVHsSEE42SAr9jqlzfDCDadLUCuESlQIKgAJN4rU7txv8i3olg9rDYo96ssTGrEAwiLl-VMnwYu1ZwodzJ7NuL1M1aclqo-NmjTkxopQH37Pzh87QJSKMQkUAIpfC9ervEs_Pt8YlbDBAjD5zOOswuS4KP9MM3W6OMoZvqMT5aFvUv5LXOT4X2tYHKtE0Ed0y4C33LBBzeoD6MBH8pBUfmyHm59Uhi0oAllqvWV5iFFQCXvpAk8nMXrEBTTymBM3NfIHdzGkGo35j7y8Q3XT5-GGibI2_7ke5WuWVVgjxkXQk9QRcYNPaydoKNbC5fjmK5o-NgE_G7kO_TGG4AGj45lImMduM6LW6ZqxacSS8oYPzcGqsMlZezZjlEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=94b1444c-b0de-4d68-9b5d-9b0657aeab01&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324644894&preqs_in_session=8&pclick=0&support_transparent_background=true&pimp=0&preqs=8&time_in_session=3409&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-8621759356895416&slotname=6573775438&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=6995936&heap_max=268435456&heap_total=43190880&wv_count=1&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLESc-xejLPG1Val8sHsmhiG1vG88tc8vIpZOQRHqt7dgiCsq0JCuCevqxve1jrYsba-Rk-YsOp9QWcJbOx_xJBwmVhs0v0R5t2tPgATVsUDtzPxOaOxQj5WCdoAy9uBoltmv8mX0XOfDzVMwktjFgv_kpLB5hKGegiLnBq2UOx6-QAQc0lo69F1Xk703zQdD5TLbpAsnUtMl9sZdnk8an1yYvOR-kKTmda9ZgNaHewmjlGXQZtYCtRWqw&et=5&d_imp=1&swipeable=0&tcar=9&jsv=4-production-20171102_RC00&urll=2994"
+    }, 
+    "0c9a6927-39f7-4d75-9897-ac27fa546278": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "0f3bb4e0-f9ec-4730-afe3-c91a220aa89c": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-8719292880288349502"
+    }, 
+    "11bb11e3-1deb-48ac-899a-d2067bf0ef1b": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-217498416029884059"
+    }, 
+    "12c8efd1-fda6-43fb-9d44-48d73c6108ad": {
+        "ad": 0, 
+        "dst_ip": "205.251.203.24", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.asiatone.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "api.asiatone.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/token?Token=APA91bFTmmatf9Sap7Vc1q5pVp7pQndL4balgs9qLdEUT_mi80T9DYQaHN9RUq_ao9_OgIn27KsxXJz0ufXHhxOFVmpYzdBye5L1tNfk2fQLwrGwqQ05nn4k7Q9Tbn6CYf16VZxUw4sC&AppName=com.surpax.ledflashlight.panel&Version=1.1.12&TimeZone=-28800&Locale=en_US&Platform=Android&OSVersion=6.0.1"
+    }, 
+    "197c8a29-3a97-4454-9236-3c088cd22afd": {
+        "ad": 0, 
+        "dst_ip": "52.212.51.48", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "736", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v3/androidevent?buildnumber=3.0&app_id=com.surpax.ledflashlight.panel"
+    }, 
+    "1b7ba2b8-e410-47d9-a05c-c2f343c60718": {
+        "ad": 0, 
+        "dst_ip": "205.251.203.24", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.asiatone.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "api.asiatone.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/rao?a=i383gRO2TQ1LCU13hvI4%2FYVn4BEIHLZ%2BxdxUKCYXI7A%3D%0A&i=flV1pKTwp5Rv9VGbLSOI13kmEzYr6cP4j%2FoTGWFPLUI%3D%0A&n=pv0tbAE%2FsHGh0myYmbzzKYQ%2Ff2VtVlkMcqZt%2F3WPkAIP53TdpxzzVqbQgDTH%2Fo4i%0A&s=m7Eiq38HpZF4iaPvd3pnVw%3D%3D%0A&p=sbq8RWr%2FMgizTIgH78HLMg%3D%3D%0A"
+    }, 
+    "1bf846c9-b0d9-452a-b054-9ddcc677e443": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "1d0d9b20-2678-4573-9fca-7f2b5a6c7bda": {
+        "ad": 0, 
+        "dst_ip": "216.58.218.142", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "clients3.google.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "clients3.google.com", 
+        "method": "GET", 
+        "package_name": "System", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/generate_204"
+    }, 
+    "23271e0f-42f1-4d02-ac3d-ee01ef600c47": {
+        "ad": 0, 
+        "dst_ip": "34.253.63.180", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "737", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v3/androidevent?buildnumber=3.0&app_id=com.surpax.ledflashlight.panel"
+    }, 
+    "293c31aa-e69a-4f24-aca8-bbd7a6c97448": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=5&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3moa3RtemOUuLgfuYn1IeIAPJ4nmvQXEgSsOPz_WnXP9TE-SfzebRbwr11brOFtdg3RQBprt1Typ2Yxj_t4XjxdXLkwOPVkezC_rZOb09cwC6V0tJR02q2pZQ1vMY0YDjzsOuVuLdJnkgCZeq2si17MAIFPsLoGFo_O5VK5b4EreJ1nLqlV_Pt5lQ7_MVbSv63qfgzQKUB_cQIeCulICG4TKSxFNU823yWmfjTklnDxCnfIZvUaQjd21cBTFc4gMJnKxHmIwmjtps4jXNRnOKxF54ZlaKhQdbBQf5X3RlMaUm1DSM0Aa6fK9GhvTfTSqJFOMS6dBq-qNHrDDPONzewqAAgr43l5ExlGHq3mZXUOOQglHLM7E2ORm8rP0dSn-FR_d5gYM5i7APXOVDVUHG_q8R2OuKmT_ILnd6KmfXPLp_vRcRUUYJwu7NNhJbcWTh0qZYmXL2m5dio_fb0uS2Og-IummYu-6giRcraj_KugXtS_P2EVaBJFW2_AW34lldWgPloIT2Wdaj7jBzV-e4VBjJW1mfeKSX455Si9HWNXFbJyO0JFiyJeh5B1lv6QRbrJ_Laq2abOzOBwwSEnqziYa98Kb9HC_Hy2KVC5BkBIaYJtA-Ml0h9xS0GKFrbwzwN7F1nZKApjwq_QaNJwsQDgUNZeQlyhRP-rCE9Kuesy4-XgSEAEjCV5OEVH_fAwhHKusW3MSlQIKgAJ8om5Cjraiw-aBJVnN_Y-Zj_SkTN7tJFZLjpiX_BQwAR9Eklt6wHot7Wr1ZVuaj88VyWMaz2rSQvM8NN6l88_0EPnLl3AHj7PuL1iQeabbPiWk5RkdSeMNgXacfNzv9nnfSkGkR9PEJo4bvo68Lc_tAw1KoE2O4rFTUTu_3TKZIL4LQdWlXF36Tzx5NdeqHKopHP5sruQdTHmT3ctN9pHvVmnm7-GUktbSkNEjsBeP6hz1bNNzJFBv3gb4B0NPju0m0iMpt4ZHtp4XJHL_yEDmnvvn0CX25wIoayd0x803bdYRt5BrtwYSg8cTPDJs_fB5pcLlq1vy7ckCQ63GDuS2EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=0c870a16-5e5d-457e-a8b5-3070ffd05977&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324698524&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=4&time_in_session=1230&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-7176948080084743&slotname=9861204265&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=8481864&heap_max=268435456&heap_total=47383472&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLEsxn6h4d1_BJJFz_683wKvmeAfyiwioRqRIX59PikoHo7OLHk4rP0UgLraMEZfy9N7zeHzGJLBhDT9G7nLPOBv4LhR7xH6__QJarw6hmFmVoBKK9lvTtzoMs_rngiTqkvO586ev1BjVRle8wqEm3Ayoa6T3DY6dBUNiY1P3P-nHACvJuBlBYWfdt074dGdKZULRv1XBX6OHv_jgo6hwqO14QTdgdfkVooV33YP8hGdKwl7OxB5feNxlA&et=5&d_imp=1&swipeable=0&tcar=16&jsv=4-production-20171102_RC00&urll=2995"
+    }, 
+    "299d8bbc-9cd9-46db-9b94-a757f1da4d16": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=6&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1mof3VtGmeVuDgfuak1JeMAPI4mmjQDEyQsPPzf2mHO1fE-SPx-fRbwr11arGFpdg1xRBpLl1Dyp-Ylj_vYSj193L0xGJVgexCfuZObU9MxK6VktZT0zqyJhQluES0cDzxMKuRuLcJmsiCNeo2Mj17MAIFPsBoSFq-O8VO5j5ErWD1jLqnV7PpZlQ7-EfbCvq0qeg3wCUR-UaIeCunIGG8zSTxFNQ8y3gVGfjTENnTwKnfIZ_WaUjdWdcBSNc4wMbkKxHiIQnjshi4nXfTHKKxlZ4JlSMhQdJAwf5T3RkMbUm1DSc3Ae6bKNGxubbTWqLHOIS-dRr-qFBrDDNPNyewqAAgQnr-eN8ztQTij4NlGA5lgpvE0sY6pNElK82uxQqBzwY9XxPVXBRG4hwharNHsSJMVV7SYpus13enO3GoQJsn_8gFpdzaNmllqvgL2SwEgqA0vWNA_PHikVZ0xxsVuzp5z8LJdcPeuKXkMZweru_rQG1Uqs3Nkk2uarZ7xQk5xe1rmWhRNGMdKhzWIajzcUBdA5OFjgborxfQs5ZZk8AN8_0LX4ElwDVYSVu69kCUKLHzIR3aUrlaftrmVcSoXaM63-sOi7hPYFj8PCi9VtpUjWaQlcov_iEkqqn8CFeKxS8vbGqyLkl3Es_yOqewEvgilXZDcBtiM7Q3UNO_shSc0SEBFeyD98nIIromKyYKldF44SlQIKgALv4j6X-D5CDxMhp57EdW0UGvT2Quc1lB3eRtrWy8wiRmVUEtEHOEq_5_qXIcVCT5e8sXEL35IgzwXElAxIcw9uR7HLGSDPbWWvtyjJJDaZ7J1EJYP3iXPIvPaO-wifBCrLqgF3g2tmf7nTrJBazU2tb_Wac3kWMundGXm_fYJJOnr7cdewrH_qavRLYaQyHPYHbDyg1UTfHrVj7wHCTnNjzylGoG3ckkte-LEqh08PJcYVLtb33FIo4Z7qzoa_7OteYnHxE2YnMQlvdnX1-DLsMbPlXN6-tY-Dg8fmoWUlZMe5hU5_92YCuM_zbHSMXSJeRWB4wpNgNs6KQ_q43gYlEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=54a46e17-d8e8-4aaf-ae17-7b4f6ad218f9&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324642148&preqs_in_session=5&pclick=0&support_transparent_background=true&pimp=0&preqs=5&time_in_session=663&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-8621759356895416&slotname=7910730598&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=3259184&heap_max=268435456&heap_total=43190880&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLG3gX9REv4EbgkpXGtsG0OZdcp12YHj2OeIaJM6icd59Y61V9aqRnXjiQOMT6enyZV5u10CmsdrFskHnrm6L6u_6lqhUItT7uqqKbFw8Kzm9IbOrZmaHa61Pt45DjCWkwylcMO3ZcRWatzUSc3r6bUiMyX8Q3UVssWT2MbQ00C7_ACZoEmg6vOMOGYcX_vt-oTZNGOLEX2XzNoGHHHRu8km2ZRYf4lEQY25lASx_odhuDTvWeoD5fRbpQ&et=5&d_imp=1&swipeable=0&tcar=19&jsv=4-production-20171102_RC00&urll=2994"
+    }, 
+    "2dd731b7-467a-45b9-a178-f8ccefb72c78": {
+        "ad": 0, 
+        "dst_ip": "52.212.120.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-217498416029884059"
+    }, 
+    "2f96203d-08d2-4468-9711-1f80678e3f25": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.16", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "content.surpax.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "content.surpax.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/apps/androidflashlight/alerts/surpax_flashlight_panel-1.1.12-alerts.sp"
+    }, 
+    "306cfcf7-942a-4a6d-b26a-205649551ac2": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "34762882-b33e-40e2-b7a3-a27dd3c6045a": {
+        "ad": 0, 
+        "dst_ip": "23.21.196.192", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "685", 
+            "content-type": "multipart/form-data; boundary=00content0boundary00", 
+            "host": "e.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.8.127", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.8.127", 
+            "x-crashlytics-api-key": "af46bdc38bf1267984ed38b9784a45489a5dc2c3", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa"
+        }, 
+        "host": "e.crashlytics.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/spi/v2/events"
+    }, 
+    "353398fc-d66a-4d73-beb2-aac3e583115e": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.27", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "content.surpax.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "content.surpax.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/apps/androidflashlight/alerts/surpax_flashlight_panel-1.1.12-alerts.sp"
+    }, 
+    "3b5fba86-63f5-4dac-9ff1-faa1db5906ee": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "3ba79b79-7ebe-4526-9d9c-64aa98239470": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-type": "multipart/form-data; boundary=3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.23.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/v2.9/651942978220795/activities?access_token=&format=json&sdk=android"
+    }, 
+    "45251d75-74a6-4ba0-997d-83b21dae2490": {
+        "ad": 0, 
+        "dst_ip": "23.21.196.192", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "636", 
+            "content-type": "multipart/form-data; boundary=00content0boundary00", 
+            "host": "e.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.8.127", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.8.127", 
+            "x-crashlytics-api-key": "af46bdc38bf1267984ed38b9784a45489a5dc2c3", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa"
+        }, 
+        "host": "e.crashlytics.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/spi/v2/events"
+    }, 
+    "47ff6e50-eded-48bd-a76e-c271eb5569e7": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.78", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.surpax.ledflashlight.panel", 
+            "authorization": "AidLogin 3734064817643547494:632612277461774940", 
+            "connection": "Keep-Alive", 
+            "content-length": "224", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-ver": "11745430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "4966cf10-9fcf-4082-bb99-66a74875bf96": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-217498416029884059"
+    }, 
+    "4d416cb8-758b-4198-815f-3de350605f76": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=3&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3moV3Rtem-UuLifuYn1peIAPCYnmvQLEgSslPz_WuHP9TGWSfzefRbwr11brOHBdg3RbBprt9jyp2atj_t4YjxdXJUwOPVgezC_sZOb03MwC6XstJR0Rq2pZaFvMY2cDjzsouVuLcpnkgANeq2sp17MAIFPsLqSFo_O2VK5b7EreJ3DLqlV7Pt5la7_MVZCv63q0gzQKWx_cQK2CulIOG4TKZxFNU-63yWmVjTklvzxCnfIZvUaUjd21UBTFc4YMJnKTHmIwtjtps4vXNRngKxF5wJlaKhwdbBQd5X3RkMaUm3DSM0A86fK9GxvTfTWqJFOKS6dBpeqNHpjDPONaewqAApNJGpTub1440xPKcbeNfmAWkDRbugPoBZqUZKIu1ibTu0SkcrOOK7ENYKqxryC4Jy68qhItiO50qgDg6LdAOIA_vSOgKOrUGVq1IsFs0sGwRZ796cZe5WhXa_I6gAoPvWyJr9K4yVpPtTlDu6jfUfLiMS_5jUEvsutlHLJ9X6Qo9TxK84g8q_2HvaKXZFL3jpGj_TxeISNEWGGIbrJ277K0mmqCnbUZMBp9UNy46X-4VU-MVCNrBt83NTYmtcNmnBhn4roVQT3rtqZK9kmL0x7yFHI7eyb_wHmn44rmbsxAM5imCIylbktuILaSjNIj_CNh2dHTPfwx6D6kb2sCSmwSEPalTxfrstdwEgmOutF_qOgSlQIKgAKfcHUrYD66n192dUrE5JjMNnLyNkMjezHu1prSM95ubnUGgywP_3I-r2v8EWER2pcwtSMP75TTKp1Bd6QY4sWKE6fU0Ggb1-QLs0W5WDPDIAmV7nMjHOsxOKaabmgMpjILalLHKzqCHwXG6q0GCtaIf3dTq22Q4pFBy3HbPZTZB9K6QbKoe1f3EmRgNOylVeKL7blRwdNFZo3mkciqjIar2yzlrM2Lmp_ebIkup07G_d7EesrrW0MZaZq9RjZt3u7i4yllMyBEwJU-ZWzd716wsebq3Q4sohpbUSh6fWdsbNMopcPbNwYatJleUSDJs44OhoK9ItCk564bFd_MDujFEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=1968d43f-c8e8-497a-b091-0c368b9d9988&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324698075&preqs_in_session=2&pclick=0&support_transparent_background=true&pimp=0&preqs=2&time_in_session=781&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-8621759356895416&slotname=9387438478&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=10327816&heap_max=268435456&heap_total=47383472&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLGAu8I-EhB3gkXftgnEatqyHvbMGps1mbQU3BguaKxm0XkTr6XWpiBnoxROU82qOs-TOiT6u3oG2i0bdN8bEs43nL21jCXNfvOuKarRabjDQtNHkJQu9Tb80yUWhjrWFbnL4SXPa5Nq0gkJolMxUN7Nv5ODdwnbLJW8wTn1HtEQNwB5whGXO1Ft7PN3UoOpw67b5jGgT3p5O8yQtXZbDf_wuX-udX_BVIJf2xvMmBwNAWjSOape8dwxhQ&et=4&d_imp=1&swipeable=0&tcar=12&jsv=4-production-20171102_RC00&urll=2995"
+    }, 
+    "4f1d4301-2fae-4a0e-b475-34297ab58835": {
+        "ad": 0, 
+        "dst_ip": "216.58.218.142", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "clients3.google.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "clients3.google.com", 
+        "method": "GET", 
+        "package_name": "System", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/generate_204"
+    }, 
+    "51124b96-ebe0-42e1-8712-7983be544e5e": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=7&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1GoX3VtGmeVsDifsak1pesIPC4umjQDEyQsnPTX2uHO1fGeSPx-fRbwr11apGHJfg1xZBpLl9D6p-alh_PYajV93J0xEJVgexifuZubU3M5I6XktZz0TqSBhaluES2cDzRMquxmLcJmuiANeo2Mr1bEAIFHsBqSFqeO0Vuxj7EjWD3DJqnV7PpZla7-EfZCvq0q2g34CWR2WaK-CunIOGczSZxFPQ-y1g1GXjzMNvT4InfIZ_WaUj9edUBaNc4QMbEKRHiIQtjsji4nVfzHiKRtZwJtQMhwdJgwf5z3RkMbUm3DQcXA-6bCNGxuZbTWqLHOISedRp-iHBpjDNvNaewqAAkP0262uaglIiYNdHY5u6WZfin41bwhaBiC0aJmCq0mtVtB95nO6GbOE4gYo0K1EgeWxmsGSInnuPsWg_WWrZlNF-TgEv4LxfUsoeV7chqNGVRR_clbnE73twbSSlQCwWwzJqACxaF_JCnQ3QgHcRHfOvfFO8-3uDAndfkknsv6XlZcqBtKtIoy_l3w1pcEPxjtbREt_H2KGR3vs6HdCyku2wkNRrIcdPvT5HYKiCVrSXoTWmGxEIzstlUFe1bRof7j5fQ_wPuP0tv6HzHppZf_S-gD6AjKcp7j16T14Ewg8gcltn_UY2B9wuTLoqFEufBeyeDVkXQDogyGOgnUmIo0SECgjo9D6Kfw-bnbXzRt4yxISlQIKgAJdcL8sqzlMze5Hgx1tYDXXJv7c4royOHqmVtGbMNXjIZ8bjr8eX8opRWPjh7OGN8cxkoeWTyPzYNbqN_zI6u_W0DXimdAfC7XDNc5yeCrQ9uihI3E4ga1pKbGn_HisEnvbWE-AIhvFAGZVgaZVMlXJJkmWLC0CS1uzxqpfPKpRiHseFjNpWwgwI-8Sd7YyF2pJS-TKAnSrrDTAKgdoPCitGy406-UXfly_3krn1UT54BXifN_b-ktL-gWfC2dLWuNjXimlcxSm2N4W4vqW0Vrok_gAEu2wzM7J8k02LlmUa_MagJrqpkASBwkUmPNwzhwUqR-r41nxawyGs0mmFZAQEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=2227b801-725e-4a70-af47-ef7179ce9a3f&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324644270&preqs_in_session=6&pclick=0&support_transparent_background=true&pimp=0&preqs=6&time_in_session=2786&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-7176948080084743&slotname=2477664865&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=7652856&heap_max=268435456&heap_total=43190880&wv_count=1&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLEKxj_xliVCAleIwz9VXBNrhH67cBdCdoQCtXF5A_hGudsj3eKNlCfdMwOVqUTwL1Chn7Tg0KOLmp5a3_36-M4OO3Ht9OwZEnenF5Wy5oVvYYR2OwoINH79w78KrIfNo2QTi4HBmwbEqPIT-j6Fhn4fzVXj1Gr9OWXtN5VUwKxSQADHCTb2n0L_UFIteghvUGaKmC6Bv3AL1OE4uS685ty7_xhd4fmCTn96rC5jwtaG0qiO6V2dO0du7A&et=5&d_imp=1&swipeable=0&tcar=8&jsv=4-production-20171102_RC00&urll=2994"
+    }, 
+    "591a98c6-d4db-43bc-b909-c0a67c42672a": {
+        "ad": 1, 
+        "dst_ip": "52.202.41.136", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "wv.inner-active.mobi", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "wv.inner-active.mobi", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/simpleM2M/clientRequestEnhancedXmlAd?aid=iHandyNetworkLimited_Panel_A_Tier1A1_Android&fs=false&f=116&med=other&v=2.2.0-Android-6.5.4&dnt=false&bid=com.surpax.ledflashlight.panel&appv=1.1.12&dml=motorola%20Nexus%206&isdks=FB&t=1510082241230&nt=wifi&w=411&h=683&o=p&lng=en&in_lng=en-US&fromSDK=true"
+    }, 
+    "5fcd6fc0-97bb-4687-9583-0947a7d4793f": {
+        "ad": 0, 
+        "dst_ip": "23.210.205.147", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn2.inner-active.mobi", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "cdn2.inner-active.mobi", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/ia-android-sdk/config-Android-6.5.4.json?t=1510082241234"
+    }, 
+    "63d07bdf-7bdb-4873-ad00-f8a1b7c44177": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "6483bcb4-7485-493f-b9bb-f370250b72e1": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-8719292880288349502"
+    }, 
+    "652e725f-cea6-4985-b673-c451dec60e8e": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "6bb1e536-3ffe-4292-bc39-34daacb621c1": {
+        "ad": 0, 
+        "dst_ip": "52.212.120.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-217498416029884059"
+    }, 
+    "6bda9304-be1e-4796-91a0-30a789e28b0c": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-8719292880288349502"
+    }, 
+    "6d4da724-b601-46df-8e0a-e820a99c6f85": {
+        "ad": 1, 
+        "dst_ip": "158.85.206.100", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "104", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "6d96b605-0975-4cfc-9ada-b7f1c45245e3": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "73ccc38c-f32d-4370-9e6f-eb2ab948fb2d": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.68", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "7511200c-0970-4ebd-b8c4-ebbaa12b4fc7": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&_activity_context=true&format=412x50_mb&gl=US&seq_num=2&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1moU3VtGmuVuDgfuak1IeMAPKYmmjQPEyQsEPzf2mXO1fEWSPx-fRbwr11arGFFdg1xaBpLl1zyp-Ypj_vYZj193JExGJVkexCftZObU_cxK6VstZT0wqyJhSVuES0YDzxMIuRuLcpmsiCJeo2Mo17MAIFPsBoWFq-O3VO5j7ErWD1HLqnV7PpZlS7-EfbCvq0qVg3wCWh-UaI2CunIOG8zSRxFNQ8-3gVGVjTENnjwKnfIZ_WaUjdWdcBSNc4YMbkKzHiIQljshi4rXfTHAKxlZ4ZlSMhwdJAwd5T3RkMbUm1DSc3Ac6bKNGhubbTSqLHOKS-dRpeqFBrjDNPN7ewqAAi4RKuU5_xBP92hUPMpz5Rw22aRUVCAFnCO8GNsGRzwp3nga7J6i1CgQTncExyxXiwKrFOfRrbm6YyuKaU0l_OTfex5SPesh3HHC0QHH1gRk1gq5YeIux8rEHvSUJbQPDK_ClqMXHv_HgKmaIDvotMCZ9l3BhADkz_alVM74dVTmZDP05Stvo1alyMB30DteEJS9WNSg7VvC2VRS0-Dh_ygL6Q0LynaEXgTaVbgaBTiw6DEZ0A8HO7ETtMUtvGRsDxjeivarmWymxPn4GHrPwGdIiXZZEU-sjppx83nOWoUShrnEieiQD0ezmkx167oif4x_5kgEtpHno4iG0YeiEi4SEHISi8l54x3KityCQ9JKu8gSlQIKgAI1ov4Dwa8GxnJNghvHWCbcG6SUzUTsc1BMFtqROhvoBN2F1p-kgYEsrTO6oEfYZs6esJeexfHpQj_aft2ziKfwnrGikON3SbalU41R93rZ-CTNY1mH2_9InB-t_0JeSXoJKEWnA_3PJQohwo6owgbq1CXdIMnOUnDNGrF4lThApPg6VxCqCRo-EIdDdc0gVmumX7bqZrSyjCbUYQmB0nGqXW4t7e3LN1VUeFjkLKKh7NxmZdDmMFFqwcWNBhZbCu3mSjKtu9jv8xgssfR-o1PhGexCFi0E3MBxQk0w2wfMbNR8ipN1ZAoTkhtXuCzmlDQvCUekqPGrbYfUqG9Jj4E2EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&android_app_muted=false&request_id=fe380096-3ae0-41bf-80b5-551890cd03b8&smart_h=auto&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&smart_w=full&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324641512&preqs_in_session=1&pclick=0&support_transparent_background=true&pimp=0&preqs=1&time_in_session=27&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-3197816128140980&slotname=8511158684&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=6884712&heap_max=268435456&heap_total=43190880&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=true&includeDoritos=true&content_infol=-1&blob=ABPQqLGxMzlYc2WRUi5zwWZO1c2RfZ7-q7AQ-LppcXG8qFswGs0-UCoO7HZ9n0LqUnULyR_zCm3FO_p13NLhMC-cQJ3M1uRggwsstNW73CRj055GT7lt0_9_hS-udQXr9bTMkYouYKMtIsI7LQatn8ylc2CBZHSVWgnT3FNSYpZ8KY2MEAD1rFD0zdbKfri196Y3OfE-F-_d-iiwhcpLAA9bsNBsdB8ulJ3GO1pbdW0QJqCxCV6r331OKVyerw&et=11&tcar=19&jsv=4-production-20171102_RC00&urll=2902"
+    }, 
+    "7a31be05-1151-463f-a116-a1686861079b": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=6&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3moR3Rtem-UuLgfuYn1JeIAPLYnmvQbEgSsFPz_WnHP9TEWSfzebRbwr11brOFBdg3RbBprt1jyp2Y9j_t4cjxdXJUwOPVgezC_oZOb0_MwC6V8tJR01q2pZSFvMY0cDjzsMuVuLdpnkgCdeq2sp17MAIFPsLoCFo_OyVK5b6EreJ1DLqlV_Pt5lS7_MVbSv63qUgzQKWx_cQI2CulIKG4TKQxFNU863yWmVjTklnzxCnfIZvUaQjd21cBTFc4IMJnKzHmIwkjtps4vXNRnEKxF54JlaKhwdbBQd5X3RlMaUm1DSM0AY6fK9GxvTfTWqJFOOS6dBoeqNHrjDPON6ewqAAr-dhUfuUr9lqfjnCcdnuRvjZH6oc_X_85zHWcyYuoviFoGArQ18HZscB29oLf16ddyEqQpgmBsQ8ZU-D8wCwAWZJTC8w0WbB338xjzncf0eFYQWsSXbEqB0o6K8cTXr9oRlQIFpNYNzYP7bVCJjn_sVr9zRodSZwBJbAxJQd030xcRM-X-AzwOLlp_JqkUyse2CP_sZbca90XIZyGiM_yLgX4qOJmUKjuLPx3sQZCylXhKNLijPNoLe2hfk1Rw0QI7q_Pzmv0qW_Hwi7vj8ErR4XXnqitfxnM5bCiiVKiq-_VxV6nAoqkZmUvBPEQiVEY8N_l7YVKCjACXROEelxZASEMTZIFC9E8EvqPHyoO-Y534SlQIKgAIEan1LZf7S2qfJtasmTfRaviR-heT0FsRoX5LFrsaiyN0UwqsRwBJ8zKsd9OLInjRvaKooRfEymJufX1VHwQwc2vEZllPv95DF3ihr4n7LhDXd78PmUut2-VYXv-eOR_ANqNuFp3hnv29wJmwN154-sH1bWHxXKyK5C_E8JGjZEOw6aUTuVD7gtBeAp7ygVHHSHzRGR_1NdDIAdal0FuoM3HLMDfmPU-3gYOE42PZHyEy2N2rSvMKMtQSwhnJe9u_nGqnR_t1s5Qx1rJqfYrsHXHCnWH2EZ-iQQsXuPsftbGQ5hREwZS8rE9f71On_VphK3GueuGGhJxPJ0D28RozEEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=318a44df-3a5a-4274-8d6d-ee429f345c03&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324698532&preqs_in_session=5&pclick=0&support_transparent_background=true&pimp=0&preqs=5&time_in_session=1238&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-8621759356895416&slotname=7910730598&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=8315240&heap_max=268435456&heap_total=47383472&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLGaJMO9DW_S2dIYlXv4npXAC58n28A3Aumvy1FWqKE2p6djHN8jxJXZCviDjBeC197_LbHaDqIW221NSvL4LpL1pRdZztDg6yiFjjsxzoD757DXHGcYIlbNFeFydN1P8CpEVRQDexAxakcSPFZTtLGbVJe5CVtuQwKq-ndxO4RvjwAgFbFITpVaMgtevw1IgheQY3YKLp7Fw0myoVVuBFwJa3HyVC-KFxdtBYuNLyVTNZylbA0s9LDwLg&et=6&d_imp=1&swipeable=0&tcar=10&jsv=4-production-20171102_RC00&urll=2995"
+    }, 
+    "7a899bb6-ffd1-4f6f-ac1e-7b14b028ea73": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "7c1bb1e7-531f-46d2-85c4-c5a0322811c2": {
+        "ad": 1, 
+        "dst_ip": "52.94.232.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "mads.amazon-adsystem.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "mads.amazon-adsystem.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/msdk/getConfig?idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&fp=false&appId=7d42169c240344b09566eda531881322&dinfo=%7B%22make%22%3A%22motorola%22%2C%22model%22%3A%22Nexus%206%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%226.0.1%22%2C%22scalingFactor%22%3A%223.5%22%2C%22language%22%3A%22en%22%2C%22country%22%3A%22US%22%7D&sdkVer=amznAdSDK-android-5.8.1"
+    }, 
+    "7c8f7703-b2db-4e40-97c9-88c7ec9bb2f0": {
+        "ad": 1, 
+        "dst_ip": "216.157.12.18", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mp.mydas.mobi", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mp.mydas.mobi", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/getAd?dm=Nexus+6&dv=Android6.0.1&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0.1%3B+Nexus+6+Build%2FMMB29X%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F44.0.2403.117+Mobile+Safari%2F537.36&aaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&ate=true&density=3.5&hpx=2560&wpx=1440&do=portrait&olock=false&sk=false&vol=26&headphones=false&mic=false&language=en&country=US&pkid=com.surpax.ledflashlight.panel&pknm=%C2%A0Flashlight&bl=61&plugged=true&space=0&conn=wifi&mcc=310&pip=192.168.0.2&loc=false&sdkversion=6.3.1-4006cb2.a&video=true&cachedvideo=true&apid=banner&at=b&reqtype=getad&hswd=320&hsht=50&refreshrate=0"
+    }, 
+    "7cb2c660-c59a-4cb1-860f-eda283994458": {
+        "ad": 0, 
+        "dst_ip": "205.251.203.24", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.asiatone.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "api.asiatone.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/token?Token=APA91bFTmmatf9Sap7Vc1q5pVp7pQndL4balgs9qLdEUT_mi80T9DYQaHN9RUq_ao9_OgIn27KsxXJz0ufXHhxOFVmpYzdBye5L1tNfk2fQLwrGwqQ05nn4k7Q9Tbn6CYf16VZxUw4sC&AppName=com.surpax.ledflashlight.panel&Version=1.1.12&TimeZone=-28800&Locale=en_US&Platform=Android&OSVersion=6.0.1"
+    }, 
+    "85e916c8-7d19-43b9-b527-1129655ac530": {
+        "ad": 0, 
+        "dst_ip": "23.210.205.147", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "cdn2.inner-active.mobi", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "cdn2.inner-active.mobi", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/ia-android-sdk/video-supported-devices-Android-6.5.4.json?t=1510082239671"
+    }, 
+    "87d482ed-f79d-4163-9afb-cf1a8ba0998e": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.78", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.surpax.ledflashlight.panel", 
+            "authorization": "AidLogin 3734064817643547494:632612277461774940", 
+            "connection": "Keep-Alive", 
+            "content-length": "224", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-ver": "11745430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "8e053557-e540-4ce0-848c-da435a2bb4aa": {
+        "ad": 0, 
+        "dst_ip": "50.16.213.250", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "637", 
+            "content-type": "multipart/form-data; boundary=00content0boundary00", 
+            "host": "e.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.8.127", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.8.127", 
+            "x-crashlytics-api-key": "af46bdc38bf1267984ed38b9784a45489a5dc2c3", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa"
+        }, 
+        "host": "e.crashlytics.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/spi/v2/events"
+    }, 
+    "92fa6e03-c956-4417-9adc-75bfddddf3b7": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=5&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1moV3FpGm-RvDgfsak1Je8APKYqmjQLEyQsFPTb2mHO1fEWTPx-fRbwr11aqGFBfglxbB5Ll1j-p-Yth_vYYjV53JU1GJVgexSfsZufU_M9L6VstZD0xqCNhSFuES0cDzxMIuhqLcpitiCNfomMp1bMAIFDtBoSFq-O2V-5j7EjWD1DJq3V7PpZlS7-FfbCuq0qUgnwCWxyUaI2DunIOGMzSRxFNQ860gVGVjzANnz4KnfIZ_GaUjtWdcBeMc4YMb0KzHiIQljogi4vUfTHAKBhZ4JtTMhwcJAwd5jzRkMfUm1DRc3Ac6LONGxubbTWqLHOKSedRpemEBrjDNfN6ewqAAtftyFZfDqQzt6j6CwbI8NEh_P5T0ZnTQBHwDZ2Y6s0EimRovYziiHDjFawf9Nj2RP4nUzjevpsWUZjPOUwDhPMno9Wsh6St7CzhE4bxK-hAXWk2i9WqgjhCHDTfPRTprw7pTqjy3yYUVUHTGjkQSVsEus9MZtH23TIhiKkDN3mbR2j1zgaCW-FkJJhwa5NaUaOxMlvTnAOr7QlVYRO2j4qmzSz2igWz6EQnzvqcsGUPOBdiwgfaZffwy0llKWMV9GZz16SkDcOgBqrPpioSyPmsVVyiNKE95c0ab39zCzYSABKsh8uGi4WvwTmNXe8E2P-QRJxDOprPVMdDM7aVNqASECsWgQoe-De4VZh1MRFeRHISlQIKgAIMtlnqst_q7x9xYeuEI9AlZpn8RgugTMhuVfQbYDQyl77r2v3Puh4P_QG3YTvyxNfptiAGpvPCck7IdfyZz5jymMPXubF-yzXCNh4QmD2HMBjz5QPx9f2JuQbVbjAOw8tDLF0me5rVhh4G9jTNh5RJr1kDiq3zvRnTJH-rvByBLoJ9JVOhH37WU4xGJf9EUBrBCJRoE9Qf_lSBjXGhzthbGy2y3dXEmc5HCI-Xbaf_5IUFe3vyeVrJ4pGYvzdpznerCw8l86EWiA9UVHxGwG9IIqynxE1D7ZoYVX9yt0s3XdIokRoLN0WC_l5HGHrnjM5UbbtNs56Xb-3wZJ9Hwba0EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=378120a2-5a9d-4f0c-8b62-f22792745bca&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324642126&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=4&time_in_session=641&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-7176948080084743&slotname=9861204265&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=3334280&heap_max=268435456&heap_total=43190880&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLEfZabQhYH4INPRkuckfloeUnK-VMM44K7YbtjH1NIMXq-2DSaEBHDK3aiqJ9sromDJE906UUZwsUuORtC8KCeHMLZY9GqQSMZeuPCnoqHAPr1BZNvRoZyP0rIaHQS78OdaY0HlSmkb8Qb48zCtcC_zBqRN3LiLZd4SSMYKYMNSNwCg_guLDPjV9etEpWVSXGkNtGwuZJLbewGRc5ffZkEpnRQNga1zngW8FI1o2ikW00uH8Gm1J4i2Vg&et=11&d_imp=1&swipeable=0&tcar=20&jsv=4-production-20171102_RC00&urll=2995"
+    }, 
+    "9bf84da1-aed4-489a-a128-16dc2c07eaa8": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=3&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1moU3VtGmuVuDifuak1oeMAPCYmmjQPEyQskPzf2uXO1fGWSPx-fRbwr11arGHFdg1xaBpLl9zyp-apj_vYZj193JExGJVkexCftZObU3cxK6XstZT0QqyJhaVuES2YDzxMouRuLcpmsiAJeo2Mo17MAIFPsBqWFq-O3VO5j7ErWD3HLqnV7PpZla7-EfZCvq0q1g3wCWh-UaK2CunIOG8zSZxFNQ--3gVGVjTENvjwKnfIZ_WaUjdWdUBSNc4YMbkKTHiIQtjshi4rXfTHgKxlZwZlSMhwdJAwd5T3RkMbUm3DSc3A86bKNGhubbTSqLHOKS-dRpeqFBpjDNPNbewqAAn1s76soouyH-yFJcpvS2lR_upP-E6zezLzlGnAg8hHJ8L4BEVonRmtJoX4wLsNJJ5A_CvgFnxedsrvmUGFTpeqAuOJJ8ZJzW-ThcCQYFJXkwOgdYN0FkaNbM6Hh6kY90N_BmUxGYPkMZyk9aBH0BNbXDUmjEKv4D62Y9Wxmem2Ml6T-H4CPGpbuLNOA_sxM66M6AS7VmaKaekWj16zU6cIWj0rltr6IAli6Jpo5WLcEJgXHL4gM69sjddcQVn6aI4EQrKDNpJtaWgo5VKkXVOIyDjmCYpRqnkxQhzbI6PXtMSJz5KL57ySp_yPaVsv1x1zZReKPIbYfSZX1VRH8KPkSEO28q-UUY-SbKax4jHgTLgsSlQIKgAKf4P5nqnYizg9E5s_cXAQmJLL24Ul5dexmTpq14cbqlL8WkvOdVeMs5bn-4PFLRnQg_7EI__zJ3FeJfH0aUsdck__CunDjTZSR2ck7inHZnBlHZaPpzvsKKtaPyzqcLchZqkGls2CPrxf85DCWyERONf3bAH1YcjqBE_EsP-RAKMq4UVRoy174Ap5jg3Y9VBXZDbRiQWHWXEcGB9HqBBNQW2xvUZeRE8ne9hgY92bH5JY2Z3brsVPo-ZKrvrTfTPugATChsULPoU9m99aH_1NPcf5kbN6UvJwZyS_W70_sVFGyrD2b9w4j5sNTvKLptOCGRAHq4vipZ_zBihlW3ue0EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=74a7acdb-5dfd-4551-8821-7dab4c27f1db&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324642117&preqs_in_session=2&pclick=0&support_transparent_background=true&pimp=0&preqs=2&time_in_session=632&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-8621759356895416&slotname=9387438478&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=3454760&heap_max=268435456&heap_total=43190880&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLE8_wmzA2rpKlsNRo0xuuBfLrOrF8efk5G6NWM11hUeheZjzqVYrPXxdQsSg4ApLZhfWEwAhr_ZmIK1j-G7JiqzbNtcsMQ2q0xRWOu4n_FQZUjRN6NTuHyqnAqN1XI7T_FMofKixGsxcrgfiv0cjtDqDn1iRROcWnq7zmBJx7GkLgAQ3jcAJiPdKqMVVQa_9oBgkuA_pYQVnizzpRVhJ_y9O8GNjD1KpuBEUuH62u9vRO272TIDsO5L2w&et=4&d_imp=1&swipeable=0&tcar=8&jsv=4-production-20171102_RC00&urll=2993"
+    }, 
+    "9c38d156-407b-4294-b124-3b4000adc838": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "9cd85d63-a848-4cfd-ace9-8116b062678f": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "9d588cb0-f287-41af-9ca1-c84557a5f04f": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "9e535898-5a72-42fe-97b6-afee0a9d29c6": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "9ea42610-a20b-405b-9cfe-08aefdc59d1b": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "9f1027b2-8f25-46ab-b30c-121272d5ee6a": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=9&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3GoS3BpemOQtLgfqYn1IfYIPL4jmvQXAgSsGOzzWnXf9TEeXfzebRbwr11boOFNZgnRYB5rt1T2p2Yxn_N4fjxZXJkkMPVkezy_rYOf0_c0B6V0tJh02qmlZS1_MY0YDjTsOvFiLdJzngCZfqmsq07EAIFLtLoGBofOxUaxb6E7eJ1HPq1V_Pt5lS7vNVbSq63qXgjYKWBreQI-HulIKGoTKQxFPU82yy2mXjTolnDxAnfIdvEaQjN-1cBXEc4AIJXKxGmIwkjpqs4jSNxnGKhJ54ZlZKhwcbhQf4HzRlMOUm1DXMUAa6PG9Gh_RfTSqJFOMT6dBo-uOHrjHP-N7ewqAAlJSxw4gWxW59m3TIkS6enZR21Q3GtZ5FVPR6VEJmn9UsHIReKYFCgYOddjxmvANt73V5V4HLlbF3uePARTtHQrfHmLC1Fe9aDlFl4Ic_DcOjaQ8R_tTXph8Sa0AvhMHvvhbeviJlp8XG-fP0_qVzXUVm_d1GxrrS07nFleSd_yZvwXG1o1RdG6P6B5ibhyGwVS_yWyUUZyBMeGfmespUzmoF8jpyxx4blMzk5z1qQwLcsz7My8MkFuJKZQYPD3q6jZBSt4VCqF8txVIROTLKke6Qn0dLbRbQiG86NC4yq-hkq1Yxcy2AubmKZaXCVBAsfShCUT4MMO4M2sugzcC7ZcSELvy_Cq-_cblWbNK-GapGZkSlQIKgAI8oOkXjh5KjjO68dfAfGFWml7uiUt3XtRODteVcLajhp7m2tsna550YcOVosuxVxQRYaMCxvjjjvYVR0e10pksGMvE0OGne-auN6wJPL-G5CS9Z4NB4O9KHcbX-QxMUqJHYl-9A1rnv4IS91IthhcuG5-CcMUkPyiPe-w-EIAROHIiNFRtX36inwxUq0uRUTflhaRib1-dXuiKPMnNXGpoX-AQYa2HConfmCwq4S7f7h3UelziJ1uqRo65hh_9fumvwz25uzyk8V-e5P6y024vVvI2VmHE_sa80V3u30-0LFI4gAW7N3YLUlV2rKZ1jugoLiu440ilfUEj1TNHDoSkEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=15176dbf-8f51-49a4-b0e7-0ed49b34822e&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324701176&preqs_in_session=8&pclick=0&support_transparent_background=true&pimp=0&preqs=8&time_in_session=3882&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-8621759356895416&slotname=6573775438&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=13131032&heap_max=268435456&heap_total=48601728&wv_count=1&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLGFIGRQ_cIXvu_6DbEsnecz10SPqe9-BsVyiXzPtP_293zvcK1k-cIOtaMYiwpA0lxgyKH_BkNpKOl66N1S14J5lnKV3m55715odJpM_Dg_aqjs8EZZUo-yekEvoPSZ8BOcGEvWrLAR49tI33Ah7TVPu2Wr1HLdiBqO7Io6R7q5xQB7JQMjmh0l1QMVknFl0RHyXkpNmPulsTswaK8wVZq19Xv8N_MMz8BvTqbCKHWu09Pdlddi6BoLoQ&et=9&d_imp=1&swipeable=0&tcar=26&jsv=4-production-20171102_RC00&urll=2996"
+    }, 
+    "a0c03623-2ee7-41ca-8ece-04814ca6f762": {
+        "ad": 1, 
+        "dst_ip": "216.157.12.18", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ads.mp.mydas.mobi", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "ads.mp.mydas.mobi", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/getAd?dm=Nexus+6&dv=Android6.0.1&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0.1%3B+Nexus+6+Build%2FMMB29X%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F44.0.2403.117+Mobile+Safari%2F537.36&aaid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&ate=true&density=3.5&hpx=2560&wpx=1440&do=portrait&olock=false&sk=false&vol=26&headphones=false&mic=false&language=en&country=US&pkid=com.surpax.ledflashlight.panel&pknm=%C2%A0Flashlight&bl=61&plugged=true&space=0&conn=wifi&mcc=310&pip=192.168.0.2&loc=false&sdkversion=6.3.1-4006cb2.a&video=true&cachedvideo=true&apid=banner&at=b&reqtype=getad&hswd=320&hsht=50&refreshrate=0"
+    }, 
+    "a10cfa41-99fa-4756-9e86-6340ed76bd95": {
+        "ad": 0, 
+        "dst_ip": "205.251.203.24", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.asiatone.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "api.asiatone.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/rao?a=i383gRO2TQ1LCU13hvI4%2FYVn4BEIHLZ%2BxdxUKCYXI7A%3D%0A&i=flV1pKTwp5Rv9VGbLSOI13kmEzYr6cP4j%2FoTGWFPLUI%3D%0A&n=pv0tbAE%2FsHGh0myYmbzzKYQ%2Ff2VtVlkMcqZt%2F3WPkAIP53TdpxzzVqbQgDTH%2Fo4i%0A&s=m7Eiq38HpZF4iaPvd3pnVw%3D%3D%0A&p=sbq8RWr%2FMgizTIgH78HLMg%3D%3D%0A"
+    }, 
+    "a1e7f3f2-debd-40be-81b6-bf6256442bcb": {
+        "ad": 0, 
+        "dst_ip": "34.253.63.180", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "737", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v3/androidevent?buildnumber=3.0&app_id=com.surpax.ledflashlight.panel"
+    }, 
+    "a2056dc7-ae8a-4a1b-a132-68449f9cfb2e": {
+        "ad": 1, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "789", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.surpax.ledflashlight.panel;FBAV/1.1.12;FBBV/55;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "a222ecae-c784-41e5-93e0-daace0ba556c": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.22", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "scontent.xx.fbcdn.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "scontent.xx.fbcdn.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/v/t1.0-0/c1.1.128.128/p130x130/21314733_10155414407326391_7509855297031478306_n.jpg?oh=405505c88c9c4f8d4cafe2aa3438e110&oe=5A61CB14"
+    }, 
+    "a634a1fb-8edc-4c19-858c-671f90afde6b": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&_activity_context=true&format=412x50_mb&gl=US&seq_num=1&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3moW3RtemOUuLgfuYn1IeIAPK4nmvQHEgSsGPz_WmXP9TEeSfzefRbwr11brOFNdg3RYBprt1Typ2Yhj_t4bjxdXJkwOPVkezC_vZOb0_cwC6VktJR0yq2pZS1vMY0YDjzsKuVuLcJnkgCJeq2sq17MAIFPsLoWFo_O1VK5b7EreJ1HLqlV7Pt5lS7_MVbCv63qXgzQKWB_cQI-CulIOG4TKRxFNU823yWmXjTklnDxCnfIZvUaUjd21cBTFc4QMJnKxHmIwljtps4jXNRnCKxF54ZlaKhwdbBQf5X3RkMaUm1DSM0Ae6fK9GhvTfTSqJFOIS6dBp-qNHrjDPON7ewqAAjGp561HnWPRLK-xC8DgC3OiPnnw0X2S4GA0LjTWY9piH0MMvfneNOrA0N3YQqujRAkLi6O7nkB_sojoIVCP89HqRgaBeQkl5k__RIsQUqVT9t3IgtnaVBcCf9cm5q00vgE_jBmRxPkE9394FDuZuK_rAAiBWkBpwPBXJTqttWzt5W-yrXcKz6pCr05pwSbk-dYOZr4cbW6dHLd5nE_Yto4NFVkGORokEmWTW2cBPNPjQTZIXr6cxKMD5kKcaKaVr9w8h4U9QvVQd2vU5XVfKeE_ulyubDlvn18XK7-gR9oQ29LFRKDxubfdsCIfCkjC-S0UZ-28apbxaBsalYZhLQASEJe4tBDFNlz7R7qnCX31EmUSlQIKgAKFgvsCcLaCwnOTYSrm34PrOtfczEX_VHX8jhWECxXBAG1mEqsl4MYsrUt9pUeY7-weyju51VpDcY89_dwi8uvEL8vOh0IH47ElHsxTRpd-_DWWzXsXaX9vHEWFz2LuonkpSc2lA_MFBjs5540YDk_vRTzaIHmsf3N9cXZ9NQJJodgpXAW6f3wYIA9EV-yZ8UmHDjbe99TdvLejJCig1JiMzUtKzM2lkmT0sbTwrSbn2OzUYPLXB9FMYSYhJgZfRu7W4z-ZG5fu5Yk23NPf-9zWufvmABzFlvBBWqcna-3OfMUwIoD1to4SstXenDxfNAA-hAuGKEinX4YCp134DUw1EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&android_app_muted=false&request_id=b3c8db27-b3a0-4128-816b-534c196c7776&smart_h=auto&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&smart_w=full&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324697294&preqs_in_session=0&pclick=0&support_transparent_background=true&pimp=0&preqs=0&time_in_session=0&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-4083779479801549&slotname=5072394505&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=15923000&heap_max=268435456&heap_total=47383472&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=true&includeDoritos=true&content_infol=-1&blob=ABPQqLFp55Ce4onch_8Dhmm6nJIUd8eFBlowqzEfrpiM_ifC-q7vW8KXQjxC4mhqt5r9-BtL9tF4rCTfLhbMI_CjCRVnUKst6KOXKLKyJAWDqi2DEZKlI2IVWDGcUerI_wmgVxKsR9TQomX17YJ6rQGbmhtJPBxgxzVgLcjqenuKgv1DUgBTKv8-GniGzyz3vTAmEa530UaiO3T1JQdU355DJx_GO55063CQjGj3bL5oCDWLoCMk6xk6_yQULA&et=28&tcar=30&jsv=4-production-20171102_RC00&urll=2894"
+    }, 
+    "a825f868-3adb-43ae-beba-cd46b912a760": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "a87bf3f4-0871-4161-95cb-47ac5ef6ae7b": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&_activity_context=true&format=412x50_mb&gl=US&seq_num=1&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1mob3VtGmeVuDifuak1peMAPB4mmjQTEyQsvPzf2vHO1fG-SPx-bRbwr11arGHpdg1xRBpLl9Dyp-a1j_vYWj193L0xGJVgexCfqZObU1MxK6X0tZT0XqyJhYluES2cDzxMuuRuLdJmsiAdeo2Mj17MAIFPsBqCFq-O4VO5j4ErWD3jLqnV_PpZlY7-EfZSvq0q-g3wCUR-UaKeCunICG8zSaxFNQ-y3gVGfjTENvTwKnfIZ_WaQjdWdUBSNc4gMbkKRHiIQujshi4nXfTHuKxlZwJlSMhQdJAwf5T3RlMbUm3DSc3A66bKNGxubbTWqLHOMS-dRq-qFBpDDNPNSewqAAlG2EXJDLas3J8e7s73Lt6geUVyMYmCn9StBmsdWnzgHgvq9xSe9vPNY77hk6FNKrrPl7lFT_9qMS6nEDPTBKXIVt01QTyFelI1k6ZtRKkYRHVwthL4K2-DbKkHKOXzC0D9db84IjkefH5C4I_Wckr7AV1KxRmvOt4gRoeovhSqOEOoo5dHDczEexN-MMUdXaRAAxtR5tic6RBfG2j-K4mxK6_IHp2YRispr0lfOGOMH4NZwDEcZ0L2Qa59pP14RLIQJtRmdOrh8CHp-ICXcAdmJ-G6PPSxzluotQdZl81QuNUU8yKxUgrdAAGNEFLeHYo6i6xbny1h08oWGdRjLsiESENb5YIGlsXLICB8yzpZxhdoSlQIKgAIYQPeL9nleD95Go_pB0WR8JxbuBMpyCHH7xgqQJM0yDPsyzv4e_hLsKRuLIe9Hhqcp07Q_Y9I4qosizVSZ84YYjNQLUOROcXaS1KSZTVPB8InAebExaOfhLdAP3nA80TKXCU0nP2v_DRr1MM8MShSqf3BfaX3yI7HTv_G5KcNZJVa-bdA1aqqXFxeKFOuTXIIBirzDUsTDZAGh82ghjXpLWk_GzNW-Vz3GfmksvGxDTUCSN_jjG0IL9r2-pjNbeOx6pimFJ0TucppvIlzX-DOApvAxX40Z7ejcQ8f4Y2H9LNY7ARPfdrMaO8lnEarJRFwBwWUNp9G5RS1OWo_CXBI3EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&android_app_muted=false&request_id=6d632d09-1a69-436c-81be-1c5cac7b8c93&smart_h=auto&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&smart_w=full&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324641485&preqs_in_session=0&pclick=0&support_transparent_background=true&pimp=0&preqs=0&time_in_session=0&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-4083779479801549&slotname=5072394505&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=7093504&heap_max=268435456&heap_total=43190880&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=true&includeDoritos=true&content_infol=-1&blob=ABPQqLFYyHVNSLHwM5XZ8jgRHRh0sK4EnwCSZAO4plUB-7ns_Ok0C_gMlmiUloK0-nqvQzABlVsiH_gSdM-d0gi3fjjNqCrfrkxcMs4gm8WunSR31Af7HOrJdQV2_D7x_Rln2rek8b1OujYEHK2QMwNvQ_DOui80itWI9W4SNqTon4VbwAChCgStpIqKLbHEPM6LLj41slfKOnhgGkqSvd5MLgtuRzi6XRAdif_4kqGxLxS0bVTN9CPZBhe30A&et=26&tcar=38&jsv=4-production-20171102_RC00&urll=2893"
+    }, 
+    "a95b342f-4c2b-4ae6-bdf3-2f9a8bb32873": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-8719292880288349502"
+    }, 
+    "aac1c848-8836-4757-bde5-594bb18bbb58": {
+        "ad": 0, 
+        "dst_ip": "107.20.252.222", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "settings.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.12.127", 
+            "x-crashlytics-advertising-token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", 
+            "x-crashlytics-android-id": "xxxxxxxxxxxxxxxx", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.12.127", 
+            "x-crashlytics-api-key": "af46bdc38bf1267984ed38b9784a45489a5dc2c3", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa", 
+            "x-crashlytics-device-model": "motorola/Nexus 6", 
+            "x-crashlytics-installation-id": "ece8e8ff05684102ba58f209f1040d66", 
+            "x-crashlytics-os-build-version": "2704508", 
+            "x-crashlytics-os-display-version": "6.0.1"
+        }, 
+        "host": "settings.crashlytics.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/spi/v2/platforms/android/apps/com.surpax.ledflashlight.panel/settings?icon_hash=343f8b43d55f8370b894ef1d5f0e0ba6007a718e&display_version=1.1.12&source=4&instance=39449c0e3a7a4dc3c21ef35133ac29852d008ab1&build_version=55"
+    }, 
+    "ab1c8247-8884-4bcd-a3a2-eabd410ef351": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "ab7b01b0-d1b3-4c91-bdf6-04665bbd81ba": {
+        "ad": 0, 
+        "dst_ip": "31.13.70.36", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "6950", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "www.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/;FBAV/;FBBV/0;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "www.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/adnw_logging/"
+    }, 
+    "afb82db2-a0a6-4df6-9f8a-6eb534ee5cda": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=8&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3GoR3Rtem-UsLifsYn1peoIPDYvmvQbEgSslPT3WvHP9TGWSfzebRbwr11bpOHBfg3RbBprt9j6p2a9h_N4cjRdXJUwMPVgezi_oZub03M4A6X8tJx0VqWhZaFvMY2cDjTssu1mLdpnmgAdeq2sp1bEAIFHsLqCFofOyVqxb6EjeJ3DJqlV_Pt5la7_MVZSv63q0gzYKWx3eQK2CulIKGYTKYxFPU-61y2mVjzslvz5AnfIZvUaQj9-1UBbFc4IMJHKTHmIwsjtrs4vVNxnkKRN5wJtYKhwdbhQd533RlMaUm3DQMUA46fC9GxvRfTWqJFOOSadBoeiPHpjDPuNaewqAAsAIdgqxEkbmzlgqAzVlMEiottwDZZswl-OzUwqKKXDoKRSesRC_4zoqFKFfXCrv0n7N7Bo6t8OD5vErOwEzdWZxnQGj1khAfOtbYIZbF70AP-8S_o4bUcZPrN5Z82CoBp5tc_AIJpxUhcZ9DPQ3ZPScWON__z78WUv1EUzpubWJhUO2nb2R4IjVg9PHFteuSrFGryDjZzpLBrTiF5ZB_oYuvkyY1l90bkaYNAhkD7IFFFml6Lv0YPViTMuWGXn2B9b_6JBRpyhDu1tVlA2cAVp8xsfD0KsVhN-CIRRww1lrKx_Y_kcbwvPo32i40T5qUQVwM2vR8bwEgWhZ51bsmZESEBd2g1EiyygZSZ7pePat8VoSlQIKgAIz4p0Hpi9kxjfNoaXkX1UEGGX8AUQoAEZKUfEXXNyxFJ6HlLugQtKs7PW7oECaTz6cNu2ixrOB3npcPV-yy5-UvrfYWuW2Q56BEp75kr2IXgGPKQHgnf8gupqXKSMeACBpaB1NAzrX7ytisfKuh13slOWMCOwLOzCJXPAusrxLgPs9bhzNT3h6M0BAKcugF7fk3JYARHDbNGPVQvPnFloSWql-E46MFmtT-AI6S2Ozhp_lNP7mdVGK4YHX3jTdQHmFz0tJmRmeo16o2hY75CgPfehgTE-DpP4QxXX830O89NE8kN0SI0qj8x5O3ApjxsgPCX0I73bTLeQU47luDbieEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=8170b76d-44ed-4511-965e-505938b30ed3&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324700547&preqs_in_session=7&pclick=0&support_transparent_background=true&pimp=0&preqs=7&time_in_session=3253&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-8621759356895416&slotname=6434022718&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=14717608&heap_max=268435456&heap_total=48601728&wv_count=4&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLGcTAZAVesCPxf0cEwll9r2usBHfRWO1bV83_SExhF0i-DbifJ05M2Cr4FYe4SPneb6fDiceMhFU3UnzlRHvWrUiWkbp_FBjPgG28MI8ratBRT0-W1l46dClpEMhoNUhdsp65C4jzJhtWp69cKeIxuh25SoJvgeqX71qvr9VqFRXgDe6HKmAb_V_LCc9n-jXLgAThZon3lh-uFtJl1gKpybG2wP-sJJkATB4lbr2faPpj7NS9jXTqNbcA&et=16&d_imp=1&swipeable=0&tcar=29&jsv=4-production-20171102_RC00&urll=2997"
+    }, 
+    "b914e71a-f3c4-40b6-a473-7f1d6f566bf0": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.23.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/v2.9/651942978220795?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Cgdpv4_chrome_custom_tabs_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url&format=json&sdk=android"
+    }, 
+    "b9a961a1-e8c4-4e1b-81e1-baa7cc92e3fd": {
+        "ad": 0, 
+        "dst_ip": "172.217.11.68", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "ba3f1c16-7a44-4012-b1db-550d1daab1fa": {
+        "ad": 0, 
+        "dst_ip": "216.58.218.142", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "clients3.google.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "clients3.google.com", 
+        "method": "GET", 
+        "package_name": "System", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/generate_204"
+    }, 
+    "c6f222fb-343f-4cac-9f52-8ede1fe0bee8": {
+        "ad": 1, 
+        "dst_ip": "158.85.206.100", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "104", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "c9f1ea5c-62a2-4d74-850a-3560775ea26e": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=8&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC1Gob3VtGmeVsDgfsak1JesIPJ4umjQTEyQsPPTX2nHO1fE-SPx-bRbwr11apGFpfg1xRBpLl1D6p-Y1h_PYWjV93L0xEJVgexifqZubU9M5I6V0tZz03qSBhQluES0cDzRMOuxmLdJmuiCdeo2Mj1bEAIFHsBoCFqeO4Vuxj4EjWD1jJqnV_PpZlQ7-EfbSvq0qeg34CUR2WaIeCunICGczSSxFPQ8y1g1GfjzMNnT4InfIZ_WaQj9edcBaNc4gMbEKxHiIQmjsji4nVfzHOKRtZ4JtQMhQdJgwf5z3RlMbUm1DQcXAa6bCNGxuZbTWqLHOMSedRq-iHBrDDNvNyewqAAutqAG5oeC_E4BPPjqUSp1rlia4XhXXRGFkyEtxmn3VWdfPVVW1-uHxByNHGqzvOYPtqcjQ05J6N0_1WtHS1QZ3MhMb3bLXfLsRwuWZgjJttO8iGQ_Huw87ADHfKJRTUFLA6YEHylA17mVwMtk8oMFpMCV1IQR_Lm6pXdVOQ1N6hkMluTDoJxHWVXJYBDS43XD9rX59O3YAO0wbeX2sl4dQ8nt0-zyk0y_j0dGwzmV_tuSNLJFTxn2d_AOuniY0dTRieoOdqBMvqMPVua3rg-F81s8QOdjoWoO1GB33Fb63h2-AGUWO63eTcraVAwdnY_uxmmpFR_aMaBv3Qc68lA0cSEK1_OE-1tsMd7b1KsTvN73wSlQIKgAJNMnrHo54hzO7No9xnqRQ1NnS0I8Cc5JzuF9hWQph_hLdUVvJ-sDdObeO7YMMKR-UBsCI4TyNKbt7J_96oSxe9svGTutr3SlTrkhpbSErMHLqtZhIACH2qG36aeWoOa5rrmlInSD5czSby9UIHcREtHsXOoH3PczvzSTOcbipASAHaRhcrmBzZc6Vjcv5SUwcbbTFDIPWT7n4Gw2F4klRgWaw5od25krnteMrJtyIUxS_EcDbZsFOL-Oa-rlcqjigBOiEAEVtfs4S_NnXeEEZPsd7hvJ1W6O6ZsvxXftV4R8EdvF34ZwiyNSvBPaG1JtFuqFZrsXM8RF7nC-r-njT2EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=2e50fb7e-13f1-467a-9aa8-d9ea47a3d6c6&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324641485&currts=324644580&preqs_in_session=7&pclick=0&support_transparent_background=true&pimp=0&preqs=7&time_in_session=3095&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-8621759356895416&slotname=6434022718&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=7211768&heap_max=268435456&heap_total=43190880&wv_count=1&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLFhbFS1cBAIfHlJYP5PsXSwVvOaIz7gEnFYtChvCxohlQLTG6M4DsipQvMXKTSD8Tk7d93dGpjkOepK_KDmhiPrbiWvPRM1zZJQtVZRW38B4sCrzHdcS-PTwiKj1i2NA9dkcLfZa5hqookyyY49p0n9BTBS78cfalw6YXDssr4gXwBctNPnf6CPkTXRaNsvxudplb6hFJzmSE-BZ1EA-LiJeN6F7NmnQD3Xm8_yuTqAUKkPYnBhOrsYQA&et=7&d_imp=1&swipeable=0&tcar=20&jsv=4-production-20171102_RC00&urll=2995"
+    }, 
+    "cd16700b-6deb-4949-a63a-dc13a829456d": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&_activity_context=true&format=412x50_mb&gl=US&seq_num=2&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3moR3Rtem-UuLgfuYn1JeIAPLYnmvQbEgSsFPz_WnHP9TEWSfzebRbwr11brOFBdg3RbBprt1jyp2Y9j_t4cjxdXJUwOPVgezC_oZOb0_MwC6V8tJR01q2pZSFvMY0cDjzsMuVuLdpnkgCdeq2sp17MAIFPsLoCFo_OyVK5b6EreJ1DLqlV_Pt5lS7_MVbSv63qUgzQKWx_cQI2CulIKG4TKQxFNU863yWmVjTklnzxCnfIZvUaQjd21cBTFc4IMJnKzHmIwkjtps4vXNRnEKxF54JlaKhwdbBQd5X3RlMaUm1DSM0AY6fK9GxvTfTWqJFOOS6dBoeqNHrjDPON6ewqAApXHaQ1pNJ_nE4rKRW1zqUOWXsapDwiM4SiqjbfIAlNhJvgVnm3nFk26pK59e8LE9kE1lSRYi1H4QkD1-d3oCHsIYnwfHv-Mf7eELcewxLHSfPYqOsSJee_A6Ii-UpERD5X3YR4XX9oh48Q1adxPAjFbo7yYDQ34v8pMulTaei9SGQ_p_mXO2JbVd8AZKyFg6C_AqhIxdZMWevF2pnlHMBXSKunjYQRNLQXtXGJ9eia6fqOe034opyFKZhnVUiICh7Ec0bHygnI5PWRC_su7QHtWkzzJ_5-63-Yf-62Lgdt7CO3YbWHnx0YBN2Sk4BQ2ZoY_Y9FmUhhNwmaY-jOBKLkSEGDOpNrF6Derh_vfb5ggQr0SlQIKgAINAJ0yr7RohqLDhVorzQT9ewfcrIj_PDHuHvDwSoXARL82uL9-oso8aYv3oYtKJr5AipCPD1rAA9f_FaylIs6Aspnh8ZPHD8fv3OohDVfRiLbUBWlJeZsJFhWH3y5sBQvviUn3QXPnNCq5hL9OXkSLEryRED3-WyH3I7l5KwJDtQi7ExEmvxxufp8gBfMLNlteXtbqLJSf3HphL0g91DqKFdsGjNXnewTkY1uE8jTP7C7WTfDQl3gq_eSKZhZfbOwEczv9UVWG84y29tXaKVmAvfkFdtEF3YCdym1BN62lTMByheK5ZkcicBUz6OTd3iRrlCm0uEjjfVvCgl_3jaRnEhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&android_app_muted=false&request_id=6fbaec3a-0bc2-4859-ba7c-06526ead9f2f&smart_h=auto&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&smart_w=full&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324697308&preqs_in_session=1&pclick=0&support_transparent_background=true&pimp=0&preqs=1&time_in_session=14&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-3197816128140980&slotname=8511158684&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=15634920&heap_max=268435456&heap_total=47383472&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=true&includeDoritos=true&content_infol=-1&blob=ABPQqLEtW5Uadm5oXHbbHFHZD9oDGqNsooLEoenDtin64qGafx4mRroh9_e1EWypDvs2JevglboWcggxnk1yRtQBnL-zsUYCdfUs0MAV0w9E1MdZJhRYio58GFIZqr1FMvGV18SHQ3dxgmaFQmjSenF852huhVZZVDcFXirrukvxpbbjfQDHk_oRbOJAbQUWKUa1wfe0JAjaPD6oNoOZIlhoC7hl_QclK6_if_Mv4k-u2Q3tbY6StBlfQ3-pBQ&et=9&tcar=11&jsv=4-production-20171102_RC00&urll=2902"
+    }, 
+    "cd56a60c-94fc-4c5b-b3da-707ca3a77ca5": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "cf296ad4-70fc-4047-b48d-3129efe1c532": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=7&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3GoV3Rtem-UsLgfsYn1JeoIPKYvmvQLEgSsFPT3WmHP9TEWSfzefRbwr11bpOFBfg3RbBprt1j6p2Yth_N4YjRdXJUwMPVgezi_sZub0_M4A6VstJx0xqWhZSFvMY0cDjTsIu1mLcpnmgCNeq2sp1bEAIFHsLoSFofO2Vqxb7EjeJ1DJqlV7Pt5lS7_MVbCv63qUgzYKWx3eQI2CulIOGYTKRxFPU861y2mVjzslnz5AnfIZvUaUj9-1cBbFc4YMJHKzHmIwljtrs4vVNxnAKRN54JtYKhwdbhQd533RkMaUm1DQMUAc6fC9GxvRfTWqJFOKSadBpeiPHrjDPuN6ewqAAv71wmxdOVxmtKEElSlCoMNLKXRMzzJ7RVi2tsootccmO6JgA1KCKw2JYyNPDjZhd9pDqUwFL1Auc_dE8qsJQMZCaBVVnNJL40vdB11tVeClrtbKd24qbXFQqkC_4lH6mNNGrgX9hUkGJ9W1wQC3Oi-NO_OHcjGVAf2aKglzcXzSgk-X9r_i-UfeIfmeo3IY1ruKhOCxkRPbZIf-zfZo3mdLDrtbVlj-zNpLgv9qQpX6R5TPlrjnV_LrTlNgSAM-eUz82baVEStHEmDOEaBNJd7T1RkMB4Iw_O5_ZfWD7_CLRsXmIq-Z66vDUB_mTFiAXgkzHkMG4KIbUjk2lZJwtpoSEOWhS9t9B0t3MbDTJLTOGMASlQIKgAKb7tbo7dquyH7_Qsnl_54rOpPUZ27Xe-NqzjoyvlXImdUiJvuC4MEshytqYuH8_vM1ygcPz1ZRXBAZ1vEQ1sfbnufitExLwRWDWuU--NtRFyj6yyGiYU-AMWGNTWCqkcYLCcUgqv8nrCh1yj6PQlZMfnzViW3EQjbhGWGrOEpYIPstV1ctU0L0OwdzA2Cx9hKHKg5jTPjC1CijIVuusKFYU2NV3uWtv8jz0Yiei0bR7N-QXX_PC-Hr4AYdtr9_en7viyohu9vHpBx24VrY99tAFdPK7qehhJ9bdq1e_OH8XnMcAjLy0oKvmfX_MKl7BO2OzDdur0SzYoZOkJ1kQXm0EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=fcbcfbea-5811-4c80-8538-131b6ff5439a&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324700321&preqs_in_session=6&pclick=0&support_transparent_background=true&pimp=0&preqs=6&time_in_session=3027&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-7176948080084743&slotname=2477664865&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=15438072&heap_max=268435456&heap_total=48601728&wv_count=3&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLFSnBl9wuRIHRVZuvYrDorEDp4nMFatEFTsAG44vZ3ByxGLUOF3oCWGW27IvxV6WsRiTxefX-5vGXkPhq6GQ0MPYoommiuLy5nhJveqs5Sh9qZdwipHhRbF_8Bb6323PyoOwaTnrIEwW2uH1WyAqJSD3M0kvFT--2vd2G5ynXxiCADezXi3jWzxdjtC4lXqi05PiDFaclhq2eq7ovKsQBc0CdHnMNpXoZTkIvEHO1zdi7g7iNqtxE984w&et=7&d_imp=1&swipeable=0&tcar=11&jsv=4-production-20171102_RC00&urll=2996"
+    }, 
+    "d1d4e02f-461a-4b07-9a60-b3bca426a201": {
+        "ad": 0, 
+        "dst_ip": "74.6.34.10", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "324", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "d2eb7b18-e7fc-45e1-aaad-df4a58278550": {
+        "ad": 0, 
+        "dst_ip": "34.253.63.180", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "737", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v3/androidevent?buildnumber=3.0&app_id=com.surpax.ledflashlight.panel"
+    }, 
+    "d30dc2bb-bbbb-4e93-a8a6-798eb6a274a6": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "d3615153-42b5-44a3-acea-b6c2e8e2b579": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.27", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "content.surpax.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "content.surpax.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/apps/androidflashlight/configs/config-surpax_flashlight_panel-1.1.12-3.0.sp"
+    }, 
+    "d44f68a3-780d-4e2a-8b96-2b85229d87ba": {
+        "ad": 0, 
+        "dst_ip": "54.230.84.16", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "content.surpax.net", 
+            "user-agent": "HSHttpURLConnection (motorola Nexus 6; Android 6.0.1/23)"
+        }, 
+        "host": "content.surpax.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/apps/androidflashlight/configs/config-surpax_flashlight_panel-1.1.12-3.0.sp"
+    }, 
+    "d465f861-5c57-43fe-841a-525f2cf7857b": {
+        "ad": 1, 
+        "dst_ip": "52.94.224.25", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "mads.amazon-adsystem.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "mads.amazon-adsystem.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/msdk/getConfig?idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&fp=false&appId=7d42169c240344b09566eda531881322&dinfo=%7B%22make%22%3A%22motorola%22%2C%22model%22%3A%22Nexus%206%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%226.0.1%22%2C%22scalingFactor%22%3A%223.5%22%2C%22language%22%3A%22en%22%2C%22country%22%3A%22US%22%7D&sdkVer=amznAdSDK-android-5.8.1"
+    }, 
+    "d7b59904-dc67-4d39-bcf5-dec6fc337464": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "d884da9d-feca-40a0-841b-2e5335b030f3": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "dab02dd6-5f27-4ae0-a718-482c5794a448": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.8487000.2)", 
+            "x-afma-drt-cookie": "DSID=ADyxukuKeyqw20S6SUwlTzscvjwUD9xssAu7AmPWQLBfjinIX24VvkKVOZWUtWf5DAATSL_9pgTGRXQlMaTAWd3wI_X82OKBj-kRoQaaF_-q4nax0qFlIMM"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gsf.login", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/pagead/ads?riv=2&native_image_orientation=landscape&_activity_context=true&format=320x50_mb&gl=US&seq_num=4&eid=318475406%2C318478659%2C318478607&u_sd=3.5&ms=CpgECoAC3moe3RtemOUuLifuYn1oeIAPA4nmvQHEgSsuPz_WuXP9TG-SfzefRbwr11brOHtdg3RQBprt9Typ2ahj_t4TjxdXLkwOPVkezC_vZOb01cwC6XktJR0Sq2pZY1vMY2YDjzsquVuLcJnkgAJeq2si17MAIFPsLqWFo_O9VK5b5EreJ3nLqlV7Pt5lY7_MVZCv63q_gzQKUB_cQKeCulIGG4TKbxFNU-23yWmfjTklvDxCnfIZvUaUjd21UBTFc4wMJnKRHmIwvjtps4jXNRnqKxF5wZlaKhQdbBQf5X3RkMaUm3DSM0A-6fK9GhvTfTSqJFOIS6dBr-qNHpDDPONTewqAAmYNjyQzjGdTXNzxOvpRDeGvJBqo6JhQAEOa59E6HA5qWSs7Xnt60fOdJfG6KDD2o8FfN0c-EzjVyQu4PbBqcelUb_3eTmg3MV_VBagSHTZro5Hk-z617e1rDfdfi4eoyTkFOAUUYLTvxIoLJrWFxnm6j3adxRWl1CcnZKX84ag4PVUd4NqPtW7Rg4TUD-pzqpMSS4ZgmnENkNQ6XK1CZY8h_vuxNOn9QZ1mZ4_XyX0fwWvoRy_Iz3L4cEXgTytO-WVBxm9XvOsLCdPBQmFUH7eNf8wBaFttpJYwupDcNgUQRd3WcpQLG_WvyxoWM1f5j4lvEdxw6HGfeI1S9c9FC_gSEDNjP1a2r0kdhUYocQp-O28SlQIKgAIcUP1X7L6ix2LFRUbDQZmGq1bQEFC1QBVtVh3EOtrXBtU2M0s0-N9tIch2c_OCzd07EwQTzYBjX5fg8c6P49mkMpPeifKfyu-Mkd7JdwBKLC2G5AMzK3ASLRaYeX6tojI92tC9Iz0Qb4px_8IcmVyvaWXuuc0kcLH9a16vOQBscFg5ZJ0Henv6rUZre1GQ2KanTBhiRtTeVrNnDdGFGLXhXA12sM24tJnceqdqsOv793THW5zz2PMqdC45DgdLSrnOcAI5k5L2sRw_9GfTesb-NHfnnimcoE_EUZd-5_fzZHA_FMzpJ4QCK4vCLLTcKOgbgTLooVG3_CuMoOpMHlL9EhDE9SnIBwGoomLgZ4W54ZaZ&target_api=22&hl=en&scroll_index=-1&platform=motorola&submodel=Nexus%206&rm=0&max_num_ads=1&android_app_muted=false&request_id=96d1c4dd-d689-42f1-a49c-f644c41cb543&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11745430.10298000.2&native_templates=1%2C2%2C4%2C5&muv=4&coh=1&sp=0&forceHttps=true&gnt=0&mv=80837300.com.android.vending&native_version=3&android_app_volume=1&android_num_video_cache_tasks=0&u_w=412&u_h=684&msid=com.surpax.ledflashlight.panel&_package_name=com.surpax.ledflashlight.panel&an=55.android.com.surpax.ledflashlight.panel&net=wi&u_audio=3&u_so=p&basets=324697294&currts=324698520&preqs_in_session=3&pclick=0&support_transparent_background=true&pimp=0&preqs=3&time_in_session=1226&output=html&region=mobile_app&u_tz=-480&url=55.android.com.surpax.ledflashlight.panel.adsenseformobileapps.com&client=ca-mb-app-pub-7176948080084743&slotname=8384496385&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.61&swdr=false&cans=5&canm=false&prlus=-1&prdtb=815813&prutb=-1&_mv=80837300.com.android.vending&pscfas=true&heap_free=8499576&heap_max=268435456&heap_total=47383472&wv_count=0&sai=1&mr=13876286310883717%2C7256758929632834745&blockAutoClicks=false&includeDoritos=true&content_infol=-1&blob=ABPQqLEqhNRPgdpIlXCWtNWklNIfYIIcnHTJy5JVqk8Cp3wp5CSM2ZVxUiYf9cmdfFqHsUohUNxPmYEY1TZLXu90m98EiHF10WkgW1B937-xqTDbNB7pZUgkz6PpoRnRNCa18lPVogd3YsK8Jb3h99e3iRwkAX6ibAb0b8uaD6WPSzYwdADlzRgEkbNg398iy_6CbOX6Ne5lOI3GPqknwUitoXZfjNUQsG-sVaVDWGmOXcR6AfA74oyMeHd1QQ&et=8&d_imp=1&swipeable=0&tcar=14&jsv=4-production-20171102_RC00&urll=2995"
+    }, 
+    "dc797c88-ec18-4069-9569-b2946b15ce08": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-8719292880288349502"
+    }, 
+    "e15b8b05-02df-4a9d-9c24-5c6968d40109": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11745430.10298000.2)", 
+            "x-requested-with": "com.surpax.ledflashlight.panel"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/native_ads.html"
+    }, 
+    "e4461416-24e3-4eaf-a609-05175407e1b7": {
+        "ad": 0, 
+        "dst_ip": "34.253.63.180", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "737", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v3/androidevent?buildnumber=3.0&app_id=com.surpax.ledflashlight.panel"
+    }, 
+    "edf2afb4-48b8-4596-8e7f-f7277bcfcc10": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.surpax.ledflashlight.panel?devkey=d4VKN2yBPk7gqTRBZcwkbc&device_id=1510081966834-8719292880288349502"
+    }, 
+    "f21f3245-cdf4-4958-828e-d7454cfa4b61": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.17", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "FBAndroidSDK.4.23.0"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/v2.9/651942978220795/activities?format=json&sdk=android"
+    }, 
+    "f7c15652-5bd9-492f-86c0-43a72efc348c": {
+        "ad": 0, 
+        "dst_ip": "216.58.218.142", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "clients3.google.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "clients3.google.com", 
+        "method": "GET", 
+        "package_name": "System", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "6.0.1", 
+        "pii_types": [], 
+        "uri": "/generate_204"
+    }, 
+    "f9a13267-7dab-4772-8213-b860380d9004": {
+        "ad": 0, 
+        "dst_ip": "157.240.11.22", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "static.xx.fbcdn.net", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.surpax.ledflashlight.panel;FBAV/1.1.12;FBBV/55;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "static.xx.fbcdn.net", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [], 
+        "uri": "/rsrc.php/v3/yO/r/KoWCGepSBrB.png"
+    }, 
+    "fe5d4ab3-8dc5-4867-813c-56dfbd8d4059": {
+        "ad": 0, 
+        "dst_ip": "23.23.159.200", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "settings.crashlytics.com", 
+            "user-agent": "Crashlytics Android SDK/1.3.12.127", 
+            "x-crashlytics-advertising-token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", 
+            "x-crashlytics-android-id": "xxxxxxxxxxxxxxxx", 
+            "x-crashlytics-api-client-type": "android", 
+            "x-crashlytics-api-client-version": "1.3.12.127", 
+            "x-crashlytics-api-key": "af46bdc38bf1267984ed38b9784a45489a5dc2c3", 
+            "x-crashlytics-developer-token": "470fa2b4ae81cd56ecbcda9735803434cec591fa", 
+            "x-crashlytics-device-model": "motorola/Nexus 6", 
+            "x-crashlytics-installation-id": "42e1aa82e3774910b209d52c98453b59", 
+            "x-crashlytics-os-build-version": "2704508", 
+            "x-crashlytics-os-display-version": "6.0.1"
+        }, 
+        "host": "settings.crashlytics.com", 
+        "method": "GET", 
+        "package_name": "com.surpax.ledflashlight.panel", 
+        "package_responsible": "com.surpax.ledflashlight.panel", 
+        "package_version": "1.1.12", 
+        "pii_types": [
+            "Advertiser ID", 
+            "Device ID"
+        ], 
+        "uri": "/spi/v2/platforms/android/apps/com.surpax.ledflashlight.panel/settings?icon_hash=343f8b43d55f8370b894ef1d5f0e0ba6007a718e&display_version=1.1.12&source=4&instance=39449c0e3a7a4dc3c21ef35133ac29852d008ab1&build_version=55"
+    }
+}

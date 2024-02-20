@@ -1,0 +1,76 @@
+{
+    "1489462840108,875f406b-7f27-4aea-9973-1d236b69477c": {
+        "domain": "", 
+        "dst_ip": "96.6.110.201", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "106", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.4", 
+            "x-vungle-bundle-id": "com.g6677.android.cdentist", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.g6677.android.cdentist", 
+        "package_version": "2.0.20", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "[{\"ifa\":\"RECON_AdvertiserId\",\"start\":1489462839908,\"pubAppId\":\"57d9126be665431d1e000036\"}]", 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 47513, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489462840108", 
+        "uri": "/api/v4/sessionStart", 
+        "user_agent": null
+    }, 
+    "1489462876045,e4a1fb67-5fc8-4fc5-a657-bdaadf37dca4": {
+        "domain": "", 
+        "dst_ip": "96.6.110.201", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "126", 
+            "content-type": "application/json", 
+            "host": "api.vungle.com", 
+            "user-agent": "VungleDroid/3.3.4", 
+            "x-vungle-bundle-id": "com.g6677.android.cdentist", 
+            "x-vungle-language": "eng", 
+            "x-vungle-timezone": "America/Los_Angeles"
+        }, 
+        "host": "api.vungle.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.g6677.android.cdentist", 
+        "package_version": "2.0.20", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "[{\"start\":1489462839908,\"end\":1489462865784,\"ifa\":\"RECON_AdvertiserId\",\"pubAppId\":\"57d9126be665431d1e000036\"}]", 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 47652, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489462876045", 
+        "uri": "/api/v4/sessionEnd", 
+        "user_agent": null
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "1488834867885,6e6a8dc8-bd20-4460-a2a7-71671f9c71cc": {
+        "domain": "", 
+        "dst_ip": "216.58.193.206", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Accept-Language": "en-US", 
+            "Authorization": "Bearer BQCihPBZ_wOn7T7iU_ReXyc3f4YYVXypvrh8F2VYeOXzn5qyztfTiVGm4jsGMXFdZWfAVjp1ygCmEJUHeT_a8q8z5GESvH-dy8FhMw9tCiM1BQAQa-RoR5pcWA6xbORG8FdxrIAHaMA1cezDXpU78r2zWDGQ_7ttFw", 
+            "Connection": "Keep-Alive", 
+            "Host": "spclient.wg.spotify.com", 
+            "User-Agent": "Spotify/7.8.0 Android/24 (Nexus 6)", 
+            "VND.Spotify.Ads-Payload": "{\"user_agent\":\"Mozilla\\/5.0 (Linux; U; Android 7.0) AppleWebkit\\/534.30 (KHTML, like Gecko) Version\\/4.0 Mobile Safari\\/534.30 Spotify\\/0 (6; 2; 7)\",\"session_id\":\"86b3d2c8-31a4-495b-be9f-146f4d564ef5\",\"request_id\":\"fe0ba54d-ae05-40c3-b109-11822f34ae8d\",\"pod\":{\"context\":1,\"session\":1},\"targeting\":{\"playback_id\":\"fe0ba54d-ae05-40c3-b109-11822f34ae8d\",\"ad-product\":\"midroll-watch-now\",\"adpod\":\"1\",\"context\":\"spotify:genre:jazz\",\"focus\":\"true\",\"idtype\":\"gaid\",\"is_lat\":\"0\",\"make\":\"motorola\",\"os_version\":\"24\",\"rdid\":\"RECON_AdvertiserId\",\"submodel\":\"Nexus 6\"}}"
+        }, 
+        "host": "spclient.wg.spotify.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 40101, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1488834867885", 
+        "uri": "/ads/v1/ads/preroll?payload=eyJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChMaW51eDsgVTsgQW5kcm9pZCA3LjApIEFwcGxlV2Via2l0XC81MzQuMzAgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uXC80LjAgTW9iaWxlIFNhZmFyaVwvNTM0LjMwIFNwb3RpZnlcLzAgKDY7IDI7IDcpIiwic2Vzc2lvbl9pZCI6Ijg2YjNkMmM4LTMxYTQtNDk1Yi1iZTlmLTE0NmY0ZDU2NGVmNSIsInJlcXVlc3RfaWQiOiJmZTBiYTU0ZC1hZTA1LTQwYzMtYjEwOS0xMTgyMmYzNGFlOGQiLCJwb2QiOnsiY29udGV4dCI6MSwic2Vzc2lvbiI6MX0sInRhcmdldGluZyI6eyJwbGF5YmFja19pZCI6ImZlMGJhNTRkLWFlMDUtNDBjMy1iMTA5LTExODIyZjM0YWU4ZCIsImFkLXByb2R1Y3QiOiJtaWRyb2xsLXdhdGNoLW5vdyIsImFkcG9kIjoiMSIsImNvbnRleHQiOiJzcG90aWZ5OmdlbnJlOmphenoiLCJmb2N1cyI6InRydWUiLCJpZHR5cGUiOiJnYWlkIiwiaXNfbGF0IjoiMCIsIm1ha2UiOiJtb3Rvcm9sYSIsIm9zX3ZlcnNpb24iOiIyNCIsInJkaWQiOiJjN2JhYmY4OC03Yjg0LTQ1YzYtYjQzNC0wNTYxODdkODU4NzMiLCJzdWJtb2RlbCI6Ik5leHVzIDYifX0=", 
+        "user_agent": "Spotify/7.8.0 Android/24 (Nexus 6)"
+    }, 
+    "1488835071921,5f6f9613-4d1c-4401-8918-3e2ba4b13270": {
+        "domain": "", 
+        "dst_ip": "52.43.168.5", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Connection": "Keep-Alive", 
+            "Content-Length": "1396", 
+            "Content-Type": "application/x-www-form-urlencoded", 
+            "Cookie": "_xsrf=\"1\"; _appLocale=\"en_US\"; bsid=\"408d4ddc0d5a40db9810c11e536bfd24\"; sweeper_session=\"Yzg2MWU1ZjktZDkyZS00NzM0LWE3ZmUtYmFlNjdhNDg4ODNmMjAxNy0wMy0wNiAyMToxNjozMS43ODU4MjE=|1488834991|4e288f86a104dd49492e0cdeb9790605a62de809\"; _timezone=\"-8.0\"", 
+            "Host": "www.wish.com", 
+            "User-Agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36"
+        }, 
+        "host": "www.wish.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "logged_items[]={\"log_tile_position\":\"5\",\"log_action\":\"impression\"}&logged_items[]={\"log_tile_position\":\"4\",\"log_action\":\"impression\"}&logged_items[]={\"log_tile_position\":\"3\",\"log_action\":\"impression\"}&logged_items[]={\"log_tile_position\":\"2\",\"log_action\":\"impression\"}&logged_items[]={\"log_tile_position\":\"1\",\"log_action\":\"impression\"}&logged_items[]={\"log_tile_position\":\"0\",\"log_action\":\"impression\"}&app_device_id=b5d3e58f-1a61-3143-bc14-e0c414697686&_xsrf=1&_client=androidapp&_capabilities[]=2&_capabilities[]=3&_capabilities[]=4&_capabilities[]=6&_capabilities[]=7&_capabilities[]=8&_capabilities[]=9&_capabilities[]=11&_capabilities[]=12&_capabilities[]=13&_capabilities[]=15&_capabilities[]=18&_capabilities[]=21&_capabilities[]=24&_capabilities[]=25&_capabilities[]=28&_capabilities[]=35&_capabilities[]=36&_capabilities[]=37&_capabilities[]=38&_capabilities[]=39&_capabilities[]=40&_capabilities[]=42&_capabilities[]=43&_capabilities[]=44&_capabilities[]=46&_capabilities[]=47&_app_type=wish&_is_using_google_branded_android_pay=true&advertiser_id=RECON_AdvertiserId&_version=4.4.5", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 39205, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1488835071921", 
+        "uri": "/api/mobile/log-tile-interactions", 
+        "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "1489437959235,5b623e0c-2ea2-4bec-946f-4106ced89db1": {
+        "domain": "", 
+        "dst_ip": "52.49.67.96", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "vas.samsungapps.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "vas.samsungapps.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.sec.android.easyMover", 
+        "package_version": "3.4.02-18", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 40527, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489437959235", 
+        "uri": "/stub/stubUpdateCheck.as?appId=com.sec.android.easyMover&versionCode=340201018&deviceId=Nexus 6&mcc=505&mnc=00&csc=&sdkVer=24&pd=0", 
+        "user_agent": null
+    }
+}

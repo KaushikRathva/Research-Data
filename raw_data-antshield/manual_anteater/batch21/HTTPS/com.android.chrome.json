@@ -1,0 +1,34 @@
+{
+    "1488846323510,032cb912-93b6-4537-ae7a-19405578c05c": {
+        "domain": "", 
+        "dst_ip": "216.58.193.196", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept-Encoding": "gzip, deflate, sdch, br", 
+            "Accept-Language": "en-US,en;q=0.8", 
+            "Connection": "keep-alive", 
+            "Cookie": "NID=97=VIAQqFMApo_BA5RKPNcZ0Rc_Bz6bOQAWmWl6NBHQ_06dmPjelLZuOk6FRbXF4KdpH0YE6LbI4qqfxEZizp6UC2UDjPpOuM2PREOBe5X3NhzW2TCfq31dsHaduCTbjlqvQmZ-b7U1vvSCyoxbrSEHkRc", 
+            "Host": "www.google.com", 
+            "User-Agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36"
+        }, 
+        "host": "www.google.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.android.chrome", 
+        "package_version": "56.0.2924.87", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 38245, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1488846323510", 
+        "uri": "/searchdomaincheck?format=domain&type=chrome", 
+        "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36"
+    }
+}

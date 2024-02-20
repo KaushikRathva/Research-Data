@@ -1,0 +1,35 @@
+{
+    "1489435242081,721c3c1a-6535-4017-b22f-ea66ccbfc803": {
+        "domain": "", 
+        "dst_ip": "31.13.70.1", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "graph.facebook.com", 
+            "user-agent": "FBAndroidSDK.4.12.1"
+        }, 
+        "host": "graph.facebook.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.turbochilli.rollingsky", 
+        "package_version": "1.4.3.2", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 39242, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489435242081", 
+        "uri": "/v2.6/1082192451854187?fields=supports_implicit_sdk_logging,gdpv4_nux_content,gdpv4_nux_enabled,gdpv4_chrome_custom_tabs_enabled,android_dialog_configs,android_sdk_error_categories,app_events_session_timeout&format=json&sdk=android", 
+        "user_agent": null
+    }
+}

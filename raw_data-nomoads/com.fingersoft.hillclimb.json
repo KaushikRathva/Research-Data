@@ -1,0 +1,1310 @@
+{
+    "087d28a3-5aa4-4537-8c00-827ad544cd6d": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "1225a9c9-6557-4b59-b2ae-7ea66893abdf": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=3&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjgpKjGDTDtd_6KuLssmAmQ5JbIKBQGuPIjjzwTUbawa0F8zakCtYObByotvjo_DA0jR9CxKD8DU-8NzbxiyUIukd808kbTNG1UVrCjOwrY2utzT6_F-lRTVpI3Wlgr_hEjRv5wJLZkyFRhUI1dhyRlEQtgfWyoSWC78oSpySnI3ICtDnfH5NHlFRlA44Omeece2S3wN-SaSY8-V0-8QQMjwqS6_9U7MZ6YVf3WdV04IQq6wlmF1IT4wavA97ko9SPUACY2mJj4h_7fOshZPCKDqal-Muzr1GrZgR_58uYMMHNS55-2J8LRoIE9hYET91Bwzz4Tlh_vJtFQV6wwCBNwqAAtxqDsDcSRgfrJN2VTlxLn40ilJx9uDliLVlx5E-xLkZoaDsm4bUcliw9eBlEPHvyqmhaSTq_IKOR1tReJIJN7_IzwfREFEtvw3edo5_9tV2tQ0Hls4xtZ2FJ6YNkINrT8MYC137Fe_RDw9g5g_EDUkguvs2vzEW6jgf8RentR6C2rOcBltEl-KMN8RYhM_MCjGzb-UYHAkRm54edr_mmzA4EUFxu3PA_Qms_8Jq1zJUWJpzU27H8oqePMB1Y83HeCJCyrgDXZkIwyLoE2r8w07c5RD_rD0H7p0-t_yL6ft-VonImIBdUHz6VIHYbWA8PuKT2aGJYmfEm380SQPnUccSEGEN6jtaGVt83A-IQDIPa2wSlQIKgAJdnzXJpwPMdRbJ1v8yXts95Dw8nI_mk1yR6k0Tlc6_99vdx1CDGPqeh_EBA9dg8eK24-EQCCqSxqFPepLviqLWJqKK03yJfKdG3AaK9dUFlRTem3qasbyQaYPSEOaFFs1DLlvsVMLr8OoWZx0wH3dJxxPAIxWn-f2h0lcFzxg1lHaiFsY4teYG-zT30WpyEuK0VfeNZmvc_-cVjc5x2ZILwuH2zEWhuGDcKdH09oDVqRpsg9GZKvTeRUaV7eSspTx9-mCdyIGBPkgYByn_YLhcLpKamgXMJUL54vlCrGnrp1Q146vWKRP5a0ym3XobvexBqo8jQdAcvYnUoeXBznXUEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=59ef8533-cbe2-4a03-a3bb-6f097d419719&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293468&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947021020&preqs_in_session=2&pclick=0&support_transparent_background=true&pimp=0&preqs=2&time_in_session=2663&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=2&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=9137176&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=mchnyeoqminrzaazakmhnhetznkctglcynubpheqfawbnupxrtbsfdoowfqwisrbjvvkdclqutyreohydcemknholpfhtnmpghkamotxdxdjzmbtdajiegtkwujkxjimhfkofjybxjbosgmcwduisqbzqtkodqecxqgdtkvrbizjmkueffnqikiclvqdtnlznhbigdqplelhhpjgazxbcppnrketzmqkcyvawlpszwjrnrfadvkgxwwwdowzcusxffsaovtqypnfrapgzldvucdzxbfblewgaocahaqmiuidwixlejpendhxwgsxbbwjfeambqisquatutxbkwoqmgiwplcezjhlgzlebopjatgaalfkurxbmqbgkzctljaghjwqswpgycijnlihuqrhoatijlocntggilnkilnrcqnljvwhheijovxgwlcsybrysuhqltcfhsumdeodlempaztqowvnawzbksyaxegrbwcgvhxyymqb&includeDoritos=true&content_infol=-1&blob=ABPQqLG5xa5qgs-RnCB5n0cUfPSg7byh0PBefZZkkNocDiF6dyR4pIZkLEAxG2DQS642qOiA-619Ft9KDEf5OPCtAilWwt-yPVVV-Uy3hA7U6FUxiNsoaaq-yrc_CXRcrA5rBGPhe-KOoCnKKCkX3PE0FkS_5a1TDdTFz6lbbgyxoDNiaACM3AEm5wpWRrXgcoZiLZX6-t2N5X8OJ4zfUp3glWZVfRcIPXucD9cUYfaa8QjHhHErn5anADo6ZA&et=3&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3706"
+    }, 
+    "1edec202-a705-43ad-ae59-5b5dc50bcfff": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "22fd6cd9-8c11-464e-80ec-996589bafa2c": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "847", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "d.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "d.applovin.com", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/device?api_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC"
+    }, 
+    "259a97b0-f570-48d1-bb36-5ebd346d4597": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=inter_videoa_direct&country_code=&sim=0&carrier=&preloading=true&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "2700c391-7970-45b1-be37-88e00a1e2187": {
+        "ad": 1, 
+        "dst_ip": "13.92.125.103", 
+        "dst_port": 3000, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Close", 
+            "host": "ads3.fingersoft.net:3000", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads3.fingersoft.net:3000", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/api/servertime"
+    }, 
+    "2f3e62b0-f394-40cc-98e8-15641db877c5": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=inter_regular_direct&country_code=&sim=0&carrier=&preloading=true&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "300170d2-941c-4da0-ba4c-1cea4c1a2853": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rt.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rt.applovin.com", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pix?api_did=&country_code=&sim=0&carrier=&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&orientation_lock=portrait&ts=1519066180972&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&brand_name=google&volume=13&dnt=false&event=landing&revision=shamu&ia=1519066041000&adr=0&os=6.0.1&tz_offset=-8.0&package_name=com.fingersoft.hillclimb&platform=android&app_version=1.35.3&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&hardware=shamu&model=Nexus+6&postback_ts=1519066181746"
+    }, 
+    "4cdca8b6-c71c-4c6a-aa83-422f74ddfd96": {
+        "ad": 0, 
+        "dst_ip": "52.212.120.179", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.fingersoft.hillclimb?devkey=pTGntJjBNq2tfVJrTwi7FS&device_id=1519066057445-2435862824641388883"
+    }, 
+    "4d6e4c49-3cf7-410c-8fec-06c3e19e81cd": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "4f94bf65-cfc8-4026-b48b-12545dd4d635": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.206", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "608", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app-measurement.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app-measurement.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/a"
+    }, 
+    "51f5c4fe-5a0d-4cb6-8213-1435bfe042fc": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "5a6fee99-5cee-4d6f-b71b-4e1d0c9abb16": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "6264c1cf-70bc-4c88-8985-ebb05c07a7ce": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=468x60_as&gl=US&seq_num=15&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoAC7wpipELSDPom6IGv4sionTdITu6bQUGnMznxpS4ba263Fubf0yp4dMhziJa6o9rEyzV1SxKD-nVk8fzari2UZ4gd20tMbBsilEVjKzCxp8Wstj7651-FaXxpKRn2g5fhCzRlrkBLbiztRh1NzNh6IzAQvmuuy67fUL4AAtSSvo27CtrmPX5ndjNQlAZSOm--O-2wult_QeD58u08w8USem0rY8OfU5lZ2oVdkRZV-eoYqqwswlxoK9QbvE47k4c7TEECJ1uIr80k7PuI9pLqBBiav6JEz70H9pg7_8Uvao43NSxVwmJcICsIGfhZET8UbA3zoAhg1r9tFAU20ACBHwqAAsrnK3pwdj7RTfFMwb2CH9Eq72PoFhYY6joKMvyYq4-qiag5h8ACxQyDUItpaawoyVQwEhOVKCa9IMfkP2qj5Bx32RHlW5m-babFF51QeaRCcFvzQwAGMrnz9Ag9ELFYmwRi7Hm3j6i4yKRlRW1-nHaiVtp-D2qJLMpq_p9fzkqWlpAnDUWDc0iFQukDQkqWnD9HCodv236vuNs5GEZW7WjPk4etKRwUtWO0fvRG3zLc3CCLIwZYds3cvJRfkCklCpos9WuxiitBWffaBvwhqxrgRrdBt09SAOTIJAalOJZIZD-T-lxlp3R-a-KTvG_X_oBA3Q1TRRVPvcgsiT9QNKQSECrOwnkDANwW7yExcr3AjDESlQIKgAIsi9Qz5w5_SAeZBTUaAugmmWjlS_vzqA35q9V07Y8X1s7VtE7vFGNulvXKkcJ0a77W7judOWKo0OFX0lyLzrg-UuKymgCRn8Ny1Q4GlNxfvgGTOn3bqBakOcc7y4uc7fkDeplfRNZiXsNKRx5wQjZRrh4QjRz2mZ_Z3iwX11WfjFKrvphg-LQCy2QeVBIykMrVHF8xIz9szbtR9VUBgTucn6mXKxzkG46cPLhgh4z3giIk0LTQZv3NZU6ES_Wxn4d4-pOWuMVzRmRUJrKfZCELYofYW2XUB7LUr1Ke2XGyO3VxE6TyOPKoZwW1_RIW7GJl4mQNYNBMvdCQGXDpnvV6EhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&request_pkg=com.fingersoft.fsadsdk.advertising.providers.AdProviderAdmob&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=6cd5b2a5-e09e-4d79-895b-bdafd2103ddc&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293448&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947128506&preqs_in_session=14&pclick=0&support_transparent_background=true&pimp=0&preqs=14&time_in_session=110149&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=4499633706&askip=4&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=6008040&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=mbcoskdsvdwwdsrvgvlubgitdpmsepbgsnxjhwnwjphvykjtcbhuiwpfwgmdsiljujuvlibsjhnpkhwvdotspgpfhmcvnecwcsyhjvvfzzolgxgkvpfluqdzekoxpegsaruftjgtnriqguhoybhjcbcbaniutvngyggidiivuywycqzdjxhkqzpsfkozufrszobamdvqesrtqmppcfbhgzxxaarfyyewoyklfuibbdfenkwitpowbgqfaxzexaqbqjavworllmuxnmsxjbflkjodkezrgasthgfejinexupglbcrccydqwwpecstvjccyrqrforerlegpffdrbrrjebyqelyyhyhyrgezpoivrdnijzqigkhctpplpizywuencoculfyqidahuxjgcochmsnchcjfgmqbrcxabyqpvemihptissabxiwbosjcbpkqmhfjjulhsuaoqpmabnlihpdvpjcwiuuuhcfrhzgyoumwqpcjihj&includeDoritos=true&content_infol=-1&blob=ABPQqLGjSSTfExCVvKKTexi67EW90L8OacCu5L-V0-kYmonmFz75Tv5M3jo9exLzgCr2Or3WzPmjzdxw-8F-Fngc0z-VsEH9pwi-kHf2U1ru433WLhf7wsj0Tdu7XaHQFezC99Ch_mO9HHXReqfhal6Aaq-swa_CsJRwZAJ8OX11y7bg-gA0Og5hn5eZsjXY53mi8USE82Lkw2X_PiQBD2HxNtpH-yURDb8-SrntgElcd7EwCqDThLMcv2NjcQ&et=5&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3690"
+    }, 
+    "62f6ce22-c3eb-435e-83a4-e7978cd4994c": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "66a0ba60-cc98-4db8-8b0b-f59c5226a0bf": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "6f328890-6ee9-4826-a70a-6cbcf89b6852": {
+        "ad": 0, 
+        "dst_ip": "172.217.5.206", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-length": "480", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "app-measurement.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "app-measurement.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/a"
+    }, 
+    "70c9fbd8-6802-440c-a275-8f358319fbe8": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=468x60_as&gl=US&seq_num=18&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACupvKBlCOPwcY6hrgMBstgFQfrYck-Fvxjj51EDguiccTXKvFdTCcJqaN0a1skIPlCEVgZY3znpDt7BJh529R2n6fybgaDkJnVIBLUKpaKSfT0VNY2y0RAUr5KuvYSoxSiF5w0a3GYVnofbqsRUQUGW3W46iDEp2tp5t0AYQI844BA730TPhYDJzRDZj04XT0DTpPBTKWKjdowzlswlb9fq3eDBq1ws0WjD618grwsDIeNfRakhOBLph7DDD2atSMo7b1J3RqOUsKedCbrB3BAVpe-J3NvRMhIbG1s0iWaHmjfxeKlmCfZq27XCe4wAAnpV-4hvOh3LM-CKVmAhk0pgqAAnwbtIzNY5imytS0g7N_OyIFvCXu04u06hY1dCKybiVcEgoYattxLzdWF6Thw9S1yEw9FMYFGTlZ2E5e_C6WuGHzocoH5modID1SoIGctEGfCKZO63gOI68DB5BE5Jvarz4Z9LP0uZStfwL_Ow3da3xcuGVjqiKHc7ml_n0wQRigrPLlngNti67RF7xDARRJB_NboPX1mWKmHIk-lhO9_8sZlB0riRpA00XgOBC9bbxCEuQqpjuOMJoJYXSaqxE0v7Es-ZvuW9tXpyTxfxLDVB_V9juNdi-lVVTOkjfWe8_MatNkRKxF7i8_bIRFMRrDIgpo9lWaJm_pGj_o2hquxMASEFa0JhJRNfiYSKLWUcNJjKMSlQIKgAJguVA9cyLPTf-ptTNWHvgM8XxxYBPhvIlMq2HTGa-X9gPdgGnnGvfPz9dKtodA-77OxKswIGyYcvhPVtNyzqy2jsKCO-GrG-bC3y4mlNBPHR25mvd2spYEGMGfSbqkfVVbaB1cxMbG0bN2ZxiRfjZQOxCkAyzgvRU81DwYH1k_Kd-FOrtc1KQOL1KafJ8QMEq0MP8QNivYRqdXxdalubs_CqWzITjgvyXdKJhAr6L3LacOxL0YSt3DaGawzOitqwHp_AORgMPj59xaBhUaYpEhx5X4X7TsJ5P0h_I6-Emiv3Bzgy6vLFaEsy-F-A48_ERh7OQq4fR4mD2UrfH0rnFwEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&request_pkg=com.fingersoft.fsadsdk.advertising.providers.AdProviderAdmob&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=482c5215-c8f6-4cea-927f-a3ed9674a4bc&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293436&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947261418&preqs_in_session=17&pclick=0&support_transparent_background=true&pimp=0&preqs=17&time_in_session=243061&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=4499633706&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3931176&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=wjkbtlfohhugtahfvrulrmzzzrtndbqbluaqbfqlcltwrsbgbxmqtonhexbjymfzccfoakwacgszhjkqdirbskexwpkuuybphyscjltlspqmckpbwhtyqrxnmdidzlhdhydnebobninwutgslurdfqdzdwfcbvsytsjdoegnwfaysftposatmfybxkvjgqwwkfyjugwppadarnmwdchosycpusijemuhfpercomkbtbgkimupbqfyvhsqctgqncsfhpcmluxdsepxajzfsrfdoqwmevjikbzpeuzhtsqlgwaqilvidmthseuzvchxtxvbzqqkcxftjcisswgwfgkyavaohhjflgxsrfrfaqyameqtvsiflsysewcoreuurbhybqpuzfelrfrrptrfylkwpwjbnyuvjukhtdsdtlookqajilmztlsaizrtblngqsbsarajpnutxgfptmmistxlzkmgplhyjcseavfenybcubethytoptm&includeDoritos=true&content_infol=-1&blob=ABPQqLGkVMJvSX303e6pCVVHvAINuOf5ZSjNjiLlj0Ps9S-V_7od8vPniivbLc2iFdniyF8mTqG4i2RkhXCVgH0j_2aZ9QGDYanGG_F6GKodvsajS2wx-3T7u2eCEn2zSE_quW8FRw8KEINIHtQ04sUuRaoGqaemQdpiSf64BRncUfZW_gAq_9-h6PfJ78u_zCVYNU7yQHuF5ynemGj_zvHa61NgnSYHvNjJgmzjHD3iCPUDGejeBMnaER_izQ&et=7&tcar=9&jsv=4-production-sdk_20180212_RC02&urll=3690"
+    }, 
+    "71b71fc2-ec4a-43c7-be72-d5e96acfa691": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=9&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjwpmjGLTCNJ-6ISPssmsnQ9JToaDQESPIzj0xTYbbwa3F-bfkyt8PLByid7io9vE0zR1CxKD_zU88PjaxiyQJ-gd20skbRtC1EVmCzCwp42stz76_1-BQTRpLHGmgpfhEzRg5gBLa0yFRhkN1Nh6Q1AQuwPWyqqXCL8BSpySuo3LCt_mfX5mHlNRlQ46Om-ec-2w2gN-QaCZ8-x0-8QTMj0qY6v_U5kZ6oVc2WZV-YIQq6kkml1sS4wavQ57kodTPEACZ2uJr4187f-ohpPvLDiauuIszrhHrpg7_50ua8YHNS19-mJcKBsIGNhZET90BAz34Dhh1_dtFQF-wACENwqAAusbrn4bxasO4WWhJMUI7CWLVecOVguKL3IGou3Q0jfhVeadLz46SqYIOrKdByvQkZ8Oy7CIQgyN_cCx_9Fle5wneTzAUEDrBoGOr7Niha6kWUYuO7MqhPdn6hY6bSCrLQoG39cBwfimU-TmczbHPwpylacVs2K5wdeWO57UmnK2WBU5u4yiGp5vtBU2T4Z-HFzCHD0V9cZ8ERUk-JqJlCc5MKQ3I8U6T_D0PVC3t41dI5LsfScdxPcThj2AUF1AeJ43J3QtylEFY8J0C1KwP14Yccri7nIOWkfYU_OeTI0nU3mg8kdPe6mP_60nAaw87eTZR6TnSHNE4pwjJ2G1EkwSEIDzy_HYTKBZDMB_LVgvLhoSlQIKgAIuT5J7UWQP9od5d29cqLqeasy5D881tt-6a6oiakscRD8bgeJbvny8pZXDMUE0cEDGhmAj72qQZDZ_nCILquZkViDIQCb_maex2yYKAdQGlIWZW_seYh2CGmFWEak0928nnN1f8xJOUrPCZAzyKjVpKrAlAS6wvv9PVnUFR1m3JHJhsNSQ8OUkHSRRUtMWsHISFjc9BFsY7T13j081TTM4POOy__jmPuCfnJJmc6L3CqUIheCGCNTtwaCw3acboa8-uoA-HSUgrLK8RpqpZFr9JkW6GSaYJ-D3J3vyeh2pJQFRQ5oyXJTKYSmG_we-_9z2bm0BRLB4DfSyZOS9fPNEEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=6c493206-cd6d-4d64-9fb9-a9e01b8a17db&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293461&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947023894&preqs_in_session=8&pclick=0&support_transparent_background=true&pimp=0&preqs=8&time_in_session=5536&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=3&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4013712&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=eaolkodhpxpbldyxwlusgpurumtgoefgunlajkamcclqlopakixywrmhwbsuxowdwnxctijqidugakyflzetzyugzlqoqviedulgvtjyzkhcpwyznxfmrybndyhhudceismeinpobmjosrkurxjvrcmfoffjgimjxqfsxwlncimolgjatdnpxuuhuauerlorxqfnkexpcwucdrvkacmborusnsyddnqtniputdztrvomasykjnruyoxbbuclticdoigasyponuflrifkveirgkemqqssiiqryqttryopzeykdmlpdeomyxdcwbhafyglfgirifarmpbvmuduxkctwjoitqbhjnuhvuziibxxnvzffusfhdkewhwfmooihkmnkwyhejystcolhfownrjigscdoxgqzxtvyxxgwwgpqofenqbqwmjsceqpfxtsjaxopahnfiqiwsxwiiwqfjercafjhyfodchytzpqlzzjuofdkzjbeblt&includeDoritos=true&content_infol=-1&blob=ABPQqLEhqixtU29i9SqkNY5FgKTe8P_OjALbKbJdZZK2OO3I0yZY1vQOdoMHRDvLa8Vroe99sCXlhiNBqXaux8RAR0Ca8NRJwzgpGvpmv2p_wv2ftk87oXjfDP2V0Ca0El2I4E4YAFIhk-wHboLJJ3npcjJ042VK9LyiPDDq_dugPNcOXABG2znoNuQP2wIMkyJ60CIU25sUdIpc1-8KeK6Y-WDes3caL-wMwf7I5tIsjpxRSqR0CLCbYTGV4w&et=11&tcar=14&jsv=4-production-sdk_20180212_RC02&urll=3708"
+    }, 
+    "75214460-3a34-4112-b690-3a93bbb0ecd2": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/sound_off.png"
+    }, 
+    "7a446813-77b9-477d-9b56-242d9bbd70ab": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "80af3ecc-4ef7-4df1-8efa-7669e98c221b": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "8264cceb-bc6c-4c5c-b8a8-6e55c3689740": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=12&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjwpGjGLTCtJ-6KaPssmMnQ9JbIaDQGaPIzj2xTYbbwa3F8TfkytcPLByq97io_nE0zR1CxKD_TU88NjaxiyQJ-gd-0skbTtC1EVmCzCwpY2stzz6_1-hQTRpLnGmgrfhEzRi5gBLa0yFRhkN1Nh6Q1AQuwPWyoiXCL8hSpySmI3LCt3mfX5EHlNRlQ46Om-ec-2S2gN-QaCZ8-x0-8QRMj0qQ6v_U7sZ6oVe2WZV24IQq6kkml1MS4wavQ57kodTPEACZ2uJj4187f-ohpPPLDiamuIszrhHrpgZ_50uacYHNS99-mJ8KBsIGthZET90BAz34Dhh9_dtFQF-wACENwqAAlwESAzzJieYIkkaEbddpRqS9yBhbqdJQgPCHguJaWaifZHGFLVWxsS_dvrps8ZzS2_1gb4BwAuOgijJYxBbltkcg5cZq9EuRM7dQ4QIDS1ccT1K_OweTy4PX9uxJ2ArxnAyC1RpBHvsmFZCFfUsH8fBOHdUb67jx83q4UnGeDR5QUy7nOxIFLO86lwryKGAzSJllh8JJx_qLzbNR-BLNMcg6PeFMhAXfsgAUDcSimfKtAvwLN8L4E-HRR9i7Zrx8LL7gTgyjy4O2-z_Cpuop4yQna6WOmOGoeI2_Q-CVn398pJTVauasknONDq-LrAtEZul-bx1J6Z3cMFHq58aMtYSEMWcf6YPZyov_Nw2bGJNO8kSlQIKgAIgHQEvQUy5uyUBkjc8WqrfMTZ6FPMltLzeazh3w8O7M8vZtZ7HnKyanT8FQ83mxkjUrOVUGGriYOJNeXCiwtJUXOj4PSGFbeXSEWdkvFZy2Q8ZuPBUsLiUusOWPiLMdAWJpBsM5sibNMNaIl1xWlNjCZimJZ4qq9FcXBRL_VMgfvcrZqhsusMI7zywWZe8BmzcFLAlLiGakZcX2SIvlcYJsmnnpLDmiOCfLOBUpcCHa6XgkpnS4IO24Iilr1AhpbJz8HFzOA_QkG6cQ8Oa7Mi0x5-6HmSAIoTe7d6M2G2db_J5psv3LHbR6QOn3zaWveJjpskr61p_f30Q0sFmxhdyEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=b86cece7-5328-4f3b-ba82-e798d6fde098&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293458&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947024451&preqs_in_session=11&pclick=0&support_transparent_background=true&pimp=0&preqs=11&time_in_session=6094&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=1&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3525792&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=klwskpreqczoxvbiydzvwuwsghrfkuyymctkludoapncvnyftubjazvoopbosczsajchezyxzhnctirwcbgpvqhfqjvegwmdlhzefljuktfqouquozuajxbsazajgwvunhgwpsazoquawujtcccflobuiqficwldhqiwxraddmujxlfxkuwoatamjfwfjvyabiqsjfrvhpliiaqciinribcfqycezbzjivifafxnkwleyctqfsohmkdrglillvydpvnjtymadzhyvaqwczlqnuebyjknckandejurfhzitfcgptkwingnoscxddoywvmcyfygrhlezpwedpsjphpbrvqoumpnbhicforvcjlunmtdazntqaqwwrljhiyqxtscagxcflbcqyujsiiwqvacwzeasoevvioirdojqlrzfbsxinepoyznzhohyxbftxmrttmpfiemzrhrohxgarujddqoknzvwuihtfwituhxfomuxnwziwn&includeDoritos=true&content_infol=-1&blob=ABPQqLE_g52XnbYQUWBAaXu2-82BVBxx2X_9fI1fmv1UuyzL9xDwFD_YDI1OUGhv3gP3WtvvSHwT_0TUq7z_63WfLeX6DEBkJ2PsOrCgs9jL3Qr8qWx2O--xBc3iFHZ-ABljawKRnnmvYuyNC69HG0TG4e7nAh0lsQS2DcbkvROKElJCFQDDL9LSNj27MhchMpoDfqiWItcmFAZ7Ds8uyKl4eODrq072lc5RR5jqnSjZFkfGjbaPd9nhlWyeOA&et=5&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3709"
+    }, 
+    "832af27d-2306-46f8-aa3a-86839c56ab3f": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "833ca782-f8df-4149-85bc-c0483d844ddf": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=8&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjgpOjGLTCNF_6KyNssmEnw5JboaDQGyNIjj0xzcbbwa2F87ckitcP7Byod3jo_PG0jR9CRKD9zU88NjbxiyQJukd80skbTNA1UVuCDGwr42stzb6_l-hQzVpJHOngr_hEjRo5QBLY06FRhEO1dhyQFEQswPWyoKUCb8pSpySmo_KCtfnfH5OHlNRlQw6Omecc-2Q2wN-SaCY8-R0-8QTMDwqS6v_U7EZ64Vc2WdV0YIQq6klml1MS4wavQ97ko9SPUACZWuJj4597feoh5PHLjiakuMszrhEr5gT_50uY8cHNS19-2J8KRoIENpYET91BQz34zlh__ZtFQF8wQCENwqAArEiv2-IwusSlPnn1lhOvPPCJXq0Jo070VJurxKpTEmR3Bp0GkJPX7XI2_YiMcaAqH34BD5weV6-E084w_MPN4dFsqbgJxMHhRb_HZlmgRtXh6IJ25b5ReZr4vSgOUNiSc1am0ZMwZd_DBBDUtn56o8AqF80miUQfGp-uGUpOTkIa66PHuh3ZD6R4dZf3OhulpWgmEV5LIxTYtW5mWgLgF1gnc5wbjQsm5wCvMWJgggVSlgNKDjQOyXC13bJ-aoUNfUgrElxatjBKItXPji-mPl7Lo5lqXps3Y6hMvqQYaFQq0P-C-MY6JM2TbikK-4UXML1UogSSpFQgWjF0RaVfRUSEGDA8pCzp3g0vgb7wx95kHwSlQIKgALkFxBip2mZ4CUhq6yZdqredhVpW5d-5Lybc33sBdqdvsvDmN-js-GfHV1ACM39odcXm7NVuHzAqaA9ErRl__Len_ycu-XjE7JURmC-XERdlo1UluSxp5qU2Pjf6ue4YQnJkhOexIiGN-NXK1aTOjJpbK6w5L41vV86Vm4XXh97dNY6NnGLtriba2GeFNDbfCI_C__h7EbKzHY21-Vo1fOFUyL34nfp8fdcUdRQ5f_z8iOa0ASS1910ZfDqo_dV-272sFmu2yu7V0qkDhPf-8-yhoO6k6fDbRr7tfyHPQm8OnZE2Vz3R1BJaibRxdLmqHti7eyt6zxobbox95lh_n9rEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=87c4d6a6-f87a-4179-aeee-c23328672f2e&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293462&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947023711&preqs_in_session=7&pclick=0&support_transparent_background=true&pimp=0&preqs=7&time_in_session=5354&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=2&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4159672&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=nlkvkshxyhhdksovkukxcrbqlrzvhlteuepjslebjoilthfeatqxkpifuniqvgpkkcfjgiikgodzcplrfyqqbtrumiwjfcuthypkjupmnhwnicjaonzhztoctwuwbmlnkxjlleponhelhmooqgqbbvnfcdtoxgsmiwgifvxmeklmdgrjsrjodxcyaagylivirbjboqjmhzrdfpuwqadwbruenbulpajubhedflmquxvwmbqxsczbphjmslynewggpcqybubcrvpbzmolvlianrfnscmeykywdzmgtegkwziaqcqfxgpzkrgbrjldizwhyazzlikhpguznxhsvsqnnupyaqehucjftwtuzqxpwlohdmjsekjtfpzimuzjmsswmuvxnkztbaqtkdgwreuyifjksoxkllfatrbdgkqwbrnfsetjxvzylulpxcttzmcwlvxbvpfhjktemwnrlvtovtxysapqzmfljudorlxenfrokfpgmayo&includeDoritos=true&content_infol=-1&blob=ABPQqLGYEG8R08-c-hc1orwqmlHDAQfpkqXLfBukBcKq7ylaQlCeoY63N1AfEyecquTr6EdLHiT9nfJI_aZPp4qP3aV8SeZdmBwSe_Ljun8wI7ya6PD5Rkrez61UPYmwSiyCKg98NQikP3tUvE6x2NLnUgK7z-bIQFJlnZnzgNMMVn8vAgC8iCGuBIH3z4OZAOnUG_3uGZyGcxWfEWDQi96R0XLAQBuwT-pu8GF2R_MyyhFQpldp9Ehbkny8sg&et=8&tcar=11&jsv=4-production-sdk_20180212_RC02&urll=3707"
+    }, 
+    "84530c32-9d01-43cd-9d10-f90dc28cbec3": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "85876d45-4c37-4187-8e04-480dc13b5ae0": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=1&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACiwpKjGLTDNRw6KmJsMmAmwNJboKPQGmNIzjxwzwbawaxF87ZkStYOrpyoNjqo_LC3TR9CRKD8jU28NzazCyUI-wd808qbTNE1EVrCTCwr42qtzb68V-lRzxpIXemgr_hHTRt5ABLZk6JRhUL2thyRVAQtgfYyoaVBL8oSpKSno_JCtLmeX5PHldRlAw2Omecee2Q3gt-SaSf8-V08cQSMD8qS6_9U7EZ7IVd3WZV0YIcq6wkkl1IT4IavA5_ko9TOEACYW-Jj4tw7fOsgJPCKjyal-Ikzr1FopgT_5cuYsIFNSx59mJ8LB8IEdpbET90Cgzz4jph_vNvFQV4xgCBNwqAAmxuthnpjCRkUmUTNHRPb-AJokXZ_a3VJQrVJvG9TBUyrIBaqTEtC92mtGOAbzEoX7e8aYLZJS30DGt3tZ_xDKrKm1FD_mXTG6qZbPshd2USiiCsCvtlcI7EEVHI98Bl29wqXZRTM5latfO5LNzJ6cCSyQpzKIKODrhRvGm14rLG6bKYTBx2mSpQUQoRAV2B7jiJvpvixPYkJcfD4xhUxQKmDBjFbvHtJyGlcwyugnMJ3V3uNOF0PXEeQrMnCro4r3IWtgQbqdqabwfiL3_AXAbTvSmgmdhBtvVECxGsLjd4jt1H1CG6OLAnXv9XOreA_Ydx8W-UjR-QpAWR6pi_N38SEJCUyGgti-D7PUcmsVxtv2USlQIKgAIE-PgmI2YHayHozSMQC9g2WniRX5exMDu2-wUCyO7HkO-cnF_PHvcc1Zaygc0VM_nSlFf6MXgghehPHhqlnrh9PpPS-Ejrh5aRz44ytcQnuSG4Oi988xbSkNQbzEukOcrtKclbjZZGOqtz6zxaKo5FbATsrfa0RfoX1Ogw1113-P7AHrgO0CxVxxfSMp0QDO62NOckAH5UqN9CXSYh-eOouvDvK_70S9ixPeAzpbank-MPEOSeDq3djSewaFu4B-MaqZ-mW4f_MSIOFvLzdoV47sU4HAasA9TXlmLrkBj6GNNyu5KyaNqPoz-Zrjc93FUG-OgM7rD4yHqRmVFB7i0IEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=96faaf75-0e49-4f97-8213-3c85f6aee737&am=0&cnt=1&ma=0&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293472&android_num_video_cache_tasks=0&rbv=1&u_w=412&u_h=684&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=1&u_so=p&basets=947018357&currts=947018357&preqs_in_session=0&pclick=0&support_transparent_background=true&pimp=0&preqs=0&time_in_session=0&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=16573504&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=githspjzwxuusesgqnisdygqybbxoujeavokytgckrsmdgonlehhccupxksbrucbupygivdzrojvzhenluhdgvchqqvrhuzuxgifllpniggbyaubmahezjtibadcuglcrmydjwwjafgbebacfjvzofojarbaiekxuorviqwtjjblpkorhtjhgreldzqwqtiwpzcezwzfpqklhxwsndnffhrrxfrpxamifjtpgduedyjmjlrprmesmxxzowknvufrlkovnqqjmaofpkgefiovqiqdvlyyhvpurmcinnejutkmatksddznczzxwzyvqbbendwfgdsznymcobajcediprwcxtovlqjpecgxndygduqpgrytxzoftpzhmwmsrjhnfcahwhotdwbuajeumznkctmibikmlcxdefejgftfheoozvhgrqctmwltitbulbroetasrptpjgpbfkcjxeqrdkcmpcfahmdykubamtsnkhjhuzvspaxj&includeDoritos=true&content_infol=-1&blob=ABPQqLE3h6Pi7Gk9FLpbAhZdS1bFrDnCqZ4LXuKC0zKabUNFi39CN_nnuwTevBojf8pW0G1fO9e3z9ZlEukfEQYGWRXcHFQDl_B-KkNo8Smwyf10g704pDa-gW_AyqNyJndHsIsYoeWp6Z0Nt5HDIf8liqOVwwA2LuP319EUSqWDJfwwvwBkBnxQ9luG-LvfdOvvp6aedra6vZM6pqYnLxHT-IYx-1NPbhRXxX_Jy1pyBaTe-4NsPc3g1QQ0sw&et=5&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3696"
+    }, 
+    "867ebb7d-cbcb-4e9e-ad37-9953c9607dc1": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=banner_regular_direct&country_code=&sim=0&carrier=&preloading=true&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "8bf244c9-1224-4697-865b-f6f545c16040": {
+        "ad": 0, 
+        "dst_ip": "54.76.150.84", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1157", 
+            "content-type": "application/json", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v4/androidevent?buildnumber=4.7.4&app_id=com.fingersoft.hillclimb"
+    }, 
+    "93f38873-cced-4720-866b-29ea376d99c6": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=inter_videoa_indirect&country_code=&sim=0&carrier=&preloading=true&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "943cd489-d3e7-416f-971d-95c7986a755e": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=inter_regular_indirect&country_code=&sim=0&carrier=&preloading=true&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "95294ea7-05c7-4a7b-832c-2b7f505b760b": {
+        "ad": 0, 
+        "dst_ip": "98.136.144.144", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "306", 
+            "content-type": "application/octet-stream", 
+            "host": "data.flurry.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "data.flurry.com", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/aap.do"
+    }, 
+    "9c2f1293-aab7-438a-a59d-679f530ffe03": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=5&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjwpujGDTCtB-6I6Nssmknw9JTIaBQE6NIzj2xzQbbwa1F-zdkSt8PrByg9zio9HG0zR9CRKD9TU-8PjaxiyQJ-gd00skbRNA1EVuCTKwrY2utzT6_V-BQzRpJnOkgp_hEzRq5AJLY06FRhEP1NhyQVAQswPWyqCVCr8JSpySuI_JCtXmfX5sHlFRlQw4Omecce2y2gN-SaCZ8-R0-8QRMD0qa6v9U5MZ6IVe2WZV84IQq6kkmF1sS4wavQ57ko9TPEACZWmJr49-7feohJPnLjqasuIuzrhFrJgx_58uYcYHNS99-mJcKBsIEtpZET90Bgz34jhh3_dtFQF8wgCENwqAAl0_eZk8wNkWDyufEwlXCsFRarD7OlmE4H6kWtk3PFXbhgUn0P_GqBi33oIWqCng3mecyUb9YakJg8HmVKfnXgPEoLWKg2zY7IK1vbSwGpXdjT0cs0qF1SPwf0UcG8cK6j3jROKVOOsOUYG4c2wbbPJGUnSV4zZAqMi3RPFOih278LYj36dtePBRDHye4MZmWLYdf_N_0f1W1wa20yaQaWlf20LN32GRgRRuhXLF_1hQvRx8aAhKJ_rurcR55RAOOlMzc7HHOi4NsHuf1YoIn6euzkuJIw3WNdGbg3k-pZpVT4yb7YTaRIV2k2gSvNvXE85npztFxNtOXKMNTkNDViwSEEthnnI7qi-3B1-puPKHAIoSlQIKgAL7v9HzpAFtYHsJBrnQPvpIQv3wm8_Gugvyq8R6HiomjN77tywvm3b6bHX4KTHFWdJewzw1h2yL7i9t1ubuz5u47kSTyHorjaMgfg-c0NRM0JE8OiGWtzSSS2AaCWSg2vti6ouJsuBnxKtXY1Z7-iYtjhYFQ9dFjL0mVipVz1-dtFMivpbdVqcscNE6kAszprZ7s261IQ59ryDW1cO8nQogQSKGo8HhKTTziYmkXiflxhiK0rST78zlwWCRw0uNjS22-LTs4ENVdOvcFhTwwwUlT5P7k0trIGheBWBko0mT6ZzUMsjeD9POrS6y43s-_MwDTUIb4FRYmwQRObxBruTeEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=5131987d-7306-4e1d-8f23-59620d55e5f6&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293465&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947022316&preqs_in_session=4&pclick=0&support_transparent_background=true&pimp=0&preqs=4&time_in_session=3959&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=4&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5410080&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=vrinmesxanfgkavgldqphiwqihwdrxvwfgumvhkddskthqvxehlnfgrdaawvkoogsmjczpzrsfcvmdrudlttdqdegebshblwxvkjtcplqmrvurtkeryzrdmptmuqefultlwueklmwybyplezjekdguczguekqskmjudpnxvwiqbwyfnqmungxbohlcibwvxgthvpfphjvtumogkcwxloibfkfbntlanmpubhapdzwhjjzxebsercjrsipjwkyefcdoovskqsnjcidsizopxkqednnvwolbjktjrdctsuahsxckjunzpbaeqrjvhrgubwlqobmgedxzmifjarnofmyhuzkjahvelzzpuqxkcvwsjjjynvaisyumovltjfebvwoasovcnrzqsiukybekcjombibmwfepqqjeglccycucrbxtkxerqqydnbfxvnkqmglgsjdocsczpvrujvizdyvaqddjxglcfqwqlblpccgwoxibmauiny&includeDoritos=true&content_infol=-1&blob=ABPQqLFsyh3WzozmJit_jzhASYt3Cy4tAFf0hHc8J4k2bDYr4V07kKlB8BsvJDdFUFVxjPHZjsObI0E1saIiYyR3zLZ5uKOkZtktUSZso9HCy6mvpuV7pL_i-u3vBGaloWWisBtKNzszMkQ2NI38C0z9Lp8Wf5frzRcNeJl830hCHBOQewCLio0ie7v29nb6lxxOTaGcG5qpkzhdyu_aLQ7ptzJg_cjs71XSGk6w-V8okgT556aPWg8CKJCckQ&et=5&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3706"
+    }, 
+    "9ce08eb2-8023-4528-9edd-4900fef0f04d": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=6&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjwpqjGDTDtB-6IqNssmgnw9JTIaBQEqNIzjyxzQbawa1F-zdkSt4PrByg9zio9HG0zR9CRKD8TU-8PzaxiyUJ-gd00skbRNA1EVqCTKwrY2utzT6_V-FQzRpInOkgp_hEzRu5AJLZ06FRhUP1NhyQVAQtwPWyqSVCr8JSpySvI_JCtHmfX5sHlFRlQw4Omecce2y2gN-SaCZ8-R0-8QRMD0qa6v9U5MZ6IVe2WZV84IQq60kmF1oS4wavQ57ko9TPEACZWmJr49-7fOohJPjLjqatuIuzrxFrJgx_58uYcYHNS99-mJcKBsIEtpZET90Bgzz4jhh3_dtFQV8wgCANwqAAh5D3ZnkXtYFX7aAYKZkx9PcDkAbR3VWqNgzwkv-cw90uGXAzOsO5UIPPEZG1HhKb5VDyR6MFoDlw_utIkmmI3JyTc1y0rc7rIC8gTeJvUI7pQkS9RyDRSiv3j9B3RgI1I9OjPvLTwIzTgCPyJuKFztWCAQf8Eo9yIVh0wuViFClIYcMGsMmJXWUJhKr4LqVAeQN-SXEIPIoM6hsI42Ewy5fL4kPzCs2VgqfTqqbh40-jZQ2lAucA19hishvz4MtF-ysiqve1VEwBtl5HtpAXq5ZgBR55nEh9Ev2p7f0LkAH2hBfUaPfR88laSGtB1YehSw-uVzovA8ZkhWtNXXCS0cSEIS5kd5bFYsqrP0vd6293EQSlQIKgAJsJxM7NhmzATdRiT1aVKNtHCRqGpps7Y7sclb3me6_hc_nsATrsuC-omliwePIi_aDy7JUDArKQrFfGsb_qtL0YoidASCjE8OiZkJc0FVfdRBEtOxak7A22InUAH-tQjuytBoM5OqvhPMmIF81LztJX5mZB8wllV18UmRVljhTVNIINpJRpbsA7jS9VZLKd1KwX_c5c1PiD-oH1Y5h4dANj0PWKpmr81S4MdZgw6rxS4L82rWUoNSMwfTAi0Am0gws8nDNaTmYnHSwBnn6yMwIxoC7GlD0ZqDUwv0EvGmU4dEF823CMVjrslT67yODoGhAisYX5EhD_xBG_vFZ7H9yEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=589f9e90-8768-4d36-bc2e-7c765cac1011&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293464&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947022684&preqs_in_session=5&pclick=0&support_transparent_background=true&pimp=0&preqs=5&time_in_session=4327&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=0&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4573280&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=mxnewxafrlsqcscrkkvfhaalvboloujhkfpsedfyvremmjihooxprhfyiqaumbwofjipjlpuftiutuiiysutisaogqsqxhphxysihdurnmhzwqwkpwtmvkbtnasbvrosnlytfrmxqxfhfvqgpveizjxyqpgpfzissnkwhvahsvjsavnvfteiiyjwokzctdlpfqghdztpocsdhhzolcxcgrahkkqpbpjllewerpgoyzkbxzurbbsgukhocufunnugeijpdpmqmbdxxpudgcfnzeguvgexikqjdejhxbaggtwgmxoniigldzrygaxfcsniekayqwbzpjyeydihekwypvvvjsuzdqmmljkycyhyqhzuanqlfkqcarrsybwyqprhmtgqikgztfcylfisvpmihiauwrwxtmosvipswxxlqblxldjcomdkwzxewtqmzsdryryailyyokfefhbhenqnfopyrrlacatksajmrrcrevmbwgmlundt&includeDoritos=true&content_infol=-1&blob=ABPQqLGeJJskAaILQa4GDgWYgSSWiyn8gtev2_WKXv2rE7YyOGaEg2B1nBpMmeBcdlJsiO2JZcTqvfjx8_c7M9K4V23ufDGWe4GStkBh43dZ_CFQ-2gfUAsU8zbGlfo_3Terv3SezQKMSHrLNDaJrKtpN5icT4s_HS-7vG6GF7OLA-queQAO8sZBlK6JA-6nLKaxjGf-AvjO56csduOgP91uPbexX93Tbu_c99SWnqUIrBMvszvKhLSVWdh5Cw&et=4&tcar=6&jsv=4-production-sdk_20180212_RC02&urll=3706"
+    }, 
+    "9d01e0d0-a6c9-47ab-b528-ba4710bfc14a": {
+        "ad": 1, 
+        "dst_ip": "13.92.125.103", 
+        "dst_port": 3000, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Close", 
+            "host": "ads3.fingersoft.net:3000", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads3.fingersoft.net:3000", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/api/servertime"
+    }, 
+    "a052f462-c40e-4292-80fc-6f397b0e86d6": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=468x60_as&gl=US&seq_num=17&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACuovCDlCWMwsY4hLMMBMhpFQDrY8k-FPxjjJ9MDg-jeMTWKfNdTSYCqaJ0YlsgIfFCFFsRY37nrTt-B5p52tV8n6bwbQaHkZPVJBPUKpGKQvT1Vdc2y0ZJUr5KsvYWohSiEp43a3SYXXoZbaARVQYMW3e64CDEpGpp4NwIYQM-6YBB7n4TORcCJzBDbz08XzYDT5DJTKCLhNo0z1Iwl75Wq3WBBa1ysU6jDK90grwtB4eIfR6kguNCphvABj2btyIo7b1J3R6OUcKddSzrBnJCVpS_JXNsR8hIbWxl0iCaFGjZxOulmCfTq2zWA-40AArpUewrvOl0Jc-AK1OAhEwqgqAAuvPihokvmnXQIAYTczENXkj_AOallGtJmN4NN-45BkadHdeXSAHs1As6Bexwor9aWlrmCUJYQfNHwgxcJCmMhy0ZgzvajV683o10RvIk3dxI2eCBrZgGWT54fQT5CAzcRgjEJMmB7DCP-_uaXNvvMLKahOtB-VI_nAv0e9wvflc_DVfZsrs8vdCD1ffyA62sADcPFU_ozhIoGFbyXfPXnnzwd5sb8D6axQdlCsX6SUdH6oaqYarb5qMH1glyk-4qYvE1yh0IOPPEgeW73h6omRRkJP0Biq0i_hmQp2W8Ch3WTgAk26ZI3TaYkrWsyFJ3wPJSPerH3RDzCLaBlamZ3YSEPuDjpR57Cac9moKVOneExkSlQIKgAJ89bNyJw8IYs2DkL5AI9rOR3f4e_ucFy7msQ1-Kev8LF_zge8rFLu92b7AiAEcM1Xa32NXpHsRKShsOSZMm6H8WpmOiUmkuSKw4YM-QIdFtIGzXmYAsTg2aLsVSMatEptRZpqOlPosJ5sT41TvKfDJLQmDZEbSf38WlpU1XxgzdFPoFFHq0WKpR1S2Fpk_FJJaf7XxIFIZ7CNGTscZl5GlVrD24sK9edXRVtfiSfuRQqsKQ5SGYfbE8COTIeqTYu43o6CuYs7Adf4HBxPCHPyAf4ZaEXrhJajelnwnFBzsCDoS4c57R9LrO3Hg51p2uOmjn80dZ9ua_ZPS5hnwrHbZEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&request_pkg=com.fingersoft.fsadsdk.advertising.providers.AdProviderAdmob&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=d6ea8d51-1710-4090-8391-84d5476c9f7c&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293440&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947241288&preqs_in_session=16&pclick=0&support_transparent_background=true&pimp=0&preqs=16&time_in_session=222931&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=4499633706&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4491816&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=tqiddobntyoscieuylqrwpgumuhzfhxeebjbisnsqggwbbugyclkcaaevkftgighssbuguepbilhgyyqsxfmjcmbdfiqigiwvjdbfuuaktufqsdbidwdhynbrdarujxbmtmfeisnddkmluvqobgcfnurpkbcszvodyubsnkwqtoujqguahitgjcyymqbkdmxygxbgvqhtsydvujqrtxccgdchcnvbudpscaqvwqdmtszcvfrdmuilvniykwpwzinikinsgskfbkitgthcytzegmxldudfqudtftodmrtrwvyyegchekuboubgdwynpyfywtvgjdkacpeukoqlzcdapizeecwkeqhmjygjgfbwdnnhotvdhczbmowpnzmrwlabbecsldgedcnkxdvifcunqwgjzztttxdijzotuiiazytoxtahqepwvfvlafwknrrmvylnryldcbqvffpvykeepevyhxxzmxseyjlvltqkjykictfrlbq&includeDoritos=true&content_infol=-1&blob=ABPQqLFpNv3hcxyUxHkWD5mDjAwEdMVHaBbAURfWg6SsxIww8VNCMu4dvCive1y7Y0EqkfKR8HTFmHD7OlqHlzD14bk-qUkwkdRhjHXcVdusbEf1DejL1dhUXsbIdrf59vhHP2Q3CKI2Zv8NnkHAEeU1ZRc2qtyd4myVTiyCCnBUctAhMgDJKCVzevg66_VtL6d0wXB4-u_gV3QXeFBCxIduiMQnNMnbZn_OnBZLlmABdWm9oM-Ume0f_UpHnA&et=4&tcar=5&jsv=4-production-sdk_20180212_RC02&urll=3690"
+    }, 
+    "a21f6221-cf2e-4f06-9430-9aca0724dfaa": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=10&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjwpijGLTDtJ-6IKPssmonQ9JTIaDQEKPIzjyxTYbawa3F-Tfkyt4PLByi97io9nE0zR1CxKD-TU88PzaxiyUJ-gd20skbRtC1EViCzCwpY2stzz6_1-FQTRpKnGmgpfhEzRm5gBLb0yFRh0N1Nh6Q1AQvwPWyqyXCL8BSpySvI3LCtnmfX5kHlNRlQ46Om-ec-2y2gN-QaCZ8-x0-8QRMj0qY6v_U5sZ6oVe2WZV-4IQq60kml1oS4wavQ57kodTPEACZ2uJr4187fuohpPrLDiavuIszrxHrpg5_50uacYHNS99-mJcKBsIGthZET90BAzz4Dhh1_dtFQV-wACANwqAAgPBWluGrTsblf3asr8FZXbnRNqPS3kg5SeqL_MWD5aR_N07hvIXlrAVuDjq7DKoElRvhwloSvoyabHV4X1L0ggZNZfQ8tEqtM667boE79ytf19ktp0YXDwMf4yBOzNp98zh7HtrSQmFoqaYPOIv8QsqOQorL0yB6ZMVVpobcoYxlLNvy0lkcKL5KUi2xuL9TgC9Ei1DnTCdrcaDkbfm-AER3z29Rw4nvY9F1xoSoXJrGbpzqR9POb8huFYHoGVAUlt7Ay_7gf_6ltPgsccGsN635iULcPJ5fY_S5DbHF3_plYopwzyScngZpOd4Kqf7VwOZqi2JaDMogApWOM6cGqESEHAK5a0w2oAmX1gjWbFYxqESlQIKgAJO_8B5sUPTSTfpmaNcH2T4m1V9EZ-WvIjq2_Tim9O-h--BkZzLOEb6hbxHk8E0amqGs4aELnesRrZW3sb6n5QyZp-eywfIhxIAxQKH8MV6-DWXtzL-5RMhWvO2CNix0fE3Oj2ZQoL6VfN_Rs0TG7-V-wctQ26eoBXe9hXcl3wDnXPaBp9Q9SkOzSA7mBMTpI-yCXO0VE70Fs18dcJl9YOarMAiMTjBApW_EKCk471HTSUY-byWH8BGQBsk2cadI5QPs7ZEzID-1nINpiX4eKiUZ-p8Clapp2LWnvtfmgg3-lBkp-vjRfr1MS0oaCYudeRH50WaZbXQubWwHCXc_l3lEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=766e0ba8-5d4f-4bc8-87e5-f435b837c3dc&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293460&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947024085&preqs_in_session=9&pclick=0&support_transparent_background=true&pimp=0&preqs=9&time_in_session=5728&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=4&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3736832&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=wdjyvapunijdsqiahgxwpcgzmctwjpziszofatdndfjgfcayrixxjwwvhitjuzwkflnfvqwirpdhfocixcjtehowqhntswgulzamautyiotoloaigqkfelkqphuideyabytqttjihdbxcabrejqsnhyuktjqmzgrhbrsqltwmnwhgrdbamjubaqeokfvbmaqgejnehxgaexashttijdubrptoprsozhhhzyghbpdgrrjrjidkubdxrpgfsubbxebiskgcsfiyidwktbngncyxvjwhovzeqqxhfjrfdnnbigpmwszbeyqiuinpxnpqooriuppzxdynsxhxfpapmsybptufvcylcjkgzyqdnyceseaevejyfwfflwjpjwtarzyzlthtjdgyrrpnonzzmfodlodwrgpxyjycgbeaqjassqcsbuhuxgpdttyxnvgnwvmeoufkesjlqyobjttqdekquvmzmbzlednauoyclvyecctyszjhgoj&includeDoritos=true&content_infol=-1&blob=ABPQqLFlE-ilgrHKlNUp0Mpui9gXP-aFYFVeoFOMhSYsVT5l9EQ7sq4TTVgLQ65A0W_gpn9zLz8SZbqKa2VuInwuErVbCkvOev4p10HTnlOIuFII_jy4QY6vpbCvo1CZArB-ZpNQBxNdORDtCwP9RxY69XbaOesLp1Dfm2-SOEKSATc9wABX4P8qI-TI3FV1ftK22bw2Bk98SnNvBPhqrAnu7-_Ms95_ZM5Qk88RsODlANC1zk98kJAJb0BRTQ&et=7&tcar=9&jsv=4-production-sdk_20180212_RC02&urll=3707"
+    }, 
+    "a282d4a1-352b-4b0d-b734-bb53125d1034": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "a41e5611-6162-4077-aaad-e1452ebff84f": {
+        "ad": 0, 
+        "dst_ip": "54.194.126.0", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.fingersoft.hillclimb?devkey=pTGntJjBNq2tfVJrTwi7FS&device_id=1519066057445-2435862824641388883"
+    }, 
+    "a461b829-1178-4979-ab08-09fb0e3b34c8": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rt.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rt.applovin.com", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pix?api_did=&country_code=&sim=0&carrier=&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&orientation_lock=portrait&ts=1519066180972&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&brand_name=google&volume=13&dnt=false&event=landing&revision=shamu&ia=1519066041000&adr=0&os=6.0.1&tz_offset=-8.0&package_name=com.fingersoft.hillclimb&platform=android&app_version=1.35.3&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&hardware=shamu&model=Nexus+6&postback_ts=1519066181746"
+    }, 
+    "a7488b22-f75c-4cd0-b821-161030deb575": {
+        "ad": 0, 
+        "dst_ip": "216.58.216.42", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "630", 
+            "content-type": "application/x-protobuffer", 
+            "host": "cloudconfig.googleapis.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cloudconfig.googleapis.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/config"
+    }, 
+    "abc8812f-fbd3-45c2-b8f9-63a45fface19": {
+        "ad": 0, 
+        "dst_ip": "35.227.252.169", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "425", 
+            "content-type": "application/json", 
+            "host": "stats.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "stats.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/stats"
+    }, 
+    "afff72c2-7709-4111-8120-01ceb384770b": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=inter_videoa_indirect&country_code=&sim=0&carrier=&preloading=true&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "b127a15f-0097-4807-b4b1-784814b1758d": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=468x60_as&gl=US&seq_num=14&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACygpGjGLSCtUj6KaJ4siMixJIbMKfQWaNMjn2ky8bb1ayFsTY0ipca-hzq4m7o_nSzjV1WRKD_XVk8djLji2QYq0d-09obDsElUVmGDGxpd2otjzq4l-hR31pLif3g7fxDjRitUBLaw7JRhlaydh6BBEQu0eKy4jUVb4hGtCSmI-aCt3nOH5EXhdQlRx2Om-MO-2Sn1t_QeTc8uwk48URYGwrQ--_U7tZ_4VejTdV29Icqqk1wlxMH9AbvU8_k4cCaUECIX-Ij8oh7P-805LPKjyamqNkz7gU85gZ_8UvaZMXNS9552J8LQ4IGtpYET8lSQ33oylg97JtFAEo1QCEJwqAApZrKN2WctldSGZAydbRE4S4wc96d7eV3YjLrwl476D87YkNgA59Gykbas3NXYBQ8Aki62AjYqn-u73Z49VASZyUfJKTGLzNgfOFsqWTEQCw-oeb-nWeUbVLlAGVug1buv6CmrcrnO76EyV6nGe5mOzEJIXNDlL8aAxN4aRsVb9bWGDN9OsODcZFJ6j7bmJVCRjKLQffgJnrUZgVutpw1yjEvuFXui19p9ibbLwv1XkJlmUz52FsHOMNcZaP9KhowAmx7Rx5ESLz85Ch7Egw1_Zw26v_BITpism4i6LLlVhjS655jEod2CPXrj03MHm4wtEgInbuiDqIohH_PXpLP8MSEA0vySE3cnhfR6DQCI3AGG0SlQIKgALmKRlloSWkfS99vruUylv2cerwW5U0ERCYLqVwCSr1NcddDfCjmBSeHZfhp8EWsUwcwWdwtCqwCqxZnjpgzor-nkSAmee9NixS2CwNUpNlvo_8e1a0JZY32keaUuoxmI_P_DulwBAHG-Omy3uRK3_ra9WsYb6z9X0-UBsgX1qXcdkCvmOKk8yObwCzHNsQnKEydRfC5Dk21HUTz8xnKRKMXuF-y3jjWOdfufHw66S3TSUIQbyeDHzYauAzL_54R_r_uKy61gPvVkqcBy_YIPaShUbaNqT4oaL0BFErOhlJBnB1acX7ffnVY2ro2Nz7PcZlbkkC5bYY272U6wlmPv_bEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&request_pkg=com.fingersoft.fsadsdk.advertising.providers.AdProviderAdmob&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=d35ba102-ed6e-4991-aa47-7b33c5caa0ad&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293452&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947099402&preqs_in_session=13&pclick=0&support_transparent_background=true&pimp=0&preqs=13&time_in_session=81045&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=4499633706&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=6776120&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=folwuhrwgmxgncchsecjjzaewvwldswffdnzcxjcoibbujzpmdnphtxmbfgfiiqlycqcaakimyuxwzwgdcvzybtrmjdgyusmyzhjxmkfummwbkrbsgppzadyxlrvuppcsqwpnxjlhxnrnidxgvyhslwfunxrzzercmzkvglgrxtjhlmccumxgiaebsldwibrpmpjztbyqwhkvznfqwmxsfigtdmfyfpvynuqjmzjbdiygamithliaenxnnxxmjajgopqypziaetldljzsrnxbbulgixvqlewtlkfgbqlfhhpnbrgtaljesrvbwywvutaqdspzqamyqceuugzwwmwmrtznfwrljjkyslfjamyysgrpfclrhhmzctzvzlkjftavabcppekygbnocdvtbartluqwduiedsrwbebvdgdjoojjmafkgutczkodrfnirufmzuqpdmaxypmevipdqqxbcmwqrvgpwhpisyaevvfdfkynckkjjww&includeDoritos=true&content_infol=-1&blob=ABPQqLFPZ3_xct88Tr5SrLbv2pm5dh8-FLNklmfB9dTfvpmcjv7cV3ReuKbjS6u5Zn5nkLT1RqtTq0H5tcqwc9vTtHR5ruoVmU-E_0q71h7ufQJpXGPRXgiB2YvZfOmK5Hwj-VazUMldAZ1s6M7HlODdSBRa1pTkIv714AYiRY3S1bIUugBa4KLQycD1NMLC9ytio_BeZn7240hm5aepmpzSufwOXUyW2su_GoZpqmX_SbAxZQ7Kuw2HaAqm0w&et=13&tcar=15&jsv=4-production-sdk_20180212_RC02&urll=3691"
+    }, 
+    "b7acc4bf-0948-4edf-81e0-699299537c6a": {
+        "ad": 1, 
+        "dst_ip": "13.92.125.103", 
+        "dst_port": 3000, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "316", 
+            "content-type": "application/json", 
+            "host": "ads3.fingersoft.net:3000", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (java 1.4)"
+        }, 
+        "host": "ads3.fingersoft.net:3000", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/api/startup_request"
+    }, 
+    "be70c2b4-1938-4c8e-a340-08633fd39295": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=7&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjgpCjGLTDNF_6KGNssmInw5JboaDQGGNIjjxxzcbawa2F8bckitYP7ByqN3jo_rG0jR1CRKD-jU88NzbxiyUJukd-0skbTtA1UVjCDGwp42stz76_l-lQzVpKXOngrfhEjRl5QBLbk6FRh0O1dh6QFEQvgPWyo6UCb8gSpySno_KCtrnfH5HHlNRlAw6Om-cc-2Q2wN-QaCY8-10-8QSMDwqQ6v_U7kZ64Vd2WdV2YIQq6wlml1IS4wavA97kodSPUACZWuJj4597fuoh5PKLjian-Mszr1Er5gb_50uascHNSx9-2J8KRoIGdpYET91BQzz4zlh9vZtFQV8wQCBNwqAAkaNMxkkpsvT0H3SvHjW9jsuGYqno75OziN35P5cHI6DTX7qlRbhaNC4IsbdvM7IRZl5o96v5mHOccUIG8aEjdV_01dpJ-iH7e_eYmO6FRvklgeJMGeojOL4dhPELAhIrwAQrYhJuieqPAoYhatlU1gNQxAQF6G-c5B5EydTiRq3UyqOCeBrCLyoUD3WDh9plejOP1DW_Mj5FqJBXk2o4R_gF3vdI2zXvhvjyNjJyZGLY0ewBnQ58kaprmDRZqA5Z9_V0hftYzPSbyZJCfZifYdEQhJVfj9kZQZv_SL3-oOq7rCAN8x7711HVtsX0WFFVa_Q2sqpiQukaYGeUGWqumgSEKXgiK5qrrr-1HStZDucFLESlQIKgALfGx9wAWqHeVYhvqt07vryQJR0S01zujPRezZAMUfMBN9djceDuKCY5d1SkzFwqWtUnvhkjH6JDyUvAA5p9rPrxnqJqn7hDQiixTcsc8BWubbbwnO8MJwC63OKUsIsLohnghGRsB6LPorefW5wLmTNI6q5Yde68nynXjwmzxE3ZPAvPHZ6vO2N33iMOCpaOLbSEL72pFOV5oUlz-qXUaq6xr32-cHw68Re2NvlUvCnTzwEwK4_QtTN4-69OuZV7e0fphC87inxZUqoDjzZeNO0TA_zEOXEPoD9P-o9qhn5AJBZ0tJyTFHFizXW-vz2ptWFdvwAxbw0yo206Q9nZnbOEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=4ced650d-70ce-4ba5-abfc-bc36fe24ba97&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293463&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947023514&preqs_in_session=6&pclick=0&support_transparent_background=true&pimp=0&preqs=6&time_in_session=5157&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=1&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=4292952&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=gmbgrfyfbztndaxtgawowovxryafzzcuzywssjyuiigagmajuxdixvuphetckjjuafoldzuifbirmivzjpumlwyxrqsjtrfpjjyciphpuyuiiqohpobzpuyilmnkatpatnrtafqmdafvrxmcrzhxwmtofbdjmxjjduixgmglqzaqurzyvvfljvexhhrtymqeoxjczlnkegtfqyzuhjqjtdmtiqnqhecyidnqqjwtsfhwyogixrjjwstyhaylnhtwdboqdsxlflhvnefxvawlqhuasecsezwryrdludxsnrvdshlbnxvkuseasdtxgwfaiggmccnnzibbivfnbrpxwnupryxsuyuohcumrmbmxlgxqzonmcixjqycryaphazlninaaldedrzwyuekzbfzvpknozptyqxtzsjpzgimkqojrmscgwzpzzsenzjpbbyexpskewvlbwhxlwtltcltwbrnnzezslotyxklisgbhcimnjxbcuux&includeDoritos=true&content_infol=-1&blob=ABPQqLFlmbemJs4uRkRQwN7CV2dEj2rmIMX5EY3xebA_afqdkPqoPmynzfzEfKJQLV20T8QCTUuPm5JNJxcdKGO8rn7S6UocgiGPJEtlWhGooW8ImYC4ds3zmDCrzFfZ4F9rH51uVN5gFbYgZ1x4piXpHRLiVSBF5Wr5fkKOwS6JspwR1AAKxT-fFkn0W7WinUTDIA_qTnu01PkM8mw2jFE_tV3CHvWg8u4V2pceL9ydZlKyueK852aG6dLDQQ&et=7&tcar=9&jsv=4-production-sdk_20180212_RC02&urll=3706"
+    }, 
+    "c38d4420-0572-47b9-bba4-54e414e33737": {
+        "ad": 0, 
+        "dst_ip": "216.58.194.36", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "www.google.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png"
+    }, 
+    "cce16c1a-4148-4522-8812-0c5dfb38b091": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=4&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjgpGjGDTCtd_6KeLssmMmQ5JbIKBQGePIjj3wTUbbwa0F8TakCtcObByqtvjo_jA0jR1CxKD_DU-8NjbxiyQIukd-08kbTtG1UVnCjOwpY2utzz6_F-hRTVpL3WlgrfhEjRj5wJLakyFRhkI1dh6RlEQugfWyoiWC78gSpySmI3ICtznfH5FHlFRlA44Om-ece2S3wN-QaSY8-10-8QQMjwqQ6_9U7sZ6YVf3WdV24IQq6glmF1MT4wavA97kodSPUACY2mJj4h_7f-shZPOKDqam-MuzrlGrZgZ_58uaMMHNS55-2J8LRoIG9hYET91Bwz34Tlh9vJtFQF6wwCFNwqAAjj7WJwPtA7dYMtffrBK-YcQ5skuJ4DsTplAg0nZRg9B-ReoZYAD49OaR9DnxieVOp4fHUOJDANiEVuZvb9oV5yEGXEe-KcFLI3af_EBEhO04VCdisnqOiTdmeC67eILBItN0nMJMDPqVrRgdX-IZ4Qp7DNNk1ovtiH-z--KKZF6rxMXdMk2xQ81GEj9kf475EJrli41vzOMqJcfslWRWl5jFKWPTD8brx5CAfNe9-IAVy9kLCsKrGRwfr6AsRc06baXQZvX5cRAZIDa49CBFLudBrfYbiRtAcFvbJm3SBi_QStdlnmWj4ZB8g9lAaCRo-au55dbb4Epi-qptealm9kSEGwQ65mBuPGkxnSGLaWVc-cSlQIKgAKncTU3ZXPMxwYxxjpYGtu-VDkUWnGgK4u9_8VqYbqXXI9Zx8vjD2L8mYO5HUnVaSRQ3UkT_PiqWSFDwlIF17ot2k4CCQJ_TNayCg4fG9itpIq0K_eQrwSnuwzKWYZ8rm4LpEtexJ7DU4LrdxB06kdIL8TgEJ8tyY7fmH8B39UtENCQnpAqxPYNjxdPVlLVglKa6f8wqGpM3LESlVaLuaoVlrT2stH5mJUa7elyQivlByBGg7QXD_zA4y4lxbKlnZs35EALugexxC4Ol6eZI4CBJA2qRKElFajd3_GD3kFjPLAi878yqRO-6yoG8pA4Hf3haTcY7ewsOdlNGegj6uVoEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=2e1fa668-8e06-4b41-8a78-1c38457c1643&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293467&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947021657&preqs_in_session=3&pclick=0&support_transparent_background=true&pimp=0&preqs=3&time_in_session=3300&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=3&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=7604168&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=frxpoucfxheiwvpkwmnebylwqchskafeocksboplskudgtzwduxkjcjwrfotquiqhmhdswioxxjmjoersbmzztrdxusiqzunxxrquccerucqsntajbutudfbkfnufsobzncyujlddrgppqlmsrjjgityuepiljvjvycxfklqncuqjfirwvsakvdxrtldfylgonfqlzaaifaruukahbhzkoiasfalzpdskbmbinxjpsytuiekfqmnqapquoyqngxhrkwosohqnhdckqwjnywgcxsxincquultscblcntecgwvyixfxrnkjymmnghawlfjxlnlkrsjqxmtgfhlafzloctgabusbrakyazarxarxyhfsxfegqewudttmfbmshfemrkobuhhfxordhkriuelqteqdtktumnsxutvauiyfpgfvdurnwnqtcctpgqvqzjkkapfzthupwcyfgreerbukvwduojluqycsjptogphdqtmjclbsjjn&includeDoritos=true&content_infol=-1&blob=ABPQqLGkJasv76RCCJgA8u2lYeo3WpDHBXJZXkj6oiAuD35E7yFxGwsz-i_vl8TMgH43zbBhGw9a_JkUb34wE7TKZss7VcCMV-yy_P8MOMXUU1A41eMhqWz-NcmbUnjQzo8oMKxAGDGxRTIoLk3wC9v1fyIcWqW4y8-IPJfHUj7JjprctQBjuGf0KxL3Oqp8HkP8Mc8qgLK_GbWFMdhH0VnMHBWnTE-Y3svHY29Q4gOd2BfoSetJaqsw0hpZew&et=11&tcar=12&jsv=4-production-sdk_20180212_RC02&urll=3708"
+    }, 
+    "d10da1b8-d6dc-48e1-86cc-b542bb7d4e08": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "d1502750-3590-49b3-9df4-c1c55d1e2402": {
+        "ad": 1, 
+        "dst_ip": "23.210.206.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "assets.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "assets.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/sound_off.png"
+    }, 
+    "d4b6127e-2d58-4a27-afa2-68910b3434d1": {
+        "ad": 1, 
+        "dst_ip": "13.92.125.103", 
+        "dst_port": 3000, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Close", 
+            "host": "ads3.fingersoft.net:3000", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "ads3.fingersoft.net:3000", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/api/servertime"
+    }, 
+    "dd15142d-340e-46ae-921e-750fd6453771": {
+        "ad": 1, 
+        "dst_ip": "172.217.5.194", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=468x60_as&gl=US&seq_num=19&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACu9vKRlCOO0MaqhqkMlsphFQbrccm-FvxjHp1EDlujYMQGK-FdzSYIqWJ0elukIelCgFkJY-znpTv6BYh5WtVmn7bybwZDkYnV4BPEKseKSPSlVcc2C0RRUv5KqvbSohSilpw1a7CYR3oPb6oRkQQWWzW46iAUpnpp5twQYVM844AB7mwT_xcSJ7RDZz14XSwDD5LRTHSLnNowz1owlb5Oq7eDB63gs1Sjzq1sgmwtDYeMfRakxOFKps_CHD2LtSIorb1Z3RqOQ8LPdTbrVnBQVpa_N3P-RdhIfWxt0iSaHmifxPOliCfJq_7WGe7wAAjpl-4xvKl2Pc-SKUmAFkwogqAAs4WlD3buyUmLmH0xfzsnt1aq3V7i0puPHIRxD-hPmHyeB3oitlOef_yiswQAJm3alY2WuZ56Tm7x_442j2ygmyl9u3PSttzWLr4fpsB274n4VdFSYAnx8Amy6LcY4d9OdVaVwwksKLMDp2vBo8GLagk9OyRiyAOUNueRKGVuTJnIJ1Z1WQhEFx3WnM53iYbI9EIYRNRJ3cqH1ib2NigzqdmofmQYfgm1OFhmVwNYe1EAJ31niQLC1PD0CQS6TIxKoztzJuEPNssDjwqBw290sUmoV9C7kERmSAn73VZqlwfVT6-3XgBKHDpSVrCCMMEIJ4hM1wNK-zyXtARP7QnoAESEBxw75KzpUqSlqgq77MmFK8SlQIKgAK0iRETJ0mHJz-AvTsQTrF6Qid4HAOgfYG6--DLXtefutXcgA_nGHaf767C2nFjO-BcrSJUg37YUGpMntUh1-TIqOkLDXKBE_yhlGZUF9LPTZuIEvHQoRYIiNLWH-nc9AlpIRw8tcyPtaNfJlxwXj9GThitMd6rtW2p3HROz1N3X9ivspEYvq0E-TgbUAs58XS0EPccoCBQPOMGxZ6zgPIZjv3yGc7j93E9OdB4HcD3Z1NkzJEacdSHjRxwos214jc65ULD4ZuqqSwYhm_9eNgNQJ65B4aFZo3V7PsMqGki_9d4w3YYPF70pxZM2rkWNH6GpmQ64t5x8siVbO1BxvlCEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&request_pkg=com.fingersoft.fsadsdk.advertising.providers.AdProviderAdmob&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=afcc7e06-131d-463a-bb2e-06b5cf2a0af8&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293432&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947329500&preqs_in_session=18&pclick=0&support_transparent_background=true&pimp=0&preqs=18&time_in_session=311143&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=4499633706&askip=3&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=2857344&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=hyneddfuscdnmjihjdmuujpurnaankdxhynttplvnteonybwtkkonptvbvuitebmjardczzbvkaevgjdnixhmkevuucbkrxwsjoompuojtasulgclchlperoqxsorhtxcvxzdczasztlndbwdywcnmsmypcmhopigtbpilpnrohswqrtcmqacjjiqakkmwhiqvcvsjhhjcsmrqcfxschidkowfcgxfpbvrireehucvgcpfqnkgueiwogsggzcuxewsnzcekxmndwssapprylwewxsaedknerkohuargdqznuvdrxcbyvytaoylsbaizpdhliauneongubronxjtjusbdcwryhmzhwcpoxzurmfqdtnujskmqlpptotppckcqshqzhanbzjpxryhfufoptvdnqqeqieisxohiymaxoypnvpdgivazrzfaarrcgwirugbezqhuovgyfcuymvhloyeekwzvxfciqrcoxeyzdfjwfxppgqth&includeDoritos=true&content_infol=-1&blob=ABPQqLFFI-ykr3Y7Vxp59FcE8yjzKuJLw_1eIlY9kSn9q02h_3XbKyXeqxAa0F7jE2HkcYOgsJXYqyBs7S03oiUXmvf_uKeAWhw1flGiDku3I9sljVKYHpvQDaeM-CPcUzWV_McQveSCIU1n7e1ae4hOhJ7zxeWXox-G4HnMJxR12R0M0wB_viPAMRSB_xQE7c4t2-lm2kM8wYjEgvEmYcrJIlDaR-eGtTEvOYTPOgsuud-w_8qKFHQ9AW8UcA&et=8&tcar=10&jsv=4-production-sdk_20180212_RC02&urll=3691"
+    }, 
+    "dfbfe1db-0deb-4357-a776-b949ede7302c": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rt.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rt.applovin.com", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pix?api_did=&country_code=&sim=0&carrier=&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&orientation_lock=portrait&ts=1519066180972&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&brand_name=google&volume=13&dnt=false&event=landing&revision=shamu&ia=1519066041000&adr=0&os=6.0.1&tz_offset=-8.0&package_name=com.fingersoft.hillclimb&platform=android&app_version=1.35.3&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&hardware=shamu&model=Nexus+6&postback_ts=1519066181746"
+    }, 
+    "e062a8aa-822b-4f4c-85ca-d13e41c33052": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "e489bcf7-a3de-45ff-a219-9707c6cb40f4": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "2", 
+            "content-type": "application/json; charset=utf-8", 
+            "host": "rt.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rt.applovin.com", 
+        "method": "POST", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/pix?api_did=&country_code=&sim=0&carrier=&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&orientation_lock=portrait&ts=1519066180972&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&brand_name=google&volume=13&dnt=false&event=landing&revision=shamu&ia=1519066041000&adr=0&os=6.0.1&tz_offset=-8.0&package_name=com.fingersoft.hillclimb&platform=android&app_version=1.35.3&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&hardware=shamu&model=Nexus+6&postback_ts=1519066181746"
+    }, 
+    "e886748d-4070-4be4-a6db-e5d1c512b488": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "No mapping: entry not found", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/nad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=native_native_direct&country_code=&sim=0&carrier=&preloading=false&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&slot_count=1&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "e8a8d937-cd1e-431e-ab8b-75aa9f9357dd": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=interstitial_mb&gl=US&seq_num=11&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjwpOjGLTCtJ-6K6PssmEnQ9JbIaDQG6PIzj2xTYbbwa3F8zfkytcPLByo97io_HE0zR9CxKD9TU88NjaxiyQJ-gd80skbTNC1EVuCzCwrY2stzT6_1-hQTRpJnGmgr_hEzRq5gBLY0yFRhEN1NhyQ1AQswPWyoCXCL8pSpySmI3LCtXmfX5MHlNRlQ46Omeec-2S2gN-SaCZ8-R0-8QRMj0qS6v_U7MZ6oVe2WZV04IQq6kkml1MS4wavQ57ko9TPEACZ2uJj4187feohpPHLDiakuIszrhHrpgR_50uYcYHNS99-mJ8KBsIEthZET90BAz34Dhh__dtFQF-wACENwqAAgxGVcyap4WV5t9DSE0fvw48QJ8yvDFDuZzcGlObnXyBOgtr0AMRxV5OIl1N_JBeNjVQtNC-Kk8qpynR7BxTKkuE8_ngngk79OOOvYiAZ2U9woWrmrz7EwpKTYpKu6JSjqrVj1JTL1EWgzLb4cyXRWKpieQzPFq8bCNbnR734u19NXzv1UXEw-nbySj8WjU8TjKxHoaFSk2lE2GbNOdCkOc3nRMhnDSf1g-8tPfaIEmxY6XEmjIVsb7PXKW7Z4VcoSQHue39oYvPpn4rLCUiE_E2rtUUgjt-4GKtQICscuZky2Ji34AWCKeCyhdlu_jzwUZn5L31TXG4PUmbCX31s70SEMMfY_nYbodSJTHgi78rvq0SlQIKgAJyOxn3gR_CRgZ86LMMenhG4Bmwu5HuNQut9-UaoPOG5Pp0WSKGCHPcvcySZc3987SU03MzKJqBqKBi28rAl7m8HyeW4GMdQ-9zQCv-ztgH3A7eHm-EjZKWSybfCeIwuJ97p0jHdPJGyvOH6xAhomoJ6o7pSS4D5Zee2m1R37GzsHWzvvgOqOgEzhDW9lfbrJqe5GeRTUpRxeUQnM9-2CNs8vFuq2GRK3zeicWC5yTjriVAEfyDL0zBUmoxheOJIgty69qKyiG6NH8kFxboYIQhNC643TRBpwD99mZiu2F-5VEsW673hJqOe2iYo1USOIRhJi0xSMQ4mbxlvPD3xuzwEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=5defb50f-2e71-4530-881d-1b8c3fa5d12a&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293459&android_num_video_cache_tasks=0&rbv=1&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947024264&preqs_in_session=10&pclick=0&support_transparent_background=true&pimp=0&preqs=10&time_in_session=5906&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=2425625391&askip=0&gsb=wi&local_service=false&lite=false&num_ads=1&vpt=8&vfmt=18&vst=0&sdkv=o.11975430.11720000.1&sdmax=0&dmax=1&sdki=3c0d&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=3643328&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=gbhsmhqbnxtonssgyefswnqisxutlyorbmzbjtbkvzqpfdxunwxrxwgfauaeppnfyiysvmcgndeanugochyrplbvpmfyszoazhuvricxyncwskubdjcxramkmpgjzalgcntvtwsehwdpmqyxwtdxgeptuyrqqiioycsvhaxgsyhtzujaanukkxfxcirqigqysfmykwyplbaigryopmznadjwgmmlpxknjnnmzroifeowsnkqpygtzcmnmcqcmefkinuqxnbtlkcpmalrmmapfyogwcwagnujzxswrzknremyhxjpdynyckiuqbcjaglttqjrkmpurwgtnknwhwekpnmcnkgemlgqihbitxoldklvxwjcfbujnvztfswgoelwhgtsnfnuabyfvowttkstweicjjpgeigqqgsmdthjcalreifgmyfmzussftpjguftcmdnbcscowvsfscedimsxdwqagfmbpvjbpdqdknsfxnzheehwvus&includeDoritos=true&content_infol=-1&blob=ABPQqLEodb24NGsGNOnPlju5rfg06xfnYv-34jgEq68RFiaXS_RJvFSCRZ7XsRZGPyzv4HehycFln8nc0doHlG_CzGAnFd6D_iCIcL27jFBCpSy8GU7J4eamOabB8LtEkQjxsLRNUdp7k8Ru1VnJnKbnsSnf0cbf_izBWns7yPQd8qkyCgC6RDFQAZuxq9t06KF9_mV3F0IuDN7Suef9tcaZBLaSbz-LAFigdlGP-_QTro3eVrvTZbcgTEZx4w&et=5&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3709"
+    }, 
+    "f09b020f-a72a-428f-9a29-4bb8bb8261a4": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=468x60_as&gl=US&seq_num=16&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACuqnCBlCeMgIY6RLFMDshtVQOrYYk21Pgjj98MDgejeITfqbUdROZA6aP0IhsoofFCFZsRI3yn7Tt3R5g501V636dwawaHUZWVLFOUapJKALT0ldc2ywZNUr5K9vYWIhCiG541a3WYX3obbaIRXYYOW3U65iDEJGop4txIIQL-74BI7jwTOpcGZzCDb300nzBDThCJTKGLhJo0j1Ywnb5Sq3_BA614sQjjD68wgrStRYeJfR6kgKMGphqAAH2aNyYo5X1N3RbOV4KetWrrB7IEFp8_Z3NvR8xIbOwhkikaFmjTBOvlkKeRq27WQe48QAjpW-wp_Oi0ZY-Cq1XAjswswqAAhmexLRc0ruytk9J0o7-KrPdjzjh76vWOICeGuxqgx5czDTumGPW2BeNZaP-8lRYeuIBDH8447ROKanuYX_8iu3NY9Mgc29oOhleS6W23ps3rWSfOE5SAZ8TGy1gkoeVWr6rdQr-oEDAS5P9nB_GPEeGDN0bFQ7pK-5H7ufCtbxNodp9ytQg5ufJ36ZlDzh1SJc95Ynq43_FG9CctAa5xB_9FZHzoxBRTz5oRFkXVi60dhGojJnhLeUAxGF4YunnE4ZJDQIlwwg4hXa6zMc_qrSUTIlBgUg0EWGl1Wk04A8dLDrLaQhhKGxDgkuBpXpQI8jq9S3Mjlmyp43sFjQD_00SEP0oyF_LXU1aDAFpYGOCXMYSlQIKgAIpH51iNiAFUaFpBrgY_OL46hh8Gg9hOhMa67Q6TEt_XF7fh5z_Ogr7xFXJycHkOCPGRlEULaoyBvXvi1csLoK5liQK2OArlUqQWw9EgFDs-AFd4nF8MhQ6GaEyGO4kFqpACLPJkEa7VbOSXh7TOv-EbDS4Qm-kYR0uUgZNRx2MHdMljkYXMO-FejQ-UJHWIoezUqasIUu83vo3bcu03QLJG2fnq3smUMWZjOi8tCaFB-JIavUDDM3UIeStA-OP_ZW-_qmV2qH4HJM8ty1K5GCdx5V6UqNItKn2Z_BMuUlzaGaV-qG2DHK2p-13ugM-Pa0zrs8L4nCVsnZ2WG357FX2EhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&request_pkg=com.fingersoft.fsadsdk.advertising.providers.AdProviderAdmob&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=b81b7def-904d-4a32-a62c-903c194cdc48&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293444&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947216577&preqs_in_session=15&pclick=0&support_transparent_background=true&pimp=0&preqs=15&time_in_session=198220&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=4499633706&askip=0&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=5402984&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=uhpiffugdzsjpcqebwgbuaodbjzqzcccsedrmwipdodvsbecdjqxnwdoyfffcvxnnrrtfqxxfdcovbtkrvhsyxpbmypwcvytofscryvhagllfrjrmnfmnpqcqvrwqhxslcaaprchaoegtfsxhgyjrcanohulwapgspirkyzzxvpvnlinuaqdirfixteauwnvajdsrhmdmgrgzdsozjkvanregvdzgyyodknzrujbqvwzkxfxmqpfouojqdalpfitivjvrlvxbhzdcesbgleorxanjwkgokgfphutdjceupcanijhioehtomwymtjxrsbygrfeanmvxvszgkyowqujozjrsmmxkutjxafyobmicwqswxbykecukshwsdccgqdvmxrjgldmdbmjxnwaiqdeqqivuxaowlgdbtipphbdqkarguxfjdlxekpcjkajjyjshvlbbtglmypfoliweftovbwuxbdndsmcvjzgmahpaalwtzfeuip&includeDoritos=true&content_infol=-1&blob=ABPQqLGMu-ylXcvpnmaF0rhjCyIudwUz31KN8oSWhErkG_173gJODlLtjurOAg_FPiIYLn-VoVCLF4O6oOcMJfWtWNcaOWtSHJg9SmnXpTjGcwx-JSEy6OROriJAbNZ5M1UXo01uNa4N8fFMMBg9ZD9J2rJ1pAuDP26y4ib-WKHMSWudUgCTqMcJiXv16kHimVRyhyxEaxukB7Opx3ZfhCpTc4tk9xcjm5Zd_Ao6Vk9OJ5RJ2eB2ywWsSoxsjQ&et=9&tcar=13&jsv=4-production-sdk_20180212_RC02&urll=3691"
+    }, 
+    "f2f20641-82b3-4a69-9178-a26ca4051885": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=468x60_as&gl=US&seq_num=2&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACjgpujGDTCNd_6IyLssmkmQ5JToKBQEyPIjj0wTUbbwa0F-7akCt8ObBygdvjo9PA0jR9CxKD9zU-8PjbxiyQIukd008kbRNG1UVuCjOwr42utzb6_F-BRTVpJHWlgp_hEjRo5wJLY0yFRhEI1dhyRlEQswfWyqKWC78JSpySuo3ICtfnfH5uHlFRlQ44Omeece2w3wN-SaSY8-R0-8QTMjwqa6_9U5EZ6YVc3WdV8YIQq6klmF1sT4wavQ97ko9SPUACY2mJr4h_7feshZPnKDqasuMuzrhGrZgz_58uY8MHNS15-2JcLRoIENhYET91Bwz34Tlh3_JtFQF6wwCENwqAAhRTfreexazmOlwqa5EBfS3x9wH6vVMe4clSIidwuRTGzPmoAojUSLXWHI4gFXohgjGOMmK6Ql7no-cEW9-X3ivRyugeQ3nmikryDnLD7z-fciEYtKQyenuQIuQNqJxmHnxV_qsLpg2k_k9JQdHNk7nYxhPgQxLkiC2NmFNK7CCr2CXcv8rjykMNoGxpYjrncrE_5NRtYgpD9xmF6NbmK6xM7MZSv4dVwHiUOyIZuqQ2DmXBe4htQAPgflJV8LRbANIMVbSujTJpfVRYRcMzXuUt-Yp7pdirQTMF_HwhPcBQrofy3d9BhlOH3lNyHNO9jfH4_SYdqsTzjakg-gNjViQSEPA9MmtbYP7aUTxUSEOa_BISlQIKgALwe9JgM05j6S8FOSIEGtLCYzD7CgM3HJmff2ZwG7M-FMDtAbynuFDrnj3jI1TU-lkc2iIso1o6djtbWm9h9gIrjN4MWHLls7DAIaIEVkDu2o8ftau1hJGSyZeUGvn4U3pZtjsJxKpOX_N-QF4Qers2es4pWL46NK2tGpVVz3GTPcwbtp4c-Is3_Si9AE7ali2lRNcm5UNyvPcRRUHnsZE52wm2u-rgkq9MeLY0bbRxRTbwS6UKtvTs-bowy_kxA6d68iB30Clo9kysBofZmDyvFI9aCregp-Pk393-uWkFevMNo8FsLPjM8wEq6MyCcdfzxscL8lxSGqxULrVl9v9eEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&request_pkg=com.fingersoft.fsadsdk.advertising.providers.AdProviderAdmob&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=0a620755-f734-4ea0-a2e9-ab58196c4b4b&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293469&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947020870&preqs_in_session=1&pclick=0&support_transparent_background=true&pimp=0&preqs=1&time_in_session=2513&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=4499633706&askip=1&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=9843560&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=jcersymccfjqlctwtcuahpevmgsmsqzegkkmpdndbxgacfcjjfievxhfacwvkviolxhnjeacjkitilzpsxenshhihmsncaznlieinoujctorcpjuyspytvdccyoxpgmbxfiypnreucjiouvnwguisnvocdgfesoqyfuyawkoiawievyvklhowimvuumpieaktsdqooogustxjytgdkptgwqzcwtuvfquuosthdusmjfpjyaglcpxgbvbfknuqdwodebtrcbpjadkolmtjfzomupixnpofnqffymvxvbxqgjphwwzqmjcavdmdtcxamcpjhpkrhifzdyyariebdphbohqvypsbdxijlqxwmcwkoxkbjdouzbjmsigldjvacxecubsdenayzntqupcmnmpcuhagktllndxfbqorsdxztibgkcvpwhdzqpbjqsrtiudtlmteemegxgcyusbesvqmcgssadlvhymcfrumonafhscqstaayda&includeDoritos=true&content_infol=-1&blob=ABPQqLG5cnupZiRZLsqXss2ElRjX0w_IHwEXNRqWlABXObrH5zKgCz-dDUeHGFv85LhNdaEUYFXvjzf0pNu7Z2q8KBE-7VIKpSWluYEokIzOhFdhsm03GigzYeXldSth6MhfsT7Ku9VRKVSTzvJ1m2-6qFQvAH6byjJ6b885N4S_b88oOgA_jxab2jW3e9HBiBDOUjVZVtu1nP-Hj0y1f6ixuROygfoI8-PblUuhhdgi1Wy_zQtrcu_QNh1uUw&et=11&tcar=15&jsv=4-production-sdk_20180212_RC02&urll=3687"
+    }, 
+    "f4d48bc4-1691-411f-ae7a-ff5c580e60be": {
+        "ad": 0, 
+        "dst_ip": "52.18.155.254", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "api.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "api.appsflyer.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/install_data/v3/com.fingersoft.hillclimb?devkey=pTGntJjBNq2tfVJrTwi7FS&device_id=1519066057445-2435862824641388883"
+    }, 
+    "f606af68-1d9f-4dfc-bb8c-22ed655cd1e9": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=inter_videoa_direct&country_code=&sim=0&carrier=&preloading=true&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "f80c10f1-2661-4ba7-b022-e359813ac685": {
+        "ad": 1, 
+        "dst_ip": "23.75.196.65", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "a.applovin.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "a.applovin.com", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/3.0/ad?accept=custom_size,launch_app,video&v4=true&api_did=&zone_id=mrec_regular_direct&country_code=&sim=0&carrier=&preloading=true&idfa=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&wvvc=0&dy=1440&format=json&orientation_lock=portrait&adns=3.5&sdk_key=hACPxTrwynOq4Q6WqVdLlTaGK6n_o4eTFstAPi4LTS9TuG3hng2VEcnTiXXVcBzs1q0QW5m_TwXQAb6xH8RVmC&gy=true&v1=false&brand_name=google&sc=&si=0&volume=13&dnt=false&dx=2392&locale=en_US&revision=shamu&ia=1519066041000&li=0&adr=0&os=6.0.1&v3=true&tz_offset=-8.0&network=wifi&platform=android&app_version=1.35.3&adnsd=560&build=63&installer_name=com.android.vending&brand=motorola&sdk_version=7.5.0&v2=true&vz=4416cff0ec90a717&hardware=shamu&model=Nexus+6"
+    }, 
+    "f858d4de-ae64-4e07-b001-7bc39b1e89b3": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/favicon.ico"
+    }, 
+    "fa2cd87c-4a2c-4eed-b701-b2cc991e418e": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11720000.1)", 
+            "x-requested-with": "com.fingersoft.hillclimb"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.fingersoft.hillclimb", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "1.35.3", 
+        "pii_types": [], 
+        "uri": "/mads/static/mad/sdk/native/sdk-core-v40-loader.html"
+    }, 
+    "fa8527e1-efbb-4e73-880c-6eecdcc33778": {
+        "ad": 1, 
+        "dst_ip": "172.217.11.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "googleads.g.doubleclick.net", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 (Mobile; afma-sdk-a-v11975430.11220000.1)", 
+            "x-afma-drt-cookie": "DSID=ADyxuksVhw8MT30CJo_6gOr26DepTYltLgDr5HYZWdzJ3fxL0ToKdpA0Z3cJtZsGO2pRzkk-yrdBADRUlKi24IUe_CFzmn7fRq_gzcoWcWCcc604RCqR86A"
+        }, 
+        "host": "googleads.g.doubleclick.net", 
+        "method": "GET", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.fingersoft.hillclimb", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/mads/gma?riv=3&_activity_context=true&format=468x60_as&gl=US&seq_num=13&eid=318475406%2C318479397%2C318479981%2C318480007%2C318478902&u_sd=3.5&ms=CpgECoACqwpupELTCP566IyrssmkmStJTqqHQEynIzj04TYbby6zF-7bkyt8MJBygdLio9PA1zR9CxKD9zU88Pja5iyQI8wd008AbRNm1EVuKzCwr4Wotzb6-1-BbTRpJF2mgp_hFzRo7gBLY2yhRhEJ0NhyZ3AQsy_yyqKfDL8JQpiSuo3rCtfmeX5uNndRlQYeOme-c-2w_gN-SaS98-R828QTOj0qa4ffU5EZzoVc1UZV8aoUq6ksml1sb4gavQ5_ko97GEACY0-Jr4l47feMopPnAByasuIMzrhHqpgz_50uY8onNS1R3mJcJD8IEPhZET9UIAz34Bhh3_ttFQFyxACEHwqAAvGgV7lOXWJypoURxFcE-0IU2SuHk-_OQ-xgBqlN40g1swaoB9B3QEZKzFK0WLTTkZ4VKuPO0pevS4S_0ifCY_iwM56RlnJHXqf5Wg5wBVZvkvaP1ji1C3ZwttnVxHCdYWe5Z_zkXuKdFAz7SwCrdB31E3QvPAXYmzkEUPyY-IMoazj7e5p6N1Wn9mjOACT5BLSYieJ8eSy4hRP36GCNGkLzWQ2CGXorfaiSNrtzdyDlLYEYOo4ZLTAn2eBeWgrMMl3LQvNCO0FFBfS5ImmPNJ-gXWAofWPNjS7qHQShgkdKOCEmE0vxNlLC-0_8RGPEaQZvEwGZlDEpzT2-iSXDpr0SELhceS5tRsm7DFK4yjwgMmISlQIKgALkvxB7tOH7Qy-o2beQ3vjfZrcpOoAmtI6ea1yHCWeu_dXU6aaxmOLUCBgj8cNB0iwJA_K-pOKQMLlGUtZlSYAsmEmO4eKpU3NQlAL2QNQOxYi2t36ys7sO2MDOEO9mAYPKr1He1MD2XvN_ap2X_GOJbRDBVa4tzAcuUm3NTNsLtNiLJvCZFvkIfBT_99gTLJowvv-R4aj4XXAeld5zMoP1X2HGOntjovRaIdSa-WjjKyDOkfWMScxMayyYgeovm5788WoH0wOarFyaDgPI6Jyghhq4QKAvPwD2SO9uPsvf8WN267_6IAKTYq6wN8m4uZByoJ295PIYnbqVtGFx7m3oEhBEOTb3Trsxzlx0f6TlEZ-C&target_api=25&hl=en&fbs_aiid=6a779a0c846a70344b686688c3d98d1f&scroll_index=-1&gmp_app_id=1%3A85871959687%3Aandroid%3Ad3c6e1675d3afffa&request_pkg=com.fingersoft.fsadsdk.advertising.providers.AdProviderAdmob&platform=motorola&submodel=Nexus%206&rm=2&android_app_muted=false&request_id=696a2aa6-242a-4982-a3b9-8e312611ec49&am=0&cnt=1&ma=1&disable_ml=false&js=afma-sdk-a-v11975430.11720000.1&session_id=4778917987385838136&muv=2&coh=1&sp=0&forceHttps=true&gnt=0&mv=80881200.com.android.vending&android_app_volume=1&fbs_aeid=-249576683081293456&android_num_video_cache_tasks=0&u_w=684&u_h=412&msid=com.fingersoft.hillclimb&app_name=177.android.com.fingersoft.hillclimb&_package_name=com.fingersoft.hillclimb&an=177.android.com.fingersoft.hillclimb&net=wi&u_audio=3&u_so=l&basets=947018357&currts=947060587&preqs_in_session=12&pclick=0&support_transparent_background=true&pimp=0&preqs=12&time_in_session=42230&output=html&region=mobile_app&u_tz=-480&client_sdk=1&ex=1&client=ca-app-pub-4731967106298980&slotname=4499633706&askip=2&gsb=wi&local_service=false&lite=false&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_gcache&bisch=true&blev=0.73&swdr=false&cans=5&canm=false&prlus=1248732&prdtb=839206&prutb=-1&ibctc=true&_mv=80881200.com.android.vending&pscfas=true&heap_free=8262376&heap_max=268435456&heap_total=42265520&wv_count=1&sai=1&mr=3117387603909093782%2C7694389549331812943%2C-3055612201590785437%2C-6507159669314906565&blockAutoClicks=true&_extra_string=gxijmmfdbewbxfecgoshqyncoygtfvvtadqjgivstjguryqdcrcztavwkqvwcnclidrgeqrzcgjclgqsdatgkenufqiexhcqveiilivqeodgsvxtmaklxxefowedawgaliuhmmrvhfjjaylzcznuircyqbrykzhmfcxicxaqnsqvprfwbsfamsvdstthnrudelpjtsrivvwvrakilyqdawdowelvmpdczahodpmmtyrmwydqjfjngigzlkwppbyzaxmvwrobyjstxrdfsdzzssgmatuumoyrdnuircozodxqyyyaoezqdeotktygrjiujkevwuafhdefuteeltmcunnpmqhvuitpjsphidodkrwfomsaloiiuqiwohlyvvdvpsdltoegymdfjqyzeygihcpzkceqktmajtpqdqdksrlaboievxasrzymquhcpqxtrroxxstyfoegcoulygbuqmcfiylcxxczwksurswpgvkfrjlmvoqi&includeDoritos=true&content_infol=-1&blob=ABPQqLEUdQBYcy0iPEyg-f1t7iocOhHjWHcIqUnCGs2YlJxegKZmmtsvCfUDjNB5mEsrdIcnRYu-EiikMVwLw5l1fjrWP92M9jsmXRvv50y2v1u0NYayVY2hPtEdFhXBdLcKQWaXQtvYaoCj5KvzBt6NRz5POJNWInhUlMB4SoZS34PNaABf99KyEvlGGAqhViv2pvDyQozFcQAbNT5Q5yNAh8m28kFD6Ozi2WoiVMs6u6srEMzSJiaKygmqQw&et=6&tcar=8&jsv=4-production-sdk_20180212_RC02&urll=3689"
+    }
+}

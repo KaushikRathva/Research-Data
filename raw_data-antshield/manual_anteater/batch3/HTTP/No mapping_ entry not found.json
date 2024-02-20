@@ -1,0 +1,53 @@
+{
+    "1489212987729,eba6a44b-0bea-43f8-9d7c-578237253ce4": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "F]\u00005\u0000-XS+\u0015\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0004live\nchartboost\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 18013, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489212987729"
+    }, 
+    "1489212987796,3a6adc81-3ebc-474a-95e2-db81c7b2fe82": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "_5\u00005\u0000)\n6:9\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0004data\u0006flurry\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 24373, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489212987796"
+    }, 
+    "1489213621500,2d11bb8c-7975-410b-b94e-d553159c59cc": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "\u046f\u00005\u0000<@\u23ea\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\rcdn-highwinds\bunityads\u0007unity3d\u0003com\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000", 
+        "protocol": "UDP", 
+        "scr_port": 53679, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489213621500"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1489463699329,64fc8d60-7643-456a-be0e-b6bff2cb8ee6": {
+        "domain": "", 
+        "dst_ip": "54.171.129.94", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "1083", 
+            "content-type": "application/json", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.jiubang.go.music", 
+        "package_version": "1.13.7", 
+        "pii_types": [
+            "IMEI", 
+            "AndroidId", 
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "[{\"device\":\"shamu\",\"installAttribution\":\"{\\\"af_message\\\":\\\"organic install\\\",\\\"af_status\\\":\\\"Organic\\\"}\",\"firstLaunchDate\":\"2017-03-13_2020-0700\",\"installDate\":\"2017-03-13_2000-0700\",\"sdk\":\"24\",\"carrier\":\"T-Mobile\",\"deviceFingerPrintId\":\"00000000-5ddb-cdcf-ffff-ffffc12bc0cc\",\"date1\":\"2017-03-13_2000-0700\",\"af_preinstalled\":\"false\",\"advertiserIdEnabled\":\"true\",\"appsflyerKey\":\"o6XxR94NFNcyL6NTzsUrRG\",\"iaecounter\":\"0\",\"lang_code\":\"en\",\"imei\":\"RECON_IMEI\",\"app_version_name\":\"1.13.7\",\"lang\":\"English\",\"timepassedsincelastlaunch\":\"2085\",\"android_id\":\"RECON_AndroidId\",\"advertiserId\":\"RECON_AdvertiserId\",\"isGaidWithGps\":\"true\",\"deviceType\":\"user\",\"af_v\":\"79a2bc9e2b40cfe2a7e5cff4f468fb6113943350\",\"app_version_code\":\"59\",\"af_events_api\":\"1\",\"network\":\"WIFI\",\"platformextension\":\"android_native\",\"operator\":\"\",\"country\":\"US\",\"brand\":\"google\",\"date2\":\"2017-03-13_2000-0700\",\"af_timestamp\":\"1489463698184\",\"uid\":\"1489460436339-2983348215881686178\",\"isFirstCall\":\"false\",\"fb\":\"390ba5df-76f5-4993-98ba-983dd899feb4\",\"product\":\"shamu\",\"model\":\"Nexus 6\",\"counter\":\"3\"}]", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 49421, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489463699329", 
+        "uri": "/api/v4/androidevent?buildnumber=6.0&app_id=com.jiubang.go.music", 
+        "user_agent": null
+    }, 
+    "1489463729458,27b86b5e-4cd9-4246-8061-8f16884a2027": {
+        "domain": "", 
+        "dst_ip": "52.48.128.90", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "308", 
+            "content-type": "application/json", 
+            "host": "stats.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "stats.appsflyer.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.jiubang.go.music", 
+        "package_version": "1.13.7", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "[{\"platform\":\"Android\",\"devkey\":\"o6XxR94NFNcyL6NTzsUrRG\",\"gcd_conversion_data_timing\":\"5\",\"statType\":\"user_closed_app\",\"time_in_app\":\"29\",\"app_id\":\"com.jiubang.go.music\",\"deviceFingerPrintId\":\"00000000-5ddb-cdcf-ffff-ffffc12bc0cc\",\"uid\":\"1489460436339-2983348215881686178\",\"channel\":null,\"launch_counter\":\"3\"}]", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 38923, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489463729458", 
+        "uri": "/stats", 
+        "user_agent": null
+    }
+}

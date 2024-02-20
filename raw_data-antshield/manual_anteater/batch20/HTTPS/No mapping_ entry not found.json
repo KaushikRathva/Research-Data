@@ -1,0 +1,36 @@
+{
+    "1489205855369,67b9a14f-cc48-4a0d-a5f2-f0799b19abc0": {
+        "domain": "", 
+        "dst_ip": "52.84.239.149", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept": "image/webp,image/*,*/*;q=0.8", 
+            "Accept-Encoding": "gzip, deflate", 
+            "Accept-Language": "en-US", 
+            "Connection": "keep-alive", 
+            "Host": "pagead2.googlesyndication.com", 
+            "Referer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html", 
+            "User-Agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 (Mobile; afma-sdk-a-v10298430.10084000.2)", 
+            "X-Requested-With": "com.walmart.android"
+        }, 
+        "host": "pagead2.googlesyndication.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html", 
+        "scr_port": 42664, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489205855369", 
+        "uri": "/pagead/gen_204?id=gmob-apps-activeview&event=scrollable-view-baseline&v=4-production-20170310_RC00&is_tos=false&zx=lcorgt9jwjb3", 
+        "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 (Mobile; afma-sdk-a-v10298430.10084000.2)"
+    }
+}

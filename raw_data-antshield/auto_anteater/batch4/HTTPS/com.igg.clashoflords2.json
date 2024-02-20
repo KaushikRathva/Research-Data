@@ -1,0 +1,38 @@
+{
+    "1489454221398,98298069-0079-435e-ac41-de9d11ca6436": {
+        "domain": "", 
+        "dst_ip": "52.214.43.168", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "787", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.igg.clashoflords2", 
+        "package_version": "1.0.201", 
+        "pii_types": [
+            "IMEI", 
+            "AndroidId", 
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "device=shamu&firstLaunchDate=2017-03-13_0617-0700&installDate=2017-03-13_0428-0700&sdk=24&carrier=T-Mobile&date1=2017-03-13_0428-0700&af_preinstalled=false&advertiserIdEnabled=true&iaecounter=1&appsflyerKey=WEYqZmRBi6ZmFww2esj28Y&lang_code=en&imei=RECON_IMEI&app_version_name=1.0.201&lang=English&timepassedsincelastlaunch=0&dkh=WEYqZmRB&android_id=RECON_AndroidId&advertiserId=RECON_AdvertiserId&appUserId=%7B%22g_id%22%3A%221034039902%22%7D&deviceType=user&af_v=a750e09291cde3dcd81c56e719f8319c16ccdcb5&app_version_code=1000201&network=WIFI&operator=&country=US&date2=2017-03-13_0428-0700&brand=google&af_timestamp=1489454219965&uid=1489447716537-2734769065447554586&isFirstCall=true&fb=c80f006f-f5b4-4f1e-9b43-28a14d25adfe&counter=1&product=shamu&model=Nexus+6", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 48257, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489454221398", 
+        "uri": "/api/v2.3/androidevent?buildnumber=1.17&app_id=com.igg.clashoflords2", 
+        "user_agent": null
+    }
+}

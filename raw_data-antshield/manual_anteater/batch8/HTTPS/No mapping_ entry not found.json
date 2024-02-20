@@ -1,0 +1,68 @@
+{
+    "1489004718074,4456cf18-6a95-4424-892f-cb233658633f": {
+        "domain": "", 
+        "dst_ip": "54.230.145.111", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Client-SDK": "android4.11.0", 
+            "Connection": "Keep-Alive", 
+            "Host": "app.adjust.com", 
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "app.adjust.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 38722, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489004718074", 
+        "uri": "/attribution?needs_response_details=1&gps_adid=RECON_AdvertiserId&app_token=dsabnxhp603k&environment=production&created_at=2017-03-08T12:25:12.706Z-0800&event_buffering_enabled=0&attribution_deeplink=1&tracking_enabled=1&sent_at=2017-03-08T12:25:17.692Z-0800", 
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)"
+    }, 
+    "1489005225041,7890c01a-c6e9-46ba-84e2-55d2af359522": {
+        "domain": "", 
+        "dst_ip": "178.162.216.179", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept-Encoding": "gzip", 
+            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJtYXJjb3BvbG8ubWUiLCJ1IjoiMS54ay1qLWFrZlIzbWw2WUxBeUJDSDBBIiwiZCI6IjEueGstai1ha2ZSM21sNllMQXlCQ0gwQSIsImV4cCI6MTQ4OTAwODQ0Nn0.s2-cTbFtBE6J-Asv2U-FAbsWqIPbMNRqtJSLfot-TEI", 
+            "Connection": "Keep-Alive", 
+            "Content-Length": "203187", 
+            "Content-Type": "image/jpeg", 
+            "Host": "marcopolo.me", 
+            "User-Agent": "okhttp/3.4.2"
+        }, 
+        "host": "marcopolo.me", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 38706, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489005225041", 
+        "uri": "/api/v4/images/1.b0r-lwvqRvabsMsxChNcFg", 
+        "user_agent": "okhttp/3.4.2"
+    }
+}

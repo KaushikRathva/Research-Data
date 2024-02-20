@@ -1,0 +1,62 @@
+{
+    "1489371194110,03a63b0a-2061-4349-b73e-2c2bc7f2807e": {
+        "domain": "", 
+        "dst_ip": "216.58.216.38", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ad.doubleclick.net", 
+            "user-agent": "GoogleTagManager/4.00 (Linux; U; Android 7.0; en-us; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "ad.doubleclick.net", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.google.android.apps.youtube.music", 
+        "package_version": "1.66.2", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 48738, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489371194110", 
+        "uri": "/ddm/activity/src=2542116;type=ytmusic;cat=youtu00c;ord=1;num=8692554923024;dc_muid=C8E0F67E405DD17099D838FBC37295BB;dc_lat=0", 
+        "user_agent": null
+    }, 
+    "1489371194208,82129d25-f884-41a8-982a-22ef4e302031": {
+        "domain": "", 
+        "dst_ip": "216.58.216.38", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "ad.doubleclick.net", 
+            "user-agent": "GoogleTagManager/4.00 (Linux; U; Android 7.0; en-us; Nexus 6 Build/NBD91Y)"
+        }, 
+        "host": "ad.doubleclick.net", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.google.android.apps.youtube.music", 
+        "package_version": "1.66.2", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 48738, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489371194208", 
+        "uri": "/ddm/activity/src=2542116;type=ytmusic;cat=youtu008;ord=3164264216808;dc_muid=C8E0F67E405DD17099D838FBC37295BB;dc_lat=0", 
+        "user_agent": null
+    }
+}

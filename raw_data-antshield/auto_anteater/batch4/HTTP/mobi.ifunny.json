@@ -1,0 +1,34 @@
+{
+    "1489455274300,200cc803-e592-44bf-bfdd-e9117d7c3df9": {
+        "domain": "", 
+        "dst_ip": "52.86.237.132", 
+        "dst_port": 80, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "accept-language": "en_US", 
+            "connection": "Keep-Alive", 
+            "host": "geoip.ifunny.co", 
+            "user-agent": "iFunny/4.6.4 android/7.0 (google; Nexus 6; motorola)"
+        }, 
+        "host": "geoip.ifunny.co", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "mobi.ifunny", 
+        "package_version": "4.6.4", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTP", 
+        "referrer": null, 
+        "scr_port": 37537, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489455274300", 
+        "uri": "/", 
+        "user_agent": null
+    }
+}

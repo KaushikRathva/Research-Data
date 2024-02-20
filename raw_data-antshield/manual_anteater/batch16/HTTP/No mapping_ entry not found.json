@@ -1,0 +1,36 @@
+{
+    "1488925681544,c90fb17c-d956-47ff-8c8d-390e8401c344": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "kz\u00005\u0000(\u001d \u0015u\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0003rpc\u0006tapjoy\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 27514, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488925681544"
+    }, 
+    "1488927198930,548c6f10-4c06-4d48-813b-d8e9cb6e2b44": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "\u0013h\u00005\u0000-^\u000bs\u000b\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u000fapp-measurement\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 4968, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1488927198930"
+    }
+}

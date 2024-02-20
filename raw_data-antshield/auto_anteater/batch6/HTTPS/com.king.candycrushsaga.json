@@ -1,0 +1,38 @@
+{
+    "1489367315735,a62757f6-271a-4c55-9f8a-5b7bd1224ace": {
+        "domain": "", 
+        "dst_ip": "54.192.143.63", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "adtrack1.midasplayer.com", 
+            "referer": "https://play.king.com/install?installId=MOIDc7d61972f5cd5582c94671d6f7f25f38&installFlavourId=80017&deviceId=RECON_AdvertiserId&deviceIdLimited=true&noRedirect=true", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36", 
+            "x-requested-with": "com.king.candycrushsaga"
+        }, 
+        "host": "adtrack1.midasplayer.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "com.king.candycrushsaga", 
+        "package_version": "1.94.0.3", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 48521, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489367315735", 
+        "uri": "/js/jquery.min.js", 
+        "user_agent": null
+    }
+}

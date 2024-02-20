@@ -1,0 +1,1358 @@
+{
+    "01ca4017-03cd-40c9-b8be-b76c9913e086": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "771", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "0448b8f6-6514-409e-8718-91375ac4bf82": {
+        "ad": 0, 
+        "dst_ip": "52.51.180.32", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "802", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "t.appsflyer.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "t.appsflyer.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "IMEI", 
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/api/v3/androidevent?buildnumber=3.2&app_id=com.estrongs.android.pop"
+    }, 
+    "05050311-7b54-4baf-81be-31e132c60476": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=10031&sType=native&dllv=normal&pk="
+    }, 
+    "055ea404-a9bc-4429-80ad-0612775d79f1": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=128871&sType=native&dllv=normal&pk="
+    }, 
+    "13592151-4e3d-4066-87c6-4e558d9d5b7a": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "771", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "143b1f03-8721-4974-890c-f497ffedf8f8": {
+        "ad": 0, 
+        "dst_ip": "123.125.114.8", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "456", 
+            "content-type": "gzip", 
+            "host": "hmma.baidu.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "hmma.baidu.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/app.gif"
+    }, 
+    "148a8825-2973-4258-988e-145b7a8079de": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "771", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "16f0cc0a-667e-41ca-874b-3df38f2fe701": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/app_folder?v=127562&t=1"
+    }, 
+    "181575f1-6cdc-4f2b-8032-8d8205ffe6d5": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.87", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "conf.international.baidu.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "conf.international.baidu.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/index.php/Sample/getConf?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "1a7d005d-921a-4844-a70e-fda3a0a5d634": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/channel?l=en&s=1"
+    }, 
+    "1b744183-3e60-4560-b6b5-72ebb064a5c0": {
+        "ad": 0, 
+        "dst_ip": "23.75.30.218", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "sb.scorecardresearch.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "sb.scorecardresearch.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/beacon.js"
+    }, 
+    "1f5a4b52-fb16-4a8b-a22f-73f7be8bbd5d": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "update.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "update.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/up?id=1&l=en_us&channel="
+    }, 
+    "35ba5a5a-1655-4ac3-8e22-3fa7e309847c": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=128871&sType=native&dllv=normal&pk="
+    }, 
+    "35ff1cbc-ffc1-4b53-b41e-cf370565a8ea": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "36436b21-e94f-4a7e-a43d-bfe2dc31ee1a": {
+        "ad": 0, 
+        "dst_ip": "151.101.2.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.howtogeek.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.howtogeek.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/wp-content/uploads/2016/09/xIMG_9559-650x300.jpg.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.WKDvM7olC6.jpg"
+    }, 
+    "3a403aff-8170-46f2-8f96-07b1bd1ca6b3": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.87", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "conf.international.baidu.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "conf.international.baidu.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/index.php/Sample/getConf?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "3cc09b7a-a317-45f9-b994-c59932b5d4f9": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "771", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "4857c660-dd0d-4c9b-8011-31f5d731bbd2": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/channel?l=en&s=1"
+    }, 
+    "4adf432f-12a9-47e9-ad05-6ea124087f9b": {
+        "ad": 0, 
+        "dst_ip": "151.101.2.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.howtogeek.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.howtogeek.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/wp-content/uploads/px/271519/blank.gif?1519006578"
+    }, 
+    "4ecde748-33c8-4ea6-94f6-89a5337c25ad": {
+        "ad": 0, 
+        "dst_ip": "151.101.2.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.howtogeek.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.howtogeek.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/public/images/xnewlogo.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.rURVu-LLyC.png"
+    }, 
+    "515676b9-6e42-4e4c-a981-96389703df56": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "connection": "Keep-Alive", 
+            "content-length": "34", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "common.duapps.com", 
+            "user-agent": "dianxinos-user-agent"
+        }, 
+        "host": "common.duapps.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/appLock/getConf?tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&sdk=23&dpi=560&vn=4.1.7.1.14&locale=en_US&h=2392&w=1440&ntt=WIFI&lc=4D48eD0o1S2mLizu&v=626&signmd5=1049395242&pkg=com.estrongs.android.pop&vendor=motorola&model=Nexus+6&module=swipe"
+    }, 
+    "525f09f9-c443-419d-9951-8a84c08d19e2": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getSrcPrio?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&sid=11718%2C10031%2C131992%2C16292%2C128871%2C130538%2C16293%2C10336%2C134506%2C134507%2C134508%2C136848%2C137168%2C137169%2C137068%2C16290%2C16291%2C139149%2C139150%2C139134&res=1080*460%2C244*244%2C170*170%2C108*108&pk="
+    }, 
+    "52ab61f1-0505-492c-8e93-c77638e70059": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=16290&sType=native&dllv=normal&pk="
+    }, 
+    "5304cfe7-7c92-453e-80db-c24e66a8e1e0": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "558e33f2-a18b-43ed-8099-fa5807d2b6e3": {
+        "ad": 0, 
+        "dst_ip": "64.95.32.21", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "pixel.quantserve.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "pixel.quantserve.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/pixel;r=144780058;rf=0;a=p-e1gWzoEHleH1I;url=https%3A%2F%2Fwww.howtogeek.com%2F271519%2Fhow-to-fix-the-screen-overlay-detected-error-on-android%2F;fpan=1;fpa=P0-989476798-1519006618645;ns=0;ce=1;cm=;ref=;je=0;sr=412x732x24;enc=n;dst=1;et=1519006618642;tzo=480;ogl=title.How%20to%20Fix%20the%20%E2%80%9CScreen%20Overlay%20Detected%E2%80%9D%20Error%20on%20Android%2Ctype.article%2Cdescription.Starting%20with%20Android%20Marshmallow%252C%20there%E2%80%99s%20a%20curious%20error%20that%20sometimes%20shows%20%2Cimage.https%3A%2F%2Fwww%252Ehowtogeek%252Ecom%2Fthumbcache%2F648%2F248%2F3c7d6212d3ae43eebf7bffb746fb6c53%2Fwp%2Curl.https%3A%2F%2Fwww%252Ehowtogeek%252Ecom%2F271519%2Fhow-to-fix-the-screen-overlay-detected-error-on"
+    }, 
+    "5a78a9c9-a15a-4854-a7b9-7c4c6044d6fd": {
+        "ad": 1, 
+        "dst_ip": "172.217.14.66", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "pagead2.googlesyndication.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "pagead2.googlesyndication.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/pagead/js/adsbygoogle.js"
+    }, 
+    "5d0b5935-e2c4-4037-bd87-b012f285888f": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "771", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "5d6e6b3f-bc07-4982-9260-c05c4b94b6e0": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "6571503a-6f4e-4f5d-b369-1e0e83aa8b1b": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept": "application/json", 
+            "connection": "Keep-Alive", 
+            "content-length": "0", 
+            "content-type": "application/json", 
+            "host": "www.estrongs.com"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/msgbox/list/"
+    }, 
+    "6a9104f3-3ba6-4e8b-b0f5-f24cd07a9fce": {
+        "ad": 0, 
+        "dst_ip": "23.75.30.218", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "sb.scorecardresearch.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "sb.scorecardresearch.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/b?c1=2&c2=6035753&ns__t=1519006618600&ns_c=UTF-8&cv=3.1m&c8=How%20to%20Fix%20the%20%E2%80%9CScreen%20Overlay%20Detected%E2%80%9D%20Error%20on%20Android&c7=https%3A%2F%2Fwww.howtogeek.com%2F271519%2Fhow-to-fix-the-screen-overlay-detected-error-on-android%2F&c9="
+    }, 
+    "6aeb5ab8-4e3a-4175-87ba-a39f3efd1b84": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "6bfe43c9-d598-4dc0-9784-13cea14cae1d": {
+        "ad": 0, 
+        "dst_ip": "172.217.12.36", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-type": "application/binary", 
+            "host": "www.google.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "GoogleMobile/1.0"
+        }, 
+        "host": "www.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/loc/m/api"
+    }, 
+    "6fc09def-6206-4247-a7b2-f184c77fe04b": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=130538&sType=native&dllv=normal&pk="
+    }, 
+    "7219564b-1c65-4615-81c9-8e32b47d4a48": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=11718&sType=native&dllv=normal&pk="
+    }, 
+    "79cd2c2a-c453-49cd-a7dc-9adee1b2e9da": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "771", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "7a77ecb6-0702-46d4-a503-40b5c3320145": {
+        "ad": 0, 
+        "dst_ip": "151.101.2.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.howtogeek.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.howtogeek.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/pagespeed_static/1.JiBnMqyl6S.gif"
+    }, 
+    "7b203246-7826-447e-bea6-6f9db94a7451": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/fetchConfig?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&sid=&res=1080*460%2C244*244%2C170*170%2C108*108"
+    }, 
+    "8168c916-3523-4e5d-a8bf-16b753b93c36": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "717", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "8c68eca9-89ca-4371-950e-c00694553a8b": {
+        "ad": 0, 
+        "dst_ip": "151.101.2.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "cookie": "_ga=GA1.2.1188981624.1519006618; _gid=GA1.2.619446302.1519006618; _gat=1; __qca=P0-989476798-1519006618645", 
+            "host": "www.howtogeek.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.howtogeek.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/wp-content/uploads/2016/09/xScreenshot_20160913-130521.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.cpY2D5h1UA.png"
+    }, 
+    "95c9e67a-8069-4780-bcf6-e46eefa15655": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "771", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "96117682-84e2-4ef2-8456-eb4e48c0efca": {
+        "ad": 0, 
+        "dst_ip": "172.217.11.78", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google-analytics.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.google-analytics.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/r/collect?v=1&_v=j66&a=2081604279&t=pageview&_s=1&dl=https%3A%2F%2Fwww.howtogeek.com%2F271519%2Fhow-to-fix-the-screen-overlay-detected-error-on-android%2F&ul=en-us&de=UTF-8&dt=How%20to%20Fix%20the%20%E2%80%9CScreen%20Overlay%20Detected%E2%80%9D%20Error%20on%20Android&sd=24-bit&sr=412x732&vp=412x612&je=0&_u=IEBAAAAB~&jid=531288673&gjid=781609840&cid=1188981624.1519006618&tid=UA-1113647-1&_gid=619446302.1519006618&_r=1&z=1665735888"
+    }, 
+    "97c57184-065f-428c-a226-d7ec7356d1ec": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "9d9f21c7-6016-4f5f-abe6-4593a7337767": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.87", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "conf.international.baidu.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "conf.international.baidu.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/index.php/Sample/getConf?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "a118635c-c341-491c-b57e-c92cd221c049": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "a4b1f0d1-d3f3-4393-986e-b202afeb0a12": {
+        "ad": 0, 
+        "dst_ip": "151.101.2.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "cookie": "_ga=GA1.2.1188981624.1519006618; _gid=GA1.2.619446302.1519006618; _gat=1; __qca=P0-989476798-1519006618645", 
+            "host": "www.howtogeek.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.howtogeek.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/public/favicon.ico"
+    }, 
+    "a57f881d-b4af-4218-a73f-e994dfcfaa03": {
+        "ad": 0, 
+        "dst_ip": "151.101.2.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.howtogeek.com", 
+            "upgrade-insecure-requests": "1", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.howtogeek.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/271519/how-to-fix-the-screen-overlay-detected-error-on-android/"
+    }, 
+    "a842336a-4aa7-40f8-a7ff-b170101b1149": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=10336&sType=native&dllv=normal&pk="
+    }, 
+    "ac40c9f7-c19a-42aa-8e83-7562126d9805": {
+        "ad": 0, 
+        "dst_ip": "23.75.30.218", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "cookie": "UID=1EB18487a19590a17ed75071519006618; UIDR=1519006618", 
+            "host": "sb.scorecardresearch.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "sb.scorecardresearch.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/b2?c1=2&c2=6035753&ns__t=1519006618600&ns_c=UTF-8&cv=3.1m&c8=How%20to%20Fix%20the%20%E2%80%9CScreen%20Overlay%20Detected%E2%80%9D%20Error%20on%20Android&c7=https%3A%2F%2Fwww.howtogeek.com%2F271519%2Fhow-to-fix-the-screen-overlay-detected-error-on-android%2F&c9="
+    }, 
+    "b52b9979-687b-4d92-bfd6-c61c9dec71f4": {
+        "ad": 0, 
+        "dst_ip": "172.217.11.78", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "www.google-analytics.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.google-analytics.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/analytics.js"
+    }, 
+    "b686c631-13f3-46d6-a0dd-7cdb0db88116": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "bd5f2c3f-9126-4ee5-813d-8516f232badb": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.87", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "conf.international.baidu.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "conf.international.baidu.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/index.php/Sample/getConf?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "bfe503aa-cbae-4d3d-b127-d0e225ba60bc": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.87", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "conf.international.baidu.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "conf.international.baidu.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/index.php/Sample/getConf?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "c57b046e-d918-4d8c-a6a1-ed78bb70f2ae": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "c64fb051-1f8e-439c-8df9-0c26548c5d00": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "c8c54314-8ea6-4a99-a40a-f74cde966802": {
+        "ad": 0, 
+        "dst_ip": "115.239.211.176", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "1206", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "pasta.esfile.duapps.com", 
+            "user-agent": "DXCoreServiceToken"
+        }, 
+        "host": "pasta.esfile.duapps.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/api/tokens?tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&sv=hw-2.4.0"
+    }, 
+    "cbc12c90-9cf9-44ed-8d3e-f93f80a994ec": {
+        "ad": 0, 
+        "dst_ip": "64.95.32.46", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "host": "secure.quantserve.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "secure.quantserve.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/quant.js"
+    }, 
+    "d6777262-1c3f-47e2-ba99-fa21988c226e": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.129", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "www.estrongs.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "www.estrongs.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/console/service/sample/index.php?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "d688ace3-af80-4aeb-bc3f-9a1fb1daf725": {
+        "ad": 1, 
+        "dst_ip": "157.240.3.19", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-charset": "UTF-8", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "771", 
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8", 
+            "host": "graph.facebook.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X) [FBAN/AudienceNetworkForAndroid;FBSN/Android;FBSV/6.0.1;FBAB/com.estrongs.android.pop;FBAV/4.1.7.1.14;FBBV/626;FBVS/4.23.0;FBLC/en_US]"
+        }, 
+        "host": "graph.facebook.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Advertiser ID"
+        ], 
+        "uri": "/network_ads_common"
+    }, 
+    "dbd54a6d-36dc-4726-be8b-5bf34cf3ba41": {
+        "ad": 1, 
+        "dst_ip": "104.193.88.125", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "api.mobula.sdk.duapps.com", 
+            "if-modified-since": "Thu, 01 Jan 1970 00:00:00 GMT", 
+            "user-agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18"
+        }, 
+        "host": "api.mobula.sdk.duapps.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/adunion/slot/getDlAd?h=2392&w=1440&model=Nexus+6&vendor=motorola&sdk=23&dpi=560&sv=1.1.1.6&svn=SELF-1.1.1.6&pkg=com.estrongs.android.pop&v=626&vn=4.1.7.1.14&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&goid=RSB_nWD1uW61uynVuH-hmzYYn1-WQy7WmvmVPymsrHwBPWD3rjfv&locale=en_US&ntt=WIFI&ls=e65e2b83c7b1752f00d73335f0a4d238&aid=xxxxxxxxxxxxxxxx&play=1&res=1080*460%2C244*244%2C170*170%2C108*108&ps=20&pn=1&sid=16291&sType=native&dllv=normal&pk="
+    }, 
+    "df519d8d-e5d1-4c35-8a6a-db09a2cef0a5": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.87", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "conf.international.baidu.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "conf.international.baidu.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/index.php/Sample/getConf?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "e163902c-cb77-40c4-ae7e-2a5f39d2b81f": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.87", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "identity", 
+            "cache-control": "no-cache", 
+            "connection": "Keep-Alive", 
+            "host": "conf.international.baidu.com", 
+            "pragma": "no-cache", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "conf.international.baidu.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/index.php/Sample/getConf?source=ESF&country=us&unique_id=vQzvCmFtDaEQWnaKMmWl2A=="
+    }, 
+    "ecc0d6cd-8b05-40c6-b38c-bf760f1cf53b": {
+        "ad": 0, 
+        "dst_ip": "103.235.46.151", 
+        "dst_port": 80, 
+        "headers": {
+            "accept": "*/*", 
+            "accept-encoding": "gzip, deflate", 
+            "connection": "Keep-Alive", 
+            "content-length": "34", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "common.duapps.com", 
+            "user-agent": "dianxinos-user-agent"
+        }, 
+        "host": "common.duapps.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/appLock/getConf?tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&sdk=23&dpi=560&vn=4.1.7.1.14&locale=en_US&h=2392&w=1440&ntt=WIFI&lc=4D48eD0o1S2mLizu&v=626&signmd5=1049395242&pkg=com.estrongs.android.pop&vendor=motorola&model=Nexus+6&module=lockscreen"
+    }, 
+    "f535202a-f9e9-455c-9957-31c3df4d831d": {
+        "ad": 0, 
+        "dst_ip": "151.101.2.15", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "image/webp,image/apng,image/*,*/*;q=0.8", 
+            "accept-encoding": "gzip, deflate", 
+            "accept-language": "en-US", 
+            "connection": "keep-alive", 
+            "cookie": "_ga=GA1.2.1188981624.1519006618; _gid=GA1.2.619446302.1519006618; _gat=1; __qca=P0-989476798-1519006618645", 
+            "host": "www.howtogeek.com", 
+            "referer": "https://www.howtogeek.com/271519/how-to-fix-the-screen-overlay-detected-error-on-android/", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36", 
+            "x-requested-with": "com.estrongs.android.pop"
+        }, 
+        "host": "www.howtogeek.com", 
+        "method": "GET", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/wp-content/uploads/2016/09/xScreenshot_20160913-130233.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.uzOVXE0C3r.png"
+    }, 
+    "fb6d4183-64fe-4727-b7dc-586a09cbc36d": {
+        "ad": 0, 
+        "dst_ip": "115.239.211.176", 
+        "dst_port": 80, 
+        "headers": {
+            "connection": "Keep-Alive", 
+            "content-length": "2025", 
+            "host": "pasta.esfile.duapps.com", 
+            "token": "7b899b32bd4959d7ccebafd26333ce1a4ad497166798c681ebf5d155e10b99fa", 
+            "user-agent": "DXCoreService"
+        }, 
+        "host": "pasta.esfile.duapps.com", 
+        "method": "POST", 
+        "package_name": "com.estrongs.android.pop", 
+        "package_responsible": "com.estrongs.android.pop", 
+        "package_version": "4.1.7.1.14", 
+        "pii_types": [], 
+        "uri": "/api/data?token=7b899b32bd4959d7ccebafd26333ce1a4ad497166798c681ebf5d155e10b99fa&tk=vQzvCmFtDaEQWnaKMmWl2A%3D%3D&sv=hw-2.4.0"
+    }
+}

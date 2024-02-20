@@ -1,0 +1,36 @@
+{
+    "1489179187879,67015852-5ab9-4e70-8fdc-f167e20f16eb": {
+        "domain": "", 
+        "dst_ip": "216.58.217.202", 
+        "dst_port": 443, 
+        "headers": {
+            "Accept": "image/webp,image/*,*/*;q=0.8", 
+            "Accept-Encoding": "gzip, deflate", 
+            "Accept-Language": "en-US", 
+            "Connection": "keep-alive", 
+            "Host": "www.facebook.com", 
+            "Referer": "https://www.facebook.com/", 
+            "User-Agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36", 
+            "X-Requested-With": "com.qisiemoji.inputmethod"
+        }, 
+        "host": "www.facebook.com", 
+        "is_foreground": false, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "GET", 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": null, 
+        "protocol": "HTTPS", 
+        "referrer": "https://www.facebook.com/", 
+        "scr_port": 44847, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489179187879", 
+        "uri": "/favicon.ico", 
+        "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD91Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36"
+    }
+}

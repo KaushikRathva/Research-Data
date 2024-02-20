@@ -1,0 +1,1296 @@
+{
+    "0883612d-eb75-41c3-b324-1013407c0978": {
+        "ad": 0, 
+        "dst_ip": "52.206.238.103", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Pre_Level?AgeVerified=TRUE&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=0&TimeSinceAd=59&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=0&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "0a2f8fc5-4178-4a32-a2db-ba50c6c6ea63": {
+        "ad": 0, 
+        "dst_ip": "23.205.119.17", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "cdn.skum.eamobile.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "cdn.skum.eamobile.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/"
+    }, 
+    "27993d06-8308-4cbc-ace9-76d3680f5263": {
+        "ad": 0, 
+        "dst_ip": "52.206.238.103", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Post_Level/?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=1&TimeSinceAd=24&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=2&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "32152880-5456-4d21-b325-b4badc16f2ec": {
+        "ad": 0, 
+        "dst_ip": "216.58.216.46", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.ea.game.pvzfree_row", 
+            "authorization": "AidLogin 4032520503881453394:3188291258218371167", 
+            "connection": "Keep-Alive", 
+            "content-length": "217", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-ver": "11975430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "32650b43-3b4e-460b-a985-ec37cb92ff27": {
+        "ad": 0, 
+        "dst_ip": "52.206.238.103", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Pre_Level?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=3&TimeSinceAd=13&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=4&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "367a40d5-6554-4171-9ce9-3973efab57f4": {
+        "ad": 0, 
+        "dst_ip": "34.207.18.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "696", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "3707ba3e-ebf9-4463-92de-1c55d7a2238b": {
+        "ad": 1, 
+        "dst_ip": "149.174.66.136", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "97", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "3c194c95-95a3-458a-8a0e-870721f13eda": {
+        "ad": 0, 
+        "dst_ip": "52.206.238.103", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Pre_Level/?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=3&TimeSinceAd=13&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=4&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "3c80e6cf-91e1-426f-b94a-dc3a86e1a1df": {
+        "ad": 0, 
+        "dst_ip": "34.230.131.240", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Post_Level/?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=2&TimeSinceAd=93&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=3&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "3e874995-ac76-4f05-8c30-31577d79b512": {
+        "ad": 0, 
+        "dst_ip": "34.192.150.145", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "14721", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "40e42e4a-1a60-475a-a37e-12907f37a9bb": {
+        "ad": 0, 
+        "dst_ip": "52.206.238.103", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Post_Level?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=1&TimeSinceAd=24&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=2&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "4342f818-9a03-4530-a55b-6a3604eedcc8": {
+        "ad": 0, 
+        "dst_ip": "52.206.107.153", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "Basic YzlhYjc4YzktZWFiZi00OGE0LTlhODItY2JkYzUzNGZmYzEzOjg0ZTA5ODk4LWZjYTMtNDkyNi05NWZkLTAyMGVmYTNlMDFmMw==", 
+            "connection": "Keep-Alive", 
+            "content-length": "482", 
+            "content-type": "application/json; charset=UTF-8", 
+            "host": "pn.tnt-ea.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "pn.tnt-ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/rest/v1/games/55439/devices"
+    }, 
+    "43fec5b5-3790-4e54-9c98-9da9f4511bdf": {
+        "ad": 0, 
+        "dst_ip": "54.88.30.134", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Session_Start/?AgeVerified=TRUE&Country=US&Currency=&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=0&TimeSinceAd=0&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=0&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "4781201a-c48a-44f1-9936-4457c8342c21": {
+        "ad": 0, 
+        "dst_ip": "34.198.139.205", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "14721", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "4a0b9314-d8d4-40b9-9ba4-65c77a3d4a89": {
+        "ad": 0, 
+        "dst_ip": "52.6.89.154", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "1283", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "50b12223-ef54-44dd-9543-b043362bab05": {
+        "ad": 1, 
+        "dst_ip": "149.174.66.136", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "97", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "518a851e-714e-4bb0-a276-589f252e38ee": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.212", 
+        "dst_port": 80, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "rs-xpromotion.appspot.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rs-xpromotion.appspot.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/v1/getPromoDataByTitle?titleId=com.ea.game.pvzfree_row&lang=en-US"
+    }, 
+    "53c14636-85c4-4641-be88-7fa3fc54f0af": {
+        "ad": 0, 
+        "dst_ip": "34.198.139.205", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "14721", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "594c4c4e-59cb-4556-9d8a-6c515f86a527": {
+        "ad": 0, 
+        "dst_ip": "52.20.163.222", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "Basic YzlhYjc4YzktZWFiZi00OGE0LTlhODItY2JkYzUzNGZmYzEzOjg0ZTA5ODk4LWZjYTMtNDkyNi05NWZkLTAyMGVmYTNlMDFmMw==", 
+            "connection": "Keep-Alive", 
+            "content-length": "482", 
+            "content-type": "application/json; charset=UTF-8", 
+            "host": "pn.tnt-ea.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "pn.tnt-ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/rest/v1/games/55439/devices"
+    }, 
+    "5b3d149a-8f7f-4b49-af75-86a53aaf15f4": {
+        "ad": 0, 
+        "dst_ip": "34.198.139.205", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "14721", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "5d13ccbb-5cc3-416b-bda7-d0dc76ea0784": {
+        "ad": 0, 
+        "dst_ip": "34.207.18.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "696", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "5e8e5a86-ae27-4adc-912b-5f5781604a11": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.202", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "authorization": "Bearer ya29.GokBawXWZeJ_n9Ivuz7g9tC_sLne2qmff486SnXBBbvCpWRjmo_dgPXJefjQVuQ1-2mLA48NmLLv3dd_qsa7Zy-ijxtD3Xyq1WQh0FFty2mVSEHXpVTp7MJ5gTitIovQHSvYlH0d8tCdliPE0ggrefEZsU6IeQuGFCUab5r1IwUqgeUoRkEJJw4Uky4", 
+            "connection": "Keep-Alive", 
+            "content-encoding": "gzip", 
+            "content-type": "application/x-gzip", 
+            "cookie": "NID=124=pIUgPz3fXSfIKIaIT8KFxatIeQSfr3X5lNDbFBw5i93Fxh_QDlnEB7ovwf3kuRAortId_4kBX4rBpAl3DtdFj8QmFYXRRTgK86xVK7QJr8VygCX53ZolfBdrngF8fzfo", 
+            "host": "play.googleapis.com", 
+            "transfer-encoding": "chunked", 
+            "user-agent": "Android/com.google.android.gms/11975430 (shamu MMB29X); gzip", 
+            "x-server-token": "CAESKQDyi0h8mE6UwFC9l0_C0EMJJXqAgufyKGLbHYztqhF_YqlMk55y3I3c"
+        }, 
+        "host": "play.googleapis.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/log/batch"
+    }, 
+    "6948f522-b0bf-42d2-9fdc-07e2962a2322": {
+        "ad": 1, 
+        "dst_ip": "149.174.66.136", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "97", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "6e36872c-ae23-4d4c-bde8-6cc9b29121e9": {
+        "ad": 0, 
+        "dst_ip": "34.230.131.240", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Post_Level/?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=3&TimeSinceAd=202&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=4&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "6fa8378c-e9b1-49ff-9134-748c5fee886d": {
+        "ad": 0, 
+        "dst_ip": "34.198.139.205", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "14721", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "729103a8-e975-4b46-9e17-fc60113ff851": {
+        "ad": 0, 
+        "dst_ip": "72.21.81.42", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "static-www.ecs.popcap.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "static-www.ecs.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/mobile_interstitials/Hit_Point/PvZ/ConfigFileV28.json"
+    }, 
+    "77684235-5b59-46d6-95cf-3ca20636b606": {
+        "ad": 0, 
+        "dst_ip": "34.207.18.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "823", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "7a8e6cd5-c7a0-4e10-b370-9399b8f7bc00": {
+        "ad": 1, 
+        "dst_ip": "52.49.90.149", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "host": "init.supersonicads.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "init.supersonicads.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/sdk/v6.7.2?request=hQGt9%2FzrQgwt08o2NyGmBwC2UKoyRCOnKEdotLYIb9VGx37jLz0pc8yLyN25I5LwNoQ%2F33t3lCt1RbieeRzMpI41uAx2X%2BH55pzQIzeZt8B%2F7jywZEPUp0VVJ%2FZbSiRJDkOyUmG9LztPv63rxzoCKnqsOdHNyO90vjN4Ozf4vWd4yfq0zxx2O65BdEjufdluWFtA%2FgKGmaa8y3gitQQ0in0yLFxG5hu2pnvWDnLT6s2MRvAwKtl0BJckvpkdAgq4PB4FpofKzvbkJSy8wl5NXg%3D%3D"
+    }, 
+    "7d956b24-f1d5-4d8d-840a-b98beef7af4d": {
+        "ad": 0, 
+        "dst_ip": "52.204.137.102", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-type": "application/json", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "host": "product.sn.eamobile.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "product.sn.eamobile.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/product/api/core/getAvailableItems?deviceLanguage=en&localization=en&masterSellId=868476&sdkVer=1.23.8.1124&langCode=en&uid=11308742505&appVer=2.1.00&hwId=13264&typeSubstr=1&deviceLocale=en_US&appLang=en&apiVer=1.0.0&ver=2.1.00"
+    }, 
+    "9293ed29-cf2a-48f7-b91a-05dbe39b918e": {
+        "ad": 1, 
+        "dst_ip": "149.174.66.136", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "97", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "94d8138e-fa48-4abd-ab7c-ec4e552cda90": {
+        "ad": 0, 
+        "dst_ip": "35.170.224.234", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "14721", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "a43b9ab1-acc8-4a2d-a989-564ce5e0ab25": {
+        "ad": 0, 
+        "dst_ip": "216.58.216.46", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.ea.game.pvzfree_row", 
+            "authorization": "AidLogin 4032520503881453394:3188291258218371167", 
+            "connection": "Keep-Alive", 
+            "content-length": "217", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "gcm-ver": "11975430", 
+            "host": "android.clients.google.com", 
+            "user-agent": "Android-GCM/1.5 (shamu MMB29X)"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/c2dm/register3"
+    }, 
+    "a59e5b4d-aea5-4544-8d9b-63f2bfa4e5b3": {
+        "ad": 0, 
+        "dst_ip": "52.72.180.172", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-type": "application/json", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "host": "user.sn.eamobile.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "user.sn.eamobile.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/user/api/android/getAnonUid?updatePriority=false&deviceLanguage=en&localization=en&eadeviceid=adbd92ede59e85bdefd47c059468fdbf71041584b80da9757a6ec05f1522620c&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en&apiVer=1.0.0"
+    }, 
+    "a62d2ab1-f7ef-41e2-b006-e43928c7d341": {
+        "ad": 0, 
+        "dst_ip": "107.178.253.2", 
+        "dst_port": 80, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "accept-language": "en", 
+            "connection": "Keep-Alive", 
+            "date": "Sat, 24 Feb 2018 00:43:18 GMT+00:00", 
+            "host": "terms.chillingoservers.com", 
+            "user-agent": "Restlet-Framework/2.3.5"
+        }, 
+        "host": "terms.chillingoservers.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/getLatest/unknown/0/terms-3.1-178%2Ctermsapi-1.3/com.ea.game.pvzfree_row/Android/false/0/ageSensitive"
+    }, 
+    "a6893b0f-002f-4c14-818e-41cc1166bbca": {
+        "ad": 0, 
+        "dst_ip": "34.230.131.240", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Post_Level?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=3&TimeSinceAd=202&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=4&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "ace84c0c-854a-44d3-9969-5cddff491b2b": {
+        "ad": 1, 
+        "dst_ip": "149.174.66.136", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "97", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "b15d0917-1374-4fa3-85a9-4a5f7fd18ef5": {
+        "ad": 1, 
+        "dst_ip": "149.174.66.136", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "97", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "b97bf582-5abb-4035-9cd9-88b77f17a4ce": {
+        "ad": 0, 
+        "dst_ip": "34.230.131.240", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Pre_Level?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=2&TimeSinceAd=15&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=3&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "b9a602ef-f96a-45ba-9cfd-6505185e7203": {
+        "ad": 0, 
+        "dst_ip": "52.205.229.5", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "969", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "mars.tnt-ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "mars.tnt-ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID", 
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/s2s/api/core/postEvents?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en&apiVer=1.0.0"
+    }, 
+    "baf350e7-2056-4f8c-92b9-f30e8638946a": {
+        "ad": 1, 
+        "dst_ip": "149.174.66.136", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "97", 
+            "content-type": "application/json", 
+            "host": "ads.nexage.com", 
+            "user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MMB29X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36"
+        }, 
+        "host": "ads.nexage.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/admax/sdk/handshake/1"
+    }, 
+    "c64d0092-f73d-4bdc-b2ff-e52655dbfdaa": {
+        "ad": 0, 
+        "dst_ip": "52.206.238.103", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Pre_Level/?AgeVerified=TRUE&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=0&TimeSinceAd=59&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=0&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "c76367f6-1cbc-43f9-b57f-74d45e6c615f": {
+        "ad": 0, 
+        "dst_ip": "72.21.81.42", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "static-www.ecs.popcap.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "static-www.ecs.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/mobile_interstitials/Hit_Point/PvZ/BJS_SignPost_GPIconV1.png"
+    }, 
+    "ce6100ca-2131-4936-9ecd-30636ce46824": {
+        "ad": 0, 
+        "dst_ip": "52.70.250.119", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "m2u.sn.eamobile.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "m2u.sn.eamobile.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/m2u/api/core/getMessage?deviceLanguage=en&localization=en&sellId=868476&uid=11308742505&appVer=2.1.00&language=en&hwId=13264&deviceLocale=en_US&appLang=en&type=4&apiVer=1.0.1"
+    }, 
+    "d10797de-b21e-4424-a179-dad0e0b9a973": {
+        "ad": 0, 
+        "dst_ip": "34.230.131.240", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Pre_Level/?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=2&TimeSinceAd=15&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=3&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "d2998c0d-cdce-418b-85dc-7e52f8c9bea5": {
+        "ad": 0, 
+        "dst_ip": "34.207.18.92", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "696", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "d4e6c12a-d903-4e31-8c1f-b2e78a3b53e6": {
+        "ad": 0, 
+        "dst_ip": "52.72.180.172", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-type": "application/json", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "host": "user.sn.eamobile.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "user.sn.eamobile.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/user/api/android/getDeviceID?androidId=xxxxxxxxxxxxxxxx&deviceLanguage=en&localization=en&macHash=c248c629af1fe0a8c46b95668064c1d2952a9e91d207bc0cc3c5d584c2f7553a&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en&apiVer=1.0.0"
+    }, 
+    "d93e73ff-f99a-4965-9315-33ece770798d": {
+        "ad": 0, 
+        "dst_ip": "52.72.167.250", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-type": "application/json", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "host": "syn-dir.sn.eamobile.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "syn-dir.sn.eamobile.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/director/api/android/getDirectionByPackage?localization=en-US&serverEnvironment=live&fingerprint=google%2Fshamu%2Fshamu%3A6.0.1%2FMMB29X%2F2704508%3Auser%2Frelease-keys&deviceLocale=en_US&appLang=en&apiVer=1.0.0&packageId=com.ea.game.pvzfree_row&deviceCodename=shamu&deviceLanguage=en&sdkVersion=1.23.8.1124&brand=google&appVer=2.1.00&manufacturer=motorola&deviceString=motorolaNexus+6&model=Nexus+6"
+    }, 
+    "d97ba4b7-7e27-4eb1-a675-478990bebebb": {
+        "ad": 0, 
+        "dst_ip": "34.198.139.205", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "14721", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "ddce7c1f-1282-4ad6-bfe4-53bc4744381c": {
+        "ad": 0, 
+        "dst_ip": "52.204.137.102", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-type": "application/json", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "host": "product.sn.eamobile.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "product.sn.eamobile.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/product/api/core/getAvailableItems?deviceLanguage=en&localization=en&masterSellId=868476&sdkVer=1.23.8.1124&langCode=en&uid=11308742505&appVer=2.1.00&hwId=13264&typeSubstr=1&deviceLocale=en_US&appLang=en&apiVer=1.0.0&ver=2.1.00"
+    }, 
+    "e47f09ae-d275-4d90-a515-14fbc7fd10dc": {
+        "ad": 0, 
+        "dst_ip": "34.198.139.205", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-length": "14721", 
+            "content-type": "application/json", 
+            "ea-sell-id": "868476", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "eam-user-id": "11308742505", 
+            "host": "river-mobile.data.ea.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "river-mobile.data.ea.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/tracking/api/core/logEvent?deviceLanguage=en&localization=en&appVer=2.1.00&hwId=13264&deviceLocale=en_US&appLang=en"
+    }, 
+    "efd82834-b3e5-4c38-825f-fcab55e1d02f": {
+        "ad": 0, 
+        "dst_ip": "34.230.131.240", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Pre_Level/?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=2&TimeSinceAd=15&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=3&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "f164bae3-b949-4e32-8eb3-59956e6b5dd8": {
+        "ad": 0, 
+        "dst_ip": "52.7.106.95", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "797", 
+            "content-type": "application/json", 
+            "host": "outcome.supersonicads.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "outcome.supersonicads.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID", 
+            "Advertiser ID"
+        ], 
+        "uri": "/mediation/"
+    }, 
+    "f716cd43-00a8-429e-9812-96ec46d89edd": {
+        "ad": 0, 
+        "dst_ip": "34.230.131.240", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Post_Level?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=2&TimeSinceAd=93&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=3&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "f7fbb553-8b59-439d-8eef-6ccf7159ff44": {
+        "ad": 0, 
+        "dst_ip": "34.192.68.138", 
+        "dst_port": 443, 
+        "headers": {
+            "accept": "application/json", 
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "11", 
+            "content-type": "application/json", 
+            "host": "943.engine.mobileapptracking.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "943.engine.mobileapptracking.com", 
+        "method": "POST", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/serve?ver=3.11.4&transaction_id=3dc13a58-95cd-4317-a5a0-c85fa65ac0d6&sdk_retry_attempt=0&sdk=android&action=session&advertiser_id=943&package_name=com.ea.game.pvzfree_row&data=a3f117239540d0ff87397742b5771934b18848857fa5c6e21fdd7576507679d0af0d0a44c9d8f228ad2b11b927cbbad04c12fba64ff433c8c142797a5726bfe6193a04703157386812db70cd35618a501a4abf446847a0a6593286b9dd35b2663791a66c2fd61eb510e5f8189847c8a3824636a74cb3d416e52102606cd343a793ca734aeb0511a4ce6f15616364c15e28ea7a80c26e9b961cc903f7851c005ab126de2e4a094adbb644c6fda037d684d5a2798e728661ad5da589a0520b3d389d5700f746143511e833a40c05dea23b28d0f5744c5d6f26a922c6c3fdf4b8a3028708ea6ef4c36f055279ac8fcda81e93964ef25e78a8bdc58a426f4b7492164942df2ac4a73b7b5743754ff174ea53cfe9414916489adf47d078629272750358b4f7faf902ab5d29b06ae16aa689724b94cdef4e6e04d31aa5679a1dbc1a42609c84a5af5f466eaaa2033f4f0252ec084209ff72ffa35d7df078d86e1aa2e33f8539815ee79b790dc410ea9e946b9f4df01084fe4e41cddde2065299f9d332bbac0ff6b4afdfacd631432cccc184a8df6c444e9e316bf495e09b55fbeba7573bafa3850afe90e437fd241f6b418b84f44c97edaaf4d70e784a1911e6a0b8235a501d4c7f3feb6f05115c6d5754d69909fa68ca98ee91e2c8c6a8ac95026b0b74d1aa93f9732dc1059d7a451bf47f881bb8a72f77a907358f4d4dfc678fc3599cd0dfeaf658435024c2f190162a67fb8cd27ec59f7c0efd0b8af71832c09eea85ab35b5fe76f89fa9c036e57fc1ad92a3bd835d809bc02c764776b152d344b1"
+    }, 
+    "f81a378d-c16d-4ba1-8dfc-acfe896b4f61": {
+        "ad": 0, 
+        "dst_ip": "216.58.216.46", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "app": "com.google.android.gms", 
+            "connection": "Keep-Alive", 
+            "content-length": "605", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "device": "37f6640877554f52", 
+            "host": "android.clients.google.com", 
+            "user-agent": "GoogleAuth/1.4 (shamu MMB29X); gzip"
+        }, 
+        "host": "android.clients.google.com", 
+        "method": "POST", 
+        "package_name": "com.google.android.gms", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "11.9.75 (430-182402865)", 
+        "pii_types": [], 
+        "uri": "/auth"
+    }, 
+    "f9eaefb3-505c-4f46-8319-189071c6fe6a": {
+        "ad": 0, 
+        "dst_ip": "34.230.131.240", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Pre_Level?AgeVerified=TRUE&CoinBalance=200&Country=US&Currency=USD&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=2&TimeSinceAd=15&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=3&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "fa5067b8-dbe5-4ccf-ae27-65ccb62f9598": {
+        "ad": 0, 
+        "dst_ip": "216.58.193.212", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "host": "rs-amz-tetris11.appspot.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "rs-amz-tetris11.appspot.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/api/pvz/get/version/android"
+    }, 
+    "fabca604-e006-4e14-80ea-d447380b2aa0": {
+        "ad": 0, 
+        "dst_ip": "54.88.30.134", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip,deflate", 
+            "connection": "Keep-Alive", 
+            "host": "draper.popcap.com", 
+            "user-agent": "Apache-HttpClient/UNAVAILABLE (Java/0)"
+        }, 
+        "host": "draper.popcap.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [
+            "Device ID"
+        ], 
+        "uri": "/2/plants-vs-zombies-free/android/en/Session_Start?AgeVerified=TRUE&Country=US&Currency=&DaysSinceInstall=0&HD_Device=FALSE&HasNoAds=FALSE&HighLvl=0&TimeSinceAd=0&TotPrch=0&build=2.1.00&gameMode=Adventure&gamesSinceSessionStart=0&monetized=FALSE&uuid=xxxxxxxxxxxxxxxx"
+    }, 
+    "fc491d65-301d-4bc5-9480-df9b78bec55c": {
+        "ad": 0, 
+        "dst_ip": "52.204.137.102", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "close", 
+            "content-type": "application/json", 
+            "eam-session": "df12ff0daed24e969aba319528ad61ff", 
+            "host": "product.sn.eamobile.com", 
+            "sdk-type": "Nimble", 
+            "sdk-version": "1.23.8.1124", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MMB29X)"
+        }, 
+        "host": "product.sn.eamobile.com", 
+        "method": "GET", 
+        "package_name": "com.ea.game.pvzfree_row", 
+        "package_responsible": "com.ea.game.pvzfree", 
+        "package_version": "2.1.00", 
+        "pii_types": [], 
+        "uri": "/product/api/core/getAvailableItems?deviceLanguage=en&localization=en&masterSellId=868476&sdkVer=1.23.8.1124&langCode=en&uid=11308742505&appVer=2.1.00&hwId=13264&typeSubstr=1&deviceLocale=en_US&appLang=en&apiVer=1.0.0&ver=2.1.00"
+    }
+}

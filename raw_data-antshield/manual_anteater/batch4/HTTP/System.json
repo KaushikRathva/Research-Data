@@ -1,0 +1,53 @@
+{
+    "1489182367736,af65cd2d-b40e-4a64-9d98-e9f24b5e8026": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "System", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "5\n\u00005\u0000%b:b:\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0002s0\u00042mdn\u0003net\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 13578, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489182367736"
+    }, 
+    "1489183001672,32cff93b-cd1a-467c-af8b-d6d5081110b9": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "System", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "\u0018^\u00005\u0000.\u0010H\"&\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\tabtesting\u0006intuit\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 6238, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489183001672"
+    }, 
+    "1489183411127,4d8cdc52-a564-4899-b410-107102ece7e7": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "System", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "\u0005&\u00005\u0000+XbLM\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0005files\u0007acompli\u0003net\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 1318, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489183411127"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "1489340113827,53155408-e5bb-4cee-818a-f6241a41aa52": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "bY\u00005\u0000%[X!}\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0001s\u0005fqtag\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 25177, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489340113827"
+    }, 
+    "1489340542419,6d4aa4b9-9b56-4316-987e-cbf1e786858e": {
+        "domain": "", 
+        "dst_ip": "8.8.8.8", 
+        "dst_port": 53, 
+        "is_foreground": false, 
+        "label": 0, 
+        "package_name": "No mapping_ entry not found", 
+        "package_version": "", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "G\u0003\u00005\u00008B?M.\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0010bi-app-analytics\ttuanguwen\u0003com\u0000\u0000\u0001\u0000\u0001", 
+        "protocol": "UDP", 
+        "scr_port": 18179, 
+        "src_ip": "192.168.0.2", 
+        "tk_flag": null, 
+        "ts": "1489340542419"
+    }
+}

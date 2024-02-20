@@ -1,0 +1,70 @@
+{
+    "1489464443320,6c5d8f7a-3874-4498-9297-a9d49a4a9fa8": {
+        "domain": "", 
+        "dst_ip": "54.153.67.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "204", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "stats.unity3d.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)", 
+            "x-unity-version": "5.3.5f1"
+        }, 
+        "host": "stats.unity3d.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 1, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.pixelmongo.pocket", 
+        "package_version": "1.3", 
+        "pii_types": [
+            "AdvertiserId"
+        ], 
+        "platform": "android", 
+        "post_body": "&adId=RECON_AdvertiserId&limitAdTracking=1&lang=en&unity=5.3.5f1&os=Android OS 7.0 / API-24 (NBD91Y/3578881)&appId=com.pixelmongo.pocket&uuid=6c9fb0a42e04a0f7b40040571d40bbf8&platform=11", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 49787, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489464443320", 
+        "uri": "/HWStatsUpdate.cgi", 
+        "user_agent": null
+    }, 
+    "1489464443393,96a7b4c6-0fe5-4d53-a61a-4168a01170b5": {
+        "domain": "", 
+        "dst_ip": "54.153.67.50", 
+        "dst_port": 443, 
+        "headers": {
+            "accept-encoding": "gzip", 
+            "connection": "Keep-Alive", 
+            "content-length": "467", 
+            "content-type": "application/x-www-form-urlencoded", 
+            "host": "stats.unity3d.com", 
+            "user-agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91Y)", 
+            "x-unity-version": "5.3.5f1"
+        }, 
+        "host": "stats.unity3d.com", 
+        "is_foreground": true, 
+        "is_host_ip": 0, 
+        "label": 0, 
+        "md5": null, 
+        "method": "POST", 
+        "package_name": "com.pixelmongo.pocket", 
+        "package_version": "1.3", 
+        "pii_types": null, 
+        "platform": "android", 
+        "post_body": "os=Android+OS+API-24&cpu=ARMv7+VFPv3+NEON&gfxname=Adreno+(TM)+420&gfxvendor=Qualcomm&gfxversion=OpenGL+ES+3.2&gfxdriver=V%40145.0+(GIT%40I409c65498b)&gfxshader=50&gfxapi=11&gfxtex=1017&gfxrt=255&gfxflags=15551&cpucount=4&cpufreq=2649&ram=2970&vram=1024&screen=2560+x+1440&dpi=560&platform=11&flags=50333761&hash=eb6b2603db7c328b1fbe713db882adf9&appId=com.pixelmongo.pocket&uuid=6c9fb0a42e04a0f7b40040571d40bbf8&model=motorola/Nexus 6/shamu&unity=5.3.5f1&build=5.3.5f1", 
+        "protocol": "HTTPS", 
+        "referrer": null, 
+        "scr_port": 49788, 
+        "src_ip": "-", 
+        "tk_flag": null, 
+        "ts": "1489464443393", 
+        "uri": "/HWStats.cgi", 
+        "user_agent": null
+    }
+}
